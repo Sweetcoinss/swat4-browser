@@ -1,0 +1,980 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\Scripting.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 393,
+  "imports": 80,
+  "exports": 906,
+  "classes": 59,
+  "functions": 206,
+  "states": 2,
+  "properties": 514,
+  "enums": 2,
+  "structs": 1,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "Variable",
+      "path": "Variable",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "truth",
+        "not",
+        "or",
+        "and",
+        "greater",
+        "greaterEqual",
+        "notEqual",
+        "equal",
+        "lessEqual",
+        "less",
+        "divide",
+        "multiply",
+        "subtract",
+        "Add",
+        "construct_Script",
+        "logError",
+        "findVariable",
+        "nativeClassToVariableClass",
+        "variableClassToNativeClass",
+        "bestVariableClass"
+      ],
+      "states": [],
+      "properties": [
+        "ownerScript"
+      ]
+    },
+    {
+      "name": "Action",
+      "path": "Action",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString",
+        "setParentScript",
+        "SetActionPropertyText",
+        "enumScripts",
+        "enumScriptLabels",
+        "propertyDisplayString",
+        "tryFindVariable",
+        "findVariable",
+        "newTemporaryVariable",
+        "newVariable",
+        "findStaticByLabel",
+        "findByLabel",
+        "logError",
+        "resolveParameters",
+        "Construct_Void"
+      ],
+      "states": [],
+      "properties": [
+        "parentScript",
+        "resolveInfoList",
+        "actionDisplayName",
+        "acceptAllTypes",
+        "category",
+        "returnType",
+        "actionHelp"
+      ]
+    },
+    {
+      "name": "Script",
+      "path": "Script",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay",
+        "SetInitialState",
+        "Timer",
+        "findVariable",
+        "newVariable",
+        "newTemporaryVariable",
+        "addWatcher",
+        "setWatcherEnabled",
+        "Exit",
+        "continueExecution",
+        "enterLoop",
+        "keepLooping",
+        "exitLoop",
+        "onMessage",
+        "triggeringMessage",
+        "execute",
+        "executeScriptFromScriptAction",
+        "executeActions",
+        "destroyTempVariables",
+        "enumValidMessages",
+        "editorDisplayMessage",
+        "editorDisplayFilter"
+      ],
+      "states": [
+        "ExecuteScript"
+      ],
+      "properties": [
+        "variables",
+        "currentMessage",
+        "bExitScript",
+        "watchers",
+        "MessageClass",
+        "Actions",
+        "messageQueue",
+        "messageFilter",
+        "bIsExecuting",
+        "bExitLoop",
+        "Enabled",
+        "tempVariables",
+        "CampaignObjectiveSpecific",
+        "DisabledInMP"
+      ]
+    },
+    {
+      "name": "VariableBool",
+      "path": "VariableBool",
+      "super": "Variable",
+      "outer": "None",
+      "functions": [
+        "Add",
+        "subtract",
+        "multiply",
+        "divide",
+        "less",
+        "lessEqual",
+        "equal",
+        "notEqual",
+        "greaterEqual",
+        "greater",
+        "and",
+        "or",
+        "not",
+        "truth"
+      ],
+      "states": [],
+      "properties": [
+        "Value"
+      ]
+    },
+    {
+      "name": "ActionBool",
+      "path": "ActionBool",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "makeVariable"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WatcherBase",
+      "path": "WatcherBase",
+      "super": "Action",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "Enabled",
+        "watcherName"
+      ]
+    },
+    {
+      "name": "VariableFloat",
+      "path": "VariableFloat",
+      "super": "Variable",
+      "outer": "None",
+      "functions": [
+        "Add",
+        "subtract",
+        "multiply",
+        "divide",
+        "less",
+        "lessEqual",
+        "equal",
+        "notEqual",
+        "greaterEqual",
+        "greater",
+        "and",
+        "or",
+        "not",
+        "truth"
+      ],
+      "states": [],
+      "properties": [
+        "Value"
+      ]
+    },
+    {
+      "name": "ActionSetWatcherEnabled",
+      "path": "ActionSetWatcherEnabled",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "watcherName",
+        "Enabled",
+        "scriptName"
+      ]
+    },
+    {
+      "name": "ActionExecuteScript",
+      "path": "ActionExecuteScript",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "targetScript",
+        "block"
+      ]
+    },
+    {
+      "name": "VariableName",
+      "path": "VariableName",
+      "super": "Variable",
+      "outer": "None",
+      "functions": [
+        "Add",
+        "subtract",
+        "multiply",
+        "divide",
+        "less",
+        "lessEqual",
+        "equal",
+        "notEqual",
+        "greaterEqual",
+        "greater",
+        "and",
+        "or",
+        "not",
+        "truth"
+      ],
+      "states": [],
+      "properties": [
+        "Value"
+      ]
+    },
+    {
+      "name": "MessageTimerExpired",
+      "path": "MessageTimerExpired",
+      "super": "Engine.Message",
+      "outer": "None",
+      "functions": [
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MessageWatcher",
+      "path": "MessageWatcher",
+      "super": "Engine.Message",
+      "outer": "None",
+      "functions": [
+        "construct_NameName",
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": [
+        "watcherName",
+        "scriptName"
+      ]
+    },
+    {
+      "name": "ActionPropertyTest",
+      "path": "ActionPropertyTest",
+      "super": "ActionBool",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString",
+        "getOperatorText",
+        "findTestProperty",
+        "doPropertyTest"
+      ],
+      "states": [],
+      "properties": [
+        "maxPasses",
+        "opTest",
+        "testProperty",
+        "Value",
+        "propertyPath",
+        "Label",
+        "actorClass",
+        "offsets"
+      ]
+    },
+    {
+      "name": "BooleanStatement",
+      "path": "BooleanStatement",
+      "super": "ActionBool",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "logicOpDisplayString",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "rhs",
+        "lhs",
+        "logicOp"
+      ]
+    },
+    {
+      "name": "Watcher",
+      "path": "Watcher",
+      "super": "WatcherBase",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [
+        "LookAtExpression"
+      ],
+      "properties": [
+        "watchedExpression"
+      ]
+    },
+    {
+      "name": "TruthStatement",
+      "path": "TruthStatement",
+      "super": "ActionBool",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "Value"
+      ]
+    },
+    {
+      "name": "OrStatement",
+      "path": "OrStatement",
+      "super": "ActionBool",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "lhs",
+        "rhs"
+      ]
+    },
+    {
+      "name": "NotStatement",
+      "path": "NotStatement",
+      "super": "ActionBool",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "rhs"
+      ]
+    },
+    {
+      "name": "AndStatement",
+      "path": "AndStatement",
+      "super": "ActionBool",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "lhs",
+        "rhs"
+      ]
+    },
+    {
+      "name": "ActionWait",
+      "path": "ActionWait",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "Seconds"
+      ]
+    },
+    {
+      "name": "ActionVariableSubtract",
+      "path": "ActionVariableSubtract",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "lhs",
+        "rhs"
+      ]
+    },
+    {
+      "name": "ActionVariableMultiply",
+      "path": "ActionVariableMultiply",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "lhs",
+        "rhs"
+      ]
+    },
+    {
+      "name": "ActionVariableIncrement",
+      "path": "ActionVariableIncrement",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "Target"
+      ]
+    },
+    {
+      "name": "ActionVariableDivide",
+      "path": "ActionVariableDivide",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "lhs",
+        "rhs"
+      ]
+    },
+    {
+      "name": "ActionVariableDecrement",
+      "path": "ActionVariableDecrement",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "Target"
+      ]
+    },
+    {
+      "name": "ActionVariableAssignIfNotExist",
+      "path": "ActionVariableAssignIfNotExist",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "lhs",
+        "rhs"
+      ]
+    },
+    {
+      "name": "ActionVariableAssign",
+      "path": "ActionVariableAssign",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "lhs",
+        "rhs"
+      ]
+    },
+    {
+      "name": "ActionVariableAdd",
+      "path": "ActionVariableAdd",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "rhs",
+        "lhs"
+      ]
+    },
+    {
+      "name": "ActionUpdateHavokConstraintDetails",
+      "path": "ActionUpdateHavokConstraintDetails",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "Target"
+      ]
+    },
+    {
+      "name": "ActionTriggerMaterials",
+      "path": "ActionTriggerMaterials",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "Materials"
+      ]
+    },
+    {
+      "name": "ActionStopTimer",
+      "path": "ActionStopTimer",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "scriptLabel"
+      ]
+    },
+    {
+      "name": "ActionStopEffect",
+      "path": "ActionStopEffect",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "actorLabel",
+        "EffectEvent"
+      ]
+    },
+    {
+      "name": "ActionStartTimer",
+      "path": "ActionStartTimer",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "Seconds"
+      ]
+    },
+    {
+      "name": "ActionSetProperty",
+      "path": "ActionSetProperty",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString",
+        "enumObjectProperties"
+      ],
+      "states": [],
+      "properties": [
+        "Object",
+        "NewValue",
+        "Property"
+      ]
+    },
+    {
+      "name": "ActionSetMaterialSwitchIndex",
+      "path": "ActionSetMaterialSwitchIndex",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "Material",
+        "Index"
+      ]
+    },
+    {
+      "name": "ActionScriptNote",
+      "path": "ActionScriptNote",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "Note"
+      ]
+    },
+    {
+      "name": "ActionRandomNumber",
+      "path": "ActionRandomNumber",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "minimum",
+        "maximum"
+      ]
+    },
+    {
+      "name": "ActionPlayEffect",
+      "path": "ActionPlayEffect",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "actorLabel",
+        "EffectEvent"
+      ]
+    },
+    {
+      "name": "ActionOpenMenu",
+      "path": "ActionOpenMenu",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": [
+        "param3",
+        "Param2",
+        "Param1",
+        "Menu"
+      ]
+    },
+    {
+      "name": "ActionNonBlockingExecuteScript",
+      "path": "ActionNonBlockingExecuteScript",
+      "super": "ActionExecuteScript",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ActionLoop",
+      "path": "ActionLoop",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute",
+        "setParentScript"
+      ],
+      "states": [],
+      "properties": [
+        "loopActions"
+      ]
+    },
+    {
+      "name": "ActionLog",
+      "path": "ActionLog",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "Text"
+      ]
+    },
+    {
+      "name": "ActionKillAll",
+      "path": "ActionKillAll",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ActionKill",
+      "path": "ActionKill",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "Target"
+      ]
+    },
+    {
+      "name": "ActionIf",
+      "path": "ActionIf",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute",
+        "setParentScript"
+      ],
+      "states": [],
+      "properties": [
+        "elseActions",
+        "trueActions",
+        "testsOr"
+      ]
+    },
+    {
+      "name": "ActionGetProperty",
+      "path": "ActionGetProperty",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "enumObjectProperties",
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "Object",
+        "Property"
+      ]
+    },
+    {
+      "name": "ActionFor",
+      "path": "ActionFor",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute",
+        "setParentScript"
+      ],
+      "states": [],
+      "properties": [
+        "forActions",
+        "counterName",
+        "beginValue",
+        "endValue"
+      ]
+    },
+    {
+      "name": "ActionExitScript",
+      "path": "ActionExitScript",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "targetScript"
+      ]
+    },
+    {
+      "name": "ActionExitLoop",
+      "path": "ActionExitLoop",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ActionEnableWatcher",
+      "path": "ActionEnableWatcher",
+      "super": "ActionSetWatcherEnabled",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ActionDisableWatcher",
+      "path": "ActionDisableWatcher",
+      "super": "ActionSetWatcherEnabled",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ActionDestroyActor",
+      "path": "ActionDestroyActor",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "Target"
+      ]
+    },
+    {
+      "name": "ActionDealDamage",
+      "path": "ActionDealDamage",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "Target",
+        "DamageAmount"
+      ]
+    },
+    {
+      "name": "ActionCreateWatcher",
+      "path": "ActionCreateWatcher",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "newWatcher"
+      ]
+    },
+    {
+      "name": "ActionCinematicFadeView",
+      "path": "ActionCinematicFadeView",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "fadeStart",
+        "fadeEnd",
+        "StartTime",
+        "Duration",
+        "holdDuration",
+        "fadeAlphaStart",
+        "fadeAlphaEnd",
+        "bRestoreFadeControl"
+      ]
+    },
+    {
+      "name": "ActionCinematicExit",
+      "path": "ActionCinematicExit",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "cinematicExit",
+        "execute"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ActionCinematicEnter",
+      "path": "ActionCinematicEnter",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "cinematicEnter",
+        "execute"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ActionChangeLevel",
+      "path": "ActionChangeLevel",
+      "super": "Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "MapName",
+        "persist",
+        "bShowLoadingMessage"
+      ]
+    },
+    {
+      "name": "ActionBlockingExecuteScript",
+      "path": "ActionBlockingExecuteScript",
+      "super": "ActionExecuteScript",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "System\\Scripting.u"
+}

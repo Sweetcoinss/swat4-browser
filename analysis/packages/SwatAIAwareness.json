@@ -1,0 +1,71 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\SwatAIAwareness.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 76,
+  "imports": 24,
+  "exports": 74,
+  "classes": 3,
+  "functions": 20,
+  "states": 0,
+  "properties": 44,
+  "enums": 0,
+  "structs": 1,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "AwarenessProxy",
+      "path": "AwarenessProxy",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "Init",
+        "Term",
+        "ForceViewerSawPawn",
+        "GetKnowledge",
+        "GetPotentiallyVisibleKnowledge",
+        "GetVisibleKnowledge",
+        "DrawDebugInfo",
+        "OnViewerSawPawn",
+        "OnViewerLostPawn",
+        "OnListenerHeardNoise",
+        "OnOtherActorDestroyed",
+        "OnOtherPawnDied"
+      ],
+      "states": [],
+      "properties": [
+        "m_implPadding"
+      ]
+    },
+    {
+      "name": "IAwarenessOuter",
+      "path": "IAwarenessOuter",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "RegisterVisionNotification",
+        "UnregisterVisionNotification",
+        "RegisterHearingNotification",
+        "UnregisterHearingNotification",
+        "IsOtherActorAThreat",
+        "GetKnownLocationOfPawn"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AwarenessFactory",
+      "path": "AwarenessFactory",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "CreateAwarenessForMultiplePawns",
+        "CreateAwarenessForPawn"
+      ],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "System\\SwatAIAwareness.u"
+}

@@ -1,0 +1,7 @@
+[Public]
+Preferences=(Caption="Servidor web",Parent="Conectando",Class=UWeb.WebServer)
+
+[WebServer]
+ClassCaption="Servidor web"
+
+

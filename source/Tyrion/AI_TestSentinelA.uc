@@ -1,0 +1,1 @@
+class AI_TestSentinelA extends AI_PeriodicSensor;

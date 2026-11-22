@@ -1,0 +1,784 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\Classes\\SwatEquipmentModels.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 547,
+  "imports": 130,
+  "exports": 105,
+  "classes": 85,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "Detonator_ThirdPerson",
+      "path": "Detonator_ThirdPerson",
+      "super": "Engine.HandheldEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MPDetonator_FirstPerson",
+      "path": "MPDetonator_FirstPerson",
+      "super": "Engine.HandheldEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MPDetonator_ThirdPerson",
+      "path": "MPDetonator_ThirdPerson",
+      "super": "Engine.HandheldEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pepperspray_FirstPerson",
+      "path": "Pepperspray_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pepperspray_ThirdPerson",
+      "path": "Pepperspray_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Optiwand_FirstPerson",
+      "path": "Optiwand_FirstPerson",
+      "super": "Engine.HandheldEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Optiwand_ThirdPerson",
+      "path": "Optiwand_ThirdPerson",
+      "super": "Engine.HandheldEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "G36K_FirstPerson",
+      "path": "G36K_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "G36k_ThirdPerson",
+      "path": "G36k_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NineMMpistol_FirstPerson",
+      "path": "NineMMpistol_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NineMMpistol_ThirdPerson",
+      "path": "NineMMpistol_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HK53_ThirdPerson",
+      "path": "HK53_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "IAmCuffed_ThirdPerson",
+      "path": "IAmCuffed_ThirdPerson",
+      "super": "Engine.HandheldEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MPIAmCuffed_ThirdPerson",
+      "path": "MPIAmCuffed_ThirdPerson",
+      "super": "Engine.HandheldEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Ingram_ThirdPerson",
+      "path": "Ingram_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FlashbangGrenade_FirstPerson",
+      "path": "FlashbangGrenade_FirstPerson",
+      "super": "SwatEquipment.ThrownWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FlashbangGrenade_ThirdPerson",
+      "path": "FlashbangGrenade_ThirdPerson",
+      "super": "SwatEquipment.ThrownWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4super90_ThirdPerson",
+      "path": "M4super90_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4A1_FirstPerson",
+      "path": "M4A1_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4A1_ThirdPerson",
+      "path": "M4A1_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4_ThirdPerson",
+      "path": "M4_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4Super90_FirstPerson",
+      "path": "M4Super90_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MP5_FirstPerson",
+      "path": "MP5_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MP5_ThirdPerson",
+      "path": "MP5_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NovaPump_FirstPerson",
+      "path": "NovaPump_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NovaPump_ThirdPerson",
+      "path": "NovaPump_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ColtM1911_FirstPerson",
+      "path": "ColtM1911_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ColtM1911_ThirdPerson",
+      "path": "ColtM1911_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pump1_ThirdPerson",
+      "path": "Pump1_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pump2RifleGrip_ThirdPerson",
+      "path": "Pump2RifleGrip_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Detonator_FirstPerson",
+      "path": "Detonator_FirstPerson",
+      "super": "Engine.HandheldEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Scorpion_ThirdPerson",
+      "path": "Scorpion_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilencedMP5_FirstPerson",
+      "path": "SilencedMP5_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilencedMP5_ThirdPerson",
+      "path": "SilencedMP5_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BreachingShotgun_FirstPerson",
+      "path": "BreachingShotgun_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BreachingShotgun_ThirdPerson",
+      "path": "BreachingShotgun_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadGuyUMP_ThirdPerson",
+      "path": "BadGuyUMP_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguySilencedMP5_ThirdPerson",
+      "path": "BadguySilencedMP5_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguyMP5_ThirdPerson",
+      "path": "BadguyMP5_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguyM4super90_ThirdPerson",
+      "path": "BadguyM4super90_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguyG36k_ThirdPerson",
+      "path": "BadguyG36k_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguyColtM1911_ThirdPerson",
+      "path": "BadguyColtM1911_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK74su_ThirdPerson",
+      "path": "AK74su_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK74_ThirdPerson",
+      "path": "AK74_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK47_FirstPerson",
+      "path": "AK47_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK47_ThirdPerson",
+      "path": "AK47_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPgrenade_FirstPerson",
+      "path": "VIPgrenade_FirstPerson",
+      "super": "SwatEquipment.ThrownWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPgrenade_ThirdPerson",
+      "path": "VIPgrenade_ThirdPerson",
+      "super": "SwatEquipment.ThrownWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPgun_FirstPerson",
+      "path": "VIPgun_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPgun_ThirdPerson",
+      "path": "VIPgun_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Uzi_FirstPerson",
+      "path": "Uzi_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UZI_ThirdPerson",
+      "path": "UZI_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "USP40_ThirdPerson",
+      "path": "USP40_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UMP45_FirstPerson",
+      "path": "UMP45_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UMP45_ThirdPerson",
+      "path": "UMP45_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StingGrenade_FirstPerson",
+      "path": "StingGrenade_FirstPerson",
+      "super": "SwatEquipment.ThrownWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StingGrenade_ThirdPerson",
+      "path": "StingGrenade_ThirdPerson",
+      "super": "SwatEquipment.ThrownWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Toolkit_FirstPerson",
+      "path": "Toolkit_FirstPerson",
+      "super": "Engine.QualifiedUseEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Toolkit_ThirdPerson",
+      "path": "Toolkit_ThirdPerson",
+      "super": "Engine.QualifiedUseEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Wedge_FirstPerson",
+      "path": "Wedge_FirstPerson",
+      "super": "Engine.QualifiedUseEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Wedge_ThirdPerson",
+      "path": "Wedge_ThirdPerson",
+      "super": "Engine.QualifiedUseEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NonLethalShotgun_ThirdPerson",
+      "path": "NonLethalShotgun_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NonLethalShotgun_FirstPerson",
+      "path": "NonLethalShotgun_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "mpC2charge_ThirdPerson",
+      "path": "mpC2charge_ThirdPerson",
+      "super": "Engine.QualifiedUseEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "C2charge_ThirdPerson",
+      "path": "C2charge_ThirdPerson",
+      "super": "Engine.QualifiedUseEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "C2charge_FirstPerson",
+      "path": "C2charge_FirstPerson",
+      "super": "Engine.QualifiedUseEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Handcuffs_ThirdPerson",
+      "path": "Handcuffs_ThirdPerson",
+      "super": "Engine.QualifiedUseEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Handcuffs_FirstPerson",
+      "path": "Handcuffs_FirstPerson",
+      "super": "Engine.QualifiedUseEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Paintball_ThirdPerson",
+      "path": "Paintball_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Paintball_FirstPerson",
+      "path": "Paintball_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Taser_ThirdPerson",
+      "path": "Taser_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Taser_FirstPerson",
+      "path": "Taser_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PythonRevolver_ThirdPerson",
+      "path": "PythonRevolver_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PythonRevolver_FirstPerson",
+      "path": "PythonRevolver_FirstPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSgasGrenade_ThirdPerson",
+      "path": "CSgasGrenade_ThirdPerson",
+      "super": "SwatEquipment.ThrownWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSgasGrenade_FirstPerson",
+      "path": "CSgasGrenade_FirstPerson",
+      "super": "SwatEquipment.ThrownWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BerettaM9_ThirdPerson",
+      "path": "BerettaM9_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DynamicFlashlightCoronaLight",
+      "path": "DynamicFlashlightCoronaLight",
+      "super": "SwatGame.DynamicFlashlightLight",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DynamicFlashlightPointLight",
+      "path": "DynamicFlashlightPointLight",
+      "super": "SwatGame.DynamicFlashlightLight",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SawedOff_ThirdPerson",
+      "path": "SawedOff_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DynamicFlashlightSpotLight",
+      "path": "DynamicFlashlightSpotLight",
+      "super": "SwatGame.DynamicFlashlightLight",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SR25_ThirdPerson",
+      "path": "SR25_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FragGrenade_FirstPerson",
+      "path": "FragGrenade_FirstPerson",
+      "super": "SwatEquipment.ThrownWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FragGrenade_ThirdPerson",
+      "path": "FragGrenade_ThirdPerson",
+      "super": "SwatEquipment.ThrownWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M1Super90_ThirdPerson",
+      "path": "M1Super90_ThirdPerson",
+      "super": "Engine.FiredWeaponModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "Classes\\SwatEquipmentModels.u"
+}

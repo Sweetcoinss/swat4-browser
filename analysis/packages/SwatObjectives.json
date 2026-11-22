@@ -1,0 +1,299 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\SwatObjectives.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 155,
+  "imports": 73,
+  "exports": 264,
+  "classes": 18,
+  "functions": 78,
+  "states": 0,
+  "properties": 132,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "Do_ArrestTargetEnemies",
+      "path": "Do_ArrestTargetEnemies",
+      "super": "SwatGame.Objective_Do",
+      "outer": "None",
+      "functions": [
+        "OnPawnArrested",
+        "OnPawnIncapacitated",
+        "OnPawnDied",
+        "OnGameStarted",
+        "RemoveTarget",
+        "UnRegisterGameEventsHook",
+        "Initialize"
+      ],
+      "states": [],
+      "properties": [
+        "Targets",
+        "SpawnerGroup"
+      ]
+    },
+    {
+      "name": "Do_DisableTargetInanimates",
+      "path": "Do_DisableTargetInanimates",
+      "super": "SwatGame.Objective_Do",
+      "outer": "None",
+      "functions": [
+        "OnGameStarted",
+        "OnInanimateDisabled",
+        "RemoveTarget",
+        "Initialize",
+        "UnRegisterGameEventsHook"
+      ],
+      "states": [],
+      "properties": [
+        "Targets",
+        "SpawnerGroup"
+      ]
+    },
+    {
+      "name": "Do_NeutralizeTargetEnemies",
+      "path": "Do_NeutralizeTargetEnemies",
+      "super": "SwatGame.Objective_Do",
+      "outer": "None",
+      "functions": [
+        "OnPawnDied",
+        "OnPawnIncapacitated",
+        "OnPawnArrested",
+        "OnGameStarted",
+        "RemoveTarget",
+        "Initialize",
+        "UnRegisterGameEventsHook"
+      ],
+      "states": [],
+      "properties": [
+        "Targets",
+        "SpawnerGroup"
+      ]
+    },
+    {
+      "name": "Do_SecureTargetEvidence",
+      "path": "Do_SecureTargetEvidence",
+      "super": "SwatGame.Objective_Do",
+      "outer": "None",
+      "functions": [
+        "OnGameStarted",
+        "OnEvidenceSecured",
+        "RemoveTarget",
+        "Initialize",
+        "UnRegisterGameEventsHook"
+      ],
+      "states": [],
+      "properties": [
+        "Targets",
+        "SpawnerGroup"
+      ]
+    },
+    {
+      "name": "Do_RescueTargetHostages",
+      "path": "Do_RescueTargetHostages",
+      "super": "SwatGame.Objective_Do",
+      "outer": "None",
+      "functions": [
+        "OnPawnArrested",
+        "OnPawnDied",
+        "OnPawnIncapacitated",
+        "OnGameStarted",
+        "RemoveTarget",
+        "Initialize",
+        "UnRegisterGameEventsHook"
+      ],
+      "states": [],
+      "properties": [
+        "Targets",
+        "SpawnerGroup"
+      ]
+    },
+    {
+      "name": "Do_ReportTargetHostages",
+      "path": "Do_ReportTargetHostages",
+      "super": "SwatGame.Objective_Do",
+      "outer": "None",
+      "functions": [
+        "OnReportableReportedToTOC",
+        "OnPawnDied",
+        "OnGameStarted",
+        "RemoveTarget",
+        "Initialize",
+        "UnRegisterGameEventsHook"
+      ],
+      "states": [],
+      "properties": [
+        "Targets",
+        "SpawnerGroup"
+      ]
+    },
+    {
+      "name": "MessageTargetInanimateDisabled",
+      "path": "MessageTargetInanimateDisabled",
+      "super": "Engine.Message",
+      "outer": "None",
+      "functions": [
+        "construct_NameNameInt",
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": [
+        "RemainingTargetInanimates",
+        "Disabler",
+        "Objective"
+      ]
+    },
+    {
+      "name": "Do_RescueAllHostages",
+      "path": "Do_RescueAllHostages",
+      "super": "SwatGame.Objective_Do",
+      "outer": "None",
+      "functions": [
+        "OnPawnIncapacitated",
+        "OnPawnDied",
+        "OnPawnArrested",
+        "CheckComplete",
+        "Initialize",
+        "UnRegisterGameEventsHook",
+        "OnMissionStarted"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DoNot_LetOfficerGetInjured",
+      "path": "DoNot_LetOfficerGetInjured",
+      "super": "SwatGame.Objective_DoNot",
+      "outer": "None",
+      "functions": [
+        "OnPawnDamaged",
+        "UnRegisterGameEventsHook",
+        "Initialize"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DoNot_LetHostageDie",
+      "path": "DoNot_LetHostageDie",
+      "super": "SwatGame.Objective_DoNot",
+      "outer": "None",
+      "functions": [
+        "OnPawnDied",
+        "UnRegisterGameEventsHook",
+        "Initialize"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DoNot_LetOfficerDie",
+      "path": "DoNot_LetOfficerDie",
+      "super": "SwatGame.Objective_DoNot",
+      "outer": "None",
+      "functions": [
+        "OnPawnIncapacitated",
+        "UnRegisterGameEventsHook",
+        "Initialize"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DoNot_LetPlayerGetHurt",
+      "path": "DoNot_LetPlayerGetHurt",
+      "super": "SwatGame.Objective_DoNot",
+      "outer": "None",
+      "functions": [
+        "OnPawnDamaged",
+        "UnRegisterGameEventsHook",
+        "Initialize"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DoNot_LetEnemyDie",
+      "path": "DoNot_LetEnemyDie",
+      "super": "SwatGame.Objective_DoNot",
+      "outer": "None",
+      "functions": [
+        "OnPawnDied",
+        "UnRegisterGameEventsHook",
+        "Initialize"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DoNot_LetHostageGetIncapacitated",
+      "path": "DoNot_LetHostageGetIncapacitated",
+      "super": "SwatGame.Objective_DoNot",
+      "outer": "None",
+      "functions": [
+        "OnPawnIncapacitated",
+        "UnRegisterGameEventsHook",
+        "Initialize"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DoNot_LetTrainerDie",
+      "path": "DoNot_LetTrainerDie",
+      "super": "SwatGame.Objective_DoNot",
+      "outer": "None",
+      "functions": [
+        "OnPawnDied",
+        "UnRegisterGameEventsHook",
+        "Initialize"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DoNot_LetHostageGetInjured",
+      "path": "DoNot_LetHostageGetInjured",
+      "super": "SwatGame.Objective_DoNot",
+      "outer": "None",
+      "functions": [
+        "OnPawnDamaged",
+        "UnRegisterGameEventsHook",
+        "Initialize"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Do_NeutralizeAllEnemies",
+      "path": "Do_NeutralizeAllEnemies",
+      "super": "SwatGame.Objective_Do",
+      "outer": "None",
+      "functions": [
+        "OnPawnArrested",
+        "OnPawnIncapacitated",
+        "OnPawnDied",
+        "CheckComplete",
+        "Initialize",
+        "UnRegisterGameEventsHook",
+        "OnMissionStarted"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Do_DisableTargetBombs",
+      "path": "Do_DisableTargetBombs",
+      "super": "Do_DisableTargetInanimates",
+      "outer": "None",
+      "functions": [
+        "OnTimeExpired"
+      ],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "System\\SwatObjectives.u"
+}

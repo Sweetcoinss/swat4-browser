@@ -1,0 +1,142 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\AICommon.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 129,
+  "imports": 33,
+  "exports": 130,
+  "classes": 7,
+  "functions": 34,
+  "states": 0,
+  "properties": 75,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "IShotNotification",
+      "path": "IShotNotification",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "OnShooterFiredShot"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "IHearingNotification",
+      "path": "IHearingNotification",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "OnListenerHeardNoise"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "IVisionNotification",
+      "path": "IVisionNotification",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "OnViewerLostPawn",
+        "OnViewerSawPawn"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ShotNotifier",
+      "path": "ShotNotifier",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "InitializeShotNotifier",
+        "OnShotFired",
+        "NotifyShotFired",
+        "RegisterShotNotification",
+        "UnregisterShotNotification",
+        "IsOnShotNotificationList"
+      ],
+      "states": [],
+      "properties": [
+        "NotificationList",
+        "shooter"
+      ]
+    },
+    {
+      "name": "SquadInfo",
+      "path": "SquadInfo",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay",
+        "memberDestroyed",
+        "memberDied",
+        "cleanupAI",
+        "rematchGoals",
+        "nActiveMembers",
+        "addToSquad",
+        "removeFromSquad"
+      ],
+      "states": [],
+      "properties": [
+        "pawns",
+        "SquadAI",
+        "AI_LOD_Level",
+        "tickTime",
+        "tickTimeOrg",
+        "tickTimeUpdateRange",
+        "logTyrion"
+      ]
+    },
+    {
+      "name": "VisionNotifier",
+      "path": "VisionNotifier",
+      "super": "Core.RefCount",
+      "outer": "None",
+      "functions": [
+        "InitializeVisionNotifier",
+        "CleanupVisionNotifier",
+        "OnOtherActorDestroyed",
+        "OnOtherPawnDied",
+        "RemoveAnyReferencesToPawn",
+        "isVisible",
+        "IsOnCurrentSeenList",
+        "IsOnSeenList",
+        "RegisterVisionNotification",
+        "UnregisterVisionNotification",
+        "logSeenList"
+      ],
+      "states": [],
+      "properties": [
+        "Viewer",
+        "SeenListPadding",
+        "CurrentSeenListPadding",
+        "NotificationListPadding"
+      ]
+    },
+    {
+      "name": "HearingNotifier",
+      "path": "HearingNotifier",
+      "super": "Core.RefCount",
+      "outer": "None",
+      "functions": [
+        "IsOnHearingNotificationList",
+        "UnregisterHearingNotification",
+        "RegisterHearingNotification",
+        "OnHearSound",
+        "InitializeHearingNotifier"
+      ],
+      "states": [],
+      "properties": [
+        "NotificationList",
+        "Listener"
+      ]
+    }
+  ],
+  "package": "System\\AICommon.u"
+}

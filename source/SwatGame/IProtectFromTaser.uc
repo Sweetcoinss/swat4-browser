@@ -1,0 +1,2 @@
+interface IProtectFromTaser
+	parseconfig;

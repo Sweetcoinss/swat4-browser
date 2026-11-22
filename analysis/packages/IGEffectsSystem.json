@@ -1,0 +1,186 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\IGEffectsSystem.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 195,
+  "imports": 57,
+  "exports": 221,
+  "classes": 7,
+  "functions": 32,
+  "states": 0,
+  "properties": 165,
+  "enums": 1,
+  "structs": 1,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "EventResponse",
+      "path": "EventResponse",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "Init",
+        "GetSpecification"
+      ],
+      "states": [],
+      "properties": [
+        "Specification",
+        "Chance",
+        "SourceClassName",
+        "initDone",
+        "SpecificationReference",
+        "Event",
+        "Context",
+        "sum",
+        "SourceClass",
+        "AlwaysInQM",
+        "TargetClassName",
+        "StaticMesh",
+        "Tag"
+      ]
+    },
+    {
+      "name": "EffectSpecification",
+      "path": "EffectSpecification",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "Init"
+      ],
+      "states": [],
+      "properties": [
+        "Level",
+        "RotationOffset",
+        "LocationOffset",
+        "AttachmentBone",
+        "AttachToSource",
+        "Precache"
+      ]
+    },
+    {
+      "name": "EffectsSubsystem",
+      "path": "EffectsSubsystem",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "AddEffectSpecification",
+        "FindEffectSpecification",
+        "EffectEventTriggered",
+        "AddEventResponse",
+        "PackageEventResponse",
+        "PackageEffectSpecification",
+        "GetSpecificationByString",
+        "InitializeResponseSpecifications",
+        "PreBeginPlay",
+        "PlayEffectSpecification",
+        "StopEffectSpecification",
+        "OnEffectSpawned",
+        "LogState",
+        "PostLoaded",
+        "EndLoadingSubsystemConfig",
+        "BeginLoadingSubsystemConfig"
+      ],
+      "states": [],
+      "properties": [
+        "IsPackagingEffectsConfig",
+        "EventResponse",
+        "EventResponseSubClass",
+        "ConfigPackageName",
+        "debugSlow",
+        "ConfigPackageBeingBuilt",
+        "EffectSpecifications",
+        "EventResponses",
+        "ConfigPackageFullFileName",
+        "IniFileName",
+        "ShouldInitOnDedicatedServer",
+        "EffectSpecificationSubClass",
+        "EffectsSystem"
+      ]
+    },
+    {
+      "name": "EffectsSystem",
+      "path": "EffectsSystem",
+      "super": "Engine.IGEffectsSystemBase",
+      "outer": "None",
+      "functions": [
+        "AddContextForNextEffectEvent",
+        "SetSeedForNextEffectEvent",
+        "Init",
+        "DumpEffects",
+        "AddPersistentContext",
+        "RemovePersistentContext",
+        "GetSubsystem",
+        "FlushQueuedEvents",
+        "EffectEventTriggered",
+        "ClearPersistentContexts",
+        "QueueEvents"
+      ],
+      "states": [],
+      "properties": [
+        "PersistentContexts",
+        "AllEffectsSubsystems",
+        "QueuedSource",
+        "TemporaryContexts",
+        "QueuedUnTriggered",
+        "QueuedOverrideWorldRotation",
+        "QueuedEffectEvent",
+        "QueuedTargetMaterial",
+        "QueuedOverrideWorldLocation",
+        "QueuedTarget",
+        "QueueingEvents",
+        "DebugEffectEvent",
+        "CurrentSeed",
+        "EffectsSubsystem",
+        "PreloadActorClass",
+        "LogEffectEvents"
+      ]
+    },
+    {
+      "name": "AnimNotify_EffectEvent",
+      "path": "AnimNotify_EffectEvent",
+      "super": "Engine.AnimNotify_Scripted",
+      "outer": "None",
+      "functions": [
+        "Notify"
+      ],
+      "states": [],
+      "properties": [
+        "OnlyOnThirdPersonPawns",
+        "PassAsTag",
+        "MaxDistance",
+        "bTraceOnlyStaticGeometry",
+        "PlayerOnly",
+        "UnTrigger",
+        "MaxDistanceBelowBoneToCheckForMaterial",
+        "Bone",
+        "EffectEvent"
+      ]
+    },
+    {
+      "name": "EffectEventTrigger",
+      "path": "EffectEventTrigger",
+      "super": "Engine.Trigger",
+      "outer": "None",
+      "functions": [
+        "DoTrigger"
+      ],
+      "states": [],
+      "properties": [
+        "EffectEvent"
+      ]
+    },
+    {
+      "name": "EventResponseSet",
+      "path": "EventResponseSet",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "EventResponses"
+      ]
+    }
+  ],
+  "package": "System\\IGEffectsSystem.u"
+}

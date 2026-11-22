@@ -1,0 +1,5 @@
+package=SwatEffects
+version=129/27
+classes_ok=269
+classes_failed=0
+imports_skipped=13

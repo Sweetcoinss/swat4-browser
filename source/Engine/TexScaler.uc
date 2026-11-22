@@ -1,0 +1,25 @@
+class TexScaler extends TexModifier
+	native
+	editinlinenew
+	collapsecategories
+	hidecategories(Object,Material);
+
+cpptext
+{
+	// UTexModifier interface
+	virtual FMatrix* GetMatrix(FLOAT TimeSeconds);
+
+}
+
+var Matrix M;
+var float UScale;
+var float VScale;
+var float UOffset;
+var float VOffset;
+
+defaultproperties
+{
+	UScale=1.0000000
+	VScale=1.0000000
+	MaterialType=19
+}

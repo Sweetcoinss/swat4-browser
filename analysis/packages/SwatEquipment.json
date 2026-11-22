@@ -1,0 +1,1001 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\SwatEquipment.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 910,
+  "imports": 381,
+  "exports": 788,
+  "classes": 74,
+  "functions": 149,
+  "states": 3,
+  "properties": 405,
+  "enums": 3,
+  "structs": 2,
+  "consts": 4,
+  "class_list": [
+    {
+      "name": "RoundBasedWeapon",
+      "path": "RoundBasedWeapon",
+      "super": "Engine.FiredWeapon",
+      "outer": "None",
+      "functions": [
+        "EquippedHook"
+      ],
+      "states": [],
+      "properties": [
+        "MagazineSize"
+      ]
+    },
+    {
+      "name": "TaserProbeBase",
+      "path": "TaserProbeBase",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "HitWall",
+        "Touch",
+        "ResetState",
+        "StartPhysics",
+        "OnOptimizedOut"
+      ],
+      "states": [],
+      "properties": [
+        "BounceCount",
+        "BounceDampening"
+      ]
+    },
+    {
+      "name": "TaserWire",
+      "path": "TaserWire",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "SetStartLocation",
+        "SetEndLocation",
+        "UpdateSpan",
+        "PostBeginPlay"
+      ],
+      "states": [],
+      "properties": [
+        "initialSizeVec",
+        "initialDrawScale3D",
+        "startPos",
+        "endEffectorName",
+        "minYZScale",
+        "endPos",
+        "initialSize",
+        "maxYZScale"
+      ]
+    },
+    {
+      "name": "Handgun",
+      "path": "Handgun",
+      "super": "ClipBasedWeapon",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MachineGun",
+      "path": "MachineGun",
+      "super": "ClipBasedWeapon",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Shotgun",
+      "path": "Shotgun",
+      "super": "RoundBasedWeapon",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SubMachineGun",
+      "path": "SubMachineGun",
+      "super": "ClipBasedWeapon",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ClipBasedAmmo",
+      "path": "ClipBasedAmmo",
+      "super": "Engine.Ammunition",
+      "outer": "None",
+      "functions": [
+        "SetCurrentClip",
+        "GetClip",
+        "SetClip",
+        "OnReloaded",
+        "UpdateHUD",
+        "TrainingRefill",
+        "FullestClip",
+        "Initialize",
+        "GetAmmoCountString",
+        "RoundsRemainingBeforeReload",
+        "GetClipCount",
+        "GetMagazineSize",
+        "GetCurrentClip",
+        "OnRoundUsed",
+        "NeedsReload",
+        "CanReload",
+        "IsLastRound",
+        "IsFull",
+        "IsEmpty"
+      ],
+      "states": [],
+      "properties": [
+        "ClipRoundsRemaining",
+        "CurrentClip",
+        "ClipSize",
+        "DefaultOfficerClipCount",
+        "DefaultEnemyClipCount"
+      ]
+    },
+    {
+      "name": "ClipBasedWeapon",
+      "path": "ClipBasedWeapon",
+      "super": "Engine.FiredWeapon",
+      "outer": "None",
+      "functions": [
+        "EquippedHook"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RoundBasedAmmo",
+      "path": "RoundBasedAmmo",
+      "super": "Engine.Ammunition",
+      "outer": "None",
+      "functions": [
+        "SetClip",
+        "GetClip",
+        "IsFull",
+        "NeedsReload",
+        "OnReloaded",
+        "UpdateHUD",
+        "GetMagazineSize",
+        "Initialize",
+        "IsLastRound",
+        "CanReload",
+        "RoundsRemainingBeforeReload",
+        "OnRoundUsed",
+        "IsEmpty",
+        "GetCurrentRounds",
+        "GetReserveRounds",
+        "GetInitialReserveRounds",
+        "GetCurrentClip",
+        "SetCurrentClip"
+      ],
+      "states": [],
+      "properties": [
+        "CurrentRounds",
+        "ReserveRounds",
+        "DefaultOfficerRounds",
+        "DefaultEnemyRounds"
+      ]
+    },
+    {
+      "name": "ITacticalAid",
+      "path": "ITacticalAid",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSBallBase",
+      "path": "CSBallBase",
+      "super": "Engine.SwatProjectile",
+      "outer": "None",
+      "functions": [
+        "PostBump",
+        "HitWall",
+        "Touch",
+        "Tick",
+        "PostBeginPlay"
+      ],
+      "states": [
+        "Hit"
+      ],
+      "properties": [
+        "PreviousLocation",
+        "MPPlayerProtectiveEquipmentDurationScaleFactor",
+        "SPPlayerProtectiveEquipmentDurationScaleFactor",
+        "PlayerGassedDuration",
+        "AIGassedDuration",
+        "UpdatePeriod",
+        "CloudDuration",
+        "CloudRadius"
+      ]
+    },
+    {
+      "name": "PythonRevolverHG",
+      "path": "PythonRevolverHG",
+      "super": "Handgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSGasGrenade",
+      "path": "CSGasGrenade",
+      "super": "Engine.ThrownWeapon",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BerettaM9HG",
+      "path": "BerettaM9HG",
+      "super": "Handgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BreachingShotgun",
+      "path": "BreachingShotgun",
+      "super": "Shotgun",
+      "outer": "None",
+      "functions": [
+        "HandleBallisticImpact"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSGasGrenadeProjectile",
+      "path": "CSGasGrenadeProjectile",
+      "super": "Engine.SwatGrenadeProjectile",
+      "outer": "None",
+      "functions": [
+        "Detonated",
+        "GetRadiusOfEffect"
+      ],
+      "states": [
+        "Active",
+        "Dead"
+      ],
+      "properties": [
+        "DetonatedTime",
+        "Radius",
+        "MPPlayerProtectiveEquipmentDurationScaleFactor",
+        "SPPlayerProtectiveEquipmentDurationScaleFactor",
+        "ExpansionTime",
+        "ReactionDuration",
+        "GasEmissionDuration",
+        "UpdatePeriod"
+      ]
+    },
+    {
+      "name": "FlashbangGrenadeProjectile",
+      "path": "FlashbangGrenadeProjectile",
+      "super": "Engine.SwatGrenadeProjectile",
+      "outer": "None",
+      "functions": [
+        "Detonated",
+        "DoPostDetonation"
+      ],
+      "states": [],
+      "properties": [
+        "DamageRadius",
+        "KarmaImpulseRadius",
+        "StunRadius",
+        "Damage",
+        "KarmaImpulse",
+        "PlayerStunDuration",
+        "AIStunDuration",
+        "MoraleModifier"
+      ]
+    },
+    {
+      "name": "StingGrenadeProjectile",
+      "path": "StingGrenadeProjectile",
+      "super": "Engine.SwatGrenadeProjectile",
+      "outer": "None",
+      "functions": [
+        "Detonated",
+        "DoPostDetonation"
+      ],
+      "states": [],
+      "properties": [
+        "StingRadius",
+        "DamageRadius",
+        "KarmaImpulseRadius",
+        "KarmaImpulse",
+        "Damage",
+        "PlayerStingDuration",
+        "MoraleModifier",
+        "AIStingDuration",
+        "HeavilyArmoredPlayerStingDuration"
+      ]
+    },
+    {
+      "name": "HelmetAndGogglesBase",
+      "path": "HelmetAndGogglesBase",
+      "super": "Engine.ProtectiveEquipment",
+      "outer": "None",
+      "functions": [
+        "QualifyProtectedRegion"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Taser",
+      "path": "Taser",
+      "super": "RoundBasedWeapon",
+      "outer": "None",
+      "functions": [
+        "LostChild",
+        "OnOtherPawnDied",
+        "ApplyTaserAimError",
+        "GetProbeOrigin",
+        "DestroyProbe",
+        "GetProbeOriginFrame",
+        "EndProbe",
+        "TraceFire",
+        "InitializeProbes",
+        "Tick",
+        "PostBeginPlay",
+        "Destroyed",
+        "EndBothProbes",
+        "DestroyBothProbes",
+        "PostRoundUsed"
+      ],
+      "states": [],
+      "properties": [
+        "probes",
+        "probeRecoils",
+        "ThirdPersonProbeOffset",
+        "ShouldTick",
+        "StickToWhat",
+        "MinTravelTime",
+        "WireSlackTweenTime",
+        "WireSlackAnimation",
+        "WireMaxHeightFraction",
+        "WireSlackAnimRate",
+        "ProbeRecoilTime",
+        "TaserHit",
+        "ActualTasedDuration",
+        "TaserWireClass",
+        "ProbeFinalRecoilSpeed",
+        "ProbeFallDuration",
+        "FirstPersonProbeBones",
+        "ProbeClass",
+        "AITasedDuration",
+        "PlayerTasedDuration",
+        "WireMaxHeight",
+        "WireEndEffectorName",
+        "WireDetachDistance",
+        "ProbePartNames",
+        "WirePartNames",
+        "WireAnimRate",
+        "WireZapAnimation",
+        "ProbeVisualSpeed",
+        "FadeDuration",
+        "ProbeStickTime",
+        "WireForceSlackTimeFraction",
+        "TaserAimSpread",
+        "WireSlackStartSpeed",
+        "WireMinYZScale",
+        "WireMaxYZScale",
+        "ThirdPersonProbeBones",
+        "FirstPersonProbeOffset"
+      ]
+    },
+    {
+      "name": "GasMaskBase",
+      "path": "GasMaskBase",
+      "super": "Engine.ProtectiveEquipment",
+      "outer": "None",
+      "functions": [
+        "QualifyProtectedRegion"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSBallLauncher",
+      "path": "CSBallLauncher",
+      "super": "RoundBasedWeapon",
+      "outer": "None",
+      "functions": [
+        "BallisticFire",
+        "PostBeginPlay"
+      ],
+      "states": [],
+      "properties": [
+        "CSBallClass"
+      ]
+    },
+    {
+      "name": "Cuffs",
+      "path": "Cuffs",
+      "super": "SwatGame.EquipmentUsedOnOther",
+      "outer": "None",
+      "functions": [
+        "CanUseOnOtherNow",
+        "UsedHook",
+        "OnForgotten",
+        "AssertOtherIsValid",
+        "GetQualifyDuration",
+        "ShouldUseAlternate",
+        "OnInterrupted",
+        "UpdateAvailability",
+        "OnUsingBegan"
+      ],
+      "states": [],
+      "properties": [
+        "LastInterruptTime"
+      ]
+    },
+    {
+      "name": "C2Charge",
+      "path": "C2Charge",
+      "super": "SwatGame.EquipmentUsedOnOther",
+      "outer": "None",
+      "functions": [
+        "UsedHook",
+        "AssertOtherIsValid",
+        "GetQualifyDuration",
+        "GetSlotForReequip"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "LessLethalSG",
+      "path": "LessLethalSG",
+      "super": "Shotgun",
+      "outer": "None",
+      "functions": [
+        "DealDamage",
+        "ShouldSpawnBloodForVictim"
+      ],
+      "states": [],
+      "properties": [
+        "MoraleModifier",
+        "AIStingDuration",
+        "HeavilyArmoredPlayerStingDuration",
+        "PlayerStingDuration",
+        "StingRadius",
+        "KarmaImpulseRadius",
+        "KarmaImpulse",
+        "DamageRadius",
+        "Damage"
+      ]
+    },
+    {
+      "name": "Detonator",
+      "path": "Detonator",
+      "super": "Engine.HandheldEquipment",
+      "outer": "None",
+      "functions": [
+        "UsedHook",
+        "GetSlotForReequip",
+        "HandleMultiplayerUse"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PepperSpray",
+      "path": "PepperSpray",
+      "super": "RoundBasedWeapon",
+      "outer": "None",
+      "functions": [
+        "TraceFire",
+        "EndFiring",
+        "GetSlotForReequip"
+      ],
+      "states": [],
+      "properties": [
+        "MPPlayerProtectiveEquipmentDurationScaleFactor",
+        "SPPlayerProtectiveEquipmentDurationScaleFactor",
+        "AIPepperSprayedDuration",
+        "PlayerPepperSprayedDuration",
+        "MomentumToPenetrateThreshold"
+      ]
+    },
+    {
+      "name": "optiwand",
+      "path": "optiwand",
+      "super": "Engine.HandheldEquipment",
+      "outer": "None",
+      "functions": [
+        "DegreesToUnreal",
+        "SetInput",
+        "RenderTexture",
+        "InterruptUsing",
+        "CanUseNow",
+        "ResolveInitialLocationAndRotation",
+        "ViewportCalcView",
+        "DoUsingHook",
+        "Tick",
+        "PostBeginPlay",
+        "EquippedHook",
+        "OnGivenToOwner",
+        "Destroyed",
+        "CanIssueCommands",
+        "OnBeginControlling",
+        "OnEndControlling",
+        "GetControllingStateName",
+        "ShouldControlViewport",
+        "HandleFire",
+        "HandleAltFire",
+        "HandleReload",
+        "GetCurrentControllable",
+        "ShouldUseWhileLowReady",
+        "ShouldLowReadyOnOfficers",
+        "ShouldLowReadyOnArrestable",
+        "OnUsingBegan",
+        "PreUse"
+      ],
+      "states": [],
+      "properties": [
+        "DesiredViewRotation",
+        "LCDScreen",
+        "BoneName",
+        "MirroringDoor",
+        "BoneRotation",
+        "bMirroring",
+        "MouseAccel",
+        "CompletedUsing",
+        "BlankScreen",
+        "LastDeltaTime",
+        "SizeX",
+        "SizeY",
+        "LensTurnSpeed",
+        "ClampYawAngle",
+        "ClampPitchAngle",
+        "TimerFreq",
+        "RefreshRate",
+        "LCDShader",
+        "GunShader",
+        "FOV",
+        "LensTurnAlpha",
+        "LensFinishSpeed",
+        "ReticleTexture",
+        "LastViewLocation"
+      ]
+    },
+    {
+      "name": "SniperRifle",
+      "path": "SniperRifle",
+      "super": "ClipBasedWeapon",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay",
+        "ReloadedHook",
+        "CreateThirdPersonModel",
+        "OnPreEquipped",
+        "GetPerfectFireStart"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FrangibleBreachingAmmo",
+      "path": "FrangibleBreachingAmmo",
+      "super": "RoundBasedAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "G36kMG",
+      "path": "G36kMG",
+      "super": "MachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glock9mmHG",
+      "path": "Glock9mmHG",
+      "super": "Handgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HK53SMG",
+      "path": "HK53SMG",
+      "super": "SubMachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "IAmCuffed",
+      "path": "IAmCuffed",
+      "super": "Engine.HandheldEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "IngramHG",
+      "path": "IngramHG",
+      "super": "Handgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FlashbangGrenade",
+      "path": "FlashbangGrenade",
+      "super": "Engine.ThrownWeapon",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M1Super90SG",
+      "path": "M1Super90SG",
+      "super": "Shotgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4A1MG",
+      "path": "M4A1MG",
+      "super": "MachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4MG",
+      "path": "M4MG",
+      "super": "MachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4Super90SG",
+      "path": "M4Super90SG",
+      "super": "Shotgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MP5SMG",
+      "path": "MP5SMG",
+      "super": "SubMachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NovaPumpSG",
+      "path": "NovaPumpSG",
+      "super": "Shotgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ColtM1911HG",
+      "path": "ColtM1911HG",
+      "super": "Handgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pump1SG",
+      "path": "Pump1SG",
+      "super": "Shotgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pump2RifleGripSG",
+      "path": "Pump2RifleGripSG",
+      "super": "Shotgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PythonRevolverHG_LowAmmo",
+      "path": "PythonRevolverHG_LowAmmo",
+      "super": "PythonRevolverHG",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SR25MG",
+      "path": "SR25MG",
+      "super": "MachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SawedOffSG",
+      "path": "SawedOffSG",
+      "super": "Shotgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ScorpionHG",
+      "path": "ScorpionHG",
+      "super": "Handgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ShotgunAmmo",
+      "path": "ShotgunAmmo",
+      "super": "RoundBasedAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilencedMP5SMG",
+      "path": "SilencedMP5SMG",
+      "super": "SubMachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BreachingSG",
+      "path": "BreachingSG",
+      "super": "BreachingShotgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BodyArmorBase",
+      "path": "BodyArmorBase",
+      "super": "Engine.ProtectiveEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BerettaM9HG_LowAmmo",
+      "path": "BerettaM9HG_LowAmmo",
+      "super": "BerettaM9HG",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguyUMP45SMG",
+      "path": "BadguyUMP45SMG",
+      "super": "SubMachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguySilencedMP5SMG",
+      "path": "BadguySilencedMP5SMG",
+      "super": "SubMachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguyMP5SMG",
+      "path": "BadguyMP5SMG",
+      "super": "SubMachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguyM4Super90SG",
+      "path": "BadguyM4Super90SG",
+      "super": "Shotgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguyM4A1MG",
+      "path": "BadguyM4A1MG",
+      "super": "MachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguyG36kMG",
+      "path": "BadguyG36kMG",
+      "super": "MachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BadguyColtM1911HG",
+      "path": "BadguyColtM1911HG",
+      "super": "Handgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK74suMG",
+      "path": "AK74suMG",
+      "super": "MachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK74MG",
+      "path": "AK74MG",
+      "super": "MachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK47MG",
+      "path": "AK47MG",
+      "super": "MachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPGrenade",
+      "path": "VIPGrenade",
+      "super": "CSGasGrenade",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPColtM1911HG",
+      "path": "VIPColtM1911HG",
+      "super": "Handgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UZISMG",
+      "path": "UZISMG",
+      "super": "SubMachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "USP40HG",
+      "path": "USP40HG",
+      "super": "Handgun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UMP45SMG",
+      "path": "UMP45SMG",
+      "super": "SubMachineGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "stingGrenade",
+      "path": "stingGrenade",
+      "super": "Engine.ThrownWeapon",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ThrownWeaponModel",
+      "path": "ThrownWeaponModel",
+      "super": "Engine.HandheldEquipmentModel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Toolkit",
+      "path": "Toolkit",
+      "super": "SwatGame.EquipmentUsedOnOther",
+      "outer": "None",
+      "functions": [
+        "OnUsingBegan",
+        "UsedHook",
+        "OnInterrupted",
+        "GetSlotForReequip",
+        "ShouldUseAlternate",
+        "GetQualifyDuration",
+        "AssertOtherIsValid"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Wedge",
+      "path": "Wedge",
+      "super": "SwatGame.EquipmentUsedOnOther",
+      "outer": "None",
+      "functions": [
+        "UsedHook",
+        "GetQualifyDuration",
+        "AssertOtherIsValid"
+      ],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "System\\SwatEquipment.u"
+}

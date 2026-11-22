@@ -1,0 +1,184 @@
+[SniperRifle]
+Description=Si estás leyendo esto, envía un informe de error comunicando que se está mostrando la descripción del fusil de francotirador.
+FriendlyName=Rifle de francotirador Remington 700
+
+[C2Charge]
+Description=La carga de franqueo C2 es un método potente y devastador de franquear una puerta. La carga compacta, especialmente diseñada, destruye el mecanismo de cierre de la puerta y la fuerza para que se abra al mismo tiempo. El ruido y el impacto de la detonación hacen que la gente al otro lado de la puerta reaccione de forma similar que con una bengala deslumbrante, lo que proporciona una ventaja táctica al ser utilizada en lugar de la escopeta de franqueo. La carga de franqueo C2 es un explosivo y puede herir o matar a todo el que se encuentre detrás de la puerta.
+FriendlyName=C2 (x3)
+
+[MP5SMG]
+Description=Esta ametralladora de 9mm está diseñada por un fabricante alemán conocido en el mundo entero. Muchos grupos paramilitares de todo el mundo la prefieren para combates tácticos urbanos. Dispara munición de 9mm tanto de balas sólidas como de punta hueca encamisada, pero le falta la fuerza de detención de un rifle de asalto. Su ventaja principal es su diseño compacto, que permite una mejor maniobrabilidad en interiores. Está equipada con un selector de modo de disparo que le permite elegir entre semiautomático y modo de disparos de tres cartuchos.
+FriendlyName=Subfusil ametralladora de 9mm
+
+[SilencedMP5SMG]
+Description=Esta ametralladora de 9mm está diseñada por un fabricante alemán conocido en el mundo entero. Muchos grupos paramilitares de todo el mundo la prefieren para combates tácticos urbanos. Dispara munición de 9mm tanto de balas sólidas como de punta hueca encamisada, pero le falta la fuerza de detención de una carabina Colt. Su ventaja principal es su diseño compacto, que permite una mejor maniobrabilidad en interiores. Este modelo está equipado con un selector de modo de disparo que le permite elegir entre semiautomático y modo de disparos de tres cartuchos. También cuenta con un supresor de sonido y destello para situaciones en las que el sigilo es esencial.
+FriendlyName=Ametr. 9 mm con supresor
+
+[UMP45SMG]
+Description=La ametralladora de calibre 45 es similar a la ametralladora ligera de 9mm en casi todo. Construida principalmente con polímeros de fibra óptica reforzados, esta ametralladora ligera proporciona la misma fiabilidad que el modelo de 9mm, pero con la ventaja del cartucho de calibre 45. La bala pesada proporciona una penetración superior en objetivos blindados con cartuchos FMJ comparado con las otras armas de 9mm, a pesar de que su velocidad inicial es inferior, al igual que la velocidad cíclica de disparo. Este modelo está equipado con un selector de modo de disparo que le permite elegir entre modo semiautomático y totalmente automático.
+FriendlyName=Subfusil ametralladora 45
+
+[M4A1MG]
+Description=La carabina Colt M4A1 se basa en el ampliamente probado diseño del rifle de asalto M16, utilizado por el ejército de los EE.UU. El diseño más corto de carabina la convierte en un arma más viable que la M16 en lugares cerrados. La carabina Colt es el arma más poderosa con la que cuentan los agentes de SWAT, gracias a su munición de rifle de calibre .223 tanto con balas sólidas como de punta hueca encamisada. Está equipada con un selector de modo de disparo que le permite hacerlo tanto en modo semiautomático como en modo automático.
+FriendlyName=Carabina Colt M4A1
+
+[G36kMG]
+Description=El fusil de asalto GB36s es un rifle de tamaño normal y de peso ligero que se desarrolló originalmente en los noventa para las fuerzas armadas alemanas. Hoy en día es conocido en el mundo entero por ser un fusil de asalto increíblemente fiable. Esta arma, que dispara cartuchos de rifle de tamaño medio de 5,56 mm (.223), está equipada con un selector de modo de disparo de dos cartuchos y totalmente automático.
+FriendlyName=Fusil de asalto GB36s
+
+[M4Super90SG]
+Description=La escopeta táctica Benelli M4 Super 90 de calibre 12 es altamente fiable y lo ha demostrado ampliamente en el campo de batalla. Este modelo cuenta con un cargador automático que permite disparar en modo semiautomático su cargador de cinco cartuchos. Esta poderosa arma es capaz de provocar un daño extremo en poco tiempo y con una fiable propagación. Tiene dos inconvenientes. El primero es que su carga puede dificultar su manejo en lugares cerrados. El segundo es el reducido tamaño del cargador.
+FriendlyName=M4 Super 90
+
+[NovaPumpSG]
+Description=Un diseño relativamente nuevo de Benelli, la Nova pump es una de las escopetas de mejor calidad. Aunque dispara un poco más despacio que la M4 Super 90 semiautomática, el extensor del cargador adherido permite que la Nova pump pueda con hasta 8 proyectiles de una vez.
+FriendlyName=Nova Pump
+
+[LessLethalSG]
+Description=La Bellini Nova es una escopeta no letal de mecanismo de corredera que se carga siempre con cartuchos de sacos de perdigones no letales. Se utiliza generalmente con un sospechoso o civil poco cooperativo. Esta escopeta no letal especialmente diseñada es necesaria para eliminar errores que pueden ocurrir al cargar individualmente munición letal o no letal en la misma arma. Esta arma aparece en verde para recordar a los agentes que se carga sólo con munición no letal.||La munición de sacos de perdigones proporciona una impacto de fuerza directa en el objetivo. Esto provoca desorientación y un intenso dolor.
+FriendlyName=Escopeta no letal
+
+[CSBallLauncher]
+Description=La pistola de bolas de pimienta se basa en tecnología diseñada originariamente para jugar a paintball. El dióxido de carbono comprimido expulsa la munición a velocidades muy elevadas. La pistola de bolas de pimienta permite a los agentes disparar OC rápidamente a objetivos específicos en cantidades más fáciles de controlar y a distancias significativamente superiores que una granada o un aerosol de pimienta común. Esta arma no necesita ser cargada nunca bajo condiciones operativas normales gracias a su gran tolva para munición.
+FriendlyName=Bola de pimienta
+
+[ColtM1911HG]
+Description=La pistola Colt M1911 es una institución en el cumplimiento de la ley durante décadas. Este arma de calibre 0.45 asesta un poderoso golpe y es el arma de respaldo más común entre los agentes de SWAT. Este arma semiautomática tiene un cargador de 8 cartuchos y puede disparar munición sólida o de punta hueca encamisada.
+FriendlyName=Pistola M1911
+
+[Glock9mmHG]
+Description=Esta pistola de diseño austriaco está fabricada principalmente por polímeros plásticos de alta tecnología. Esto la convierte en un arma increíblemente fácil de utilizar y manipular. Aunque es menos potente que la Colt 1911, cuenta con un cargador de 17 cartuchos. Su facilidad de uso, precisión y disparador de "acción segura" la ha convertido en un arma popular entre los agentes del orden.
+FriendlyName=Pistola de 9mm
+
+[Taser]
+Description=La pistola de descarga eléctrica funciona con tecnología de Alteración Electro Muscular (EMD). Dispara pequeños electrodos al objetivo y luego envía una potente descarga eléctrica a través de los finos cables. El efecto EMD provoca contracciones involuntarias en el tejido muscular del objetivo, sin hacer caso a la tolerancia del dolor de un individuo o de su concentración mental. El efecto es doloroso y desmoralizador hasta para los sospechosos más agresivos.||La pistola de descarga eléctrica tiene dos inconvenientes. El primero es que su alcance es relativamente corto. El segundo es que es necesario cargar nuevos electrodos cada vez que se dispara.
+FriendlyName=Pistola de descarga eléctrica
+
+[Wedge]
+Description=Esta cuña táctica especialmente diseñada se desliza bajo la puerta y a continuación se activa. Un muelle acciona la cuña evitando así que la puerta se abra en ninguna de las direcciones. El revestimiento de goma que recubre la base de la cuña aumenta la fricción, dificultando enormemente la apertura de la puerta. Sólo se puede retirar con un utensilio para cortar, lo que reduce el riesgo de que un sospechoso desplace el dispositivo.
+FriendlyName=Cuña
+
+[optiwand]
+Description=El opti-wand es un sofisticado dispositivo de observación que permite a los agentes examinar las situaciones tras las esquinas y bajo puertas cerradas sin exponerse a las líneas de fuego. En la parte superior del dispositivo se encuentra una pantalla LCD que muestra las imágenes que percibe la cámara situada al final de la varilla expansible. Es una herramienta valiosa para reunir información en lugares sospechosos o civiles antes de despejar el terreno y exponer potencialmente a tu equipo al fuego.
+FriendlyName=Optiwand
+
+[PepperSpray]
+Description=Aunque se utiliza generalmente para controlar disturbios, los botes de aerosoles de pimienta portátiles pueden ser una herramienta efectiva para reducir a los objetivos poco dispuestos a colaborar. El ingrediente activo del aerosol de pimienta es el Oleoresina Capsicum u OC. El OC es un agente inflamatorio que hace que los ojos se hinchen y se cierren. También produce una sensación de quemazón al exponer la piel a él. Debido a su alcance y su área de efecto limitados, es más conveniente utilizarlo junto con otros dispositivos no letales para conseguir que un sospechoso o un rehén obedezca.
+FriendlyName=Aerosol
+
+[stingGrenade]
+Description=La granada urticante se rellena con numerosas bolas de goma pequeñas. Con la detonación, estas bolas son expulsadas de la granada, bombardeando los objetivos con proyectiles de fuerza directa. Estas bolas de goma no penetran en la piel, pero pueden provocar mareos, desorientación y dolor agudo por el impacto de los proyectiles. Aunque considerada no letal, la granada urticante puede provocar daños graves si explota muy cerca de alguien.
+FriendlyName=Urticante
+
+[CSGasGrenade]
+Description=Esta granada desprende Clorobenzilideno malonitrilo o CS. El CS es un agente químico que provoca irritación y lagrimeo de las membranas mucosas. Utilizado comúnmente como gas lacrimógeno, este agente provoca pérdida de agudeza visual y dificultad respiratoria. Los sospechosos que se encuentran bajo la influencia del gas lacrimógeno sufren desventaja significativa al encontrarse con un agente.
+FriendlyName=Gas CS
+
+[FlashbangGrenade]
+Description=La bengala deslumbrante es un dispositivo perturbador que aturde y desorienta con una detonación explosiva y un destello brillante. Quien se ve afectado por este dispositivo pierde la visión temporalmente y ensordece por el estallido. Durante esos momentos, SWAT tiene una significativa ventaja táctica sobre los afectados.||Las bengalas deslumbrantes están diseñadas para que no se fragmenten al detonar, pero pueden provocar graves daños si la detonación tiene lugar cerca de una persona. Se recomienda precaución.
+FriendlyName=Bengala deslumbrante
+
+[BreachingSG]
+Description=La escopeta de franqueo con mecanismo de corredera está modificada especialmente para franquear puertas cerradas. El arma dispara munición para franquear frangible diseñada para romperse en pequeños pedazos al impactar. Este comportamiento reduce la penetración y aumenta el daño al impactar en superficies rígidas. Estos factores hacen de ella un arma ideal para abrir cerraduras en puertas sin atravesarlas y dañar a alguien que se encuentre al otro lado. El extensor dentado del cañón permite a los oficiales atrancar el arma en la puerta y asegurar la distancia correcta de la cerradura para que la munición sea más efectiva. Su diseño compacto permite a los agentes llevarla a sus espaldas, pudiendo así ser transportada como complemento al arma primaria.
+FriendlyName=Escopeta
+
+[Toolkit]
+Description=La multi-herramienta realiza numerosas funciones y se puede utilizar para abrir cerraduras, desactivar bombas y eliminar cuñas tácticas. Todos los oficiales están equipados con un juego de herramientas.
+FriendlyName=Juego de herramientas
+
+[VIPColtM1911HG]
+Description=La pistola Colt M1911 es una institución en el cumplimiento de la ley durante décadas. Este arma de calibre 0.45 asesta un poderoso golpe y es el arma de respaldo más común entre los agentes de SWAT. Este arma semiautomática tiene un cargador de 8 cartuchos y puede disparar munición sólida o de punta hueca encamisada.
+FriendlyName=Pistola Colt M1911 VIP
+
+[BadguyColtM1911HG]
+Description=Pistola Colt M1911
+FriendlyName=Colt M1911
+
+[BadguyG36kMG]
+Description=El fusil de asalto GB36s es un rifle de tamaño normal y de peso ligero que se desarrolló originalmente en los noventa para las fuerzas armadas alemanas. Hoy en día es conocido en el mundo entero por ser un fusil de asalto increíblemente fiable. Esta arma, que dispara cartuchos de rifle de tamaño medio de de 5,56 mm, está equipada con un selector de modo de disparo de dos cartuchos y totalmente automático.
+FriendlyName=Fusil de asalto GB36s
+
+[BadguyUMP45SMG]
+Description=La ametralladora de calibre 45 es similar a la ametralladora ligera de 9mm en casi todo. Construida principalmente con polímeros de fibra óptica reforzados, esta ametralladora ligera proporciona la misma fiabilidad que el modelo de 9mm, pero con la ventaja del cartucho de calibre 45. La bala pesada proporciona una penetración superior en objetivos blindados con cartuchos FMJ comparado con las otras armas de 9mm, a pesar de que su velocidad inicial es inferior, al igual que la velocidad cíclica de disparo. Este modelo está equipado con un selector de modo de disparo que le permite elegir entre modo semiautomático y totalmente automático.
+FriendlyName=Subfusil ametralladora 45
+
+[Cuffs]
+Description=Las esposas de plástico cuentan con numerosas ventajas frente a las tradicionales esposas de metal. Los equipos tácticos las prefieren debido a su ligereza y su diseño flexible.
+FriendlyName=Esposas de plástico
+
+[Detonator]
+Description=Descripción predeterminada para Detonador
+FriendlyName=El Detonador
+
+[IngramHG]
+Description=Pistola Ingram
+FriendlyName=Pistola ametralladora MAC-10
+
+[PythonRevolverHG]
+Description=La Colt Python se encuentra entre los revólveres Colt más famosos y fue introducida en 1955. Puede albergar munición mágnum 357, lo que la convierte en una de las pistolas más poderosas del mercado. Su energía se contrarresta con su lenta velocidad de disparo y su difícil carga. Además, no está equipada con una linterna táctica.
+FriendlyName=Colt Python
+
+[USP40HG]
+Description=Pistola USP40
+FriendlyName=SLP 40
+
+[ScorpionHG]
+Description=Pistola ametralladora Skorpion
+FriendlyName=Pistola ametralladora Skorpion
+
+[BerettaM9HG]
+Description=Pistola Rebetta N9
+FriendlyName=Cheetah N9
+
+[SawedOffSG]
+Description=Escopeta cañón corto
+FriendlyName=Escopeta cañón corto
+
+[Pump2RifleGripSG]
+Description=Escopeta corredera empuñad. fusil
+FriendlyName=Escopeta corredera empuñad. fusil
+
+[Pump1SG]
+Description=Escopeta corredera empuñad. pistola
+FriendlyName=Escopeta corredera empuñad. pistola
+
+[M1Super90SG]
+Description=Benelli M1 Super 90
+FriendlyName=Benelli M1 Super 90
+
+[BadguyM4Super90SG]
+Description=Benelli M4 Super 90
+FriendlyName=Benelli M4 Super 90
+
+[UZISMG]
+Description=La Gal es una ametralladora compacta y fiable que fue desarrollada a principios de los cincuenta en Israel. Tiene una velocidad de disparo muy alta y puede ser difícil de controlar cuando se encuentra en modo de disparo automático. Este modelo está equipado con un supresor que la convierte en una elección más sigilosa. Como los SWAT no suelen utilizar esta arma, no se le ha incorporado una linterna.
+FriendlyName=Ametralladora Gal
+
+[HK53SMG]
+Description=Pistola Beretta M9
+FriendlyName=GB53
+
+[BadguySilencedMP5SMG]
+Description=Descripción predeterminada para MP5SMG con silenciador
+FriendlyName=Ametralladora con silenciador de 9mm
+
+[BadguyMP5SMG]
+Description=Descripción predeterminada para MP5SMG
+FriendlyName=Ametralladora de 9mm
+
+[M4MG]
+Description=Carabina Colt M4
+FriendlyName=Carabina Colt M4
+
+[AK74suMG]
+Description=Descripción predeterminada para M4A1MG
+FriendlyName=AK74su
+
+[AK74MG]
+Description=Descripción predeterminada para M4A1MG
+FriendlyName=AK74
+
+[AK47MG]
+Description=La AK-47 fue desarrollada en la Unión Soviética en 1947 y se convirtió en reglamentaria en el ejército soviético en 1951. Ha permanecido en servicio en numerosos ejércitos del tercer mundo, así como en organizaciones terroristas de todo el mundo, debido a su fiabilidad y la facilidad con la que puede mantenerse. Tiene una velocidad de disparo más lenta y una velocidad inicial inferior que la de la Colt M4A1, aunque utiliza un calibre más alto, lo que la hace comparable con su equivalente americana en alcances cortos. Como los SWAT no suelen utilizar esta arma, la AK-47 no está equipada con una linterna táctica.
+FriendlyName=Ametralladora AK-47
+

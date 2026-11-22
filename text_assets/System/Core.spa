@@ -1,0 +1,87 @@
+[Language]
+Language=Español (internacional)
+LangId=9
+SubLangId=1
+
+[Public]
+Object=(Name=Core.HelloWorldCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Preferences=(Caption="Avanzado",Parent="Opciones avanzadas")
+Preferences=(Caption="Sistema de archivos",Parent="Avanzado",Class=Core.System,Immediate=True)
+
+[Errors]
+Unknown=Error desconocido
+Aborted=Abandonada
+ExportOpen=Error al exportar %s: no se puede abrir el archivo '%s'
+ExportWrite=Error al exportar %s: no se puede escribir en el archivo '%s'
+FileNotFound=No se puede encontrar el archivo '%s'
+ObjectNotFound=No se ha podido encontrar el objeto '%s %s.%s'
+PackageNotFound=No se puede encontrar el archivo para el paquete '%s'
+PackageResolveFailed=No se puede resolver el nombre del paquete
+FilenameToPackage=No se puede convertir el nombre de archivo '%s' a nombre de paquete
+Sandbox=El paquete '%s' no está accesible en este recinto de seguridad
+PackageVersion=Desajuste en la versión del paquete '%s'
+FailedLoad=No se ha podido cargar '%s': %s
+ConfigNotFound=No se puede encontrar '%s' en el archivo de configuración
+LoadClassMismatch=%s no es una clase base de %s.%s
+NotDll='%s' no es un paquete DLL; no se puede encontrar exportación '%s'
+NotInDll=No se puede encontrar '%s' en '%s.dll'
+FailedLoadPackage=Error al cargar el paquete: %s
+FailedLoadObject=No se ha podido cargar '%s %s.%s': %s
+TransientImport=Objeto transitorio importado: %s
+FailedSavePrivate=No se puede guardar %s: El gráfico está enlazado a un objeto privado externo %s
+FailedImportPrivate=No se puede importar el objeto privado %s %s
+FailedCreate=No se ha encontrado %s %s para creación
+FailedImport=No se puede encontrar %s en el archivo '%s'
+FailedSaveFile=Error al guardar el archivo '%s': %s
+SaveWarning=Error al guardar '%s'
+NotPackaged=El objeto no está empaquetado: %s %s
+NotWithin=Objeto %s %s creado en %s en lugar de en %s
+Abstract=No se puede crear objeto %s: la clase %s es abstracta
+NoReplace=No se puede reemplazar %s por %s
+NoFindImport=No se puede encontrar el archivo '%s' para importar
+ReadFileFailed=No se puede leer el archivo '%s' para importar
+SeekFailed=Error al buscar el archivo
+OpenFailed=Error al abrir el archivo
+WriteFailed=Error al escribir en el archivo
+ReadEof=Leer más allá del final del archivo
+IniReadOnly=El archivo %s está protegido contra escritura: no se puede guardar la configuración
+UrlFailed=Error al abrir la URL
+Warning=Advertencia
+Question=Pregunta
+OutOfMemory=Se ha agotado la memoria virtual. Para evitarlo debes liberar más espacio en el disco duro primario.
+History=Historial
+Assert=Fallo de aserción: %s [File:%s] [Line: %i]
+Debug=Error de depuración de aserción: %s [Archivo:%s] [Línea: %i]
+LinkerExists=Ya existe el editor de enlaces para '%s'
+BinaryFormat=El archivo '%s' contiene información irreconocible
+SerialSize=%s: Desajuste en el tamaño de serie: Se obtuvo %i, se esperaba %i
+ExportIndex=Índice de exportación corrupto %i/%i
+ImportIndex=Índice de importación corrupto %i/%i
+Password=Contraseña no reconocida
+Exec=Comando no reconocido
+BadProperty='%s': Propiedad dañada o eliminada '%s'
+MisingIni=Falta el archivo .ini: %s
+
+[Query]
+OldVersion=El archivo %s fue guardado por una versión anterior que no es compatible con esta. Es bastante probable que se produzca un error al leerlo. ¿Quieres intentarlo de todos modos?
+Name=Nombre:
+Password=Contraseña:
+PassPrompt=Introduce tu nombre y contraseña:
+PassDlg=Comprobación de identidad
+Overwrite=El archivo '%s' necesita ser actualizado. ¿Quieres sobrescribir la versión existente?
+OverwriteReadOnly='%s' es de sólo lectura. ¿Quieres intentar sobrescribirlo?
+
+[Progress]
+Saving=Guardando el archivo %s...
+Loading=Cargando el archivo %s...
+Closing=Cerrando
+
+[General]
+Product=SWAT 4
+Engine=SWAT 4
+Copyright=Copyright 2005 Sierra Entertainment, Inc.
+True=True
+False=False
+None=Ninguno
+Yes=Sí
+No=No

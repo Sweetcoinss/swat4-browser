@@ -1,0 +1,261 @@
+[Public]
+;Object=(Name=Engine.Console,Class=Class,MetaClass=Engine.Console)
+Object=(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=Engine.MasterMD5Commandlet,Class=Class,MetaClass=Core.Commandlet)
+Preferences=(Caption="Configuración del motor del juego",Parent="Avanzado",Class=Engine.GameEngine,Category=Settings,Immediate=True)
+Preferences=(Caption="Alias clave",Parent="Avanzado",Class=Engine.Input,Immediate=True,Category=Aliases)
+Preferences=(Caption="Atajos de tecla originales",Parent="Avanzado",Class=Engine.Input,Immediate=True,Category=RawKeys)
+Preferences=(Caption="Controladores",Parent="Opciones avanzadas",Class=Engine.Engine,Immediate=False,Category=Drivers)
+Preferences=(Caption="Información del servidor público",Parent="Conectando",Class=Engine.GameReplicationInfo,Immediate=True)
+Preferences=(Caption="Configuración del juego",Parent="Opciones avanzadas",Class=Engine.GameInfo,Immediate=True)
+
+[Errors]
+NetOpen=Error al abrir el archivo
+NetWrite=Error al escribir en el archivo
+NetRefused=El servidor se niega a enviar '%s'
+NetClose=Error al cerrar el archivo
+NetSize=Desajuste en el tamaño de archivo
+NetMove=Error al mover el archivo
+NetInvalid=Recibida petición de archivo no válida
+NoDownload=El paquete '%s' no es descargable
+DownloadFailed=Error al descargar paquete '%s' %s
+RequestDenied=El servidor ha pedido un archivo de un nivel pendiente: Denegado
+ConnectionFailed=Fallo al conectar
+ChAllocate=No se ha podido asignar el canal
+NetAlready=Funcionando ya en red
+NetListen=Error al escuchar: No hay ningún contexto de editor de enlaces disponible
+LoadEntry=No se puede cargar la Entrada: %s
+InvalidUrl=URL no válida: %s
+InvalidLink=Enlace no válido: %s
+FailedBrowse=No se ha podido acceder a %s: %s
+Listen=Error al escuchar: %s
+AbortToEntry=Error; volviendo a Entrada
+ServerOpen=Los servidores no pueden abrir las URL de red
+ServerListen=El servidor dedicado no puede escuchar: %s
+Pending=Ha fallado el intento de conexión a '%s'; %s
+LoadPlayerClass=No se ha podido cargar la clase del jugador
+ServerOutdated=La versión del servidor está desfasada
+
+[Progress]
+CancelledConnect=Intento de conexión cancelado
+RunningNet=%s: %s (%i jugadores)
+NetReceiving=Recibiendo '%s': %i/%i
+NetReceiveOk=Se ha recibido '%s' con éxito
+NetSend=Enviando '%s'
+NetSending=Enviando '%s': %i/%i
+Connecting=Conectando...
+Listening=Escuchando a los clientes...
+Loading=Cargando
+Saving=Guardando
+Paused=Detenido por %s
+ReceiveFile=Recibiendo '%s' (cancelar: F10)
+ReceiveOptionalFile=Recibiendo archivo opcional '%s' (pulsa F10 para ignorar)
+ReceiveSize=Tamaño %iK, completado %3.1f%%
+ConnectingText=Conectando (cancelar: F10):
+ConnectingURL=swat://%s/%s
+
+[Console]
+ClassCaption=Consola Unreal estándar
+LoadingMessage=CARGANDO
+SavingMessage=GUARDANDO
+ConnectingMessage=CONECTANDO
+PausedMessage=DETENIDO
+PrecachingMessage=PRECACHING
+ChatChannel=(CHAT)
+TeamChannel=(EQUIPO)
+
+[MasterMD5Commandlet]
+HelpCmd=mastermd5
+HelpOneLiner=Manipular la base de datos Master MD5.
+HelpUsage=mastermd5 [-option..] <params>
+HelpWebLink=http://www.swat.sierra.com
+HelpParm[0]=-c
+HelpDesc[0]=Crea una nueva base de datos MD5
+HelpParm[1]=-a 
+HelpDesc[1]=Añade nuevos paquetes a la base de datos
+HelpParm[2]=-s
+HelpDesc[2]=Mostrar la base de datos actual.
+HelpParm[3]=-r
+HelpDesc[3]=Forzar la revisión de todas las entradas a <param>
+[General]
+Upgrade=Para entrar en este servidor necesitas la última actualización gratuita de Unreal disponible en el sitio web de Epic:
+UpgradeURL=http://www.swat.sierra.com
+UpgradeQuestion=¿Quieres abrir el explorador web para ir a la página de actualización ahora?
+Version=Versión %i
+
+[Menu]
+HelpMessage=
+MenuList=
+LeftString=Izquierda
+RightString=Derecha
+CenterString=Centrar
+EnabledString=Habilitado
+DisabledString=Deshabilitado
+HelpMessage[1]="Este menú aún no ha sido implementado."
+YesString=sí
+NoString=no
+
+[Inventory]
+PickupMessage=Ha enganchado un objeto
+M_Activated=" activado"
+M_Selected=" seleccionado"
+M_Deactivated=" desactivado"
+ItemArticle=a
+
+[WarpZoneInfo]
+OtherSideURL=
+
+[GameInfo]
+SwitchLevelMessage=Cambiando niveles
+DefaultPlayerName=Jugador
+LeftMessage=" ha abandonado la partida."
+FailedSpawnMessage=No se ha generado un jugador actor
+FailedPlaceMessage=No se ha podido encontrar un punto de inicio (el nivel puede necesitar un actor 'PlayerStart').
+NameChangedMessage=Nombre cambia a
+EnteredMessage=" ha entrado en la partida."
+GameName="Partida"
+MaxedOutMessage=El servidor ya está al límite.
+WrongPassword=La contraseña que has introducido no es correcta.
+NeedPassword=Tienes que introducir una contraseña para unirte a esta partida.
+FailedTeamMessage=No se ha podido encontrar un equipo para jugador
+
+[LevelInfo]
+Title=Sin título
+
+[Weapon]
+MessageNoAmmo=" no tiene munición."
+PickupMessage=Tienes un arma
+DeathMessage=%o ha sido asesinado por %k's %w.
+ItemName=Arma
+DeathMessage[0]=%o ha sido asesinado por %k's %w.
+DeathMessage[1]=%o ha sido asesinado por %k's %w.
+DeathMessage[2]=%o ha sido asesinado por %k's %w.
+DeathMessage[3]=%o ha sido asesinado por %k's %w.
+
+[Counter]
+CountMessage=Queda %i para terminar...
+CompleteMessage=¡Completado!
+
+[Ammo]
+PickupMessage=Has cogido munición.
+
+[Pickup]
+ExpireMessage=
+
+[SpecialEvent]
+DamageString=
+
+[DamageType]
+Name=asesinado
+AltName=asesinado
+
+[PlayerPawn]
+QuickSaveString=Guardado rápido
+NoPauseMessage=La partida no se puede detener
+ViewingFrom=Visualizando desde
+OwnCamera=cámara propia
+FailedView=No se ha podido cambiar la vista.
+CantChangeNameMsg=No puedes cambiar tu nombre durante una partida en línea.
+
+[Pawn]
+NameArticle=" a"
+
+[Spectator]
+MenuName=Espectador
+
+[ServerCommandlet]
+HelpCmd=servidor
+HelpOneLiner=Servidor de juego de red
+HelpUsage=server map.unr[?game=gametype] [-option...] [parm=value]...
+HelpWebLink=http://www.swat.sierra.com
+HelpParm[0]=Registro
+HelpDesc[0]=Especificar el archivo de registro a generar
+HelpParm[1]=AllAdmin
+HelpDesc[1]=Conceder privilegios de administrador a todos los jugadores
+
+[KeyNames]
+LeftMouse=Botón izquierdo
+RightMouse=Botón derecho
+MiddleMouse=Botón central
+Tab=Tab
+Enter=Entrar
+Shift=Mayús
+Ctrl=Ctrl
+Alt=Alt
+Pause=Pausa
+CapsLock=Bloq Mayús
+Escape=Escape
+Space=Espacio
+PageDown=AvPág
+End=Fin
+Left=Flecha izquierda
+Up=Flecha arriba
+Right=Flecha derecha
+Down=Flecha abajo
+Insert=Insert
+Delete=Eliminar
+Equals=Igual
+Comma=Coma
+Backspace=Retroceso
+PageUp=RePág
+home=Inicio
+Select=Seleccionar
+Print=Imprimir
+Execute=Ejecutar
+PrintScrn=Imp Pant
+Help=Ayuda
+GreyStar=* teclado núm.
+GreyMinus=- teclado núm.
+GreyPlus=+ teclado núm.
+Separator=Separador
+NumPadPeriod=. (punto) teclado núm.
+GreySlash=/ teclado núm.
+NumLock=Teclado núm.
+ScrollLock=Bloquear desplazamiento
+LShift=Mayús izquierda
+RShift=Mayús derecha
+LControl=Control izquierda
+RControl=Control derecha
+Attn=Attn
+MouseWheelDown=Rueda del ratón abajo
+MouseWheelUp=Rueda del ratón arriba
+Joy1=Joy 1
+Joy2=Joy 2
+Joy3=Joy 3
+Joy4=Joy 4
+Joy5=Joy 5
+Joy6=Joy 6
+Joy7=Joy 7
+Joy8=Joy 8
+Joy9=Joy 9
+Joy10=Joy 10
+Joy11=Joy 11
+Joy12=Joy 12
+Joy13=Joy 13
+Joy14=Joy 14
+Joy15=Joy 15
+Joy16=Joy 16
+JoyX=Joy X
+JoyY=Joy Y
+JoyZ=Joy Z
+JoyR=Joy R
+JoyU=Joy U
+JoyV=Joy V
+JoySlider1=Joy Slider 1
+JoySlider2=Joy Slider 2
+NumPad1=1 teclado núm.
+NumPad2=2 teclado núm.
+NumPad3=3 teclado núm.
+NumPad4=4 teclado núm.
+NumPad5=5 teclado núm.
+NumPad6=6 teclado núm.
+NumPad7=7 teclado núm.
+NumPad8=8 teclado núm.
+NumPad9=9 teclado núm.
+NumPad0=0 teclado núm.
+UNKNOWN5B=Windows izquierda
+UNKNOWN5C=Windows derecha
+UNKNOWN5D=Aplicaciones
+F15=Botón del ratón 5 / F15
+Mouse5=Botón del ratón 5 / F15
+Mouse4=Botón del ratón 4

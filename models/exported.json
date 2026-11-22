@@ -1,0 +1,117 @@
+﻿[
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\SWATheavy.gltf",
+        "Name":  "SWATheavy",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\SwatOfficer.gltf",
+        "Name":  "SwatOfficer",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleDoctor.gltf",
+        "Name":  "MaleDoctor",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleJanitor.gltf",
+        "Name":  "MaleJanitor",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleCasualArmor.gltf",
+        "Name":  "MaleCasualArmor",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleCasual3.gltf",
+        "Name":  "MaleCasual3",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleCasual1.gltf",
+        "Name":  "MaleCasual1",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\CultLeader.gltf",
+        "Name":  "CultLeader",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleCasual2.gltf",
+        "Name":  "MaleCasual2",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\LeoMel.gltf",
+        "Name":  "LeoMel",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleChubby.gltf",
+        "Name":  "MaleChubby",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleBarber.gltf",
+        "Name":  "MaleBarber",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleCasual4.gltf",
+        "Name":  "MaleCasual4",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\SWATinstructor.gltf",
+        "Name":  "SWATinstructor",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleGang1.gltf",
+        "Name":  "MaleGang1",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleSuit2.gltf",
+        "Name":  "MaleSuit2",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\SWATMaleAnimation\\SkeletalMesh\\MaleSuit.gltf",
+        "Name":  "MaleSuit",
+        "Package":  "SWATMaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\FemaleAnimation\\SkeletalMesh\\FemaleHeavy.gltf",
+        "Name":  "FemaleHeavy",
+        "Package":  "FemaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\FemaleAnimation\\SkeletalMesh\\FemaleCasual1.gltf",
+        "Name":  "FemaleCasual1",
+        "Package":  "FemaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\FemaleAnimation\\SkeletalMesh\\FemaleNurse.gltf",
+        "Name":  "FemaleNurse",
+        "Package":  "FemaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\FemaleAnimation\\SkeletalMesh\\FemaleCasual2.gltf",
+        "Name":  "FemaleCasual2",
+        "Package":  "FemaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\FemaleAnimation\\SkeletalMesh\\FemaleOffice.gltf",
+        "Name":  "FemaleOffice",
+        "Package":  "FemaleAnimation"
+    },
+    {
+        "Path":  "C:\\Users\\RDP.runnervmbpeip\\AppData\\Local\\Temp\\3\\opencode\\models-all\\FemaleAnimation\\SkeletalMesh\\FemaleCasual3.gltf",
+        "Name":  "FemaleCasual3",
+        "Package":  "FemaleAnimation"
+    }
+]

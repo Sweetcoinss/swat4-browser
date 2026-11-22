@@ -1,0 +1,343 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\Gameplay.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 191,
+  "imports": 55,
+  "exports": 253,
+  "classes": 23,
+  "functions": 44,
+  "states": 0,
+  "properties": 140,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "MessageMover",
+      "path": "MessageMover",
+      "super": "Engine.Message",
+      "outer": "None",
+      "functions": [
+        "editorDisplay",
+        "construct_Name"
+      ],
+      "states": [],
+      "properties": [
+        "moverLabel"
+      ]
+    },
+    {
+      "name": "MessageTrigger",
+      "path": "MessageTrigger",
+      "super": "Engine.Message",
+      "outer": "None",
+      "functions": [
+        "editorDisplay",
+        "construct_NameName"
+      ],
+      "states": [],
+      "properties": [
+        "Instigator",
+        "Trigger"
+      ]
+    },
+    {
+      "name": "MessageTriggerVolume",
+      "path": "MessageTriggerVolume",
+      "super": "Engine.Message",
+      "outer": "None",
+      "functions": [
+        "editorDisplay",
+        "construct_NameName"
+      ],
+      "states": [],
+      "properties": [
+        "Instigator",
+        "TriggerVolume"
+      ]
+    },
+    {
+      "name": "Trigger",
+      "path": "Trigger",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "CanTrigger",
+        "dispatchMessage",
+        "dispatchTrigger"
+      ],
+      "states": [],
+      "properties": [
+        "triggeredByFilter",
+        "debugLogString"
+      ]
+    },
+    {
+      "name": "MessageTriggerEnter",
+      "path": "MessageTriggerEnter",
+      "super": "MessageTrigger",
+      "outer": "None",
+      "functions": [
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MessageTriggerExit",
+      "path": "MessageTriggerExit",
+      "super": "MessageTrigger",
+      "outer": "None",
+      "functions": [
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MessageTriggerVolumeEnter",
+      "path": "MessageTriggerVolumeEnter",
+      "super": "MessageTriggerVolume",
+      "outer": "None",
+      "functions": [
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MessageTriggerVolumeExit",
+      "path": "MessageTriggerVolumeExit",
+      "super": "MessageTriggerVolume",
+      "outer": "None",
+      "functions": [
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TriggerVolume",
+      "path": "TriggerVolume",
+      "super": "Engine.PhysicsVolume",
+      "outer": "None",
+      "functions": [
+        "PawnEnteredVolume",
+        "PawnLeavingVolume",
+        "MeetsRestrictions",
+        "ResetForMPQuickRestart"
+      ],
+      "states": [],
+      "properties": [
+        "TriggerOnlyByClass",
+        "TriggerOnlyByLabel",
+        "Disabled",
+        "AlreadyTriggeredLeaving",
+        "AlreadyTriggeredEntered",
+        "TriggerOnlyOnce"
+      ]
+    },
+    {
+      "name": "ActionGetCurrentTime",
+      "path": "ActionGetCurrentTime",
+      "super": "Scripting.Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TriggerRadius",
+      "path": "TriggerRadius",
+      "super": "Trigger",
+      "outer": "None",
+      "functions": [
+        "Touch",
+        "UnTouch",
+        "checkLOS",
+        "dispatchEnter",
+        "dispatchExit"
+      ],
+      "states": [],
+      "properties": [
+        "maxExitCount",
+        "enterCount",
+        "exitCount",
+        "maxEnterCount",
+        "doLOSCheck"
+      ]
+    },
+    {
+      "name": "MessageMoverPlayerBump",
+      "path": "MessageMoverPlayerBump",
+      "super": "MessageMover",
+      "outer": "None",
+      "functions": [
+        "construct_NameName",
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": [
+        "playerLabel"
+      ]
+    },
+    {
+      "name": "MessageMoverOpening",
+      "path": "MessageMoverOpening",
+      "super": "MessageMover",
+      "outer": "None",
+      "functions": [
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MessageMoverOpened",
+      "path": "MessageMoverOpened",
+      "super": "MessageMover",
+      "outer": "None",
+      "functions": [
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MessageUsed",
+      "path": "MessageUsed",
+      "super": "Engine.Message",
+      "outer": "None",
+      "functions": [
+        "construct_NameName",
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": [
+        "User",
+        "Usee"
+      ]
+    },
+    {
+      "name": "MessageMoverClosing",
+      "path": "MessageMoverClosing",
+      "super": "MessageMover",
+      "outer": "None",
+      "functions": [
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MessageMoverClosed",
+      "path": "MessageMoverClosed",
+      "super": "MessageMover",
+      "outer": "None",
+      "functions": [
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MessageMoverBump",
+      "path": "MessageMoverBump",
+      "super": "MessageMover",
+      "outer": "None",
+      "functions": [
+        "construct_NameName",
+        "editorDisplay"
+      ],
+      "states": [],
+      "properties": [
+        "bumperLabel"
+      ]
+    },
+    {
+      "name": "ActionGetMessageValue",
+      "path": "ActionGetMessageValue",
+      "super": "Scripting.Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute",
+        "messageProperties"
+      ],
+      "states": [],
+      "properties": [
+        "Property"
+      ]
+    },
+    {
+      "name": "ActionShakeCamera",
+      "path": "ActionShakeCamera",
+      "super": "Scripting.Action",
+      "outer": "None",
+      "functions": [
+        "editorDisplayString",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "rollMagnitude",
+        "RollRate",
+        "rollTime",
+        "offsetMagnitude",
+        "OffsetRate",
+        "OffsetTime"
+      ]
+    },
+    {
+      "name": "ActionSendTriggerMessage",
+      "path": "ActionSendTriggerMessage",
+      "super": "Scripting.Action",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "Construct_Void"
+      ],
+      "states": [],
+      "properties": [
+        "Instigator"
+      ]
+    },
+    {
+      "name": "ActionPlayAnimation",
+      "path": "ActionPlayAnimation",
+      "super": "Scripting.Action",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "TargetLabel",
+        "Animation",
+        "AnimationRate",
+        "TweenTime",
+        "Channel"
+      ]
+    },
+    {
+      "name": "MessageLevelStart",
+      "path": "MessageLevelStart",
+      "super": "Engine.Message",
+      "outer": "None",
+      "functions": [
+        "editorDisplay",
+        "construct_Bool"
+      ],
+      "states": [],
+      "properties": [
+        "UsingCustomScenario"
+      ]
+    }
+  ],
+  "package": "System\\Gameplay.u"
+}

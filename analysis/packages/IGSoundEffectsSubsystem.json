@@ -1,0 +1,382 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\IGSoundEffectsSubsystem.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 386,
+  "imports": 63,
+  "exports": 418,
+  "classes": 16,
+  "functions": 80,
+  "states": 0,
+  "properties": 260,
+  "enums": 3,
+  "structs": 3,
+  "consts": 16,
+  "class_list": [
+    {
+      "name": "SoundInstance",
+      "path": "SoundInstance",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "Play",
+        "SetObserver",
+        "Stop",
+        "SetPitch",
+        "SetVolume",
+        "GetDuration",
+        "toString",
+        "OnFinishedInitialized"
+      ],
+      "states": [],
+      "properties": [
+        "Source",
+        "Schema",
+        "ActualSound",
+        "Observer",
+        "SoundHandle",
+        "IsUpdating",
+        "Paused",
+        "Muted",
+        "FadeInTime",
+        "Pitch",
+        "Volume",
+        "OuterRadius",
+        "InnerRadius",
+        "Local",
+        "AISoundRadius",
+        "SoundCategory",
+        "NativeFlags",
+        "IsPlaying",
+        "MonophonicToClass",
+        "Priority",
+        "MonophonicPriority",
+        "Monophonic",
+        "IsSeamlessLoop",
+        "IsPolyloop",
+        "IsMonoloop",
+        "IsEndPredictable",
+        "Retriggerable",
+        "FadeOutTime",
+        "LoopRange",
+        "CurrentLoopCount",
+        "Delay",
+        "NextStopTime",
+        "NextPlayTime",
+        "EndTime",
+        "StartTime",
+        "SavedSourceLocation",
+        "Manager"
+      ]
+    },
+    {
+      "name": "SoundEffectSpecification",
+      "path": "SoundEffectSpecification",
+      "super": "IGEffectsSystem.EffectSpecification",
+      "outer": "None",
+      "functions": [
+        "SetNativeFlagsHook",
+        "InitHook",
+        "PopulateSoundsHook",
+        "ConstructSoundInstance",
+        "NativeInitialize",
+        "GetAISoundRadius",
+        "GetNativeFlags",
+        "IsLocal",
+        "GetOuterRadius",
+        "GetSoundCategory",
+        "toString",
+        "ExtractToken",
+        "Init",
+        "PickSoundToPlay",
+        "WantsToLoop"
+      ],
+      "states": [],
+      "properties": [
+        "SoundSets",
+        "NativeFlags",
+        "IsSeamlessLoop",
+        "NeverRepeat",
+        "NoRepeat",
+        "OuterRadius",
+        "Local",
+        "AISoundRadius",
+        "SoundCategory",
+        "VolumeCategory",
+        "SampleRate",
+        "InnerRadius",
+        "Volume",
+        "Pitch",
+        "Delay",
+        "Pan",
+        "PitchRange",
+        "PanRange",
+        "Monoloop",
+        "LoopCount",
+        "PlayOnce",
+        "Retriggerable",
+        "FadeInTime",
+        "FadeOutTime",
+        "Monophonic",
+        "MonophonicPriority",
+        "MonophonicToClass",
+        "Priority",
+        "Caption",
+        "Speaker",
+        "IsPitchRange",
+        "IsPanRange",
+        "IsMonoloop",
+        "IsPolyloop",
+        "IsEndPredictable",
+        "Killable",
+        "LoopDelayRange",
+        "LoopSoundLimit",
+        "IsFullyInitialized",
+        "Polyloop"
+      ]
+    },
+    {
+      "name": "SoundEffectsSubsystem",
+      "path": "SoundEffectsSubsystem",
+      "super": "IGEffectsSystem.EffectsSubsystem",
+      "outer": "None",
+      "functions": [
+        "KillInstance",
+        "CreateSoundInstance",
+        "AddToCurrentSounds",
+        "CanStartInstance",
+        "StopMyLoopingSchemas",
+        "NativeInitialize",
+        "GetMusicManager",
+        "PreBeginPlay",
+        "OnOtherActorDestroyed",
+        "OnGameStarted",
+        "GetSoundMaterialFlags",
+        "PlayEffectSpecification",
+        "OnBankDeposited",
+        "PlaySpecificSoundFromSchema",
+        "StopEffectSpecification",
+        "PauseAllSchemas",
+        "OnBankWithdrawn",
+        "UnpauseAllSchemas",
+        "PostLoaded",
+        "PlayMarkerSounds",
+        "SetMusicContext",
+        "LogState",
+        "HasAudioHardware",
+        "SetNativeLooping",
+        "GetSoundDebugText",
+        "StopSound",
+        "StopMySchemas",
+        "StopAllSchemas",
+        "StopAllLoopingSchemas",
+        "IsSchemaPlaying"
+      ],
+      "states": [],
+      "properties": [
+        "CurrentSounds",
+        "bDebugSounds",
+        "SoundInstanceBank",
+        "bSoundsArePaused",
+        "GameStarted",
+        "MusicManager",
+        "LastMusicMarker",
+        "MusicContext",
+        "MusicManagerClassName",
+        "PrecacheNormalSoundEffects",
+        "PrecacheStreamingSoundEffects",
+        "OverrideCaptionSpeakerNameForNextEffectEvent",
+        "Speakers"
+      ]
+    },
+    {
+      "name": "SoundRef",
+      "path": "SoundRef",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "toString",
+        "Equals"
+      ],
+      "states": [],
+      "properties": [
+        "SoundSetIndex"
+      ]
+    },
+    {
+      "name": "SoundSet",
+      "path": "SoundSet",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "AddSoundRef"
+      ],
+      "states": [],
+      "properties": [
+        "AllSounds",
+        "StatusArray",
+        "LastSoundUsed"
+      ]
+    },
+    {
+      "name": "NormalSoundRef",
+      "path": "NormalSoundRef",
+      "super": "SoundRef",
+      "outer": "None",
+      "functions": [
+        "PlayMySound",
+        "toString"
+      ],
+      "states": [],
+      "properties": [
+        "Sound"
+      ]
+    },
+    {
+      "name": "ActorBank",
+      "path": "ActorBank",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "OnWithdrawn",
+        "OnDeposited",
+        "Deposit",
+        "Withdraw",
+        "Initialize"
+      ],
+      "states": [],
+      "properties": [
+        "BankedActors",
+        "ActorClassType",
+        "bInitialized",
+        "__OnWithdrawn__Delegate",
+        "__OnDeposited__Delegate"
+      ]
+    },
+    {
+      "name": "DynamicMusicManagerBase",
+      "path": "DynamicMusicManagerBase",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SoundMarkerBase",
+      "path": "SoundMarkerBase",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "PlayEffects",
+        "Touch",
+        "OnGameStarted",
+        "PostBeginPlay"
+      ],
+      "states": [],
+      "properties": [
+        "GameStarted",
+        "QueuedTillStartup"
+      ]
+    },
+    {
+      "name": "StreamSoundEffectSpecification",
+      "path": "StreamSoundEffectSpecification",
+      "super": "SoundEffectSpecification",
+      "outer": "None",
+      "functions": [
+        "InitHook",
+        "SetNativeFlagsHook",
+        "PopulateSoundsHook"
+      ],
+      "states": [],
+      "properties": [
+        "Streams",
+        "StreamType"
+      ]
+    },
+    {
+      "name": "MusicMarker",
+      "path": "MusicMarker",
+      "super": "SoundMarkerBase",
+      "outer": "None",
+      "functions": [
+        "PlayEffects"
+      ],
+      "states": [],
+      "properties": [
+        "MusicContext"
+      ]
+    },
+    {
+      "name": "Speakers",
+      "path": "Speakers",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "Speaker",
+        "SpeakerMap"
+      ]
+    },
+    {
+      "name": "EventResponse_SoundEffectsSubsystem",
+      "path": "EventResponse_SoundEffectsSubsystem",
+      "super": "IGEffectsSystem.EventResponse",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NormalSoundEffectSpecification",
+      "path": "NormalSoundEffectSpecification",
+      "super": "SoundEffectSpecification",
+      "outer": "None",
+      "functions": [
+        "PopulateSoundsHook",
+        "SetNativeFlagsHook",
+        "InitHook"
+      ],
+      "states": [],
+      "properties": [
+        "FlaggedSounds"
+      ]
+    },
+    {
+      "name": "StreamSoundRef",
+      "path": "StreamSoundRef",
+      "super": "SoundRef",
+      "outer": "None",
+      "functions": [
+        "ResumeStream",
+        "PauseStream",
+        "StopStream",
+        "PlayStream",
+        "toString"
+      ],
+      "states": [],
+      "properties": [
+        "Stream",
+        "StreamDuration"
+      ]
+    },
+    {
+      "name": "SoundMarker",
+      "path": "SoundMarker",
+      "super": "SoundMarkerBase",
+      "outer": "None",
+      "functions": [
+        "PlayEffects"
+      ],
+      "states": [],
+      "properties": [
+        "Schema1",
+        "Schema2"
+      ]
+    }
+  ],
+  "package": "System\\IGSoundEffectsSubsystem.u"
+}

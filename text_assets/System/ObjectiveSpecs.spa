@@ -1,0 +1,4 @@
+[ClearHotelBeforeBombExplodes]
+;Standard Objective Properties
+Description=Despejar el hotel antes de que explote la bomba
+FailureCondition=El temporizador de la bomba ha finalizado y la bomba ha explotado

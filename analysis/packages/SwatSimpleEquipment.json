@@ -1,0 +1,892 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\Classes\\SwatSimpleEquipment.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 188,
+  "imports": 104,
+  "exports": 97,
+  "classes": 97,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "CultLeaderGlasses",
+      "path": "CultLeaderGlasses",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glasses_A",
+      "path": "Glasses_A",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glasses_B",
+      "path": "Glasses_B",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BBhat1FWD",
+      "path": "BBhat1FWD",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BBhat1BWD",
+      "path": "BBhat1BWD",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BoonieHat_Black",
+      "path": "BoonieHat_Black",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATbackPouch",
+      "path": "SWATbackPouch",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATc2Pouch",
+      "path": "SWATc2Pouch",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATclipPouch",
+      "path": "SWATclipPouch",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATcuffPouch",
+      "path": "SWATcuffPouch",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATgoggles",
+      "path": "SWATgoggles",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWAThipPouch",
+      "path": "SWAThipPouch",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATholster",
+      "path": "SWATholster",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATkevlarHelmet",
+      "path": "SWATkevlarHelmet",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATpeppersprayPouch",
+      "path": "SWATpeppersprayPouch",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATradioPouch",
+      "path": "SWATradioPouch",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATtoolkitPouch",
+      "path": "SWATtoolkitPouch",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATglasses",
+      "path": "SWATglasses",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GladysGlasses",
+      "path": "GladysGlasses",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JanitorHatFWDblack",
+      "path": "JanitorHatFWDblack",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JanitorHatFWDblue",
+      "path": "JanitorHatFWDblue",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JanitorHatFWDred",
+      "path": "JanitorHatFWDred",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JanitorHatFWDgreen",
+      "path": "JanitorHatFWDgreen",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JanitorHatFWDgrey",
+      "path": "JanitorHatFWDgrey",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JanitorHatBWDblack",
+      "path": "JanitorHatBWDblack",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JanitorHatBWDblue",
+      "path": "JanitorHatBWDblue",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JanitorHatBWDgreen",
+      "path": "JanitorHatBWDgreen",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JanitorHatBWDgrey",
+      "path": "JanitorHatBWDgrey",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JanitorHatBWDred",
+      "path": "JanitorHatBWDred",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FemaleGlasses_a",
+      "path": "FemaleGlasses_a",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FemaleGlasses_b",
+      "path": "FemaleGlasses_b",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MelKlinePigTails",
+      "path": "MelKlinePigTails",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BBhat2FWD",
+      "path": "BBhat2FWD",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BBhat3FWD",
+      "path": "BBhat3FWD",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BBhat4FWD",
+      "path": "BBhat4FWD",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BBhat2BWD",
+      "path": "BBhat2BWD",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BBhat3BWD",
+      "path": "BBhat3BWD",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BBhat4BWD",
+      "path": "BBhat4BWD",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "OptiwandHolster",
+      "path": "OptiwandHolster",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MC1SecurityPointHat",
+      "path": "MC1SecurityPointHat",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MC1SecurityBBallHat",
+      "path": "MC1SecurityBBallHat",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MC1SecurityKeys",
+      "path": "MC1SecurityKeys",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MC1SecurityBeltPouch",
+      "path": "MC1SecurityBeltPouch",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FC2hair_a",
+      "path": "FC2hair_a",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FemaleGlasses_c",
+      "path": "FemaleGlasses_c",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FemaleNurseHair_a",
+      "path": "FemaleNurseHair_a",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FemaleNurseHair_b",
+      "path": "FemaleNurseHair_b",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FemaleNurseHair_c",
+      "path": "FemaleNurseHair_c",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FemaleSurgeonCap_a",
+      "path": "FemaleSurgeonCap_a",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TamWil_Blindfold",
+      "path": "TamWil_Blindfold",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SkullCapRed",
+      "path": "SkullCapRed",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SkullCapBlack",
+      "path": "SkullCapBlack",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SkullCapGreen",
+      "path": "SkullCapGreen",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TruckerHat_a",
+      "path": "TruckerHat_a",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TruckerHat_b",
+      "path": "TruckerHat_b",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TruckerHat_c",
+      "path": "TruckerHat_c",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glasses_C",
+      "path": "Glasses_C",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glasses_D",
+      "path": "Glasses_D",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Earring_a",
+      "path": "Earring_a",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FemalePunkEarring_A",
+      "path": "FemalePunkEarring_A",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FC2PunkHairD",
+      "path": "FC2PunkHairD",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWallHat",
+      "path": "FoodWallHat",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWallNameTag_A",
+      "path": "FoodWallNameTag_A",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JeffGacyGlasses",
+      "path": "JeffGacyGlasses",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MaleDoctorSurgeonHat",
+      "path": "MaleDoctorSurgeonHat",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MaleDoctorID_FleshA",
+      "path": "MaleDoctorID_FleshA",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MaleDoctorID_FleshB",
+      "path": "MaleDoctorID_FleshB",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MaleDoctorID_FleshC",
+      "path": "MaleDoctorID_FleshC",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glasses_E",
+      "path": "Glasses_E",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glasses_F",
+      "path": "Glasses_F",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HomelessGlasses",
+      "path": "HomelessGlasses",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HomelessHat",
+      "path": "HomelessHat",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FN_HomelessHat",
+      "path": "FN_HomelessHat",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MB_Bandages",
+      "path": "MB_Bandages",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MCAgasMask",
+      "path": "MCAgasMask",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HardHat",
+      "path": "HardHat",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FC2Glasses_b",
+      "path": "FC2Glasses_b",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FC3Glasses_a",
+      "path": "FC3Glasses_a",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FC3Glasses_b",
+      "path": "FC3Glasses_b",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MChubGlassesA",
+      "path": "MChubGlassesA",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HockeyMask",
+      "path": "HockeyMask",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PaperTarget",
+      "path": "PaperTarget",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MG1Glasses_c",
+      "path": "MG1Glasses_c",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MG1KnitCap_b",
+      "path": "MG1KnitCap_b",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MG1Glasses_d",
+      "path": "MG1Glasses_d",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MG1KnitCap_a",
+      "path": "MG1KnitCap_a",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MG1Earring",
+      "path": "MG1Earring",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TamWil_HandsTied",
+      "path": "TamWil_HandsTied",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MSGlasses_a",
+      "path": "MSGlasses_a",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MSearPiece",
+      "path": "MSearPiece",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATkevlarHelmetGoggles",
+      "path": "SWATkevlarHelmetGoggles",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CadetHat",
+      "path": "CadetHat",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CadetBelt",
+      "path": "CadetBelt",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodwallChefHat",
+      "path": "FoodwallChefHat",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SunGlasses_A",
+      "path": "SunGlasses_A",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SunGlasses_B",
+      "path": "SunGlasses_B",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SunGlasses_C",
+      "path": "SunGlasses_C",
+      "super": "SwatGame.SimpleEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "Classes\\SwatSimpleEquipment.u"
+}

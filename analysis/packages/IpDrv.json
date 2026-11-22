@@ -1,0 +1,352 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\IpDrv.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65541,
+  "names": 385,
+  "imports": 69,
+  "exports": 505,
+  "classes": 14,
+  "functions": 107,
+  "states": 0,
+  "properties": 333,
+  "enums": 12,
+  "structs": 4,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "UdpLink",
+      "path": "UdpLink",
+      "super": "InternetLink",
+      "outer": "None",
+      "functions": [
+        "ReceivedText",
+        "ReceivedBinary",
+        "ReceivedLine",
+        "ReadBinary",
+        "ReadText",
+        "SendBinary",
+        "SendText",
+        "BindPort"
+      ],
+      "states": [],
+      "properties": [
+        "BroadcastAddr"
+      ]
+    },
+    {
+      "name": "MasterServerUplink",
+      "path": "MasterServerUplink",
+      "super": "MasterServerLink",
+      "outer": "None",
+      "functions": [
+        "Reconnect",
+        "BeginPlay",
+        "ConnectionFailed",
+        "Refresh",
+        "LogStatLine",
+        "Tick"
+      ],
+      "states": [],
+      "properties": [
+        "GameStats",
+        "ReconnectTime",
+        "ServerState",
+        "bReconnectPending",
+        "SendStats",
+        "UplinkToGamespy",
+        "DoUplink",
+        "GamespyQueryLink",
+        "MatchID",
+        "ServerBehindNAT",
+        "DoLANBroadcast"
+      ]
+    },
+    {
+      "name": "UdpGamespyQuery",
+      "path": "UdpGamespyQuery",
+      "super": "UdpLink",
+      "outer": "None",
+      "functions": [
+        "PreBeginPlay",
+        "PostBeginPlay",
+        "ReceivedText",
+        "ParseNextQuery",
+        "ParseQuery",
+        "SendAPacket",
+        "SendQueryPacket",
+        "GetBasic",
+        "GetInfo",
+        "GetRules",
+        "GetPlayer",
+        "SendPlayers",
+        "GetLevelProperty",
+        "GetGameProperty",
+        "GetPlayerProperty"
+      ],
+      "states": [],
+      "properties": [
+        "ReplyData",
+        "MinNetVer",
+        "CurrentQueryNum",
+        "OldQueryPortNumber",
+        "bRestartServerOnPortSwap",
+        "QueryName"
+      ]
+    },
+    {
+      "name": "InternetLink",
+      "path": "InternetLink",
+      "super": "Engine.InternetInfo",
+      "outer": "None",
+      "functions": [
+        "ResolveFailed",
+        "Resolved",
+        "GetLocalIP",
+        "GameSpyGameName",
+        "GameSpyValidate",
+        "StringToIpAddr",
+        "IpAddrToString",
+        "GetLastError",
+        "Resolve",
+        "ParseURL",
+        "IsDataPending"
+      ],
+      "states": [],
+      "properties": [
+        "Port",
+        "ReceiveMode",
+        "DataPending",
+        "PrivateResolveInfo",
+        "RemoteSocket",
+        "Socket",
+        "LinkMode"
+      ]
+    },
+    {
+      "name": "UdpBeacon",
+      "path": "UdpBeacon",
+      "super": "UdpLink",
+      "outer": "None",
+      "functions": [
+        "BeginPlay",
+        "ReceivedText",
+        "Destroyed",
+        "BroadcastBeaconQuery",
+        "BroadcastBeacon"
+      ],
+      "states": [],
+      "properties": [
+        "BeaconProduct",
+        "boundport",
+        "UdpServerQueryPort",
+        "BeaconPort",
+        "ServerBeaconPort",
+        "BeaconTimeout",
+        "DoBeacon"
+      ]
+    },
+    {
+      "name": "UdpGamespyUplink",
+      "path": "UdpGamespyUplink",
+      "super": "UdpLink",
+      "outer": "None",
+      "functions": [
+        "PreBeginPlay",
+        "Resolved",
+        "ResolveFailed",
+        "Timer",
+        "Halt",
+        "Resume",
+        "ReceivedText",
+        "ParseNextQuery",
+        "ParseQuery",
+        "SendQueryPacket"
+      ],
+      "states": [],
+      "properties": [
+        "MasterServerIpAddr",
+        "Query",
+        "CurrentQueryNum",
+        "MasterServerAddress",
+        "ServerRegion",
+        "HeartbeatMessage",
+        "UpdateMinutes",
+        "MasterServerPort",
+        "TargetQueryName"
+      ]
+    },
+    {
+      "name": "MasterServerLink",
+      "path": "MasterServerLink",
+      "super": "Engine.Info",
+      "outer": "None",
+      "functions": [
+        "Tick",
+        "GetMasterServer",
+        "Poll"
+      ],
+      "states": [],
+      "properties": [
+        "CurrentMasterServer",
+        "MasterServerAddress",
+        "MasterServerPort",
+        "LANServerPort",
+        "LANPort",
+        "LinkPtr"
+      ]
+    },
+    {
+      "name": "MasterServerGameStats",
+      "path": "MasterServerGameStats",
+      "super": "Engine.GameStats",
+      "outer": "None",
+      "functions": [
+        "Init",
+        "Shutdown",
+        "Logf"
+      ],
+      "states": [],
+      "properties": [
+        "Uplink"
+      ]
+    },
+    {
+      "name": "ServerQueryClient",
+      "path": "ServerQueryClient",
+      "super": "MasterServerLink",
+      "outer": "None",
+      "functions": [
+        "OnAllServersReturned",
+        "OnPingTimeout",
+        "OnReceivedPingInfo",
+        "PingServer",
+        "CancelPings",
+        "BroadcastPingRequest"
+      ],
+      "states": [],
+      "properties": [
+        "bLANQuery",
+        "__OnReceivedPingInfo__Delegate",
+        "__OnPingTimeout__Delegate",
+        "__OnAllServersReturned__Delegate"
+      ]
+    },
+    {
+      "name": "TcpLink",
+      "path": "TcpLink",
+      "super": "InternetLink",
+      "outer": "None",
+      "functions": [
+        "ReceivedText",
+        "ReceivedBinary",
+        "ReceivedLine",
+        "Closed",
+        "Opened",
+        "Accepted",
+        "ReadBinary",
+        "ReadText",
+        "SendBinary",
+        "SendText",
+        "IsConnected",
+        "Close",
+        "Open",
+        "Listen",
+        "BindPort"
+      ],
+      "states": [],
+      "properties": [
+        "SendFIFO",
+        "AcceptClass",
+        "RemoteAddr",
+        "LinkState"
+      ]
+    },
+    {
+      "name": "MasterServerClient",
+      "path": "MasterServerClient",
+      "super": "ServerQueryClient",
+      "outer": "None",
+      "functions": [
+        "OnReceivedMOTDData",
+        "OnReceivedServer",
+        "OnQueryFinished",
+        "StartQuery",
+        "Stop",
+        "LaunchAutoUpdate"
+      ],
+      "states": [],
+      "properties": [
+        "MSLinkPtr",
+        "Query",
+        "ResultCount",
+        "__OnQueryFinished__Delegate",
+        "__OnReceivedServer__Delegate",
+        "__OnReceivedMOTDData__Delegate"
+      ]
+    },
+    {
+      "name": "LANQueryClient",
+      "path": "LANQueryClient",
+      "super": "ServerQueryClient",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ClientBeaconReceiver",
+      "path": "ClientBeaconReceiver",
+      "super": "UdpBeacon",
+      "outer": "None",
+      "functions": [
+        "ReceivedText",
+        "BroadcastQuery",
+        "Timer",
+        "BeginPlay",
+        "GetBeaconText",
+        "GetBeaconAddress",
+        "GetBeaconCount"
+      ],
+      "states": [],
+      "properties": [
+        "Beacons"
+      ]
+    },
+    {
+      "name": "BufferedTCPLink",
+      "path": "BufferedTCPLink",
+      "super": "TcpLink",
+      "outer": "None",
+      "functions": [
+        "DoBufferQueueIO",
+        "ReceivedText",
+        "SendBufferedData",
+        "ReadBufferedLine",
+        "PeekChar",
+        "ReadChar",
+        "ParseDelimited",
+        "GotMatchTimeout",
+        "GotMatch",
+        "WaitForCount",
+        "WaitFor",
+        "ResetBuffer"
+      ],
+      "states": [],
+      "properties": [
+        "InputBuffer",
+        "bWaiting",
+        "OutputBuffer",
+        "WaitingFor",
+        "WaitForCountChars",
+        "WaitMatchData",
+        "WaitResult",
+        "WaitTimeoutTime",
+        "CR",
+        "LF",
+        "CRLF"
+      ]
+    }
+  ],
+  "package": "System\\IpDrv.u"
+}

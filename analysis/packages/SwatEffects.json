@@ -1,0 +1,2440 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\Classes\\SwatEffects.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 914,
+  "imports": 131,
+  "exports": 834,
+  "classes": 269,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "Rain",
+      "path": "Rain",
+      "super": "Engine.Emitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JunctionBoxExplode",
+      "path": "JunctionBoxExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M1sg3rdPersonMuzzleFlash",
+      "path": "M1sg3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TVsetExplode",
+      "path": "TVsetExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitThickMetal",
+      "path": "BulletHitThickMetal",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BombExplode",
+      "path": "BombExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "C2metalDoor",
+      "path": "C2metalDoor",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JewelryCeilingMountedTVExplode",
+      "path": "JewelryCeilingMountedTVExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TeddyBearExplode",
+      "path": "TeddyBearExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PistolMuzzleFlash",
+      "path": "PistolMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SGdoor_metal",
+      "path": "SGdoor_metal",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitFlesh",
+      "path": "BulletHitFlesh",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletExitFlesh",
+      "path": "BulletExitFlesh",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pepperspray1stPerson",
+      "path": "Pepperspray1stPerson",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RifleMuzzleFlash",
+      "path": "RifleMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_DirtyWindowBreak",
+      "path": "con_DirtyWindowBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK74su3rdPersonMuzzleFlash",
+      "path": "AK74su3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MonitorBreak",
+      "path": "MonitorBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WhitePokerChips",
+      "path": "WhitePokerChips",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RolodexCards",
+      "path": "RolodexCards",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedSmokeEmit",
+      "path": "RedSmokeEmit",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ExtinguisherExplode",
+      "path": "ExtinguisherExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TestMuzzleFlash",
+      "path": "TestMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "USP403rdPersonMuzzleFlash",
+      "path": "USP403rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitBrick",
+      "path": "BulletHitBrick",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "EtrainSparks",
+      "path": "EtrainSparks",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PythonRevolverReload",
+      "path": "PythonRevolverReload",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SGdoor_foodwallFront",
+      "path": "SGdoor_foodwallFront",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ShardsLight2",
+      "path": "ShardsLight2",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "sil_cageBreak",
+      "path": "sil_cageBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FragGrenadeExplode",
+      "path": "FragGrenadeExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GreenCorona",
+      "path": "GreenCorona",
+      "super": "Engine.Emitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedCorona",
+      "path": "RedCorona",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ClearGlassDarkLiquid",
+      "path": "ClearGlassDarkLiquid",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodwallTVexplode",
+      "path": "FoodwallTVexplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotBulletHitThickMetal",
+      "path": "SabotBulletHitThickMetal",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_UpperLeftBreak",
+      "path": "con_UpperLeftBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitPlaster",
+      "path": "BulletHitPlaster",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AshtrayExplode",
+      "path": "AshtrayExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StyroCupExplode",
+      "path": "StyroCupExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BreachingSG1stPersonMuzzleFlash",
+      "path": "BreachingSG1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UMP1stPersonMuzzleFlash",
+      "path": "UMP1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JewelrySecurityMonitorExplode",
+      "path": "JewelrySecurityMonitorExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GreenGlassTanLiquid",
+      "path": "GreenGlassTanLiquid",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MP51stPersonMuzzleFlashII",
+      "path": "MP51stPersonMuzzleFlashII",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AlarmLight",
+      "path": "AlarmLight",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotBulletHitConcrete",
+      "path": "SabotBulletHitConcrete",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BluePokerChips",
+      "path": "BluePokerChips",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilencedUzi1stPersonMuzzleFlash",
+      "path": "SilencedUzi1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SawedOffSG3rdPersonMuzzleFlash",
+      "path": "SawedOffSG3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DVDplayerExplode",
+      "path": "DVDplayerExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HK533rdPersonMuzzleFlash",
+      "path": "HK533rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MP51stPersonMuzzleFlash",
+      "path": "MP51stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MP53rdPersonMuzzleFlash",
+      "path": "MP53rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BarPullBrickBurst",
+      "path": "BarPullBrickBurst",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitDefault",
+      "path": "BulletHitDefault",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4A11stPersonMuzzleFlash",
+      "path": "M4A11stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "OxygenTankExplode",
+      "path": "OxygenTankExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ColtHG3rdPersonMuzzleFlash",
+      "path": "ColtHG3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SodaCanClearLiquidOnly",
+      "path": "SodaCanClearLiquidOnly",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitThinMetal",
+      "path": "BulletHitThinMetal",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Taser3rdPersonMuzzleFlash",
+      "path": "Taser3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DeskLightExplode",
+      "path": "DeskLightExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Foodwall_WindowBreak1",
+      "path": "Foodwall_WindowBreak1",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MP5silenced3rdPersonMuzzleFlash",
+      "path": "MP5silenced3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "G36k3rdPersonMuzzleFlash",
+      "path": "G36k3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HospitalMedium_TVexplode",
+      "path": "HospitalMedium_TVexplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_FrontWindowBigBreak",
+      "path": "barb_FrontWindowBigBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ShardsDark1",
+      "path": "ShardsDark1",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WaterSplash",
+      "path": "WaterSplash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ColtHG1stPersonMuzzleFlash",
+      "path": "ColtHG1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlinkRedCorona",
+      "path": "BlinkRedCorona",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "G36ka43rdPersonMuzzleFlash",
+      "path": "G36ka43rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Taser1stPersonMuzzleFlash",
+      "path": "Taser1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "OrangeSparks",
+      "path": "OrangeSparks",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NovaSG1stPersonMuzzleFlash",
+      "path": "NovaSG1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4sg3rdPersonMuzzleFlash",
+      "path": "M4sg3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilencedUzi3rdPersonMuzzleFlash",
+      "path": "SilencedUzi3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "G36K1stPersonMuzzleFlash",
+      "path": "G36K1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BeanbagRound1stPerson",
+      "path": "BeanbagRound1stPerson",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitConcrete",
+      "path": "BulletHitConcrete",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Python3rdPersonMuzzleFlash",
+      "path": "Python3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SodaCanExplode",
+      "path": "SodaCanExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TaserCircutClose",
+      "path": "TaserCircutClose",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotBulletHitWood",
+      "path": "SabotBulletHitWood",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MP5silenced1stPersonMuzzleFlash",
+      "path": "MP5silenced1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotBulletHitDefault",
+      "path": "SabotBulletHitDefault",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK473rdPersonMuzzleFlash",
+      "path": "AK473rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CDstackExplode",
+      "path": "CDstackExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitCooler",
+      "path": "BulletHitCooler",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitPlastic",
+      "path": "BulletHitPlastic",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RemoteExplode",
+      "path": "RemoteExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RifleShellEject",
+      "path": "RifleShellEject",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GetWellBalloonBreak",
+      "path": "GetWellBalloonBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotBulletHitFlesh",
+      "path": "SabotBulletHitFlesh",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WhiteSmokePuff",
+      "path": "WhiteSmokePuff",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CalculatorExplode",
+      "path": "CalculatorExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DonutBoxExplode",
+      "path": "DonutBoxExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BeanbagHitSpang",
+      "path": "BeanbagHitSpang",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NurseStationWindowBreak",
+      "path": "NurseStationWindowBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SpotLightBeam",
+      "path": "SpotLightBeam",
+      "super": "Engine.Emitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RainSplashes",
+      "path": "RainSplashes",
+      "super": "Engine.Emitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "sr253rdPersonMuzzleFlash",
+      "path": "sr253rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSgasExplode",
+      "path": "CSgasExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitWood",
+      "path": "BulletHitWood",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HeloDust",
+      "path": "HeloDust",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FlashbangExplode",
+      "path": "FlashbangExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "EmergencyLightExplode",
+      "path": "EmergencyLightExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4sg1stPersonMuzzleFlash",
+      "path": "M4sg1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BerettaM93rdPersonMuzzleFlash",
+      "path": "BerettaM93rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitElectronics",
+      "path": "BulletHitElectronics",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSpaintballHit",
+      "path": "CSpaintballHit",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NovaSG3rdPersonMuzzleFlash",
+      "path": "NovaSG3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TaserProngHit",
+      "path": "TaserProngHit",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TenWindowBreak",
+      "path": "TenWindowBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_UpperRightBreak",
+      "path": "con_UpperRightBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AshtraySmoke",
+      "path": "AshtraySmoke",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotBulletHitGlass",
+      "path": "SabotBulletHitGlass",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ClearGlassClearLiquid",
+      "path": "ClearGlassClearLiquid",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Foodwall_WindowBreak2",
+      "path": "Foodwall_WindowBreak2",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pepperspray3rdPerson",
+      "path": "Pepperspray3rdPerson",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GrenadeSpoonFlip",
+      "path": "GrenadeSpoonFlip",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TVdinnerExplode",
+      "path": "TVdinnerExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedPokerChips",
+      "path": "RedPokerChips",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotBulletHitPlaster",
+      "path": "SabotBulletHitPlaster",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TulipVaseExplode",
+      "path": "TulipVaseExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "sil_WindowBreakUp",
+      "path": "sil_WindowBreakUp",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CakeExplode",
+      "path": "CakeExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PlaceholderFX",
+      "path": "PlaceholderFX",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BathProdExplode",
+      "path": "BathProdExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitDirt",
+      "path": "BulletHitDirt",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BurgerLunchExplode",
+      "path": "BurgerLunchExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "C2explosionFX",
+      "path": "C2explosionFX",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_WindowFrontRbreak",
+      "path": "barb_WindowFrontRbreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPSkyWindowShortBreak",
+      "path": "VIPSkyWindowShortBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SpotLightBeamSpawnable",
+      "path": "SpotLightBeamSpawnable",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4A13rdPersonMuzzleFlash",
+      "path": "M4A13rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_FridgeDoorBreak",
+      "path": "con_FridgeDoorBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSgasEmit",
+      "path": "CSgasEmit",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Drip",
+      "path": "Drip",
+      "super": "Rain",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SmokeBreath",
+      "path": "SmokeBreath",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_LowerLeftBreak",
+      "path": "con_LowerLeftBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ProjectorBeams",
+      "path": "ProjectorBeams",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BreachingSG3rdPersonMuzzleFlash",
+      "path": "BreachingSG3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "pp_InteriorWindowBreak",
+      "path": "pp_InteriorWindowBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BrownLiquidSplash",
+      "path": "BrownLiquidSplash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPInteriorWindowBreak",
+      "path": "VIPInteriorWindowBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BarPullTireScreech",
+      "path": "BarPullTireScreech",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pump2SG3rdPersonMuzzleFlash",
+      "path": "Pump2SG3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Paintball1stPersonFX",
+      "path": "Paintball1stPersonFX",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BarberJarExplode",
+      "path": "BarberJarExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TeddyBearBalloonBreak",
+      "path": "TeddyBearBalloonBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "pp_ExteriorWindowBreak",
+      "path": "pp_ExteriorWindowBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PoliceLightRed",
+      "path": "PoliceLightRed",
+      "super": "Engine.Emitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BarPullExhaust",
+      "path": "BarPullExhaust",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PhoneExplode",
+      "path": "PhoneExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MetalDoorSpark",
+      "path": "MetalDoorSpark",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MothWings",
+      "path": "MothWings",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_WindowFrontLbreak",
+      "path": "barb_WindowFrontLbreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TeddyBearDamaged",
+      "path": "TeddyBearDamaged",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibraryWindowBreak",
+      "path": "RedLibraryWindowBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilverwareJar",
+      "path": "SilverwareJar",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Foodwall_RefridComGlassBreak",
+      "path": "Foodwall_RefridComGlassBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FlatScreenMonitorBreak",
+      "path": "FlatScreenMonitorBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pump1SG3rdPersonMuzzleFlash",
+      "path": "Pump1SG3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RepoHeloDust",
+      "path": "RepoHeloDust",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GasCanExplode",
+      "path": "GasCanExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitPlant",
+      "path": "BulletHitPlant",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ten_FrontSideWindowBreak",
+      "path": "ten_FrontSideWindowBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BeanbagRound3rdPerson",
+      "path": "BeanbagRound3rdPerson",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MilkSplash",
+      "path": "MilkSplash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BombRoomFX",
+      "path": "BombRoomFX",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BoomboxExplode",
+      "path": "BoomboxExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PlateStackShatter",
+      "path": "PlateStackShatter",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AbombTVexplode",
+      "path": "AbombTVexplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PoliceLightBlue",
+      "path": "PoliceLightBlue",
+      "super": "Engine.Emitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Scorpion3rdPersonMuzzleFlash",
+      "path": "Scorpion3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SmokeDetectorExplode",
+      "path": "SmokeDetectorExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CaramelExplode",
+      "path": "CaramelExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CoffeePotSteam",
+      "path": "CoffeePotSteam",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedSmokeExplode",
+      "path": "RedSmokeExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Paintball3rdPersonFX",
+      "path": "Paintball3rdPersonFX",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PlateShatter",
+      "path": "PlateShatter",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "sil_WindowBreakLow",
+      "path": "sil_WindowBreakLow",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TaserProngBounce",
+      "path": "TaserProngBounce",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPSkyWindowCenterBreak",
+      "path": "VIPSkyWindowCenterBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BarPullSparks",
+      "path": "BarPullSparks",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JewelrySurveillanceMonitorExplode",
+      "path": "JewelrySurveillanceMonitorExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ColdBreath",
+      "path": "ColdBreath",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "YellowLiquidSplash",
+      "path": "YellowLiquidSplash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SprinklerWater",
+      "path": "SprinklerWater",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VendingMachineGlassBreak",
+      "path": "VendingMachineGlassBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPexitRedSmoke",
+      "path": "VIPexitRedSmoke",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ThickMetalDecal",
+      "path": "ThickMetalDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitWaterPipe",
+      "path": "BulletHitWaterPipe",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ConcreteDecal",
+      "path": "ConcreteDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "C2woodDoor",
+      "path": "C2woodDoor",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Blood1Decal",
+      "path": "Blood1Decal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitSteamPipe",
+      "path": "BulletHitSteamPipe",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GlassDecal",
+      "path": "GlassDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Python1stPersonMuzzleFlash",
+      "path": "Python1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FlashbangScorchDecal",
+      "path": "FlashbangScorchDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PaintbucketExplode",
+      "path": "PaintbucketExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "C2door_foodwallFront",
+      "path": "C2door_foodwallFront",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ShotgunWadding",
+      "path": "ShotgunWadding",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "C2door_02",
+      "path": "C2door_02",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CashExplode",
+      "path": "CashExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "C2door_01",
+      "path": "C2door_01",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TenementProjector",
+      "path": "TenementProjector",
+      "super": "Engine.DynamicProjector",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotBulletHitBrick",
+      "path": "SabotBulletHitBrick",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TVdynamicLightFlicker",
+      "path": "TVdynamicLightFlicker",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitConcreteB",
+      "path": "BulletHitConcreteB",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "LessLethalSG1stPersonMuzzleFlash",
+      "path": "LessLethalSG1stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JewelryWallMountedTVExplode",
+      "path": "JewelryWallMountedTVExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "LessLethalSG3rdPersonMuzzleFlash",
+      "path": "LessLethalSG3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WoodDecalB",
+      "path": "WoodDecalB",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StingGrenadeExplode",
+      "path": "StingGrenadeExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ThickMetalDecalB",
+      "path": "ThickMetalDecalB",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DarkGlassTanLiquid",
+      "path": "DarkGlassTanLiquid",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ConcreteDecalB",
+      "path": "ConcreteDecalB",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GlassDecalB",
+      "path": "GlassDecalB",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Blood2Decal",
+      "path": "Blood2Decal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HospitalSmall_TVexplode",
+      "path": "HospitalSmall_TVexplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AlarmLight2",
+      "path": "AlarmLight2",
+      "super": "Engine.DynamicProjector",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TenRainIn",
+      "path": "TenRainIn",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WoodExitDecal",
+      "path": "WoodExitDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Ingram3rdPersonMuzzleFlash",
+      "path": "Ingram3rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AlarmLightProjector",
+      "path": "AlarmLightProjector",
+      "super": "Engine.DynamicProjector",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CarDust",
+      "path": "CarDust",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GraphProjector",
+      "path": "GraphProjector",
+      "super": "Engine.DynamicProjector",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SGdoor_wood",
+      "path": "SGdoor_wood",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MuzzleFlashDynamicLight",
+      "path": "MuzzleFlashDynamicLight",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FlashbangDynamicLight",
+      "path": "FlashbangDynamicLight",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PlasterDecal",
+      "path": "PlasterDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitWater",
+      "path": "BulletHitWater",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WoodDecal",
+      "path": "WoodDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ClearGlassTanLiquid",
+      "path": "ClearGlassTanLiquid",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DefaultDecal",
+      "path": "DefaultDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ThinMetalDecal",
+      "path": "ThinMetalDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CoffeeMugRedLibraryExplode",
+      "path": "CoffeeMugRedLibraryExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FleshDecal",
+      "path": "FleshDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletExitWood",
+      "path": "BulletExitWood",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedBrakeDynamicLight",
+      "path": "RedBrakeDynamicLight",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Ump453rdPersonMuzzleFlash",
+      "path": "Ump453rdPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SparkDynamicLight",
+      "path": "SparkDynamicLight",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlueTrainSparkDynamicLight",
+      "path": "BlueTrainSparkDynamicLight",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BulletHitGlass",
+      "path": "BulletHitGlass",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlueTrainSparkCoronaLight",
+      "path": "BlueTrainSparkCoronaLight",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TVdynamicLight",
+      "path": "TVdynamicLight",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SodaCanDarkLiquidOnly",
+      "path": "SodaCanDarkLiquidOnly",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CarHeadLight",
+      "path": "CarHeadLight",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CarHeadLight2",
+      "path": "CarHeadLight2",
+      "super": "SwatGame.DynamicFlashlightLight",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JewelryProjector",
+      "path": "JewelryProjector",
+      "super": "Engine.DynamicProjector",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK471stPersonMuzzleFlash",
+      "path": "AK471stPersonMuzzleFlash",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotThickMetalDecal",
+      "path": "SabotThickMetalDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_ExteriorWindowBreak",
+      "path": "barb_ExteriorWindowBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotDefaultDecal",
+      "path": "SabotDefaultDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotPlasterDecal",
+      "path": "SabotPlasterDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_LowerRightBreak",
+      "path": "con_LowerRightBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SabotConcreteDecal",
+      "path": "SabotConcreteDecal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TaserWireBeam",
+      "path": "TaserWireBeam",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Blood4Decal",
+      "path": "Blood4Decal",
+      "super": "IGVisualEffectsSubsystem.ProjectedDecal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPSkyWindowLongBreak",
+      "path": "VIPSkyWindowLongBreak",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TestDynamicLight",
+      "path": "TestDynamicLight",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FragGrenadeDynamicLight",
+      "path": "FragGrenadeDynamicLight",
+      "super": "SwatGame.DynamicLightEffect",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PumpkinExplode",
+      "path": "PumpkinExplode",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SpotLightBeam2",
+      "path": "SpotLightBeam2",
+      "super": "Engine.Emitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SewerGrateSteam",
+      "path": "SewerGrateSteam",
+      "super": "Engine.Emitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPexitFlareSparks",
+      "path": "VIPexitFlareSparks",
+      "super": "Engine.SpawnableEmitter",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "Classes\\SwatEffects.u"
+}

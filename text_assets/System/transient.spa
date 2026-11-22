@@ -1,0 +1,4324 @@
+[Pocket_PrimaryWeapon]
+PocketFriendlyName=Arma primaria
+
+[Pocket_PrimaryAmmo]
+PocketFriendlyName=Munición primaria 
+
+[Pocket_SecondaryWeapon]
+PocketFriendlyName=Arma de respaldo
+
+[Pocket_SecondaryAmmo]
+PocketFriendlyName=Munición de respaldo
+
+[Pocket_EquipOne]
+PocketFriendlyName=Ayuda táctica 1
+
+[Pocket_EquipTwo]
+PocketFriendlyName=Ayuda táctica 2
+
+[Pocket_EquipThree]
+PocketFriendlyName=Ayuda táctica 3
+
+[Pocket_EquipFour]
+PocketFriendlyName=Ayuda táctica 4
+
+[Pocket_EquipFive]
+PocketFriendlyName=Ayuda táctica 5
+
+[Pocket_Breaching]
+PocketFriendlyName=Dispositivo para franquear
+
+[Pocket_BodyArmor]
+PocketFriendlyName=Chaleco antibalas
+
+[Pocket_HeadArmor]
+PocketFriendlyName=Protección de cabeza
+
+[SwatKeyMappingPopup_titleLabel]
+Caption=El comando  está ligado a  .  Pulsa la nueva tecla para cambiar.
+
+[SwatKeyMappingPopup_CancelButton]
+Caption=CANCELAR
+
+[SwatMissionSetupMenu]
+CampaignString=PROFESIÓN
+
+[SwatMissionSetupMenu_Loadout]
+Caption=EQUIPO
+Hint=Seleccionar equipamiento para tu equipo.
+
+[SwatMissionSetupMenu_MissionSelect]
+Caption=MISIÓN
+Hint=Seleccionar misión.
+
+[SwatMissionSetupMenu_Briefing]
+Caption=INFORME
+Hint=Ver el informe de la misión.
+
+[SwatLoadoutMenu_ApplyToAllButton]
+Caption=ASIGNAR A TODOS
+Hint=Aplicar el arma actual a todo el equipo.
+
+[SwatLoadoutMenu_Blue2SelectorButton]
+Hint=Seleccionar arma para Jackson.
+
+[SwatLoadoutMenu_Blue1SelectorButton]
+Hint=Seleccionar arma para Field.
+
+[SwatLoadoutMenu_Red2SelectorButton]
+Hint=Seleccionar arma para Girard.
+
+[SwatLoadoutMenu_Red1SelectorButton]
+Hint=Seleccionar arma para Reynolds.
+
+[SwatLoadoutMenu_PlayerSelectorButton]
+Hint=Seleccionar tu arma.
+
+[SwatLoadoutMenu_savecustom]
+Caption=GUARDAR
+Hint=Guardar el arma actual.
+
+[SwatLoadoutMenu_loadcustom]
+Caption=RESTABLECER PREDETERMINADOS
+Hint=Restablecer el arma predeterminada para el agente actual.
+
+[SwatLoadoutMenu_CustomCombo]
+Hint=Seleccionar un arma.
+
+[SwatLoadoutMenu_CustomCombo_LBox]
+Hint=Seleccionar un arma.
+
+[SwatLoadoutMenu_CustomCombo_LBox_SBar]
+Hint=Seleccionar un arma.
+
+[SwatLoadoutMenu_CustomCombo_LBox_SBar_SZone]
+Hint=Seleccionar un arma.
+
+[SwatLoadoutMenu_CustomCombo_LBox_SBar_Up]
+Hint=Seleccionar un arma.
+
+[SwatLoadoutMenu_CustomCombo_LBox_SBar_Down]
+Hint=Seleccionar un arma.
+
+[SwatLoadoutMenu_CustomCombo_LBox_SBar_Grip]
+Hint=Seleccionar un arma.
+
+[SwatLoadoutMenu_CustomCombo_LBox_List]
+Hint=Seleccionar un arma.
+
+[SwatLoadoutMenu_CustomCombo_EditBox]
+Hint=Seleccionar un arma.
+
+[SwatLoadoutMenu_CustomCombo_ComboB]
+Hint=Seleccionar un arma.
+
+[SwatSPLoadoutPanel_equipnamelabel]
+Caption=Carabina M4A1
+
+[SwatSPLoadoutPanel_Deletecustom]
+Caption=ELIMINAR
+Hint=Eliminar el arma personalizada seleccionada.
+
+[SwatSPLoadoutPanel_ammonamelabel]
+Caption=.223 FMJ
+
+[SwatSPLoadoutPanel_scrollleftbutton]
+Hint=Seleccionar el elemento anterior.
+
+[SwatSPLoadoutPanel_scrollrightbutton]
+Hint=Seleccionar el siguiente elemento.
+
+[SwatSPLoadoutPanel_scrollammoright]
+Hint=Seleccionar el siguiente elemento.
+
+[SwatSPLoadoutPanel_scrollammoleft]
+Hint=Seleccionar el elemento anterior.
+
+[SwatSPLoadoutPanel_weaponlabeltab]
+Caption=PRIMARIA
+
+[SwatSPLoadoutPanel_secondarylabeltab]
+Caption=SECUNDARIA
+
+[SwatSPLoadoutPanel_tacticallabeltab]
+Caption=TÁCTICO
+
+[SwatSPLoadoutPanel_breachingtablabel]
+Caption=FRANQUEAR
+
+[SwatSPLoadoutPanel_equipmentpanelheaderlabel]
+Caption=EQUIPO
+
+[SwatSPLoadoutPanel_savedloadoutslabel]
+Caption=GUARDAR ARMAS
+
+[SwatSPLoadoutPanel_equip1label]
+Caption=1:
+
+[SwatSPLoadoutPanel_equip2label]
+Caption=2:
+
+[SwatSPLoadoutPanel_equip3label]
+Caption=3:
+
+[SwatSPLoadoutPanel_equip4label]
+Caption=4:
+
+[SwatSPLoadoutPanel_equip5label]
+Caption=5:
+
+[SwatSPLoadoutPanel_leadnametag]
+Caption=Líder
+
+[SwatSPLoadoutPanel_ReynoldsNameTag]
+Caption=Reynolds
+
+[SwatSPLoadoutPanel_GirardNameTag]
+Caption=Girard
+
+[SwatSPLoadoutPanel_FieldsNameTag]
+Caption=Fields
+
+[SwatSPLoadoutPanel_JacksonNameTag]
+Caption=Jackson
+
+[SwatMissionSelectionPanel]
+DifficultyLabelString=Se necesita una puntuación de [b]%1[\b] para avanzar.
+
+[SwatCampaignMenu_MissionSelectionBox]
+Hint=Seleccionar la misión que quieres jugar.
+
+[SwatCampaignMenu_MissionSelectionBox_SBar]
+Hint=Seleccionar la misión que quieres jugar.
+
+[SwatCampaignMenu_MissionSelectionBox_SBar_SZone]
+Hint=Seleccionar la misión que quieres jugar.
+
+[SwatCampaignMenu_MissionSelectionBox_SBar_Up]
+Hint=Seleccionar la misión que quieres jugar.
+
+[SwatCampaignMenu_MissionSelectionBox_SBar_Down]
+Hint=Seleccionar la misión que quieres jugar.
+
+[SwatCampaignMenu_MissionSelectionBox_SBar_Grip]
+Hint=Seleccionar la misión que quieres jugar.
+
+[SwatCampaignMenu_MissionSelectionBox_List]
+Hint=Seleccionar la misión que quieres jugar.
+
+[SwatMissionSelectionPanel_CampaignNameLabel]
+Caption=Playthrough
+
+[SwatMissionSelectionPanel_MissionNameLabel]
+Caption=Centro de investigación Mount Threshold
+
+[SwatMissionSelectionPanel_DifficultyCombo]
+Hint=Seleccionar la dificultad de esta misión.
+
+[SwatMissionSelectionPanel_DifficultyCombo_LBox]
+Hint=Seleccionar la dificultad de esta misión.
+
+[SwatMissionSelectionPanel_DifficultyCombo_LBox_SBar]
+Hint=Seleccionar la dificultad de esta misión.
+
+[SwatMissionSelectionPanel_DifficultyCombo_LBox_SBar_SZone]
+Hint=Seleccionar la dificultad de esta misión.
+
+[SwatMissionSelectionPanel_DifficultyCombo_LBox_SBar_Up]
+Hint=Seleccionar la dificultad de esta misión.
+
+[SwatMissionSelectionPanel_DifficultyCombo_LBox_SBar_Down]
+Hint=Seleccionar la dificultad de esta misión.
+
+[SwatMissionSelectionPanel_DifficultyCombo_LBox_SBar_Grip]
+Hint=Seleccionar la dificultad de esta misión.
+
+[SwatMissionSelectionPanel_DifficultyCombo_LBox_List]
+Hint=Seleccionar la dificultad de esta misión.
+
+[SwatMissionSelectionPanel_DifficultyCombo_EditBox]
+Hint=Seleccionar la dificultad de esta misión.
+
+[SwatMissionSelectionPanel_DifficultyCombo_ComboB]
+Hint=Seleccionar la dificultad de esta misión.
+
+[SwatMissionSelectionPanel_DifficultyLabel]
+Caption=DIFICULTAD
+
+[SwatMissionSelectionPanel_missionpanelheaderlabel]
+Caption=MISIÓN
+
+[SwatMissionSelectionPanel_Missionresultsheader]
+Caption=RESULTADOS DE LA MISIÓN:
+
+[SwatMissionSelectionPanel_scorerequirementslabel]
+Caption=Se necesita una puntuación de [b]50[\b] para avanzar.
+
+[SwatBriefingMenu_objectives]
+Caption=OBJETIVOS
+Hint=Ver los objetivos y el informe de la misión.
+
+[SwatBriefingMenu_Entry]
+Caption=ENTRADA
+Hint=Seleccionar tu punto de entrada.
+
+[SwatBriefingMenu_Suspects]
+Caption=SOSPECHOSOS
+Hint=Ver información sobre los sospechosos.
+
+[SwatBriefingMenu_hostages]
+Caption=CIVILES
+Hint=Ver información sobre los civiles.
+
+[SwatBriefingMenu_timeline]
+Caption=LÍNEA DEL TIEMPO
+Hint=Ver la línea del tiempo de los eventos.
+
+[SwatTimelinePanel_ExtendedTimeline]
+Hint=Ver detalles sobre el progreso de eventos.
+
+[SwatTimelinePanel_ExtendedTimeline_SBar]
+Hint=Ver detalles sobre el progreso de eventos.
+
+[SwatTimelinePanel_ExtendedTimeline_SBar_SZone]
+Hint=Ver detalles sobre el progreso de eventos.
+
+[SwatTimelinePanel_ExtendedTimeline_SBar_Up]
+Hint=Ver detalles sobre el progreso de eventos.
+
+[SwatTimelinePanel_ExtendedTimeline_SBar_Down]
+Hint=Ver detalles sobre el progreso de eventos.
+
+[SwatTimelinePanel_ExtendedTimeline_SBar_Grip]
+Hint=Ver detalles sobre el progreso de eventos.
+
+[SwatTimelinePanel_ExtendedTimeline_List]
+Hint=Ver detalles sobre el progreso de eventos.
+
+[SwatTimelinePanel_eventheader]
+Caption=EVENTO
+
+[SwatTimelinePanel_detailheader]
+Caption=DETALLE
+
+[SwatEntryOptionsPanel_EntryLabel_0]
+Caption=Lado 1, nivel 1
+
+[SwatEntryOptionsPanel_EntryCheck_0]
+Hint=Seleccionar el punto de entrada primario para esta misión.
+
+[SwatEntryOptionsPanel_EntryLabel_1]
+Caption=Lado 2, nivel 2
+
+[SwatEntryOptionsPanel_EntryCheck_1]
+Hint=Seleccionar el punto de entrada secundario para esta misión.
+
+[SwatBriefing_briefingheaderlabel]
+Caption=INFORME
+
+[SwatBriefing_BriefingAudioToggle]
+Hint=Reproducir el informe de audio para esta misión.
+
+[SwatBriefing_Swat911AudioToggle]
+Hint=Reproducir la llamada de emergencia al 911.
+
+[SwatBriefing_NoAudioToggle]
+Hint=Desactivar todo los informes de audio.
+
+[SwatBriefing_OffLabel]
+Caption=Desactivado
+
+[SwatBriefing_Briefingaudiolabel]
+Caption=Informe
+
+[SwatBriefing_911callabel]
+Caption= Llamada al 911
+
+[SwatBriefing_MissionAudioheader]
+Caption=AUDIO DE LA MISIÓN
+
+[SwatBriefing_MissionNameLabel]
+Caption=Centro de investigación Mount Threshold
+
+[SwatMissionSetupMenu_StartButton]
+Caption=COMENZAR
+Hint=Comenzar la misión seleccionada.
+
+[SwatMissionSetupMenu_BackButton]
+Caption=PERSONALIZADO
+Hint=Volver a la selección de profesión/paquete.
+
+[SwatMainMenu_TextQuitButton]
+Caption=SALIR
+Hint=Salir del juego y volver a Windows.
+
+[SwatCampaignMenu_MainMenuButton]
+Caption=PRINCIPAL
+Hint=Volver al menú principal.
+
+[SwatSPLoadoutPanel_Pocket_PrimaryWeapon_Label]
+Caption=Carabina M4A1
+
+[SwatSPLoadoutPanel_Pocket_PrimaryAmmo_Label]
+Caption=.223 FMJ
+
+[SwatSPLoadoutPanel_Pocket_SecondaryWeapon_Label]
+Caption=Pistola M1911
+
+[SwatSPLoadoutPanel_Pocket_SecondaryAmmo_Label]
+Caption=0,45 JHP
+
+[SwatSPLoadoutPanel_Pocket_EquipOne_Label]
+Caption=Bengala deslumbrante
+
+[SwatSPLoadoutPanel_Pocket_EquipTwo_Label]
+Caption=Bengala deslumbrante
+
+[SwatSPLoadoutPanel_Pocket_EquipThree_Label]
+Caption=Bengala deslumbrante
+
+[SwatSPLoadoutPanel_Pocket_EquipFour_Label]
+Caption=Gas CS
+
+[SwatSPLoadoutPanel_Pocket_EquipFive_Label]
+Caption=Urticante
+
+[SwatSPLoadoutPanel_Pocket_Breaching_Label]
+Caption=C2 (x3)
+
+[SwatSPLoadoutPanel_0_TabButton]
+Caption=PRIMARIA
+Hint=Seleccionar arma primaria y munición.
+
+[SwatSPLoadoutPanel_1_TabButton]
+Caption=SECUNDARIA
+Hint=Seleccionar arma secundaria y equipo.
+
+[SwatSPLoadoutPanel_2_TabPanel_equip1buttonlabel]
+Caption=1
+
+[SwatSPLoadoutPanel_2_TabPanel_equip2buttonlabel]
+Caption=2
+
+[SwatSPLoadoutPanel_2_TabPanel_equip3buttonlabel]
+Caption=3
+
+[SwatSPLoadoutPanel_2_TabPanel_equip4buttonlabel]
+Caption=4
+
+[SwatSPLoadoutPanel_2_TabPanel_equip5buttonlabel]
+Caption=5
+
+[SwatSPLoadoutPanel_2_TabButton]
+Caption=TÁCTICO
+Hint=Seleccionar equipo táctico.
+
+[SwatSPLoadoutPanel_Pocket_EquipOne_Button]
+Caption=Bengala deslumbrante
+Hint=Seleccionar este elemento.
+
+[SwatSPLoadoutPanel_Pocket_EquipTwo_Button]
+Caption=Bengala deslumbrante
+Hint=Seleccionar este elemento.
+
+[SwatSPLoadoutPanel_Pocket_EquipThree_Button]
+Caption=Bengala deslumbrante
+Hint=Seleccionar este elemento.
+
+[SwatSPLoadoutPanel_Pocket_EquipFour_Button]
+Caption=Gas CS
+Hint=Seleccionar este elemento.
+
+[SwatSPLoadoutPanel_Pocket_EquipFive_Button]
+Caption=Urticante
+Hint=Seleccionar este elemento.
+
+[SwatSPLoadoutPanel_3_TabButton]
+Caption=FRANQUEAR
+Hint=Seleccionar equipo para franquear.
+
+[swatsuspectspanel_NPCName_0]
+Caption=Jean Trouffant
+
+[swatsuspectspanel_NPCName_1]
+Caption=Cómplices desconocidos
+
+[swatsuspectspanel_NPCName_2]
+Caption=Simon Gowan
+
+[swathostagespanel_NPCName_0]
+Caption=Theodore Sturgeon
+
+[swathostagespanel_NPCName_1]
+Caption=Lawrence Adams
+
+[swathostagespanel_NPCName_2]
+Caption=Kim Dong Yin
+
+[SwatMissionLoadingMenu]
+DefaultCaptions=("","","","")
+
+[SwatMissionLoadingMenu_LoadingLabel]
+Caption=CARGANDO
+
+[SwatMainMenu_GameSettingsButton]
+Caption=CONFIGURACIÓN
+Hint=Configurar el juego.
+
+[SwatMainMenu_CustomMissionButton]
+Caption=CREADOR DE MISIÓN RÁPIDA
+Hint=Personalizar una misión de un solo jugador.
+
+[SwatMainMenu_CampaignButton]
+Caption=PROFESIÓN
+Hint=Jugar en la campaña de un solo jugador.
+
+[SwatMainMenu_InstantActionButton]
+Caption=ACCIÓN INSTANTÁNEA
+Hint=Jugar a la misión más reciente con los valores predeterminados.
+
+[SwatMainMenu_joinserver]
+Caption=UNIRSE A PARTIDA
+Hint=Unirse a una partida multijugador.
+
+[SwatMainMenu_hostserver]
+Caption=CELEBRAR PARTIDA
+Hint=Crear una partida multijugador.
+
+[SwatMainMenu_TrainingButton]
+Caption=ENTRENAMIENTO
+Hint=Jugar en la misión de entrenamiento.
+
+[SwatMainMenu_bottomblack]
+Hint=Campaña
+
+[SwatMainMenu_topblack]
+Hint=Campaña
+
+[SwatMainMenu_MPHeading]
+Caption=PARTIDA MULTIJUGADOR
+Hint=Campaña
+
+[SwatMainMenu_Swat4Logo]
+Hint=Campaña
+
+[SwatMainMenu_spgamelabel]
+Caption=PARTIDA DE UN SOLO JUGADOR
+Hint=Campaña
+
+[SwatMainMenu_linebreak]
+Hint=Campaña
+
+[SwatMainMenu_linebreakb]
+Hint=Campaña
+
+[SwatMainMenu_linebreakc]
+Hint=Campaña
+
+[SwatMainMenu_playcustombutton]
+Caption=JUGAR MISIÓN RÁPIDA
+Hint=Jugar una misión personalizada.
+
+[SwatMainMenu_quickmissionlabel]
+Caption=CREAR Y JUGAR TUS PROPIAS MISIONES
+Hint=Campaña
+
+[SwatMainMenu_linebreakd]
+Hint=Campaña
+
+[SwatMainMenu_CreditsButton]
+Caption=CRÉDITOS
+Hint=Ver los créditos.
+
+[SwatConnectionFailureMenu_OKButton]
+Caption=ACEPTAR
+
+[SwatSaveCustomPopup_CancelButton]
+Caption=CANCELAR
+
+[SwatSaveCustomPopup_ConfirmButton]
+Caption=ACEPTAR
+
+[SwatSaveCustomPopup_Headerlabel]
+Caption=Introduce un nombre para el arma:
+
+[SwatJoinIPPopup_IPHeader]
+Caption=Introduce la dirección de IP:
+
+[SwatJoinIPPopup_Headerlabel]
+Caption=Contraseña (opcional):
+
+[SwatServerFiltersPopup_hideincompatiblemodscheck]
+Hint=Seleccionar esta casilla para filtrar por tiempo de respuesta.
+
+[SwatServerFiltersPopup_hideincompatibleversionscheck]
+Hint=Seleccionar esta casilla para filtrar por tiempo de respuesta.
+
+[SwatServerFiltersPopup_hideincompatiblemodslabel]
+Caption=Ocultar mods incompatibles
+
+[SwatServerFiltersPopup_hideincompatibleversionlabel]
+Caption=Ocultar versiones incompatibles
+
+[SwatServerFiltersPopup_fullcheck]
+Hint=Seleccionar esta casilla para filtrar por tiempo de respuesta.
+
+[SwatServerFiltersPopup_passwordedcheck]
+Hint=Seleccionar esta casilla para filtrar por tiempo de respuesta.
+
+[SwatServerFiltersPopup_gametypecheck]
+Hint=Seleccionar esta casilla para filtrar por tiempo de respuesta.
+
+[SwatServerFiltersPopup_fulllabel]
+Caption=Ocultar servidores ocupados
+
+[SwatServerFiltersPopup_passwordedlabel]
+Caption=Ocultar contraseña protegida
+
+[SwatServerFiltersPopup_gametypelabel]
+Caption=Tipo de juego
+
+[SwatServerFiltersPopup_Maxpinguse]
+Hint=Seleccionar esta casilla para filtrar por tiempo de respuesta.
+
+[SwatServerFiltersPopup_MaxPingEdit_Minus]
+Hint=Establecer el tiempo máximo de respuesta a mostrar.
+
+[SwatServerFiltersPopup_MaxPingEdit_Plus]
+Hint=Establecer el tiempo máximo de respuesta a mostrar.
+
+[SwatServerFiltersPopup_MaxPingEdit_EditBox]
+Hint=Establecer el tiempo máximo de respuesta a mostrar.
+
+[SwatServerFiltersPopup_MaxPingEdit]
+Hint=Establecer el tiempo máximo de respuesta a mostrar.
+
+[SwatServerFiltersPopup_MaxPing]
+Caption=Tiempo de respuesta máx.
+
+[HUDPage_RespawnTimeDisplay_Caption]
+Caption=Regenerando refuerzos:
+
+[GUIBattleRoom_Button4]
+Caption=Cancelar.
+
+[GUIBattleRoom_Button3]
+Caption=Aumentar estado de ánimo.
+
+[GUIBattleRoom_Button2]
+Caption=1000 Salud.
+
+[GUIBattleRoom_Button1]
+Caption=Alternar depurado
+
+[GUIBattleRoom_Button0]
+Caption=Alternar modo
+
+[HUDPage_CommandInterfaceMenuPage]
+Caption=Comandos
+
+[HUDPage_defaultcommand]
+Caption=FORMAR FILAS
+
+[Page_Deploy_MenuPad10]
+Caption=COLOCAR CUÑA
+
+[Page_Deploy_MenuPad9]
+Caption=UTILIZAR ESCOPETA NO LETAL
+
+[Page_Deploy_MenuPad8]
+Caption=ESCOPETA FRANQUEO
+
+[Page_Deploy_MenuPad7]
+Caption=EXPLOTAR C2
+
+[Page_Deploy_MenuPad6]
+Caption=PIMIENTA
+
+[Page_Deploy_MenuPad5]
+Caption=LANZAR GRANADA URTICANTE
+
+[Page_Deploy_MenuPad4]
+Caption=SOLTAR GAS CS
+
+[Page_Deploy_MenuPad3]
+Caption=BENGALA DESLUMBRANTE
+
+[Page_Deploy_MenuPad2]
+Caption=APLICAR DESCARGA ELÉCTRICA
+
+[Page_Deploy_MenuPad1]
+Caption=PISTOLA DE PIMIENTA
+
+[HUDPage_FireMode]
+Caption=RAFAGA
+
+[HUDPage_ammostatus_ExtraAmmoLabel]
+Caption=22
+
+[HUDPage_ammostatus_MagazineSizeLabel]
+Caption=/30
+
+[HUDPage_ammostatus_LoadedAmmoLabel]
+Caption=30
+
+[HUDPage_feedback_UseLabel]
+Caption="Uso: "
+
+[HUDPage_feedback_FireLabel]
+Caption="Fuego: "
+
+[HUDPage_feedback]
+UseCaption="Uso: "
+FireCaption="Fuego: "
+
+[SwatGameSettingsMenu_settingstitlelabel]
+Caption=CONFIGURACIÓN
+
+[SwatVideoSettingsPanel_realtimeMirrors]
+Caption=Activar reflejos de espejo
+
+[SwatVideoSettingsPanel_pixelshadermode]
+Caption=Permitir sombreados PS 2.0 
+
+[SwatVideoSettingsPanel_resettodefaults]
+Caption=RESTABLECER PREDETERMINADOS
+Hint=Haz clic para restablecer la configuración de vídeo a los valores predeterminados.
+
+[SwatVideoSettingsPanel_customsettingslabel]
+Caption=CONFIGURACIÓN PERSONALIZADA
+
+[SwatVideoSettingsPanel_WorldDetail_ComboB]
+Hint=Cambiar la configuración del detalle para la complejidad del mundo.
+
+[SwatVideoSettingsPanel_WorldDetail_EditBox]
+Hint=Cambiar la configuración del detalle para la complejidad del mundo.
+
+[SwatVideoSettingsPanel_WorldDetail_LBox_List]
+Hint=Cambiar la configuración del detalle para la complejidad del mundo.
+
+[SwatVideoSettingsPanel_WorldDetail_LBox_SBar_Grip]
+Hint=Cambiar la configuración del detalle para la complejidad del mundo.
+
+[SwatVideoSettingsPanel_WorldDetail_LBox_SBar_Down]
+Hint=Cambiar la configuración del detalle para la complejidad del mundo.
+
+[SwatVideoSettingsPanel_WorldDetail_LBox_SBar_Up]
+Hint=Cambiar la configuración del detalle para la complejidad del mundo.
+
+[SwatVideoSettingsPanel_WorldDetail_LBox_SBar_SZone]
+Hint=Cambiar la configuración del detalle para la complejidad del mundo.
+
+[SwatVideoSettingsPanel_WorldDetail_LBox_SBar]
+Hint=Cambiar la configuración del detalle para la complejidad del mundo.
+
+[SwatVideoSettingsPanel_WorldDetail_LBox]
+Hint=Cambiar la configuración del detalle para la complejidad del mundo.
+
+[SwatVideoSettingsPanel_WorldDetail]
+Hint=Cambiar la configuración del detalle para la complejidad del mundo.
+
+[SwatVideoSettingsPanel_worlddetaillabel]
+Caption=Detalle del mundo
+
+[SwatVideoSettingsPanel_renderdetaillabel]
+Caption=Ajustar detalle
+
+[SwatVideoSettingsPanel_BrightnessLabel]
+Caption=Brillo
+
+[SwatVideoSettingsPanel_ContrastLabel]
+Caption=Contraste
+
+[SwatVideoSettingsPanel_GammaLabel]
+Caption=Gamma
+
+[SwatVideoSettingsPanel_Gamma]
+Hint=Ajustar gamma.
+
+[SwatVideoSettingsPanel_Contrast]
+Hint=Ajustar contraste.
+
+[SwatVideoSettingsPanel_Brightness]
+Hint=Ajustar brillo.
+
+[SwatVideoSettingsPanel_TexDLabel]
+Caption=Detalle de textura
+
+[SwatVideoSettingsPanel_ResLabel]
+Caption=Resolución de la pantalla
+
+[SwatVideoSettingsPanel_glowDLabel]
+Caption=Detalle de fosforescencia
+
+[SwatVideoSettingsPanel_dsdLabel]
+Caption=Detalle de sombra dinámica
+
+[SwatVideoSettingsPanel_bmdlabel]
+Caption=Detalle de mapa de relieve
+
+[SwatVideoSettingsPanel_TextureDetail_ComboB]
+Hint=Cambiar la configuración del detalle para la calidad general de las texturas.
+
+[SwatVideoSettingsPanel_TextureDetail_EditBox]
+Hint=Cambiar la configuración del detalle para la calidad general de las texturas.
+
+[SwatVideoSettingsPanel_TextureDetail_LBox_List]
+Hint=Cambiar la configuración del detalle para la calidad general de las texturas.
+
+[SwatVideoSettingsPanel_TextureDetail_LBox_SBar_Grip]
+Hint=Cambiar la configuración del detalle para la calidad general de las texturas.
+
+[SwatVideoSettingsPanel_TextureDetail_LBox_SBar_Down]
+Hint=Cambiar la configuración del detalle para la calidad general de las texturas.
+
+[SwatVideoSettingsPanel_TextureDetail_LBox_SBar_Up]
+Hint=Cambiar la configuración del detalle para la calidad general de las texturas.
+
+[SwatVideoSettingsPanel_TextureDetail_LBox_SBar_SZone]
+Hint=Cambiar la configuración del detalle para la calidad general de las texturas.
+
+[SwatVideoSettingsPanel_TextureDetail_LBox_SBar]
+Hint=Cambiar la configuración del detalle para la calidad general de las texturas.
+
+[SwatVideoSettingsPanel_TextureDetail_LBox]
+Hint=Cambiar la configuración del detalle para la calidad general de las texturas.
+
+[SwatVideoSettingsPanel_TextureDetail]
+Hint=Cambiar la configuración del detalle para la calidad general de las texturas.
+
+[SwatVideoSettingsPanel_Resolution_ComboB]
+Hint=Cambiar la resolución de la pantalla.
+
+[SwatVideoSettingsPanel_Resolution_EditBox]
+Hint=Cambiar la resolución de la pantalla.
+
+[SwatVideoSettingsPanel_Resolution_LBox_List]
+Hint=Cambiar la resolución de la pantalla.
+
+[SwatVideoSettingsPanel_Resolution_LBox_SBar_Grip]
+Hint=Cambiar la resolución de la pantalla.
+
+[SwatVideoSettingsPanel_Resolution_LBox_SBar_Down]
+Hint=Cambiar la resolución de la pantalla.
+
+[SwatVideoSettingsPanel_Resolution_LBox_SBar_Up]
+Hint=Cambiar la resolución de la pantalla.
+
+[SwatVideoSettingsPanel_Resolution_LBox_SBar_SZone]
+Hint=Cambiar la resolución de la pantalla.
+
+[SwatVideoSettingsPanel_Resolution_LBox_SBar]
+Hint=Cambiar la resolución de la pantalla.
+
+[SwatVideoSettingsPanel_Resolution_LBox]
+Hint=Cambiar la resolución de la pantalla.
+
+[SwatVideoSettingsPanel_Resolution]
+Hint=Cambiar la resolución de la pantalla.
+
+[SwatVideoSettingsPanel_GlowDetail_ComboB]
+Hint=Cambiar la configuración del detalle para los efectos de fosforescencia.
+
+[SwatVideoSettingsPanel_GlowDetail_EditBox]
+Hint=Cambiar la configuración del detalle para los efectos de fosforescencia.
+
+[SwatVideoSettingsPanel_GlowDetail_LBox_List]
+Hint=Cambiar la configuración del detalle para los efectos de fosforescencia.
+
+[SwatVideoSettingsPanel_GlowDetail_LBox_SBar_Grip]
+Hint=Cambiar la configuración del detalle para los efectos de fosforescencia.
+
+[SwatVideoSettingsPanel_GlowDetail_LBox_SBar_Down]
+Hint=Cambiar la configuración del detalle para los efectos de fosforescencia.
+
+[SwatVideoSettingsPanel_GlowDetail_LBox_SBar_Up]
+Hint=Cambiar la configuración del detalle para los efectos de fosforescencia.
+
+[SwatVideoSettingsPanel_GlowDetail_LBox_SBar_SZone]
+Hint=Cambiar la configuración del detalle para los efectos de fosforescencia.
+
+[SwatVideoSettingsPanel_GlowDetail_LBox_SBar]
+Hint=Cambiar la configuración del detalle para los efectos de fosforescencia.
+
+[SwatVideoSettingsPanel_GlowDetail_LBox]
+Hint=Cambiar la configuración del detalle para los efectos de fosforescencia.
+
+[SwatVideoSettingsPanel_GlowDetail]
+Hint=Cambiar la configuración del detalle para los efectos de fosforescencia.
+
+[SwatVideoSettingsPanel_DynamicShadowDetail_ComboB]
+Hint=Cambiar la configuración del detalle para las sombras dinámicas.
+
+[SwatVideoSettingsPanel_DynamicShadowDetail_EditBox]
+Hint=Cambiar la configuración del detalle para las sombras dinámicas.
+
+[SwatVideoSettingsPanel_DynamicShadowDetail_LBox_List]
+Hint=Cambiar la configuración del detalle para las sombras dinámicas.
+
+[SwatVideoSettingsPanel_DynamicShadowDetail_LBox_SBar_Grip]
+Hint=Cambiar la configuración del detalle para las sombras dinámicas.
+
+[SwatVideoSettingsPanel_DynamicShadowDetail_LBox_SBar_Down]
+Hint=Cambiar la configuración del detalle para las sombras dinámicas.
+
+[SwatVideoSettingsPanel_DynamicShadowDetail_LBox_SBar_Up]
+Hint=Cambiar la configuración del detalle para las sombras dinámicas.
+
+[SwatVideoSettingsPanel_DynamicShadowDetail_LBox_SBar_SZone]
+Hint=Cambiar la configuración del detalle para las sombras dinámicas.
+
+[SwatVideoSettingsPanel_DynamicShadowDetail_LBox_SBar]
+Hint=Cambiar la configuración del detalle para las sombras dinámicas.
+
+[SwatVideoSettingsPanel_DynamicShadowDetail_LBox]
+Hint=Cambiar la configuración del detalle para las sombras dinámicas.
+
+[SwatVideoSettingsPanel_DynamicShadowDetail]
+Hint=Cambiar la configuración del detalle para las sombras dinámicas.
+
+[SwatVideoSettingsPanel_BumpMapDetail_ComboB]
+Hint=Cambiar la configuración del detalle en los mapas de relieve.
+
+[SwatVideoSettingsPanel_BumpMapDetail_EditBox]
+Hint=Cambiar la configuración del detalle en los mapas de relieve.
+
+[SwatVideoSettingsPanel_BumpMapDetail_LBox_List]
+Hint=Cambiar la configuración del detalle en los mapas de relieve.
+
+[SwatVideoSettingsPanel_BumpMapDetail_LBox_SBar_Grip]
+Hint=Cambiar la configuración del detalle en los mapas de relieve.
+
+[SwatVideoSettingsPanel_BumpMapDetail_LBox_SBar_Down]
+Hint=Cambiar la configuración del detalle en los mapas de relieve.
+
+[SwatVideoSettingsPanel_BumpMapDetail_LBox_SBar_Up]
+Hint=Cambiar la configuración del detalle en los mapas de relieve.
+
+[SwatVideoSettingsPanel_BumpMapDetail_LBox_SBar_SZone]
+Hint=Cambiar la configuración del detalle en los mapas de relieve.
+
+[SwatVideoSettingsPanel_BumpMapDetail_LBox_SBar]
+Hint=Cambiar la configuración del detalle en los mapas de relieve.
+
+[SwatVideoSettingsPanel_BumpMapDetail_LBox]
+Hint=Cambiar la configuración del detalle en los mapas de relieve.
+
+[SwatVideoSettingsPanel_BumpMapDetail]
+Hint=Cambiar la configuración del detalle en los mapas de relieve.
+
+[SwatVideoSettingsPanel_RenderDetail_ComboB]
+Hint=Cambiar precalibrado de renderizados. Seleccionar personalizado para modificar la configuración individual.
+
+[SwatVideoSettingsPanel_RenderDetail_EditBox]
+Hint=Cambiar precalibrado de renderizados. Seleccionar personalizado para modificar la configuración individual.
+
+[SwatVideoSettingsPanel_RenderDetail_LBox_List]
+Hint=Cambiar precalibrado de renderizados.
+
+[SwatVideoSettingsPanel_RenderDetail_LBox_SBar_Grip]
+Hint=Cambiar precalibrado de renderizados.
+
+[SwatVideoSettingsPanel_RenderDetail_LBox_SBar_Down]
+Hint=Cambiar precalibrado de renderizados.
+
+[SwatVideoSettingsPanel_RenderDetail_LBox_SBar_Up]
+Hint=Cambiar precalibrado de renderizados.
+
+[SwatVideoSettingsPanel_RenderDetail_LBox_SBar_SZone]
+Hint=Cambiar precalibrado de renderizados.
+
+[SwatVideoSettingsPanel_RenderDetail_LBox_SBar]
+Hint=Cambiar precalibrado de renderizados.
+
+[SwatVideoSettingsPanel_RenderDetail_LBox]
+Hint=Cambiar precalibrado de renderizados.
+
+[SwatVideoSettingsPanel_RenderDetail]
+Hint=Cambiar precalibrado de renderizados. Seleccionar personalizado para modificar la configuración individual.
+
+[SwatVideoSettingsPanel_MirrorDetail_ComboB]
+Hint=Activar o no los reflejos de espejos en tiempo real.
+
+[SwatVideoSettingsPanel_MirrorDetail_EditBox]
+Hint=Activar o no los reflejos de espejos en tiempo real.
+
+[SwatVideoSettingsPanel_MirrorDetail_LBox_List]
+Hint=Activar o no los reflejos de espejos en tiempo real.
+
+[SwatVideoSettingsPanel_MirrorDetail_LBox_SBar_Grip]
+Hint=Activar o no los reflejos de espejos en tiempo real.
+
+[SwatVideoSettingsPanel_MirrorDetail_LBox_SBar_Down]
+Hint=Activar o no los reflejos de espejos en tiempo real.
+
+[SwatVideoSettingsPanel_MirrorDetail_LBox_SBar_Up]
+Hint=Activar o no los reflejos de espejos en tiempo real.
+
+[SwatVideoSettingsPanel_MirrorDetail_LBox_SBar_SZone]
+Hint=Activar o no los reflejos de espejos en tiempo real.
+
+[SwatVideoSettingsPanel_MirrorDetail_LBox_SBar]
+Hint=Activar o no los reflejos de espejos en tiempo real.
+
+[SwatVideoSettingsPanel_MirrorDetail_LBox]
+Hint=Activar o no los reflejos de espejos en tiempo real.
+
+[SwatVideoSettingsPanel_MirrorDetail]
+Hint=Activar o no los reflejos de espejos en tiempo real.
+
+[SwatVideoSettingsPanel_PixelShaderDetail_ComboB]
+Hint=Activar o no el uso de sombreados de mayor precisión.
+
+[SwatVideoSettingsPanel_PixelShaderDetail_EditBox]
+Hint=Activar o no el uso de sombreados de mayor precisión.
+
+[SwatVideoSettingsPanel_PixelShaderDetail_LBox_List]
+Hint=Activar o no el uso de sombreados de mayor precisión.
+
+[SwatVideoSettingsPanel_PixelShaderDetail_LBox_SBar_Grip]
+Hint=Activar o no el uso de sombreados de mayor precisión.
+
+[SwatVideoSettingsPanel_PixelShaderDetail_LBox_SBar_Down]
+Hint=Activar o no el uso de sombreados de mayor precisión.
+
+[SwatVideoSettingsPanel_PixelShaderDetail_LBox_SBar_Up]
+Hint=Activar o no el uso de sombreados de mayor precisión.
+
+[SwatVideoSettingsPanel_PixelShaderDetail_LBox_SBar_SZone]
+Hint=Activar o no el uso de sombreados de mayor precisión.
+
+[SwatVideoSettingsPanel_PixelShaderDetail_LBox_SBar]
+Hint=Activar o no el uso de sombreados de mayor precisión.
+
+[SwatVideoSettingsPanel_PixelShaderDetail_LBox]
+Hint=Activar o no el uso de sombreados de mayor precisión.
+
+[SwatVideoSettingsPanel_PixelShaderDetail]
+Hint=Activar o no el uso de sombreados de mayor precisión.
+
+[SwatKeyControlSettingsPanel_resettodefaults]
+Caption=RESTABLECER PREDETERMINADOS
+Hint=Haz clic para restablecer la configuración de las teclas a los valores predeterminados.
+
+[SwatKeyControlSettingsPanel_ReservedSelectButton]
+Caption=RESERVADO
+Hint=Mostrar la configuración de teclas reservadas.
+
+[SwatKeyControlSettingsPanel_ChatSelectButton]
+Caption=COMANDOS
+Hint=Seleccionar la configuración de las teclas de comando.
+
+[SwatKeyControlSettingsPanel_InteractionSelectButton]
+Caption=INTERACCIÓN
+Hint=Seleccionar la configuración de tus teclas de interacción.
+
+[SwatKeyControlSettingsPanel_MovementSelectButton]
+Caption=MOVIMIENTO
+Hint=Seleccionar la configuración de tus teclas de movimiento.
+
+[SwatKeyControlSettingsPanel_KeySelectButton]
+Caption=CAMBIAR TECLA
+Hint=Haz clic para asignar una tecla a la función seleccionada.
+
+[SwatKeyControlSettingsPanel_KeyMappings_MappedKey_Button]
+Caption=CLAVE
+
+[SwatKeyControlSettingsPanel_KeyMappings_Functions_Button]
+Caption=FUNCIÓN
+
+[SwatKeyControlSettingsPanel_KeyMappings]
+ListNames=("Functions","MappedKey")
+
+[SwatGameControlSettingsPanel_PlayerNameLabel]
+Caption=Nombre de jugador
+
+[SwatGameControlSettingsPanel_voicetypelabel]
+Caption=Tipo de voz
+
+[SwatMPSettingsPanel_ClassicCIradio]
+Hint=Seleccionar esta casilla para utilizar la Interfaz de comando gráfica.
+
+[SwatMPSettingsPanel_UseGraphicCI]
+Hint=Seleccionar esta casilla para utilizar la Interfaz de comando clásica.
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_showexitlabel]
+Caption=OPCIÓN SALIR DEL MENÚ
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_XPadAvailableCheck]
+Hint=Seleccionar esta casilla para mostrar la opción de salida del menú en la interfaz de comando.
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S4p4]
+Caption=Haz clic en BOTÓN IZQUIERDO para cancelar
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S4p2]
+Caption=Haz clic en BOTÓN DERECHO DEL RATÓN para seleccionar
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S4p1]
+Caption=Haz clic en BOTÓN DERECHO DEL RATÓN para abrir el menú
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S3p3]
+Caption=Haz clic en BOTÓN DERECHO DEL RATÓN para cancelar
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S3p2]
+Caption=Haz clic en BOTÓN IZQUIERDO DEL RATÓN para seleccionar
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S3p1]
+Caption=Haz clic en BOTÓN DERECHO DEL RATÓN para abrir el menú
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S2p3]
+Caption=Haz clic en BOTÓN IZQUIERDO para cancelar
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S2p2]
+Caption=Suelta BOTÓN DERECHO DEL RATÓN para seleccionar
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S2p1]
+Caption=Mantén pulsado BOTÓN DERECHO DEL RATÓN para abrir el menú
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S1p3]
+Caption=Suelta BOTÓN DERECHO DEL RATÓN para cancelar
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S1P2]
+Caption=Haz clic en BOTÓN IZQUIERDO DEL RATÓN para seleccionar
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_S1P1]
+Caption=Mantén pulsado BOTÓN DERECHO DEL RATÓN para abrir el menú
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_Style4Header]
+Caption=ESTILO 4
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_Style3Header]
+Caption=ESTILO 3
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_Style2Header]
+Caption=ESTILO 2
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_Style1Header]
+Caption=ESTILO 1
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_GCI4Option]
+Hint=Seleccionar este botón de radio para utilizar el estilo 4.
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_GCI3Option]
+Hint=Seleccionar este botón de radio para utilizar el estilo 3.
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_GCI2Option]
+Hint=Seleccionar este botón de radio para utilizar el estilo 2.
+
+[SwatGameControlSettingsPanel_GCIOptionsPanel_GCI1Option]
+Hint=Seleccionar este botón de radio para utilizar el estilo 1.
+
+[SwatGameControlSettingsPanel_resettodefaults]
+Caption=RESTABLECER PREDETERMINADOS
+Hint=Haz clic para restablecer la configuración del juego a los valores predeterminados.
+
+[SwatGameControlSettingsPanel_AlwaysRunLabel]
+Caption=Correr siempre
+
+[SwatGameControlSettingsPanel_InvertMouseLabel]
+Caption=Invertir eje Y del ratón
+Hint=Invertir eje Y del ratón
+
+[SwatGameControlSettingsPanel_MouseSensLabel]
+Caption=Sensibilidad del ratón
+
+[SwatGameControlSettingsPanel_AlwaysRun]
+Hint=Seleccionar esta casilla para establecer la velocidad predeterminada de movimiento al correr.
+
+[SwatGameControlSettingsPanel_InvertMouse]
+Hint=Invertir el eje Y del ratón.
+
+[SwatGameControlSettingsPanel_MouseSensitivity]
+Hint=Establecer la sensibilidad del ratón.
+
+[SwatMPSettingsPanel_graphic]
+Caption=Interfaz de comando gráfica
+
+[SwatMPSettingsPanel_ShowSubtitlesLabel]
+Caption=Mostrar subtítulos
+Hint=Marca esta casilla para activar los subtítulos. (Esto no surtirá efecto hasta el próximo nivel).
+
+[SwatMPSettingsPanel_helptext]
+Caption=Mostrar texto de ayuda
+Hint=Mostrar texto de ayuda
+
+[SwatMPSettingsPanel_classic]
+Caption=Interfaz de comando clásica
+
+[SwatMPSettingsPanel_ShowSubtitlesCheck]
+Hint=Marca esta casilla para activar los subtítulos. (Esto no surtirá efecto hasta el próximo nivel).
+
+[SwatMPSettingsPanel_HelpTextCheck]
+Hint=Eliminar selección de este cuadro para desactivar el texto de ayuda.
+
+[SwatMPSettingsPanel_NetSpeedLabel]
+Caption=Velocidad de conexión
+
+[SwatGameControlSettingsPanel_VoiceType_ComboB]
+Hint=Seleccionar tu tipo de voz multijugador preferida.
+
+[SwatGameControlSettingsPanel_VoiceType_EditBox]
+Hint=Seleccionar tu tipo de voz multijugador preferida.
+
+[SwatGameControlSettingsPanel_VoiceType_LBox_List]
+Hint=Seleccionar tu tipo de voz multijugador preferida.
+
+[SwatGameControlSettingsPanel_VoiceType_LBox_SBar_Grip]
+Hint=Seleccionar tu tipo de voz multijugador preferida.
+
+[SwatGameControlSettingsPanel_VoiceType_LBox_SBar_Down]
+Hint=Seleccionar tu tipo de voz multijugador preferida.
+
+[SwatGameControlSettingsPanel_VoiceType_LBox_SBar_Up]
+Hint=Seleccionar tu tipo de voz multijugador preferida.
+
+[SwatGameControlSettingsPanel_VoiceType_LBox_SBar_SZone]
+Hint=Seleccionar tu tipo de voz multijugador preferida.
+
+[SwatGameControlSettingsPanel_VoiceType_LBox_SBar]
+Hint=Seleccionar tu tipo de voz multijugador preferida.
+
+[SwatGameControlSettingsPanel_VoiceType_LBox]
+Hint=Seleccionar tu tipo de voz multijugador preferida.
+
+[SwatGameControlSettingsPanel_VoiceType]
+Hint=Seleccionar tu tipo de voz multijugador preferida.
+
+[SwatMPSettingsPanel_ConnectionSpeed_ComboB]
+Hint=Seleccionar la velocidad de tu conexión a Internet.
+
+[SwatMPSettingsPanel_ConnectionSpeed_EditBox]
+Hint=Seleccionar la velocidad de tu conexión a Internet.
+
+[SwatMPSettingsPanel_ConnectionSpeed_LBox_List]
+Hint=Seleccionar la velocidad de tu conexión a Internet.
+
+[SwatMPSettingsPanel_ConnectionSpeed_LBox_SBar_Grip]
+Hint=Seleccionar la velocidad de tu conexión a Internet.
+
+[SwatMPSettingsPanel_ConnectionSpeed_LBox_SBar_Down]
+Hint=Seleccionar la velocidad de tu conexión a Internet.
+
+[SwatMPSettingsPanel_ConnectionSpeed_LBox_SBar_Up]
+Hint=Seleccionar la velocidad de tu conexión a Internet.
+
+[SwatMPSettingsPanel_ConnectionSpeed_LBox_SBar_SZone]
+Hint=Seleccionar la velocidad de tu conexión a Internet.
+
+[SwatMPSettingsPanel_ConnectionSpeed_LBox_SBar]
+Hint=Seleccionar la velocidad de tu conexión a Internet.
+
+[SwatMPSettingsPanel_ConnectionSpeed_LBox]
+Hint=Seleccionar la velocidad de tu conexión a Internet.
+
+[SwatMPSettingsPanel_ConnectionSpeed]
+Hint=Seleccionar la velocidad de tu conexión a Internet.
+
+[SwatGameControlSettingsPanel_NameBox]
+Hint=Introduce el nombre de tu jugador.
+
+[SwatAudioSettingsPanel_resettodefaults]
+Caption=RESTABLECER PREDETERMINADOS
+Hint=Haz clic para restablecer la configuración de audio a los valores predeterminados.
+
+[SwatAudioSettingsPanel_VoiceVolumeLabel]
+Caption=Volumen de voz
+
+[SwatAudioSettingsPanel_SoundVolumeLabel]
+Caption=Volumen de la música
+
+[SwatAudioSettingsPanel_MusicVolumeLabel]
+Caption=Volumen del sonido
+
+[SwatAudioSettingsPanel_VoiceVolume]
+Hint=Ajustar el volumen de la voz.
+
+[SwatAudioSettingsPanel_SoundVolume]
+Hint=Ajustar el volumen del sonido.
+
+[SwatAudioSettingsPanel_MusicVolume]
+Hint=Ajustar el volumen de la música.
+
+[SwatGameSettingsMenu_KeyControlsButton]
+Caption=TECLADO
+Hint=Seleccionar la configuración de teclas.
+
+[SwatGameSettingsMenu_AudioSettingsButton]
+Caption=AUDIO
+Hint=Seleccionar la configuración de audio.
+
+[SwatGameSettingsMenu_VideoSettingsButton]
+Caption=VÍDEO
+Hint=Seleccionar tu configuración de vídeo.
+
+[SwatGameSettingsMenu_ControlSettingsButton]
+Caption=JUEGO
+Hint=Seleccionar tu configuración del juego.
+
+[SwatGameSettingsMenu]
+MainMenuString=PRINCIPAL
+
+[SwatObjectivesPopupMenu_SwatOfficerStatusPanel_BlueTeamLabel]
+Caption=[b]AZUL
+
+[SwatObjectivesPopupMenu_SwatOfficerStatusPanel_RedTeamLabel]
+Caption=[b]ROJO
+
+[SwatObjectivesPopupMenu_OfficerStatus_mappanelheader]
+Caption=ESTADO DE EQUIPO
+
+[SwatObjectivesPopupMenu_OfficerStatus_JacksonNameLabel]
+Caption=Jackson:
+
+[SwatObjectivesPopupMenu_OfficerStatus_FieldsNameLabel]
+Caption=Fields:
+
+[SwatObjectivesPopupMenu_OfficerStatus_GirardNameLabel]
+Caption=Girard:
+
+[SwatObjectivesPopupMenu_OfficerStatus_ReynoldsNameLabel]
+Caption=Reynolds:
+
+[SwatObjectivesPopupMenu_OfficerStatus_JacksonStatusLabel]
+Caption=[c=00ff00][b]Saludable
+
+[SwatObjectivesPopupMenu_OfficerStatus_FieldsStatusLabel]
+Caption=[c=00ff00][b]Saludable
+
+[SwatObjectivesPopupMenu_OfficerStatus_GirardStatusLabel]
+Caption=[c=00ff00][b]Saludable
+
+[SwatObjectivesPopupMenu_OfficerStatus_ReynoldsStatusLabel]
+Caption=[c=00ff00][b]Saludable
+
+[SwatObjectivesPopupMenu_SwatOfficerStatusPanel]
+InjuredString=[c=ffff00][b]Herido
+HealthyString=[c=00ff00][b]Saludable
+
+[SwatObjectivesPopupMenu_SwatMapPanel_mappanelheader]
+Caption=MAPA
+
+[SwatObPopMenu_LeadershipPanel_proceduresheader]
+Caption=PROCEDIMIENTOS
+
+[SwatObPopMenu_LeadershipPanel_mclb_Bonus_Description_Button]
+Caption=PROCEDIMIENTOS:
+
+[SwatObPopMenu_LeadershipPanel_mclb_Bonus]
+ListNames=("Description","Calculation")
+
+[SwatObjectivesPopupMenu_SwatObjectivesPanel_objectivestitlelabel]
+Caption=OBJETIVOS
+
+[SwatObjectivesPopupMenu_SwatObjectivesPanel_ObjectivesBox]
+ListNames=("Objective","Status")
+
+[SwatPopupMenu_ResumeGameButton]
+Caption=CONTINUAR
+Hint=Continuar con la misión actual.
+
+[SwatPopupMenu_AbortGameButton]
+Caption=ABANDONAR
+Hint=Terminar la misión actual.
+
+[SwatPopupMenu_GameSettingsButton]
+Caption=CONFIGURACIÓN
+Hint=Seleccionar configuración del juego.
+
+[SwatMPLoadoutPanel_Pocket_BodyArmor_Button]
+Caption=Chaleco ligero
+Hint=Seleccionar este elemento.
+
+[SwatMPLoadoutPanel_Pocket_HeadArmor_Button]
+Caption=Casco
+Hint=Seleccionar este elemento.
+
+[SwatMPLoadoutPanel_4_TabButton]
+Caption=PROTECCIÓN
+Hint=Selecciona equipo protector.
+
+[SwatMPLoadoutPanel_3_TabButton]
+Caption=FRANQUEAR
+Hint=Seleccionar equipo para franquear.
+
+[SwatMPLoadoutPanel_Pocket_EquipFive_Button]
+Caption=Aerosol
+Hint=Seleccionar este elemento.
+
+[SwatMPLoadoutPanel_Pocket_EquipFour_Button]
+Caption=Urticante
+Hint=Seleccionar este elemento.
+
+[SwatMPLoadoutPanel_Pocket_EquipThree_Button]
+Caption=Bengala deslumbrante
+Hint=Seleccionar este elemento.
+
+[SwatMPLoadoutPanel_Pocket_EquipTwo_Button]
+Caption=Bengala deslumbrante
+Hint=Seleccionar este elemento.
+
+[SwatMPLoadoutPanel_Pocket_EquipOne_Button]
+Caption=Urticante
+Hint=Seleccionar este elemento.
+
+[SwatMPLoadoutPanel_2_TabButton]
+Caption=TÁCTICO
+Hint=Seleccionar equipo táctico.
+
+[SwatMPLoadoutPanel_2_TabPanel_equip5buttonlabel]
+Caption=5
+
+[SwatMPLoadoutPanel_2_TabPanel_equip4buttonlabel]
+Caption=4
+
+[SwatMPLoadoutPanel_2_TabPanel_equip3buttonlabel]
+Caption=3
+
+[SwatMPLoadoutPanel_2_TabPanel_equip2buttonlabel]
+Caption=2
+
+[SwatMPLoadoutPanel_2_TabPanel_equip1buttonlabel]
+Caption=1
+
+[SwatMPLoadoutPanel_1_TabButton]
+Caption=SECUNDARIA
+Hint=Seleccionar arma secundaria y munición.
+
+[SwatMPLoadoutPanel_0_TabButton]
+Caption=PRIMARIA
+Hint=Seleccionar arma primaria y munición.
+
+[SwatMPLoadoutPanel_Pocket_HeadArmor_Label]
+Caption=Casco
+
+[SwatMPLoadoutPanel_Pocket_BodyArmor_Label]
+Caption=Chaleco ligero
+
+[SwatMPLoadoutPanel_Pocket_Breaching_Label]
+Caption=Escopeta
+
+[SwatMPLoadoutPanel_Pocket_EquipFive_Label]
+Caption=Aerosol
+
+[SwatMPLoadoutPanel_Pocket_EquipFour_Label]
+Caption=Urticante
+
+[SwatMPLoadoutPanel_Pocket_EquipThree_Label]
+Caption=Bengala deslumbrante
+
+[SwatMPLoadoutPanel_Pocket_EquipTwo_Label]
+Caption=Bengala deslumbrante
+
+[SwatMPLoadoutPanel_Pocket_EquipOne_Label]
+Caption=Urticante
+
+[SwatMPLoadoutPanel_Pocket_SecondaryAmmo_Label]
+Caption=Cartucho
+
+[SwatMPLoadoutPanel_Pocket_SecondaryWeapon_Label]
+Caption=Pistola de descarga eléctrica
+
+[SwatMPLoadoutPanel_Pocket_PrimaryAmmo_Label]
+Caption=00 Buck
+
+[SwatMPLoadoutPanel_Pocket_PrimaryWeapon_Label]
+Caption=Nova Pump
+
+[SwatMPPage_LoadingLabel]
+Caption=CARGANDO
+
+[SwatScorePopupMenu_roundlabel]
+Caption=Ronda: 1/1
+
+[SwatMPPage_settingsbutton]
+Caption=CONFIGURACIÓN
+Hint=Seleccionar configuración del juego.
+
+[SwatMPPage_ServerSettingsButton]
+Caption=SERVIDOR
+Hint=Seleccionar configuración del servidor.
+
+[SwatMPPage_servernamelabel]
+Caption=Servidor de SWAT 4
+
+[SwatMPPage_gamemodelabel]
+Caption=Sospechosos parapetados
+
+[SwatMPLoadoutPanel_breachinglabeltab]
+Caption=PROTECCIÓN
+
+[SwatMPLoadoutPanel_equip5label]
+Caption=5:
+
+[SwatMPLoadoutPanel_equip4label]
+Caption=4:
+
+[SwatMPLoadoutPanel_equip3label]
+Caption=3:
+
+[SwatMPLoadoutPanel_equip2label]
+Caption=2:
+
+[SwatMPLoadoutPanel_equip1label]
+Caption=1:
+
+[SwatMPLoadoutPanel_breachingtablabel]
+Caption=FRANQUEAR
+
+[SwatMPLoadoutPanel_tacticallabeltab]
+Caption=TÁCTICO
+
+[SwatMPLoadoutPanel_secondarylabeltab]
+Caption=SECUNDARIA
+
+[SwatMPLoadoutPanel_weaponlabeltab]
+Caption=PRIMARIA
+
+[SwatMPLoadoutPanel_ammonamelabel]
+Caption=00 Buck
+
+[SwatMPLoadoutPanel_equipnamelabel]
+Caption=Nova Pump
+
+[SwatLoadoutMenu_ScrollLeftButton]
+Hint=Seleccionar el elemento anterior.
+
+[SwatLoadoutMenu_ScrollRightButton]
+Hint=Seleccionar el siguiente elemento.
+
+[SwatLoadoutMenu_ScrollAmmoLeftButton]
+Hint=Seleccionar el elemento anterior.
+
+[SwatLoadoutMenu_ScrollAmmoRightButton]
+Hint=Seleccionar el siguiente elemento.
+
+[SwatMPPage_Debriefing]
+Caption=PUNTUACIONES
+Hint=Ver la pantalla de puntuaciones.
+
+[SwatMPPage_Loadout]
+Caption=EQUIPO
+Hint=Ver la pantalla de equipo.
+
+[SwatMPPage_starttimerlabel]
+Caption=Tiempo hasta la siguiente ronda:
+
+[SwatMPPage_mpdisconnect]
+Caption=DESCONECTAR
+Hint=Desconectar del servidor.
+
+[SwatMPPage_StartButton]
+Caption=LISTO
+Hint=Haz clic cuando estés listo para comenzar.
+
+[SwatMPPage_MissionLoadingStatusText]
+Caption=Cargando...
+
+[SwatMPPage]
+ReadyString=LISTO
+ContinueString=CONTINUAR
+GameModeAndLevelString=%2                Modo: %1
+
+[SwatIntroMenu_WaitDialogueDoNotUse_CaptionLabel]
+Caption=Buscando mapas disponibles…
+
+[SwatServerSetupMenu_AdminPasswordlabel]
+Caption=Adjudicar contraseña
+
+[SwatServerSetupMenu_dedServercheck]
+Hint=Activa esta casilla de verificación para iniciar como servidor dedicado.
+
+[SwatServerSetupMenu_Dedicatedlabel]
+Caption=Iniciar un servidor dedicado
+
+[SwatServerSetupMenu_GameSpyLogo]
+Hint=Comenzar misión
+
+[SwatServerSetupMenu_quickresetbox]
+Hint=Cuando se selecciona, elimina los tiempos de cargas entre rondas en el mismo mapa.
+
+[SwatServerSetupMenu_missionreadytime]
+Caption=Tiempo para la misión
+
+[SwatServerSetupMenu_scorelimitlabel]
+Caption=Límite de puntuación
+
+[SwatServerSetupMenu_playernamelabel]
+Caption=Nombre de jugador
+
+[SwatServerSetupMenu_servernamelabel]
+Caption=Nombre de servidor
+
+[SwatServerSetupMenu_hosttitlelabel]
+Caption=CELEBRAR PARTIDA
+
+[SwatServerSetupMenu_TextQuitButton]
+Caption=SALIR
+Hint=Salir del juego y volver a Windows.
+
+[SwatServerSetupMenu_NoRespawnLabel]
+Caption=Deshabilitar regeneración
+
+[SwatServerSetupMenu_DisableRespawn]
+Hint=Seleccionar esta casilla para deshabilitar la regeneración.
+
+[SwatServerSetupMenu_password]
+Caption=Contraseña
+
+[SwatServerSetupMenu_roundcount]
+Caption=Número de rondas
+
+[SwatServerSetupMenu_maxplayerlabel]
+Caption=Jugadores máx.
+
+[SwatServerSetupMenu_postroundtime]
+Caption=Tiempo entre rondas
+
+[SwatServerSetupMenu_roundtime]
+Caption=Tiempo de ronda
+
+[SwatServerSetupMenu_mpshownameslabel]
+Caption=Mostrar nombres compañeros
+
+[SwatServerSetupMenu_mpshownamescheckbox]
+Hint=Seleccionar esta casilla para mostrar los nombres aliados.
+
+[SwatServerSetupMenu_mpautobalancelabel]
+Caption=Mostrar nombres de enemigos
+
+[SwatServerSetupMenu_EntrySelectCheck]
+Hint=Seleccionar esta casilla para utilizar ubicaciones de inicio primarias.
+
+[SwatServerSetupMenu_mpautobalancecheckbox]
+Hint=Seleccionar esta casilla para mostrar los nombres del enemigo.
+
+[SwatServerSetupMenu_EntrySelectCheckLabel]
+Caption=Utilizar punto de entrada primario
+
+[SwatServerSetupMenu_mpgametypelabel]
+Caption=Tipo de juego
+
+[SwatServerSetupMenu_mpgametypecombo_ComboB]
+Hint=Selecciona el tipo de juego.
+
+[SwatServerSetupMenu_mpgametypecombo_EditBox]
+Hint=Selecciona el tipo de juego.
+
+[SwatServerSetupMenu_mpgametypecombo_LBox_List]
+Hint=Selecciona el tipo de juego.
+
+[SwatServerSetupMenu_mpgametypecombo_LBox_SBar_Grip]
+Hint=Selecciona el tipo de juego.
+
+[SwatServerSetupMenu_mpgametypecombo_LBox_SBar_Down]
+Hint=Selecciona el tipo de juego.
+
+[SwatServerSetupMenu_mpgametypecombo_LBox_SBar_Up]
+Hint=Selecciona el tipo de juego.
+
+[SwatServerSetupMenu_mpgametypecombo_LBox_SBar_SZone]
+Hint=Selecciona el tipo de juego.
+
+[SwatServerSetupMenu_mpgametypecombo_LBox_SBar]
+Hint=Selecciona el tipo de juego.
+
+[SwatServerSetupMenu_mpgametypecombo_LBox]
+Hint=Selecciona el tipo de juego.
+
+[SwatServerSetupMenu_mpgametypecombo]
+Hint=Selecciona el tipo de juego.
+
+[SwatServerSetupMenu_mp_lannetlabel]
+Caption=LAN/Internet
+
+[SwatServerSetupMenu_mp_lannetcombo_ComboB]
+Hint=Seleccionar organizar una partida LAN o por Internet.
+
+[SwatServerSetupMenu_mp_lannetcombo_EditBox]
+Hint=Seleccionar organizar una partida LAN o por Internet.
+
+[SwatServerSetupMenu_mp_lannetcombo_LBox_List]
+Hint=Seleccionar organizar una partida LAN o por Internet.
+
+[SwatServerSetupMenu_mp_lannetcombo_LBox_SBar_Grip]
+Hint=Seleccionar organizar una partida LAN o por Internet.
+
+[SwatServerSetupMenu_mp_lannetcombo_LBox_SBar_Down]
+Hint=Seleccionar organizar una partida LAN o por Internet.
+
+[SwatServerSetupMenu_mp_lannetcombo_LBox_SBar_Up]
+Hint=Seleccionar organizar una partida LAN o por Internet.
+
+[SwatServerSetupMenu_mp_lannetcombo_LBox_SBar_SZone]
+Hint=Seleccionar organizar una partida LAN o por Internet.
+
+[SwatServerSetupMenu_mp_lannetcombo_LBox_SBar]
+Hint=Seleccionar organizar una partida LAN o por Internet.
+
+[SwatServerSetupMenu_mp_lannetcombo_LBox]
+Hint=Seleccionar organizar una partida LAN o por Internet.
+
+[SwatServerSetupMenu_mp_lannetcombo]
+Hint=Seleccionar organizar una partida LAN o por Internet.
+
+[SwatServerSetupMenu_mp_passwordedit]
+Hint=Introducir una contraseña para el servidor.
+
+[SwatServerSetupMenu_mp_passwordlabel]
+Caption=Restablecer ronda rápida
+
+[SwatServerSetupMenu_mp_passwordcheck]
+Hint=Seleccionar esta casilla para habilitar la protección por contraseña.
+
+[SwatServerSetupMenu_mp_servername]
+Hint=Introducir un nombre para el servidor.
+
+[SwatServerSetupMenu_PreGameTimeLimit_Minus]
+Hint=Establecer el tiempo del pre-juego.
+
+[SwatServerSetupMenu_PreGameTimeLimit_Plus]
+Hint=Establecer el tiempo del pre-juego.
+
+[SwatServerSetupMenu_PreGameTimeLimit_EditBox]
+Hint=Establecer el tiempo del pre-juego.
+
+[SwatServerSetupMenu_PreGameTimeLimit]
+Hint=Establecer el tiempo del pre-juego.
+
+[SwatServerSetupMenu_GameTimeLimit_Minus]
+Hint=Establecer la duración de una ronda.
+
+[SwatServerSetupMenu_GameTimeLimit_Plus]
+Hint=Establecer la duración de una ronda.
+
+[SwatServerSetupMenu_GameTimeLimit_EditBox]
+Hint=Establecer la duración de una ronda.
+
+[SwatServerSetupMenu_GameTimeLimit]
+Hint=Establecer la duración de una ronda.
+
+[SwatServerSetupMenu_TimeLimit_Minus]
+Hint=Establecer el tiempo entre rondas.
+
+[SwatServerSetupMenu_TimeLimit_Plus]
+Hint=Establecer el tiempo entre rondas.
+
+[SwatServerSetupMenu_TimeLimit_EditBox]
+Hint=Establecer el tiempo entre rondas.
+
+[SwatServerSetupMenu_TimeLimit]
+Hint=Establecer el tiempo entre rondas.
+
+[SwatServerSetupMenu_ScoreLimit_Minus]
+Hint=Establecer el límite de puntuación para la partida.
+
+[SwatServerSetupMenu_ScoreLimit_Plus]
+Hint=Establecer el límite de puntuación para la partida.
+
+[SwatServerSetupMenu_ScoreLimit_EditBox]
+Hint=Establecer el límite de puntuación para la partida.
+
+[SwatServerSetupMenu_ScoreLimit]
+Hint=Establecer el límite de puntuación para la partida.
+
+[SwatServerSetupMenu_RoundsEdit_Minus]
+Hint=Establecer el número de rondas por mapa.
+
+[SwatServerSetupMenu_RoundsEdit_Plus]
+Hint=Establecer el número de rondas por mapa.
+
+[SwatServerSetupMenu_RoundsEdit_EditBox]
+Hint=Establecer el número de rondas por mapa.
+
+[SwatServerSetupMenu_RoundsEdit]
+Hint=Establecer el número de rondas por mapa.
+
+[SwatServerSetupMenu_MaxplayersEdit_Minus]
+Hint=Establecer el número máximo de jugadores permitidos en este servidor.
+
+[SwatServerSetupMenu_MaxplayersEdit_Plus]
+Hint=Establecer el número máximo de jugadores permitidos en este servidor.
+
+[SwatServerSetupMenu_MaxplayersEdit_EditBox]
+Hint=Establecer el número máximo de jugadores permitidos en este servidor.
+
+[SwatServerSetupMenu_MaxplayersEdit]
+Hint=Establecer el número máximo de jugadores permitidos en este servidor.
+
+[SwatServerSetupMenu_AdminPasswordBox]
+Hint=Introducir contraseña adjudicada para el servidor.
+
+[SwatServerSetupMenu_NameBox]
+Hint=Introduce el nombre de tu jugador.
+
+[SwatServerSetupMenu_StartServerButton]
+Caption=INICIAR
+Hint=Iniciar el servidor con la configuración actual.
+
+[SwatServerSetupMenu_MainMenuButton]
+Caption=PRINCIPAL
+Hint=Volver al menú principal.
+
+[SwatServerSetupMenu_mpfriendlyslider]
+Hint=Establecer el modificador de daño de fuego amigo.
+
+[SwatServerSetupMenu_mpenemylabel]
+Caption=Sólo arrestos (deshabilitar daño)
+
+[SwatServerSetupMenu_mpenemycheckbox]
+Hint=Seleccionar esta casilla para deshabilitar el daño de armas.
+
+[SwatServerSetupMenu_mpfriendlylabel]
+Caption=Fuego amigo
+
+[SwatServerSetupMenu_MapTitle]
+Caption=Mapa: PMTest2
+
+[SwatServerSetupMenu_MapAuthor]
+Caption="Autor: "
+
+[SwatServerSetupMenu_MapRecommendedNumPlayer]
+Caption=Jugadores recomendados: %1 - %2
+
+[SwatServerSetupMenu_AvailableMapList_List]
+Hint=Mapas disponibles para el tipo de partida actual.
+
+[SwatServerSetupMenu_AvailableMapList_SBar_Grip]
+Hint=Mapas disponibles para el tipo de partida actual.
+
+[SwatServerSetupMenu_AvailableMapList_SBar_Down]
+Hint=Mapas disponibles para el tipo de partida actual.
+
+[SwatServerSetupMenu_AvailableMapList_SBar_Up]
+Hint=Mapas disponibles para el tipo de partida actual.
+
+[SwatServerSetupMenu_AvailableMapList_SBar_SZone]
+Hint=Mapas disponibles para el tipo de partida actual.
+
+[SwatServerSetupMenu_AvailableMapList_SBar]
+Hint=Mapas disponibles para el tipo de partida actual.
+
+[SwatServerSetupMenu_AvailableMapList]
+Hint=Mapas disponibles para el tipo de partida actual.
+
+[SwatServerSetupMenu_SelectedMapList_List]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_SelectedMapList_SBar_Grip]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_SelectedMapList_SBar_Down]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_SelectedMapList_SBar_Up]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_SelectedMapList_SBar_SZone]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_SelectedMapList_SBar]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_SelectedMapList]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_DisplayOnlyMapList_List]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_DisplayOnlyMapList_SBar_Grip]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_DisplayOnlyMapList_SBar_Down]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_DisplayOnlyMapList_SBar_Up]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_DisplayOnlyMapList_SBar_SZone]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_DisplayOnlyMapList_SBar]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_DisplayOnlyMapList]
+Hint=Rotación de mapas para el tipo de partida seleccionada.
+
+[SwatServerSetupMenu_Add]
+Hint=Añadir el mapa seleccionado a la rotación de mapas.
+
+[SwatServerSetupMenu_Remove]
+Hint=Eliminar el mapa seleccionado de la rotación de mapas.
+
+[SwatServerSetupMenu]
+StartButtonString=INICIAR
+ReStartButtonString=REINICIAR
+
+[SwatServerBrowserMenu_esrbimage]
+Hint=Comenzar misión
+
+[SwatServerBrowserMenu_internetlabelagain]
+Caption=Internet
+Hint=Comenzar misión
+
+[SwatServerBrowserMenu_GamespyImage]
+Hint=Comenzar misión
+
+[SwatServerBrowserMenu_backgreyimage]
+Hint=Comenzar misión
+
+[SwatServerBrowserMenu_joingametitlelabel]
+Caption=UNIRSE A PARTIDA
+Hint=Comenzar misión
+
+[SwatServerBrowserMenu_topimage]
+Hint=Comenzar misión
+
+[SwatServerBrowserMenu_bottomimage]
+Hint=Comenzar misión
+
+[SwatServerBrowserMenu_LanLabel]
+Caption=LAN
+Hint=Comenzar misión
+
+[SwatServerBrowserMenu_Gamespylabel]
+Caption=Internet
+Hint=Comenzar misión
+
+[SwatServerBrowserMenu_gamespybutton]
+Hint=Seleccionar esta casilla para mostrar las partidas de Internet.
+
+[SwatServerBrowserMenu_LanButton]
+Hint=Seleccionar esta casilla para mostrar las partidas LAN.
+
+[SwatServerBrowserMenu_mpserverlist_Version_Button]
+Caption=VERSIÓN
+Hint=Ordenar lista por número de versión
+
+[SwatServerBrowserMenu_mpserverlist_Version_List]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_Version]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_ModName_Button]
+Caption=MOD
+Hint=Ordenar lista por nombre del modo
+
+[SwatServerBrowserMenu_mpserverlist_ModName_List]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_ModName]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_IPAddress_Button]
+Caption=DIRECCIÓN IP
+Hint=Ordenar lista por dirección IP.
+
+[SwatServerBrowserMenu_mpserverlist_IPAddress_List]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_IPAddress]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_MapName_Button]
+Caption=NOMBRE DE MAPA
+Hint=Ordenar la lista alfabéticamente por nombre de mapa.
+
+[SwatServerBrowserMenu_mpserverlist_MapName_List]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_MapName]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_GameType_Button]
+Caption=TIPO DE JUEGO
+Hint=Ordenar lista por tipo de juego.
+
+[SwatServerBrowserMenu_mpserverlist_GameType_List]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_GameType]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_ping_Button]
+Caption=PING
+Hint=Ordenar lista por tiempo de respuesta.
+
+[SwatServerBrowserMenu_mpserverlist_ping_List]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_ping]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_numPlayers_Button]
+Caption=JUG.
+Hint=Ordenar lista por número de jugadores.
+
+[SwatServerBrowserMenu_mpserverlist_numPlayers_List]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_numPlayers]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_Servername_Button]
+Caption=NOMBRE DE SERVIDOR
+Hint=Ordenar la lista alfabéticamente por nombre de servidor.
+
+[SwatServerBrowserMenu_mpserverlist_Servername_List]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_Servername]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_Locked_Button]
+Hint=Ordenar lista por protección de contraseña.
+
+[SwatServerBrowserMenu_mpserverlist_Locked_List]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_Locked]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_SBar_Grip]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_SBar_Down]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_SBar_Up]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_SBar_SZone]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist_SBar]
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mpserverlist]
+ListNames=("Locked","Servername","numPlayers","ping","GameType","MapName","IPAddress","ModName","Version")
+Hint=Seleccionar un servidor al que conectarse.
+
+[SwatServerBrowserMenu_mp_filters]
+Caption=FILTROS
+Hint=Seleccionar filtros para el servidor.
+
+[SwatServerBrowserMenu_mp_joinip]
+Caption=IP DIRECTA
+Hint=Unirse a una dirección IP específica.
+
+[SwatServerBrowserMenu_mp_refresh]
+Caption=REINTENTAR
+Hint=Actualizar los tiempos de respuesta del servidor.
+
+[SwatServerBrowserMenu_MP_UPDATE]
+Caption=ACTUALIZAR
+Hint=Actualizar la lista de servidores.
+
+[SwatServerBrowserMenu_NameLabel]
+Caption=Introduce tu nombre aquí:
+Hint=Comenzar misión
+
+[SwatServerBrowserMenu_NameBox]
+Hint=Introduce el nombre de tu jugador.
+
+[SwatServerBrowserMenu_JoinServerButton]
+Caption=UNIRSE
+Hint=Unirse al servidor seleccionado.
+
+[SwatDebriefingMenu_LoadoutButton]
+Caption=EQUIPO
+Hint=Seleccionar equipamiento para tu equipo.
+
+[SwatDebriefingMenu_DebriefingButton]
+Caption=RESUMEN
+Hint=Ver el informe de la misión.
+
+[SwatDebriefingMenu_missionoutcomelabel]
+Caption=¡MISIÓN [c=00ff00]NO COMPLETADA[\c]!
+
+[SwatDebriefingMenu_SwatLeadershipPanel_requirementslabel]
+Caption=Puntuación requerida: [b]60
+
+[SwatDebriefingMenu_SwatLeadershipPanel_penaltiestotallabel]
+Caption=TOTAL
+
+[SwatDebriefingMenu_SwatLeadershipPanel_BonusTotalLabel]
+Caption=TOTAL
+
+[SwatDebriefingMenu_SwatLeadershipPanel_rankinglabel]
+Caption=Posición: Sargento
+
+[SwatDebriefingMenu_SwatLeadershipPanel_totallabel]
+Caption=[c=ffffff]Total: [c=00ff00]%80[c=ffffff]/100
+
+[SwatDebriefingMenu_SwatLeadershipPanel_penaltylabel]
+Caption=-110
+
+[SwatDebriefingMenu_SwatLeadershipPanel_bonuslabel]
+Caption=8
+
+[SwatDebriefingMenu_SwatLeadershipPanel_mclb_pXescription_Button]
+Caption=PENALIZACIONES:
+
+[SwatDebriefingMenu_SwatLeadershipPanel_mclb_penalty]
+ListNames=("Description","Calculation","Score")
+
+[SwatDebriefingMenu_SwatLeadershipPanel_mclb_bXescription_Button]
+Caption=BONIFICACIONES:
+
+[SwatDebriefingMenu_SwatLeadershipPanel_mclb_bonus]
+ListNames=("Description","Calculation","Score")
+
+[SwatDebriefingMenu_SwatLeadershipPanel]
+DifficultyLabelString=Puntuación necesaria: [b]%1
+RankingStrings=("Inspector jefe","Inspector","Capitán","Teniente","Sargento","Agente de patrulla","Agente de reserva","Agente no declarado","Recluta","Desastre","Vigilante","Amenaza","Estafador")
+
+[SwatDebriefingMenu_SwatObjectivesPanel_objectivesBox]
+ListNames=("Objective","Status")
+
+[SwatDebriefingMenu_restartbutton]
+Caption=REINICIAR MISIÓN
+Hint=Reiniciar la misión actual.
+
+[SwatDebriefingMenu_startbutton]
+Caption=SELECCIONAR MISIÓN
+Hint=Continuar con el menú de selección de misión.
+
+[SwatDebriefingMenu]
+MissionCompletedString=¡MISIÓN [c=00ff00]COMPLETADA[\c]!
+MissionFailedString=¡MISIÓN [c=00ff00]NO COMPLETADA[\c]!
+ContinueString=CONTINUAR
+
+[SwatMPScoresPanel_Suspectheader]
+Caption=Sospechosos: 0 Rondas ganadas: 0
+
+[SwatMPScoresPanel_SwatHeader]
+Caption=SWAT: 0 Rondas ganadas: 0
+
+[SwatMPScoresPanel_otherteamlist_Ready_Button]
+Hint=Listo
+
+[SwatMPScoresPanel_otherteamlist_Ready_List]
+Hint=Listo
+
+[SwatMPScoresPanel_otherteamlist_Ready]
+Hint=Listo
+
+[SwatMPScoresPanel_otherteamlist_Ping_Button]
+Hint=PING
+
+[SwatMPScoresPanel_otherteamlist_Ping_List]
+Hint=PING
+
+[SwatMPScoresPanel_otherteamlist_Ping]
+Hint=PING
+
+[SwatMPScoresPanel_otherteamlist_Obj_Button]
+Hint=Objetivos
+
+[SwatMPScoresPanel_otherteamlist_Obj_List]
+Hint=Objetivos
+
+[SwatMPScoresPanel_otherteamlist_Obj]
+Hint=Objetivos
+
+[SwatMPScoresPanel_otherteamlist_Deaths_Button]
+Hint=Muertes
+
+[SwatMPScoresPanel_otherteamlist_Deaths_List]
+Hint=Muertes
+
+[SwatMPScoresPanel_otherteamlist_Deaths]
+Hint=Muertes
+
+[SwatMPScoresPanel_otherteamlist_Kills_Button]
+Hint=Muertes
+
+[SwatMPScoresPanel_otherteamlist_Kills_List]
+Hint=Muertes
+
+[SwatMPScoresPanel_otherteamlist_Kills]
+Hint=Muertes
+
+[SwatMPScoresPanel_otherteamlist_Arrested_Button]
+Hint=Veces arrestado
+
+[SwatMPScoresPanel_otherteamlist_Arrested_List]
+Hint=Veces arrestado
+
+[SwatMPScoresPanel_otherteamlist_Arrested]
+Hint=Veces arrestado
+
+[SwatMPScoresPanel_otherteamlist_Arrests_Button]
+Hint=Arrestos
+
+[SwatMPScoresPanel_otherteamlist_Arrests_List]
+Hint=Arrestos
+
+[SwatMPScoresPanel_otherteamlist_Arrests]
+Hint=Arrestos
+
+[SwatMPScoresPanel_otherteamlist_Score_Button]
+Hint=Puntuación
+
+[SwatMPScoresPanel_otherteamlist_Score_List]
+Hint=Puntuación
+
+[SwatMPScoresPanel_otherteamlist_Score]
+Hint=Puntuación
+
+[SwatMPScoresPanel_otherteamlist_Teamnames_Button]
+Caption=SOSPECHOSO
+Hint=Nombre de jugador
+
+[SwatMPScoresPanel_otherteamlist_Teamnames_List]
+Hint=Nombre de jugador
+
+[SwatMPScoresPanel_otherteamlist_Teamnames]
+Hint=Nombre de jugador
+
+[SwatMPScoresPanel_otherteamlist_Rank_Button]
+Hint=Rango
+
+[SwatMPScoresPanel_otherteamlist_Rank_List]
+Hint=Rango
+
+[SwatMPScoresPanel_otherteamlist_Rank]
+Hint=Rango
+
+[SwatMPScoresPanel_otherteamlist]
+ListNames=("Rank","Teamnames","Score","Arrests","Arrested","Kills","Deaths","Obj","Ping","Ready")
+
+[SwatMPScoresPanel_teamlist_Ready_Button]
+Hint=Listo
+
+[SwatMPScoresPanel_teamlist_Ready_List]
+Hint=Listo
+
+[SwatMPScoresPanel_teamlist_Ready]
+Hint=Listo
+
+[SwatMPScoresPanel_teamlist_Ping_Button]
+Hint=PING
+
+[SwatMPScoresPanel_teamlist_Ping_List]
+Hint=PING
+
+[SwatMPScoresPanel_teamlist_Ping]
+Hint=PING
+
+[SwatMPScoresPanel_teamlist_Obj_Button]
+Hint=Objetivos
+
+[SwatMPScoresPanel_teamlist_Obj_List]
+Hint=Objetivos
+
+[SwatMPScoresPanel_teamlist_Obj]
+Hint=Objetivos
+
+[SwatMPScoresPanel_teamlist_Deaths_Button]
+Hint=Muertes
+
+[SwatMPScoresPanel_teamlist_Deaths_List]
+Hint=Muertes
+
+[SwatMPScoresPanel_teamlist_Deaths]
+Hint=Muertes
+
+[SwatMPScoresPanel_teamlist_Kills_Button]
+Hint=Muertes
+
+[SwatMPScoresPanel_teamlist_Kills_List]
+Hint=Muertes
+
+[SwatMPScoresPanel_teamlist_Kills]
+Hint=Muertes
+
+[SwatMPScoresPanel_teamlist_Arrested_Button]
+Hint=Veces arrestado
+
+[SwatMPScoresPanel_teamlist_Arrested_List]
+Hint=Veces arrestado
+
+[SwatMPScoresPanel_teamlist_Arrested]
+Hint=Veces arrestado
+
+[SwatMPScoresPanel_teamlist_Arrests_Button]
+Hint=Arrestos
+
+[SwatMPScoresPanel_teamlist_Arrests_List]
+Hint=Arrestos
+
+[SwatMPScoresPanel_teamlist_Arrests]
+Hint=Arrestos
+
+[SwatMPScoresPanel_teamlist_Score_Button]
+Hint=Puntuación
+
+[SwatMPScoresPanel_teamlist_Score_List]
+Hint=Puntuación
+
+[SwatMPScoresPanel_teamlist_Score]
+Hint=Puntuación
+
+[SwatMPScoresPanel_teamlist_Teamnames_Button]
+Caption=AGENTE
+Hint=Nombre de jugador
+
+[SwatMPScoresPanel_teamlist_Teamnames_List]
+Hint=Nombre de jugador
+
+[SwatMPScoresPanel_teamlist_Teamnames]
+Hint=Nombre de jugador
+
+[SwatMPScoresPanel_teamlist_Rank_Button]
+Hint=Rango
+
+[SwatMPScoresPanel_teamlist_Rank_List]
+Hint=Rango
+
+[SwatMPScoresPanel_teamlist_Rank]
+Hint=Rango
+
+[SwatMPScoresPanel_teamlist]
+ListNames=("Rank","Teamnames","Score","Arrests","Arrested","Kills","Deaths","Obj","Ping","Ready")
+
+[SwatMPScoresPanel_AbortGame]
+Caption=SIGUIENTE PARTIDA
+Hint=Llevar a cabo deberes administrativos.
+
+[SwatMPScoresPanel_SwapTeam]
+Caption=CAMBIAR EQUIPO
+Hint=Cambiar equipos
+
+[SwatCOOPObjectivesPopupMenu_OfficerStatus_mappanelheader]
+Caption=ESTADO DE EQUIPO
+
+[SwatCOOPOfficerStatusPanel_teamlist]
+ListNames=("Ping","Teamnames","Health")
+
+[SwatCOOPOfficerStatusPanel]
+InjuredString=[c=ffff00][b]Herido
+HealthyString=[c=00ff00][b]Saludable
+NotReady=[c=AAAAFF]No preparado
+
+[SwatMPScoresPanel_SwatMapPanel_mappanelheader]
+Caption=MAPA
+
+[SwatMPScoresPanel_DebriefPanel_penaltiesheader]
+Caption=PENALIZACIONES:
+
+[SwatMPScoresPanel_DebriefPanel_bonusHeader]
+Caption=BONIFICACIONES:
+
+[SwatMPScoresPanel_DebriefPanel_penaltiestotallabel]
+Caption=TOTAL
+
+[SwatMPScoresPanel_DebriefPanel_BonusTotalLabel]
+Caption=TOTAL
+
+[SwatMPScoresPanel_DebriefPanel_rankinglabel]
+Caption=Rango: ¡Fallo!
+
+[SwatMPScoresPanel_DebriefPanel_totallabel]
+Caption=[c=ffffff]Total: [c=ff0000]0[c=ffffff]/100
+
+[SwatMPScoresPanel_DebriefPanel_penaltylabel]
+Caption=-45
+
+[SwatMPScoresPanel_DebriefPanel_bonuslabel]
+Caption=5
+
+[SwatMPScoresPanel_DebriefPanel_mclb_penalty]
+ListNames=("Description","Calculation","Score")
+
+[SwatMPScoresPanel_DebriefPanel_mclb_bonus]
+ListNames=("Description","Calculation","Score")
+
+[SwatMPScoresPanel_DebriefPanel]
+RankingStrings=("Inspector jefe","Inspector","Capitán","Teniente","Sargento","Agente de patrulla","Agente de reserva","Agente no declarado","Recluta","Desastre","Vigilante","Amenaza","Estafador")
+
+[SwatMPScoresPanel_LeadershipPanel_proceduresheader]
+Caption=PROCEDIMIENTOS
+
+[SwatMPScoresPanel_LeadershipPanel_mclb_Bonus_Description_Button]
+Caption=PROCEDIMIENTOS:
+
+[SwatMPScoresPanel_LeadershipPanel_mclb_Bonus]
+ListNames=("Description","Calculation")
+
+[SwatMPScoresPanel_SwatObjectivesPanel_objectivestitlelabel]
+Caption=OBJETIVOS
+
+[SwatMPScoresPanel_SwatObjectivesPanel_ObjectivesBox]
+ListNames=("Objective","Status")
+
+[CustomScenario_pnl_notes_underlinekey]
+Caption=Subrayado = '[u]' <texto subrayado> '[\u]'
+
+[CustomScenario_pnl_notes_boldkey]
+Caption=Negrita = '[b]' <texto en negrita> '[\b]'
+
+[CustomScenario_pnl_notes_Colorcodekey]
+Caption=Color = '[c=RRGGBB]'
+
+[CustomScenario_pnl_notes_NewlineKey]
+Caption=Nueva línea = '|'
+
+[CustomScenario_pnl_notes_KeyLabelHeader]
+Caption=CLAVE:
+
+[CustomScenario_pnl_notes_notesheaderlabel]
+Caption=NOTAS
+
+[CustomScenario_pnl_notes_LBL_NOTES]
+Caption=NOTAS
+
+[CustomScenario_pnl_notes_TXT_NOTES]
+Hint=Introducir una nota sobre la misión personalizada.
+
+[CustomScenario_pnl_enemies_suspectsheaderlabel]
+Caption=SOSPECHOSOS
+
+[CustomScenario_pnl_enemies_cbo_skill_ComboB]
+Hint=Seleccionar el nivel de habilidad de los sospechosos en este escenario.
+
+[CustomScenario_pnl_enemies_cbo_skill_EditBox]
+Hint=Seleccionar el nivel de habilidad de los sospechosos en este escenario.
+
+[CustomScenario_pnl_enemies_cbo_skill_LBox_List]
+Hint=Seleccionar el nivel de habilidad de los sospechosos en este escenario.
+
+[CustomScenario_pnl_enemies_cbo_skill_LBox_SBar_Grip]
+Hint=Seleccionar el nivel de habilidad de los sospechosos en este escenario.
+
+[CustomScenario_pnl_enemies_cbo_skill_LBox_SBar_Down]
+Hint=Seleccionar el nivel de habilidad de los sospechosos en este escenario.
+
+[CustomScenario_pnl_enemies_cbo_skill_LBox_SBar_Up]
+Hint=Seleccionar el nivel de habilidad de los sospechosos en este escenario.
+
+[CustomScenario_pnl_enemies_cbo_skill_LBox_SBar_SZone]
+Hint=Seleccionar el nivel de habilidad de los sospechosos en este escenario.
+
+[CustomScenario_pnl_enemies_cbo_skill_LBox_SBar]
+Hint=Seleccionar el nivel de habilidad de los sospechosos en este escenario.
+
+[CustomScenario_pnl_enemies_cbo_skill_LBox]
+Hint=Seleccionar el nivel de habilidad de los sospechosos en este escenario.
+
+[CustomScenario_pnl_enemies_cbo_skill]
+Hint=Seleccionar el nivel de habilidad de los sospechosos en este escenario.
+
+[CustomScenario_pnl_enemies_lbl_skill]
+Caption=Habilidad
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_BA]
+Caption=Eliminar >>
+Hint=Eliminar el tipo de sospechoso seleccionado del escenario.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_AB]
+Caption=<< Añadir
+Hint=Añadir tipos de sospechosos seleccionados al escenario.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_HeaderB]
+Caption=ARQUETIPOS SELECCIONADOS
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_HeaderA]
+Caption=ARQUETIPOS DISPONIBLES
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_LBB_List]
+Hint=Los tipos de sospechosos para tu escenario.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_arcXpes_LBB_SBar_Grip]
+Hint=Tipos de sospechosos disponibles.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_arcXpes_LBB_SBar_Down]
+Hint=Tipos de sospechosos disponibles.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_LBB_SBar_Up]
+Hint=Tipos de sospechosos disponibles.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_arcXes_LBB_SBar_SZone]
+Hint=Tipos de sospechosos disponibles.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_LBB_SBar]
+Hint=Tipos de sospechosos disponibles.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_LBB]
+Hint=Los tipos de sospechosos para tu escenario.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_LBA_List]
+Hint=Tipos de sospechosos disponibles.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_arcXpes_LBA_SBar_Grip]
+Hint=Los tipos de sospechosos para tu escenario.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_arcXpes_LBA_SBar_Down]
+Hint=Los tipos de sospechosos para tu escenario.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_LBA_SBar_Up]
+Hint=Los tipos de sospechosos para tu escenario.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_arcXes_LBA_SBar_SZone]
+Hint=Los tipos de sospechosos para tu escenario.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_LBA_SBar]
+Hint=Los tipos de sospechosos para tu escenario.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes_LBA]
+Hint=Tipos de sospechosos disponibles.
+
+[CustomScenario_pnl_enemies_pnl_body_dlist_archetypes]
+BoxAHeader=ARQUETIPOS DISPONIBLES
+BoxBHeader=ARQUETIPOS SELECCIONADOS
+LeftCaption=<< Añadir
+RightCaption=Eliminar >>
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_specific_ComboB]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_specific_EditBox]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backuXpecific_LBox_List]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backuXic_LBox_SBar_Grip]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backuXic_LBox_SBar_Down]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backuXific_LBox_SBar_Up]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backuXc_LBox_SBar_SZone]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backuXpecific_LBox_SBar]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_specific_LBox]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_specific]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_backup_specific]
+Caption=Arma
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_type_ComboB]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_type_EditBox]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_type_LBox_List]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backuXpe_LBox_SBar_Grip]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backuXpe_LBox_SBar_Down]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_type_LBox_SBar_Up]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backuXe_LBox_SBar_SZone]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_type_LBox_SBar]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_type_LBox]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_backup_type]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_backup_type]
+Caption=Tipo
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primary_specific_ComboB]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primary_specific_EditBox]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primaXpecific_LBox_List]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primaXic_LBox_SBar_Grip]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primaXic_LBox_SBar_Down]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primaXific_LBox_SBar_Up]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primaXc_LBox_SBar_SZone]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primaXpecific_LBox_SBar]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primary_specific_LBox]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primary_specific]
+Hint=Seleccionar el arma específica que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_primary_specific]
+Caption=Arma
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primary_type_ComboB]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primary_type_EditBox]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primary_type_LBox_List]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primaXpe_LBox_SBar_Grip]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primaXpe_LBox_SBar_Down]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primaXtype_LBox_SBar_Up]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primaXe_LBox_SBar_SZone]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primary_type_LBox_SBar]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primary_type_LBox]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_cbo_primary_type]
+Hint=Seleccionar el tipo de armas que utilizarán los sospechosos.
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_primary_type]
+Caption=Tipo
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_backup_weapon]
+Caption=ARMAS DE RESPALDO
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_primary_weapon]
+Caption=ARMAS PRIMARIAS
+
+[CustomScenario_pnl_enemies_pnl_body_slide_morale_max]
+Hint=Establecer la resistencia máxima al pedir a un sujeto que obedezca.
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_morale_max]
+Caption=Máximo
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_morale_min]
+Caption=Mínimo
+
+[CustomScenario_pnl_enemies_pnl_body_slide_morale_min]
+Hint=Establecer la resistencia mínima al pedir a un sujeto que obedezca.
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_morale]
+Caption=ESTADO DE ÁNIMO
+
+[CustomScenario_pnl_enemies_pnl_body_spin_count_max_Minus]
+Hint=Ajustar el número máximo de sospechosos que se regeneran.
+
+[CustomScenario_pnl_enemies_pnl_body_spin_count_max_Plus]
+Hint=Ajustar el número máximo de sospechosos que se regeneran.
+
+[CustomScenario_pnl_enemies_pnl_body_spin_count_max_EditBox]
+Hint=Ajustar el número máximo de sospechosos que se regeneran.
+
+[CustomScenario_pnl_enemies_pnl_body_spin_count_max]
+Hint=Ajustar el número máximo de sospechosos que se regeneran.
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_count_max]
+Caption=Máximo
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_count_min]
+Caption=Mínimo
+
+[CustomScenario_pnl_enemies_pnl_body_spin_count_min_Minus]
+Hint=Ajustar el número mínimo de sospechosos que se regeneran.
+
+[CustomScenario_pnl_enemies_pnl_body_spin_count_min_Plus]
+Hint=Ajustar el número mínimo de sospechosos que se regeneran.
+
+[CustomScenario_pnl_enemies_pnl_body_spin_count_min_EditBox]
+Hint=Ajustar el número mínimo de sospechosos que se regeneran.
+
+[CustomScenario_pnl_enemies_pnl_body_spin_count_min]
+Hint=Ajustar el número mínimo de sospechosos que se regeneran.
+
+[CustomScenario_pnl_enemies_pnl_body_lbl_count]
+Caption=NÚMERO DE SOSPECHOSOS
+
+[CustomScenario_pnl_enemies_lbl_campaign]
+Caption=Utilizar configuración campaña
+
+[CustomScenario_pnl_enemies_chk_campaign]
+Hint=Seleccionar esta casilla para regenerar los sospechosos especificados por la campaña.
+
+[CustomScenario_pnl_hostages_civiliansheaderlabel]
+Caption=CIVILES
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes_BA]
+Hint=Eliminar el tipo de civil seleccionado del escenario.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes_AB]
+Hint=Añadir tipos de civiles seleccionados al escenario.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes_HeaderB]
+Caption=ARQUETIPOS SELECCIONADOS
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes_HeaderA]
+Caption=ARQUETIPOS DISPONIBLES
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes_LBB_List]
+Hint=Los tipos de civiles para tu escenario.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_arXpes_LBB_SBar_Grip]
+Hint=Los tipos de civiles para tu escenario.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_arXpes_LBB_SBar_Down]
+Hint=Los tipos de civiles para tu escenario.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_arXtypes_LBB_SBar_Up]
+Hint=Los tipos de civiles para tu escenario.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_arXes_LBB_SBar_SZone]
+Hint=Los tipos de civiles para tu escenario.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes_LBB_SBar]
+Hint=Los tipos de civiles para tu escenario.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes_LBB]
+Hint=Los tipos de civiles para tu escenario.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes_LBA_List]
+Hint=Tipos de civiles disponibles.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_arXpes_LBA_SBar_Grip]
+Hint=Tipos de civiles disponibles.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_arXpes_LBA_SBar_Down]
+Hint=Tipos de civiles disponibles.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_arXtypes_LBA_SBar_Up]
+Hint=Tipos de civiles disponibles.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_arXes_LBA_SBar_SZone]
+Hint=Tipos de civiles disponibles.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes_LBA_SBar]
+Hint=Tipos de civiles disponibles.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes_LBA]
+Hint=Tipos de civiles disponibles.
+
+[CustomScenario_pnl_hostages_pnl_body_dlist_archetypes]
+BoxAHeader=ARQUETIPOS DISPONIBLES
+BoxBHeader=ARQUETIPOS SELECCIONADOS
+LeftCaption=
+RightCaption=
+
+[CustomScenario_pnl_hostages_pnl_body_slide_morale_max]
+Hint=Establecer la resistencia máxima al pedir a un sujeto que obedezca.
+
+[CustomScenario_pnl_hostages_pnl_body_lbl_morale_max]
+Caption=Máximo
+
+[CustomScenario_pnl_hostages_pnl_body_lbl_morale_min]
+Caption=Mínimo
+
+[CustomScenario_pnl_hostages_pnl_body_slide_morale_min]
+Hint=Establecer la resistencia mínima al pedir a un sujeto que obedezca.
+
+[CustomScenario_pnl_hostages_pnl_body_lbl_morale]
+Caption=ESTADO DE ÁNIMO
+
+[CustomScenario_pnl_hostages_pnl_body_spin_count_max_Minus]
+Hint=Ajustar el número máximo de civiles que se regeneran.
+
+[CustomScenario_pnl_hostages_pnl_body_spin_count_max_Plus]
+Hint=Ajustar el número máximo de civiles que se regeneran.
+
+[CustomScenario_pnl_hostages_pnl_body_spin_count_max_EditBox]
+Hint=Ajustar el número máximo de civiles que se regeneran.
+
+[CustomScenario_pnl_hostages_pnl_body_spin_count_max]
+Hint=Ajustar el número máximo de civiles que se regeneran.
+
+[CustomScenario_pnl_hostages_pnl_body_lbl_count_max]
+Caption=Máximo
+
+[CustomScenario_pnl_hostages_pnl_body_lbl_count_min]
+Caption=Mínimo
+
+[CustomScenario_pnl_hostages_pnl_body_spin_count_min_Minus]
+Hint=Ajustar el número mínimo de civiles que se regeneran.
+
+[CustomScenario_pnl_hostages_pnl_body_spin_count_min_Plus]
+Hint=Ajustar el número mínimo de civiles que se regeneran.
+
+[CustomScenario_pnl_hostages_pnl_body_spin_count_min_EditBox]
+Hint=Ajustar el número mínimo de civiles que se regeneran.
+
+[CustomScenario_pnl_hostages_pnl_body_spin_count_min]
+Hint=Ajustar el número mínimo de civiles que se regeneran.
+
+[CustomScenario_pnl_hostages_pnl_body_lbl_count]
+Caption=NÚMERO DE REHENES
+
+[CustomScenario_pnl_hostages_lbl_campaign]
+Caption=Utilizar configuración campaña
+
+[CustomScenario_pnl_hostages_chk_campaign]
+Hint=Seleccionar esta casilla para regenerar los rehenes especificados por la campaña.
+
+[CustomScenario_pnl_squad_squadheaderlabel]
+Caption=BRIGADA
+
+[CustomScenario_pnl_squad_lbl_lone_wolf]
+Caption=Lobo solitario
+
+[CustomScenario_pnl_squad_chk_lone_wolf]
+Hint=Seleccionar esto para eliminar a todos los agentes de la brigada.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_two_cbo_ComboB]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_two_cbo_EditBox]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_two_cbo_LBox_List]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_two_cbo_LBox_SBar]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_two_cbo_LBox]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_two_cbo]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_two_lbl]
+Caption=Jackson
+
+[CustomScenario_pnl_squad_pnl_officers_chk_blue_two]
+Hint=Seleccionar esta casilla para añadir al agente a la brigada.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_one_cbo_ComboB]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_one_cbo_EditBox]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_one_cbo_LBox_List]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_bluXbo_LBox_SBar_Grip]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_bluXbo_LBox_SBar_Down]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_bluX_cbo_LBox_SBar_Up]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_bluXo_LBox_SBar_SZone]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_one_cbo_LBox_SBar]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_one_cbo_LBox]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_one_cbo]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_blue_one_lbl]
+Caption=Fields
+
+[CustomScenario_pnl_squad_pnl_officers_chk_blue_one]
+Hint=Seleccionar esta casilla para añadir al agente a la brigada.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_two_cbo_ComboB]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_two_cbo_EditBox]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_two_cbo_LBox_List]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_two_cbo_LBox_SBar]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_two_cbo_LBox]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_two_cbo]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_two_lbl]
+Caption=Girard
+
+[CustomScenario_pnl_squad_pnl_officers_chk_red_two]
+Hint=Seleccionar esta casilla para añadir al agente a la brigada.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_one_cbo_ComboB]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_one_cbo_EditBox]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_one_cbo_LBox_List]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_redXbo_LBox_SBar_Grip]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_redXbo_LBox_SBar_Down]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_redX_cbo_LBox_SBar_Up]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_redXo_LBox_SBar_SZone]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_one_cbo_LBox_SBar]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_one_cbo_LBox]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_one_cbo]
+Hint=Seleccionar un arma para este agente.
+
+[CustomScenario_pnl_squad_pnl_officers_pnl_red_one_lbl]
+Caption=Reynolds
+
+[CustomScenario_pnl_squad_pnl_officers_chk_red_one]
+Hint=Seleccionar esta casilla para añadir al agente a la brigada.
+
+[CustomScenario_pnl_mission_missionheaderlabel]
+Caption=MISIÓN
+
+[CustomScenario_pnl_mission_cbo_difficulty_ComboB]
+Hint=Selecciona el nivel de dificultad disponible para este escenario.
+
+[CustomScenario_pnl_mission_cbo_difficulty_EditBox]
+Hint=Selecciona el nivel de dificultad disponible para este escenario.
+
+[CustomScenario_pnl_mission_cbo_difficulty_LBox_List]
+Hint=Selecciona el nivel de dificultad disponible para este escenario.
+
+[CustomScenario_pnl_mission_cbo_difficulty_LBox_SBar_Grip]
+Hint=Selecciona el nivel de dificultad disponible para este escenario.
+
+[CustomScenario_pnl_mission_cbo_difficulty_LBox_SBar_Down]
+Hint=Selecciona el nivel de dificultad disponible para este escenario.
+
+[CustomScenario_pnl_mission_cbo_difficulty_LBox_SBar_Up]
+Hint=Selecciona el nivel de dificultad disponible para este escenario.
+
+[CustomScenario_pnl_mission_cbo_difficulty_LBox_SBar_SZone]
+Hint=Selecciona el nivel de dificultad disponible para este escenario.
+
+[CustomScenario_pnl_mission_cbo_difficulty_LBox_SBar]
+Hint=Selecciona el nivel de dificultad disponible para este escenario.
+
+[CustomScenario_pnl_mission_cbo_difficulty_LBox]
+Hint=Selecciona el nivel de dificultad disponible para este escenario.
+
+[CustomScenario_pnl_mission_cbo_difficulty]
+Hint=Selecciona el nivel de dificultad disponible para este escenario.
+
+[CustomScenario_pnl_mission_lbl_difficulty]
+Caption=Dificultad:
+
+[CustomScenario_pnl_mission_time_limit_Minus]
+Hint=Establecer el tiempo límite para esta misión.
+
+[CustomScenario_pnl_mission_time_limit_Plus]
+Hint=Establecer el tiempo límite para esta misión.
+
+[CustomScenario_pnl_mission_time_limit_EditBox]
+Hint=Establecer el tiempo límite para esta misión.
+
+[CustomScenario_pnl_mission_time_limit]
+Hint=Establecer el tiempo límite para esta misión.
+
+[CustomScenario_pnl_mission_lbl_secondary_detail]
+Caption=Entrada de servicio
+
+[CustomScenario_pnl_mission_lbl_primary_detail]
+Caption=Puerta delantera
+
+[CustomScenario_pnl_mission_lbl_campaign_objectives]
+Caption=Utilizar objetivos de campaña
+
+[CustomScenario_pnl_mission_chk_campaign_objectives]
+Hint=Seleccionar esta casilla si quieres utilizar objetivos de campaña.
+
+[CustomScenario_pnl_mission_dlist_objectives_BA]
+Hint=Eliminar el objetivo seleccionado del escenario.
+
+[CustomScenario_pnl_mission_dlist_objectives_AB]
+Hint=Añadir objetivos seleccionados al escenario.
+
+[CustomScenario_pnl_mission_dlist_objectives_HeaderB]
+Caption=OBJETIVOS SELECCIONADOS
+
+[CustomScenario_pnl_mission_dlist_objectives_HeaderA]
+Caption=OBJETIVOS DISPONIBLES
+
+[CustomScenario_pnl_mission_dlist_objectives_LBB_List]
+Hint=Los objetivos de misiones para tu escenario.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBB_SBar_Grip]
+Hint=Objetivos de misión disponibles.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBB_SBar_Down]
+Hint=Objetivos de misión disponibles.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBB_SBar_Up]
+Hint=Objetivos de misión disponibles.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBB_SBar_SZone]
+Hint=Objetivos de misión disponibles.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBB_SBar]
+Hint=Objetivos de misión disponibles.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBB]
+Hint=Los objetivos de misiones para tu escenario.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBA_List]
+Hint=Objetivos de misión disponibles.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBA_SBar_Grip]
+Hint=Los objetivos de misiones para tu escenario.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBA_SBar_Down]
+Hint=Los objetivos de misiones para tu escenario.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBA_SBar_Up]
+Hint=Los objetivos de misiones para tu escenario.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBA_SBar_SZone]
+Hint=Los objetivos de misiones para tu escenario.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBA_SBar]
+Hint=Los objetivos de misiones para tu escenario.
+
+[CustomScenario_pnl_mission_dlist_objectives_LBA]
+Hint=Objetivos de misión disponibles.
+
+[CustomScenario_pnl_mission_dlist_objectives]
+BoxAHeader=OBJETIVOS DISPONIBLES
+BoxBHeader=OBJETIVOS SELECCIONADOS
+LeftCaption=
+RightCaption=
+
+[CustomScenario_pnl_mission_lbl_secondary]
+Caption=Secundaria:
+
+[CustomScenario_pnl_mission_lbl_either]
+Caption=Permitir al jugador que elija
+
+[CustomScenario_pnl_mission_lbl_no_limit]
+Caption=Sin límite de tiempo
+
+[CustomScenario_pnl_mission_lbl_time_limit]
+Caption=LÍMITE DE TIEMPO
+
+[CustomScenario_pnl_mission_chk_time_limit]
+Hint=Seleccionar esta casilla si no quieres un límite de tiempo.
+
+[CustomScenario_pnl_mission_opt_either]
+Hint=Seleccionar esta casilla para permitir al jugador seleccionar el punto de entrada antes de jugar la misión.
+
+[CustomScenario_pnl_mission_opt_secondary]
+Hint=Seleccionar esta casilla para forzar al jugador a utilizar el punto de entrada secundario.
+
+[CustomScenario_pnl_mission_opt_primary]
+Hint=Seleccionar esta casilla para forzar al jugador a utilizar el punto de entrada primario.
+
+[CustomScenario_pnl_mission_lbl_primary]
+Caption=Primaria:
+
+[CustomScenario_pnl_mission_lbl_spawn_point]
+Caption=PUNTO DE ENTRADA
+
+[CustomScenario_pnl_mission_lbl_mission]
+Caption=Misión:
+
+[CustomScenario_pnl_mission_cbo_mission_ComboB]
+Hint=Selecciona el mapa a utilizar en este escenario.
+
+[CustomScenario_pnl_mission_cbo_mission_EditBox]
+Hint=Selecciona el mapa a utilizar en este escenario.
+
+[CustomScenario_pnl_mission_cbo_mission_LBox_List]
+Hint=Selecciona el mapa a utilizar en este escenario.
+
+[CustomScenario_pnl_mission_cbo_mission_LBox_SBar_Grip]
+Hint=Selecciona el mapa a utilizar en este escenario.
+
+[CustomScenario_pnl_mission_cbo_mission_LBox_SBar_Down]
+Hint=Selecciona el mapa a utilizar en este escenario.
+
+[CustomScenario_pnl_mission_cbo_mission_LBox_SBar_Up]
+Hint=Selecciona el mapa a utilizar en este escenario.
+
+[CustomScenario_pnl_mission_cbo_mission_LBox_SBar_SZone]
+Hint=Selecciona el mapa a utilizar en este escenario.
+
+[CustomScenario_pnl_mission_cbo_mission_LBox_SBar]
+Hint=Selecciona el mapa a utilizar en este escenario.
+
+[CustomScenario_pnl_mission_cbo_mission_LBox]
+Hint=Selecciona el mapa a utilizar en este escenario.
+
+[CustomScenario_pnl_mission_cbo_mission]
+Hint=Selecciona el mapa a utilizar en este escenario.
+
+[CustomScenario_pnl_selection_selectionheaderlabel]
+Caption=CREADOR DE MISIÓN RÁPIDA
+
+[CustomScenario_cmd_delete]
+Caption=ELIMINAR
+Hint=Eliminar el escenario seleccionado.
+
+[CustomScenario_cmd_edit]
+Caption=EDITAR
+Hint=Editar el escenario seleccionado.
+
+[CustomScenario_cmd_new]
+Caption=NUEVO
+Hint=Crear un nuevo escenario personalizado.
+
+[CustomScenario_cmd_play]
+Caption=JUGAR
+Hint=Jugar al escenario seleccionado.
+
+[CustomScenario_lst_scenarios_Pack_Button]
+Caption=PAQUETE
+Hint=Ordenar lista por nombre de paquete.
+
+[CustomScenario_lst_scenarios_Pack_List]
+Hint=Seleccionar un escenario.
+
+[CustomScenario_lst_scenarios_Scenario_Button]
+Caption=ESCENARIO
+Hint=Ordenar lista por nombre de escenario.
+
+[CustomScenario_lst_scenarios_Scenario_List]
+Hint=Seleccionar un escenario.
+
+[CustomScenario_lst_scenarios]
+ListNames=("Scenario","Pack")
+
+[CustomScenario_pnl_save_packnameheader]
+Caption=NOMBRE DE PAQUETE:
+
+[CustomScenario_pnl_save_SaveHeader]
+Caption=NOMBRE DE ESCENARIO:
+
+[CustomScenario_pnl_save_saveheaderlabel]
+Caption=GUARDAR
+
+[CustomScenarioPage_cmd_save_Cancel]
+Caption=CANCELAR
+Hint=No guardar el escenario actual.
+
+[CustomScenarioPage_cmd_save_OK]
+Caption=ACEPTAR
+Hint=Guardar el escenario actual.
+
+[CustomScenario_cbo_pack_ComboB]
+Hint=Seleccionar un paquete o crear uno nuevo.
+
+[CustomScenario_cbo_pack_EditBox]
+Hint=Seleccionar un paquete o crear uno nuevo.
+
+[CustomScenario_cbo_pack_LBox_List]
+Hint=Seleccionar un paquete o crear uno nuevo.
+
+[CustomScenario_cbo_pack_LBox_SBar_Grip]
+Hint=Seleccionar un paquete o crear uno nuevo.
+
+[CustomScenario_cbo_pack_LBox_SBar_Down]
+Hint=Seleccionar un paquete o crear uno nuevo.
+
+[CustomScenario_cbo_pack_LBox_SBar_Up]
+Hint=Seleccionar un paquete o crear uno nuevo.
+
+[CustomScenario_cbo_pack_LBox_SBar_SZone]
+Hint=Seleccionar un paquete o crear uno nuevo.
+
+[CustomScenario_cbo_pack_LBox_SBar]
+Hint=Seleccionar un paquete o crear uno nuevo.
+
+[CustomScenario_cbo_pack_LBox]
+Hint=Seleccionar un paquete o crear uno nuevo.
+
+[CustomScenario_cbo_pack]
+Hint=Seleccionar un paquete o crear uno nuevo.
+
+[CustomScenario_txt_name]
+Hint=Introducir un nombre para este escenario.
+
+[CustomScenario_tab_notes]
+Caption=NOTAS
+Hint=Añadir notas personalizadas al escenario.
+
+[CustomScenario_tab_enemies]
+Caption=SOSPECHOSOS
+Hint=Seleccionar opciones de sospechoso para el escenario.
+
+[CustomScenario_tab_hostages]
+Caption=CIVILES
+Hint=Seleccionar opciones civiles para el escenario.
+
+[CustomScenario_tab_squad]
+Caption=BRIGADA
+Hint=Seleccionar opciones de brigada para el escenario.
+
+[CustomScenario_tab_mission]
+Caption=MISIÓN
+Hint=Seleccionar opciones de la misión para el escenario.
+
+[CustomScenarioPage_cmd_save]
+Caption=GUARDAR
+Hint=Guardar el escenario.
+
+[CustomScenarioPage_editpaneltab]
+Caption=EDITAR
+Hint=Crear, editar o eliminar un escenario.
+
+[SwatCampaignMenu_SwatHelpText]
+Caption=Configurar el juego.
+
+[SwatCampaignMenu_loadcareerlabel]
+Caption=CARGAR PROFESIÓN
+
+[SwatCampaignMenu_newcareerlabel]
+Caption=NUEVA PROFESIÓN
+
+[SwatCampaignMenu_useCampaignbutton]
+Caption=JUGAR PROFESIÓN
+Hint=Jugar en la campaña seleccionada.
+
+[SwatCampaignMenu_DeleteCampaignButton]
+Caption=ELIMINAR PROFESIÓN
+Hint=Eliminar la campaña seleccionada.
+
+[SwatCampaignMenu_CampaignSelectBox_ComboB]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCampaignMenu_CampaignSelectBox_EditBox]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCampaignMenu_CampaignSelectBox_LBox_List]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCampaignMenu_CampaignSelectBox_LBox_SBar_Grip]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCampaignMenu_CampaignSelectBox_LBox_SBar_Down]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCampaignMenu_CampaignSelectBox_LBox_SBar_Up]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCampaignMenu_CampaignSelectBox_LBox_SBar_SZone]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCampaignMenu_CampaignSelectBox_LBox_SBar]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCampaignMenu_CampaignSelectBox_LBox]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCampaignMenu_CampaignSelectBox]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCampaignMenu_CampaignNameEntry]
+Hint=Introducir un nombre para tu campaña.
+
+[SwatCampaignMenu_AddCampaignButton]
+Caption=CREAR PROFESIÓN
+Hint=Crear una campaña con el nombre propio.
+
+[SwatCampaignMenu_CampaignTitle]
+Caption=PROFESIÓN
+
+[SwatCampaignMenu_campaigntabgreyed]
+Caption=PROFESIÓN
+
+[SwatCampaignMenu]
+StringJ="Eliminar la profesión llamada: "
+
+[SP-Casino]
+PrimarySpawnPoint=Puerta trasera
+CampaignObjectiveEnemySpawn=("Louie Baccus","Simon Grover","Allen Kruse")
+CampaignObjectiveHostageSpawn=("Jeremy Walsh")
+MissionDescription=("Orden judicial de alto riesgo","1092 Westfield Road","24 de Febrero - 17:32")
+BriefingText=("Éste es un poco difícil. Antivicio ha estado vigilando Expendedoras y tragaperras Northside durante las últimas tres o cuatro semanas. Se estaba investigando un caso sobre supuestas operaciones de apuestas en el sótano del establecimiento. El detective encubierto Jeremy Walsh había estado trabajando codo a codo con los sospechosos, y hoy recibió una invitación para entrar al área de apuestas.  ","|Todo iba bien hasta que se perdió de vista a Walsh. El micrófono de Walsh nos permitió saber que todavía estaba hablando con los sospechosos, que no mostraban indicios de sospechar de él. Unos pocos minutos más tarde se escuchó una repentina interferencia y el micrófono de Walsh dejó de emitir. Si todo salía como estaba planeado, Walsh ya debería haber regresado, ya que debía entrar, hacer una apuesta y volver a salir.  No tenemos forma de conocer el estado real de Walsh, por lo que asumimos que está en peligro y ha llegado la hora de ir a por él. ","|Sabemos que hay al menos tres individuos. El primero, Louie Baccus, es el propietario de la tienda. Los otros dos son Allen Kruse y Simon Gowan.  Kruse y Gowan parecen ser los cabecillas de la operación de apuestas, mientras que Baccus los cubre y les proporciona un lugar. Antivicio cree que hay más sospechosos dentro, que actúan como apostantes y corredores. Se desconoce la cifra exacta, pero podrían ser hasta 10 sospechosos en total. Ésa es la razón por la que se envió a Walsh, para determinar el número exacto de involucrados.  ","|Kruse y Gowan tienen un amplio historial delictivo, que va desde pequeños hurtos a robo a mano armada.  Consideradlos a ambos como armados y peligrosos.  Baccus es un desconocido, pero teniendo en cuenta el historial de sus compatriotas, debemos creer que también está armado. En su última conversación grabada, Walsh habló sorprendido del 'tamaño del tinglado'.  Parecía que estaba impresionado, algo que no puede ser bueno para nosotros.  ","|Tenemos un plano de la tienda, pero no tenemos nada del sótano. Sabemos que se accede a través del almacén, pero no sabemos nada del lugar de apuestas. Mantened los ojos abiertos; podría haber muchas sorpresas. Ha llegado el momento de sacar a Walsh de allí y poner bajo custodia a los sospechosos. Escoged vuestro equipo con cuidado y partid. ")
+LocationInfoText=("Expendedoras y tragaperras Northside, 1092 Westfield Road","|Sierra One cubre el Lado 3, Nivel 1; comunica que hay una gran habitación tipo almacén.")
+HostageName=("Jeremy Walsh","Louie Baccus")
+HostageVitals=("Sexo: Hombre|Origen: Caucásico|Pelo: Marrón|Ojos: Marrones|Altura: 1,85|Peso: 72|Fecha de nacimiento: 01/04/1975|Edad: 33","Sexo: Hombre|Origen: Caucásico|Pelo: Negro|Ojos: Azules|Altura: 1,55|Peso: 86|Fecha de nacimiento: 04/19/1966|Edad: 42")
+HostageDescription=("El detective Walsh ha estado trabajando encubierto en la mafia durante algún tiempo y es una fuente de información fiable sobre las operaciones de ésta.","Propietario de Expendedoras Northside. Baccus no ha sido arrestado nunca, pero es sospechoso de estar relacionado con el crimen organizado.")
+SuspectName=("Allen Kruse","Simon Gowan")
+SuspectVitals=("Sexo: Hombre|Origen: Caucásico|Pelo: Marrón|Ojos: Azules|Altura: 1´55|Peso: 86|Fecha de nacimiento: 01/02/1964|Edad: 44","Sexo: Hombre|Origen: Caucásico|Pelo: Marrón claro|Ojos: Azules|Altura: 1´89|Peso: 95|Fecha de nacimiento: 07/29/1979|Edad: 29")
+SuspectDescription=("Aparece casi todos los días por Expendedoras Northside. Ha sido condenado por posesión ilegal de armas y asalto simple. Arrestado por extorsión, pero no condenado.  ","Cliente habitual de Expendedoras Northside. Ha sido condenado por asalto a mano armada y robo.")
+EntryOptionTitle=("Lado 3, Nivel 1.")
+EntryDescription=("Puerta trasera al establecimiento.")
+TimeLinePlot=(0,42,71,88,98,100)
+TimeLineTime=("14:03","15:30","16:30","17:05","17:28","17:32")
+TimeLineShortDescription=("Walsh se registra","Se pierde la señal del micrófono de Walsh","Teniente de Walsh informado","Órdenes expedidas","Llega SWAT","Comienza la entrada táctica")
+TimeLineLongDescription=(" - El detective Walsh se registra con su manipulador y le notifica que entrará en la tienda a las 12:45."," - El micrófono de Walsh se queda estático sin ninguna indicación de cuál es la avería."," - Se pone al tanto de la situación y de la llamada perdida al teniente Collins. Todos los agentes involucrados creen que Walsh ya forma parte de ellos. El fiscal ha sido notificado."," - Órdenes de arresto expedidas.  SWAT enviados a escena."," - Vigilancia desde zonas elevadas y perímetro de contención establecido."," - Se ha decidido utilizar la estrategia. Equipo de asalto preparado.")
+LoadingText=1092 Westfield Road, Expendedoras y tragaperras Northside
+
+[SP-ABomb]
+PrimarySpawnPoint=Entrada delantera
+SecondarySpawnPoint=Entrada de servicio
+MissionDescription=("Despliegue rápido","127 Avenida Adelaide","12 de diciembre - 23:42")
+BriefingText=("Se nos solicita que realicemos un despliegue rápido en un tiroteo en el club nocturno A Bomb. Hay al menos cuatro personas disparándose, probablemente más. No parecen estar atacando a civiles activamente, o intentando tomar rehenes, a pesar de que se nos ha informado de varios heridos por el fuego cruzado. Los informes de los testigos son confusos y en algunos casos  contradictorios.","|Tenemos a tiradores caucásicos e hispanos, disparándose en dos bandos divididos por su raza. Todos parecen ser hombres adultos y jóvenes.","|Tenemos dos entradas posibles: la puerta principal, pasando la taquilla, y una zona de carga en el callejón trasero. Tenemos un pobre boceto del plano gracias a un barman de la casa; echad una ojeada, pero no os fiéis demasiado.","|La mayoría de los clientes han logrado escapar, aunque todavía hay civiles atrapados allí. Según los testigos, algunos de ellos están heridos. El perímetro todavía informa de disparos esporádicos y los equipos médicos no entrarán hasta que hayamos despejado el edificio. Tenéis que entrar y poner orden. Encontrad y arrestad a los pistoleros. Además, deberéis localizar y asegurar la evacuación del resto de los civiles, especialmente los heridos. Revisad la información, escoged la entrada, y equipaos juntos. Ha llegado la hora de trabajar.")
+LocationInfoText=("127 Avenida Adelaide","Hay un escenario principal y otro secundario en el primer piso y ambos tienen una zona de bar adosada. Hay un segundo piso con la oficina del encargado y un salón adicional. El mapa está lo mejor esbozado posible y es la única información sobre el plano disponible.  ")
+HostageName=("Desconocido")
+HostageVitals=("Información no disponible")
+HostageDescription=("")
+SuspectName=("Latinos desconocidos","Caucásicos desconocidos")
+SuspectVitals=("Órganos vitales desconocidos","Órganos vitales desconocidos")
+SuspectDescription=("Miembros de una banda. Descendencia latina","Miembros de una banda. Descendencia caucásica")
+EntryOptionTitle=("Lado 2, Nivel 1", "Lado 1, Nivel 1")
+EntryDescription=("Entrada de servicio, a un lado del callejón","Entrada central")
+TimeLinePlot=(0,20,100)
+TimeLineTime=("23:27","23:30","23:42")
+TimeLineShortDescription=("Disparos; llamadas al 911","Perímetro establecido","Llegan los SWAT")
+TimeLineLongDescription=(" - Las primeras llamadas al 911 registradas informan sobre tiroteos en el club. SWAT notificado"," - Las unidades patrulla llegan a la escena y comienzan a establecer el perímetro y a suministrar primeros auxilios a las víctimas iniciales. Radios de patrullas por ambulancias."," - SWAT entra en escena. Debido al fuego constante, SWAT decide inmediatamente emplear la estrategia para neutralizar la situación.")
+LoadingText=127 Avenida Adelaide, Club nocturno A Bomb
+
+[SwatCustomMenu_usecustompakbutton]
+Caption=CARGAR PAQUETE DE MISIÓN
+Hint=Jugar al paquete de misión personalizado seleccionado.
+
+[SwatCustomMenu_custompakselectcombo_ComboB]
+Hint=Seleccionar el paquete de misión personalizado que quieres utilizar.
+
+[SwatCustomMenu_custompakselectcombo_EditBox]
+Hint=Seleccionar el paquete de misión personalizado que quieres utilizar.
+
+[SwatCustomMenu_custompakselectcombo_LBox_List]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCustomMenu_custompakselectcombo_LBox_SBar_Grip]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCustomMenu_custompakselectcombo_LBox_SBar_Down]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCustomMenu_custompakselectcombo_LBox_SBar_Up]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCustomMenu_custompakselectcombo_LBox_SBar_SZone]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCustomMenu_custompakselectcombo_LBox_SBar]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCustomMenu_custompakselectcombo_LBox]
+Hint=Seleccionar la campaña que quieres jugar.
+
+[SwatCustomMenu_custompakselectcombo]
+Hint=Seleccionar el paquete de misión personalizado que quieres utilizar.
+
+[SwatCustomMenu_selectpaklabel]
+Caption=SELECCIONAR PAQUETE DE MISIÓN PERSONALIZADO
+
+[SwatCustomMenu_customtitle]
+Caption=PERSONALIZADO
+
+[SwatCustomMenu_custombuttongreyed]
+Caption=PERSONALIZADO
+
+[SwatCampaignMenu_startButtonGreyed]
+Caption=COMENZAR
+
+[SwatCampaignMenu_loadouttabgreyed]
+Caption=EQUIPO
+
+[SwatCampaignMenu_missionstabgreyed]
+Caption=MISIÓN
+
+[SwatCampaignMenu_briefingtabgreyed]
+Caption=INFORME
+
+[DNADispatch]
+Text=[b]CENTRO DE INVESTIGACIÓN MOUNT THRESHOLD|SOSPECHOSOS ATRINCHERADOS / RESCATE DE REHENES|AVENIDA MT. THRESHOLD 72|21 DE MAYO - 00:45[\b]
+
+[HotelDispatch]
+Text=[b]HOTEL OLD GRANITE|RESCATE DE REHENES|AVENIDA OESTE 7- 1700|1 DE MAYO - 18:12[\b]
+
+[ArmsDispatch]
+Text=[b]PROYECTOS WOLCOTT|SERVICIO DE ORDEN DE ARRESTO DE ALTO RIESGO|AVENIDA BLAKESTONE 1302|25 DE ABRIL 25 - 23:47[\b]
+
+[HospitalDispatch]
+Text=[b]CENTRO MÉDICO ST. MICHAEL'S|DESPLIEGUE RÁPIDO|CALLE 87, 691|12 DE ABRIL - 00:34[\b]
+
+[TenementDispatch]
+Text=[b]VIVIENDAS NIÑOS DE TARONNE|SERVICIO ORDEN DE ARRESTO DE ALTO RIESGO|CALLE CARROLS 2189|2 DE ABRIL - 16:45[\b]
+
+[JewelryDispatch]
+Text=[b]VENTA DE DIAMANTES AL POR MAYOR DUPLESSIS|SOSPECHOSOS ATRINCHERADOS|BROADWAY 1725|8 DE MARZO - 17:11[\b]
+
+[CasinoDispatch]
+Text=[b]EXPENDEDORAS Y TRAGAPERRAS NORTHSIDE |CALLE WESTFIELD 1092|24 DE FEBRERO - 17:32[\b]
+
+[RedLibraryDispatch]
+Text=[b]OFICINAS DE RED LIBRARY|SOSPECHOSOS ATRINCHERADOS / RESCATE DE REHENES|CALLE GRIDLEY 732|25 DE ENERO- 18:05[\b]
+
+[AutoGarageDispatch]
+Text=[b]CONCESIONARIO DE VEHÍCULOS VICTORY IMPORTS|SOSPECHOSOS ATRINCHERADOS / RESCATE DE REHENES|AVENIDA 27, 487|5 DE ENERO - 03:45[\b]
+
+[ABombDispatch]
+Text=[b]CLUB A-BOMB|DESPLIEGUE RÁPIDO|AVENIDA ADELAIDE 127|12 DE DICIEMBRE - 23:42[\b]
+
+[ConvenienceDispatch]
+Text=[b]GASOLINERA QWIK FUEL|SOSPECHOSOS ATRINCHERADOS|AVENIDA PITKIN 3721|18 DE NOVIEMBRE - 07:15[\b]
+
+[FairfaxDispatch]
+Text=[b]RESIDENCIA FAIRFAX|ORDEN DE ARRESTO DE ALTO RIESGO / RESCATE DE REHENEES|GLENDIVE LANE 25|23 DE OCTUBRE - 04:43[\b]
+
+[FoodWallDispatch]
+Text=[b]RESTAURANTE FOOD WALL|SERVICIO DE ORDEN DE ARRESTO DE ALTO RIESGO|CALLE NORMAN 1572|8 DE OCTUBRE - 20:24[\b]
+
+[Proceed]
+Text=[u][b]Continuar[\b][\u]||[c=15CC11]Prueba la siguiente puerta.
+
+[ContinueToEndRoom]
+Text=[u][b]Continuar[\b][\u]||[c=15CC11]Pasar a la siguiente habitación.
+
+[Snipers]
+Text=[u][b]FRANCOTIRADORES[\b][\u]||[b][k=ShowViewport Sniper][\b] - Abrir área de visualización de francotirador / Cambiar de francotirador|[b][k=ControlViewportAlias][\b] - Controlar francotirador|[b][k=HideViewport][\b] - Cerrar área de visualización||Mientras controlas al francotirador:|[b][k=Fire][\b] - Disparar fusil de francotirador|[b][k=OpenGraphicCommandInterface | RightMouseAlias][\b] o [b][k=ToggleZoom][\b] - Alternar alcance del zoom||Los francotiradores trabajan como las áreas de visualización de agentes pero con algunas excepciones. Cuando el área de visualización del francotirador esté activo tras pulsar [b][k=ControlViewportAlias][\b], tendrás control del fusil del francotirador y podrás mirar a través de la mira telescópica. Puedes cambiar la vista y disparar el arma con [b][k=Fire][\b]. Si haces clic con el botón derecho, alternarás el alcance del zoom.|Si pulsas [b][k=ControlViewportAlias][\b] el área de visualización disminuirá y volverás a tu personaje.||[c=15CC11]Dispara al objetivo ficticio para continuar.
+
+[CommandingThroughViewports]
+Text=[u][b]CONTROLANDO LAS ÁREAS DE VISUALIZACIÓN[\b][\u]||[b][k=ShowViewport Red][\b] - Abrir/Alternar cámara del equipo rojo|[b][k=ShowViewport Blue][\b] - Abrir/Alternar cámaras del equipo azul|[b][k=ControlViewportAlias][\b] - Expandir y activar área de visualización||Cuando se abre un área de visualización, podrás expandirla para una vista mejor. Cuando el área de visualización esté expandida podrás mover el ratón para girar la vista en un grado limitado. Puedes apuntar a los objetos, dar la Orden rápida y utilizar el menú de órdenes como sueles hacer. Pulsa [b][k=ControlViewportAlias][\b] para volver a tu vista normal.
+
+[OfficerViewports]
+Text=[u][b]ÁREAS DE VISUALIZACIÓN DE AGENTE [\b][\u]||[b][k=ShowViewport Red][\b] - Abrir/Alternar áreas de visualización del equipo rojo|[b][k=ShowViewport Blue][\b] - Abrir/Alternar áreas de visualización del equipo azul|[b][k=ControlViewportAlias][\b] - Expandir y activar área de visualización||Si pulsas de nuevo la tecla pasarás al siguiente agente en la unidad. Pulsando la tecla del otro equipo cambiarás el área de visualización al de la vista del equipo.||[c=15CC11]Pulsa [b][k=ShowViewport Blue][\b] para abrir el área de visualización del equipo azul. A continuación, pasa a la siguiente habitación por la puerta.
+
+[SubelementCommands]
+Text=[u][b]ÓRDENES DE SUB-UNIDAD[\b][\u]||[b][k=CommandInterfaceNextGroup][\b] - Cambiar de unidad||Pulsa [b][k=CommandInterfaceNextGroup][\b] para cambiar el objetivo de tus órdenes para el menú de órdenes y de Orden rápida. Si pulsas repetidamente [b][k=CommandInterfaceNextGroup][\b] irás pasando por todas las unidades disponibles. Las órdenes adquieren el color del equipo con el que estás hablando.||La sub-unidad a la que pertenece un agente viene indicado por el color de la etiqueta que lleva detrás de su chaleco. El color dorado es para todo el equipo.||[c=15CC11]Pulsa [b][k=CommandInterfaceNextGroup][\b] hasta que la Orden rápida aparezca en azul y a continuación abre el menú orden y selecciona "Reunirse" mientras apuntas a la puerta.
+
+[optiwand]
+Text=[u][b]UTILIZAR EL OPTIWAND[\b][\u]||[b]9[\b] - Equipar con OptiWand||Mantén pulsado [b][k=Fire][\b] para activar la cámara. Mientras sigues pulsando, mueve el ratón para manipular la cámara y mirar alrededor. Suelta [b][k=Fire][\b] para volver a los controles normales.||[c=15CC11]Equipar y utilizar el OptiWand. Cuando hayas terminado, dile al equipo que realice la acción "Mover y despejar" a través de la puerta.
+
+[CommandMenu]
+Text=[u][b]UTILIZAR EL MENÚ DE ÓRDENES[\b][\u]||[c=A0A0A0](Comportamiento de estilo 2 (predeterminado))[\c]|Mantén pulsado [b][k=OpenGraphicCommandInterface | RightMouseAlias][\b] - Abrir menú de órdenes|Soltar [b][k=OpenGraphicCommandInterface | RightMouseAlias][\b] - Dar orden resaltada|[b][k=fire][\b] - Cerrar menú||Hay muchos contextos en los que el equipo puede llevar a cabo numerosas órdenes. Para acceder a estas órdenes, abre el menú de órdenes manteniendo pulsado [b][k=OpenGraphicCommandInterface | RightMouseAlias][\b].||Mueve el ratón para resaltar la orden que quieres dar. Suelta el botón cuando esté seleccionada la orden que quieres dar. Esto hará que tu equipo lleve a cabo la orden y se cierre el menú. Si no quieres dar ninguna orden, pulsa [b][k=Fire][\b] o selecciona la opción Salir del menú para cerrarlo.
+
+[Flashlight]
+Text=[u][b]UTILIZAR LAS LINTERNAS[\b][\u]||[b][k=ToggleFlashlight][\b] - Activar/desactivar la linterna||Todas tus armas primarias están equipadas con linternas. Utiliza las linternas para desplazarte por zonas oscuras y buscar sospechosos y rehenes.
+
+[DefaultCommandChange]
+Text=[u][b]CONTINUACIÓN DE ÓRDENES RÁPIDAS[\b][\u]||[b][k=GiveDefaultCommand][\b] - Dar orden rápida||Apunta con la retícula a la puerta con la luz roja. Ten en cuenta que la Orden rápida cambia a "Abrir y despejar"||[c=15CC11]Ordenar a la unidad "Abrir y despejar" la puerta con la barrera.
+
+[DefaultCommand]
+Text=[u][b]ÓRDENES RÁPIDAS[\b][\u]||[b][k=GiveDefaultCommand][\b] - Dar orden rápida||Tu retícula distingue ahora el contexto. Hay diferentes órdenes que puedes dar al equipo. En la parte inferior derecha de la pantalla se mostrará la Orden rápida. Esta orden es la más común que le puedes dar a tu equipo en el contexto que se encuentra actualmente bajo tu retícula.||[c=15CC11]Pulsa [b][k=GiveDefaultCommand][\b] cuando la Orden rápida muestre "Formar filas" para ordenarle a tu equipo que te siga.
+
+[Restraining]
+Text=[u][b]ARRESTANDO A UN PERSONAJE[\b][\u]||[b][k=EquipSlot 11][\b] - Equipar con esposas de plástico||Cuando tengas las esposas de plástico, mantén pulsado [b][k=Fire][\b] mientras apuntas al personaje. Cuando la barra esté llena, el personaje estará seguro.||Todos los sospechosos y civiles deben ser arrestados para completar tus objetivos.||Una vez que el personaje esté esposado, informa al COT pulsando la tecla Utilizar mientras le apuntas. Si no informas del estado de un personaje, recibirás una puntuación más baja.
+
+[Compliance]
+Text=[u][b]OBEDECER[\b][\u]||[b][k=IssueComplianceOrInteract][\b] o [b]f[\b] - Pedir que se obedezca||El estado de ánimo de un personaje determina si obedecerá o no. Hay varios factores que afectan al estado de ánimo. El uso de armas no letales es la mejor forma de reducir el estado de ánimo y hacer que el personaje obedezca. Cuando hayas utilizado un arma no letal con un personaje, tendrás que pedirle que obedezca de nuevo.
+
+[DetonatingC2Charge]
+Text=[u][b]DETONANDO EL C2[\b][\u]||[c=15CC11]Pulsa [b][k=Fire][\b] para detonar la carga.
+
+[PlacingC2Charge]
+Text=[u][b]COLOCANDO UNA CARGA DE FRANQUEO C2[\b][\u]||[b]7[\b] - Equipar con carga C2||Apuntar sobre el pomo de la puerta. Aparecerá un icono con la carga C2. Mantén pulsado [b][k=Fire][\b] mientras el icono esté en pantalla. Serás equipado automáticamente con la carga C2 y la barra de progreso comenzará a rellenarse. Cuando la barra esté llena, la carga estará lista. Serás equipado automáticamente con tu detonador.
+
+[LockPick]
+Text=[u][b]ABRIR UNA CERRADURA[\b][\u]||[b]8[\b] - Equipar con juego de herramientas||Apuntar al pomo de la puerta. Aparecerá un icono con el juego de herramientas. Mantén pulsado [b][k=Fire][\b] cuando aparezca el icono. Serás equipado automáticamente con el juego de herramientas y la barra de progreso comenzará a rellenarse. Cuando la barra esté llena, la puerta se abrirá.||Si sueltas el [b][k=Fire][\b] del ratón antes de que la barra se llene por completo, la acción se cancelará. 
+
+[Grenades]
+Text=[u][b]LANZAR GRANADAS[\b][\u]||[b]3[\b] - Equipar con bengala deslumbrante|[b]4[\b] - Equipar con granada de gas CS|[b]5[\b] - Equipar con granada urticante||Pulsa [b][k=Fire][\b] para lanzarlas. Cuanto más tiempo tengas pulsado el botón, más lejos lanzarás la granada.
+
+[ReticleAccuracy]
+Text=[u][b]PRECISIÓN DE LA RETÍCULA[\b][\u]||Cuanto mayor sea la retícula, menos preciso serás con tus armas.||Tu retícula aumentará de tamaño cuando mires alrededor rápidamente y aumentes la velocidad de movimiento. La retícula tardará en recuperar su punto de más precisión cuando dejes de moverte.
+
+[EquippingWeapons]
+Text=[u][b]ARMAS[\b][\u]||[b]1[\b] - Equipar con arma primaria|[b]2[\b] - Equipar con arma de respaldo|[b][k=NextFireMode][\b] - Cambiar de modo de disparo|[b][k=ToggleZoom][\b] - Cambiar zoom||Ten en cuenta que el indicador de la parte inferior izquierda del panel de información cambia para mostrar tu modo de disparo actual.||Sólo los rifles de asalto y las ametralladoras tienen varios modos de disparo.
+
+[Firing]
+Text=[u][b]DISPARANDO TU ARMA[\b][\u]||[b][k=Fire][\b] - Disparar|[b][k=Reload][\b] - Recargar
+
+[Interact]
+Text=[u][b]INTERACTUAR CON OBJETOS[\b][\u]||[b][k=IssueComplianceOrInteract][\b] o [b]f[\b] - Interactuar||Aparecerá un cuadro de información cada vez que puedas interactuar con un objeto, que estará marcado con una retícula. En el cuadro de información aparecerá la tecla que tienes que pulsar para realizar la acción asociada a ese objeto.||[c=15CC11]Pulsa [b][k=IssueComplianceOrInteract][\b] o [b]f[\b] para abrir la puerta.[\c]
+
+[Movement]
+Text=[u][b]MOVIMIENTO[\b][\u]||Utiliza el ratón para mirar alrededor.||[b][k=MoveForward][\b] - Hacia delante|[b][k=MoveBackward][\b] - Hacia atrás|[b][k=StrafeLeft][\b] - Hacia la izquierda|[b][k=StrafeRight][\b] - Hacia la derecha|[b][k=Duck][\b] - Agacharse|[b][k=LeanLeft][\b] - Inclinarse a la izquierda|[b][k=LeanRight][\b] - Inclinarse a la derecha|[b][k=ToggleRunning 0][\b] - Modificador correr
+
+[IncapacitatedPlayer]
+UseFeedbackText=Informar sobre agente abatido
+
+[DOA]
+UseFeedbackText=Informar sobre muerto al llegar
+
+[ArrestableAI]
+OtherFeedbackText=Equipar con esposas de plástico para arrestar
+
+[ArrestablePlayer]
+OtherFeedbackText=Equipar con esposas de plástico para arrestar
+
+[ICanBeUsed]
+UseFeedbackText=Interactuar
+
+[Pickup]
+UseFeedbackText=Escoger equipo
+
+[DeadHostage]
+UseFeedbackText=Informar sobre rehén muerto
+
+[IncapacitatedHostage]
+UseFeedbackText=Informar sobre rehén incapacitado
+
+[RestrainedHostage]
+UseFeedbackText=Informar sobre rehén detenido
+
+[DeadEnemy]
+UseFeedbackText=Informar sobre sospechoso muerto
+
+[IncapacitatedEnemy]
+UseFeedbackText=Informar sobre sospechoso incapacitado
+
+[RestrainedEnemy]
+UseFeedbackText=Informar sobre sospechoso detenido
+
+[IncapacitatedOfficer]
+UseFeedbackText=Informar sobre agente abatido
+
+[Evidence]
+UseFeedbackText=Asegurar prueba
+
+[OpenDoor]
+UseFeedbackText=Cerrar puerta
+
+[BrokenDoor]
+OtherFeedbackText=Puerta rota
+
+[ClosedDoor]
+UseFeedbackText=Abrir puerta
+
+[WedgedDoor]
+OtherFeedbackText=Puerta con cuña.
+
+[LockedDoor]
+OtherFeedbackText=Puerta cerrada.
+
+[LockedWedgedDoor]
+OtherFeedbackText=Cerrada, puerta con cuña.
+
+[MissionExitDoor]
+UseFeedbackText=Abandonar misión
+
+[ToolkitOnDoor]
+FireFeedbackText=(Mantener pulsado) Forzar la cerradura
+
+[OptiwandOnDoor]
+FireFeedbackText=(Mantener) Espejo bajo puerta
+
+[WedgeOnDoor]
+FireFeedbackText=(Mantener) Utilizar cuña
+
+[BreachingShotgunOnDoor]
+FireFeedbackText=Franquear puerta
+
+[C2ChargeOnDoor]
+FireFeedbackText=(Mantener) Establecer carga
+
+[CuffsOnPlayer]
+FireFeedbackText=(Mantener pulsado) Arrestar jugador.
+
+[CuffsOnVIP]
+FireFeedbackText=(Mantener pulsado) Arrestar VIP
+
+[CuffsOnCivilian]
+FireFeedbackText=(Mantener pulsado) Arrestar civil
+
+[CuffsOnSuspect]
+FireFeedbackText=(Mantener pulsado) Arrestar sospechoso
+
+[ToolkitOnArrestedVIP]
+FireFeedbackText=Liberar VIP
+
+[ToolkitOnBomb]
+FireFeedbackText=Desactivar bomba
+
+[ToolkitOnC2Charge]
+FireFeedbackText=Eliminar carga C2
+
+[ToolkitOnWedge]
+FireFeedbackText=Quitar cuña
+
+[Command_Deploy_LessLethalShotgun]
+Text=UTILIZAR ESCOPETA NO LETAL
+
+[Command_Deploy_BreachingShotgun]
+Text=ESCOPETA FRANQUEO
+
+[Command_Deploy_CSBallLauncher]
+Text=PISTOLA DE PIMIENTA
+
+[Command_Deploy_C2Charge]
+Text=EXPLOTAR C2
+
+[Command_Deploy_PepperSpray]
+Text=PIMIENTA
+
+[Command_Deploy_StingGrenade]
+Text=LANZAR GRANADA URTICANTE
+
+[Command_Deploy_CSGas]
+Text=SOLTAR GAS CS
+
+[Command_Deploy_Flashbang]
+Text=BENGALA DESLUMBRANTE
+
+[Command_Deploy_Taser]
+Text=APLICAR DESCARGA ELÉCTRICA
+
+[Command_Deploy_Wedge]
+Text=COLOCAR CUÑA
+
+[Command_Deploy]
+Text=DESPLEGAR >>
+
+[Command_MirrorCorner]
+Text=ESPIAR POR LA ESQUINA
+
+[Command_MirrorUnderDoor]
+Text=ESPIAR DEBAJO DE PUERTA
+
+[Command_MirrorRoom]
+Text=ESPIAR HABITACIÓN
+
+[Command_Restrain]
+Text=ESPOSAR
+
+[Command_SecureEvidence]
+Text=ASEGURAR PRUEBA
+
+[Command_RemoveWedge]
+Text=Eliminar cuña
+
+[Command_CloseDoor]
+Text=CERRAR PUERTA
+
+[Command_Disable]
+Text=DESACTIVAR
+
+[Command_MoveTo]
+Text=IR A
+
+[Command_FallIn]
+Text=FORMAR FILAS
+
+[Command_BreachGasAndMakeEntry]
+Text=FORZAR, GAS Y ENTRAR
+
+[Command_BreachGasAndClear]
+Text=FORZAR, GAS Y DESPEJAR
+
+[Command_GasAndClear]
+Text=GAS Y DESPEJAR
+
+[Command_BreachStingAndMakeEntry]
+Text=FORZAR, URTIC. Y ENTRAR
+
+[Command_BreachBangAndMakeEntry]
+Text=FORZAR, DESL. Y ENTRAR
+
+[Command_BangAndClear]
+Text=DESLUMBRAR Y DESPEJAR
+
+[Command_BreachBangAndClear]
+Text=FORZAR, DESL. Y DESP.
+
+[Command_BreachAndMakeEntry]
+Text=FORZAR Y ENTRAR
+
+[Command_BreachAndClear]
+Text=FORZAR Y DESPEJAR
+
+[Command_MoveAndClear]
+Text=MOVERSE Y DESPEJAR
+
+[Command_PickLock]
+Text=FORZAR LA CERRADURA
+
+[Command_StackUpAndTryDoor]
+Text=REUNIRSE
+
+[Command_OpenGasAndMakeEntry]
+Text=ABRIR, GAS Y ENTRAR
+
+[Command_OpenGasAndClear]
+Text=ABRIR, GAS Y DESPEJAR
+
+[Command_OpenBangAndClear]
+Text=ABRIR, DESL. Y DESPEJAR
+
+[Command_OpenBangAndMakeEntry]
+Text=ABRIR, DESLUMBRAR Y ENTRAR
+
+[Command_OpenAndMakeEntry]
+Text=ABRIR Y ENTRAR
+
+[Command_OpenAndClear]
+Text=ABRIR Y DESPEJAR
+
+[Command_BreachStingAndClear]
+Text=FORZAR, URTIC. Y DESP.
+
+[Command_StingAndClear]
+Text=URTICANTE Y DESPEJAR
+
+[Command_OpenStingAndClear]
+Text=ENTRAR, URTICANTE Y DESP.
+
+[Command_Cover]
+Text=CUBRIRSE
+
+[Command_OpenStingAndMakeEntry]
+Text=ABRIR, URTICANTE Y ENTRAR
+
+[Command_General_ArrestThem]
+Text=ARRESTADLOS
+
+[Command_General_WatchYourFire]
+Text=CUIDADO AL DISPARAR
+
+[Command_General_FriendlyWatchIt]
+Text=¡ALIADO!
+
+[Command_General_SlowDown]
+Text=NO OS APRESURÉIS
+
+[Command_General_StayClose]
+Text=PERMANECED CERCA
+
+[Command_General_OutOfTheWay]
+Text=FUERA DEL CAMINO
+
+[Command_General_TakeRearGuard]
+Text=A LA RETAGUARDIA
+
+[Command_General_TakePoint]
+Text=A LA PUNTA
+
+[Command_General_ImHurt]
+Text=ESTOY HERIDO
+
+[Command_General_NeedBackup]
+Text=NECESITAMOS REFUERZOS
+
+[Command_General_IllCoverYou]
+Text=TE CUBRIRÉ
+
+[Command_General_Cancel]
+Text=SALIR DEL MENÚ
+
+[Command_VIPEscort_DontShootVIP]
+Text=NO DISPARES AL VIP
+
+[Command_VIPEscort_WhereIsEscape]
+Text=¿DÓNDE ESTÁ EL PUNTO DE ESCAPE?
+
+[Command_VIPEscort_StayBehindMe]
+Text=QUEDAOS DETRÁS DE MÍ
+
+[Command_VIPEscort_WhereIsTheVIP]
+Text=¿DÓNDE ESTÁ EL VIP?
+
+[Command_VIPEscort_StayWithTheVIP]
+Text=QUEDAOS CON EL VIP
+
+[Command_VIPEscort_Cancel]
+Text=SALIR DEL MENÚ
+
+[Command_RapidDeployment_GetToBombs]
+Text=¡BUSCAD LAS BOMBAS!
+
+[Command_RapidDeployment_GuardIt]
+Text=CUSTODIADLA
+
+[Command_RapidDeployment_FoundABomb]
+Text=BOMBA ENCONTRADA
+
+[Command_RapidDeployment_BombDefused]
+Text=BOMBA DESACTIVADA
+
+[Command_RapidDeployment_WhereAreActiveBombs]
+Text=¿DÓNDE ESTÁN LAS BOMBAS?
+
+[Command_RapidDeployment_Cancel]
+Text=SALIR DEL MENÚ
+
+[Command_Response_Trailers]
+Text=RASTREADORES
+
+[Command_Response_GoGoGo]
+Text=VAMOS VAMOS VAMOS
+
+[Command_Response_LetsMove]
+Text=¡ADELANTE!
+
+[Command_Response_CantDoThat]
+Text=NO SE PUEDE HACER
+
+[Command_Response_Negative]
+Text=NEGATIVO
+
+[Command_Response_WithYou]
+Text=AQUÍ ESTAMOS
+
+[Command_Response_CopyThat]
+Text=RECIBIDO
+
+[Command_Response_OnIt]
+Text=EN ELLO
+
+[Command_Response_Clear]
+Text=DESPEJADO
+
+[Command_Response_Roger]
+Text=COMPRENDIDO
+
+[Command_Response_Cancel]
+Text=SALIR DEL MENÚ
+
+[Page_General]
+Text=General
+
+[Page_VIPEscort]
+Text=Escolta VIP
+
+[Page_RapidDeployment]
+Text=Despliegue rápido
+
+[Page_Deploy]
+Text=Desplegar
+
+[Page_Response]
+Text=Respuesta
+
+[Page_Command]
+Text=Comandos
+
+[SP-DNA]
+PrimarySpawnPoint=Puerta delantera
+SecondarySpawnPoint=Entrada de servicio
+CampaignObjectiveEnemySpawn=("Jean Trouffant")
+CampaignObjectiveHostageSpawn=("Dr. Theodore Sterling")
+MissionDescription=("Sospechosos parapetados / Rescate de rehenes","Avenida Mount Threshold, 72","21 de mayo - 00.45")
+BriefingText=("Si no habéis oído hablar del Ejército de la Fe, aquí tenéis una introducción. Un poco después de las ocho de la tarde, un grupo de ellos irrumpió en las instalaciones de investigación de Hologen en la Universidad de Mount Threshold. Un par de coches patrulla contestó rápidamente a la alarma inicial y los activistas fueron atrapados en el interior. Por desgracia, atrapados con ellos se encuentran los científicos y estudiantes que trabajaban hasta tarde en el edificio. Los sospechosos han lanzado ya una declaración en la que muestran sus intenciones de convertirse en mártires y tenemos pruebas de que su intención es hacerlo a través de otros. Es una situación muy delicada y puede empeorar.","El autodenominado Ejército de la Fe lleva un par de años operativo y se ha atribuido ataques a las instalaciones de investigación que estaban realizando trabajos con células madre y tecnología de clonación. No cometas un error creyendo que no son más que unos chiflados. Crean en lo que crean, están bien armados, bien entrenados y dedicados a su causa. Han enviado amenazas de muerte (y parecen dispuestos a llevarlas a cabo) a investigadores destacados en ambos campos y esta no es la primera institución que han asaltado. ","|Creemos que pretendían lanzar un asalto rápido a Hologen. Sin embargo, la policía de la universidad se encontraba en las inmediaciones y actuaron rápido para hacerles frente. Las cosas están tan confusas que no sabemos cuántos civiles hay allí y sólo tenemos cifras aproximadas de la cantidad de sospechosos. ","|Hologen realiza experimentos con la clonación de ADN, creemos que por eso constituye un objetivo. Nuestros sospechosos están liderados por Jean Trouffant. Es uno de los cabecillas del Ejército de la Fe. Se buscaba a Trouffant por atentar contra clínicas especializadas en abortos, antes de comenzar a trabajar clandestinamente y reaparecer con el Ejército de la Fe. No sabemos con exactitud el número exacto de hombres armados que se encuentran con él, pero según apuntan los testigos, son al menos siete u ocho.","|Una de las primeras cosas que hicieron fue desactivar el sistema de seguridad, así que no sabemos cuántos civiles hay dentro. Los sospechosos sólo han mencionado hasta ahora al doctor Theodore Sturgeon como uno de sus rehenes. Creemos que se encuentra en peligro inminente, según los investigadores de Hologen. Como siempre, vuestra principal prioridad es rescatarlo y sacar de allí sanos y salvos a los civiles. Sin embargo, deberíais mantener bien vigilado el maletín de Sturgeon, que contiene contactos con otros investigadores de todo el mundo. Si esos documentos caen en manos del Ejército de la Fe, se convertirían en una segura lista de objetivos. Estudiad el lugar y a vuestros oponentes, elegid el equipo cuidadosamente y entrad ahí dentro. Nos jugamos mucho en esto. ")
+LocationInfoText=("Avenida Mount Threshold, 72. El edificio tiene un vestíbulo principal y numerosos espacios de laboratorio amplios e intrincados conectados con éste.","No hay posiciones estratégicas para francotiradores fuera de la zona del vestíbulo.")
+HostageName=("Theodore Sturgeon")
+HostageVitals=("Sexo: Hombre|Origen: Caucásico|Pelo: Gris|Ojos: Marrones|Altura: 1,55|Peso: 86|Fecha de nacimiento: 09/23/1948|Edad: 60")
+HostageDescription=("Profesor de Bioquímica en la Universidad de Mount Threshold. No tiene ninguna relación con el conocido autor de ciencia ficción.")
+SuspectName=("Jean Trouffant","Cómplices anónimos")
+SuspectVitals=("Sexo: Hombre|Origen: Caucásico|Pelo: Marrón claro|Ojos: Azules|Altura: 1,61|Peso: 70|Fecha de nacimiento: 19/04/73|Edad: 35","Órganos vitales desconocidos")
+SuspectDescription=("De descendencia francesa, Trouffant está dedicado a la causa del Ejército de la Fe. Ha sido detenido en numerosas ocasiones por delitos menores como escándalos y alteración del orden público, principalmente junto con protestas vocales.","Hombres armados con máscaras")
+EntryOptionTitle=("Lado 1, nivel 1","Lado 2, nivel 2")
+EntryDescription=("Entrada a través de las puertas frontales y el vestíbulo.","Entrada de servicio.")
+TimeLinePlot=(0,3,6,60,76,92,100)
+TimeLineTime=("20:12","20:19","20:28","22:43","23:27","00:12","00:45")
+TimeLineShortDescription=("Cables de la alarma cortados","Llega un coche patrulla","Llegan los SWAT","Comienzan las negociaciones","El ENC identifica a Trouffant","Los sospechosos exigen","Entrada estratégica aprobada")
+TimeLineLongDescription=(" - Se ha perdido la conexión con el sistema de seguridad de la Policía de la Universidad. El coche patrulla ha sido enviado para investigar."," - La Policía de la Universidad ha llegado y ha encontrado cables cortados. La policía está recibiendo disparos desde el interior del edificio. Se ha notificado a la Central. Se reclama a SWAT."," - Perímetro de contención desde zonas elevadas establecido."," - El ENC contacta con los sospechosos."," - El ENC contacta con los sospechosos e identifica a Jean Trouffant. Se le lee al ENC por teléfono el manifiesto del Ejército de la Fe, confirmando conexión con el grupo."," - Los sospechosos exigen más provisiones, incluida comida y munición. El ENC accede sólo a la comida. Los sospechosos no están satisfechos y amenazan verbalmente a los rehenes."," - Fallan los intentos de establecer contacto con Trouffant. El ENC cree que los rehenes pueden estar en peligro. El ENC sugiere que se proceda a entrar.")
+LoadingText=Avenida Mount Threshold, 72, Centro de investigación Mount Threshold
+
+[SP-Hotel]
+PrimarySpawnPoint=Hueco del ascensor
+SecondarySpawnPoint=Hueco de la escalera
+CampaignObjectiveHostageSpawn=("Lawrence Adams","James Betincourt")
+MissionDescription=("Rescate de rehenes","Avenida 7 Oeste, 1700","1 de mayo - 18.12)
+BriefingText=("De acuerdo, muchachos, esto es una jauría humana y la situación no va a mejorar. La milicia autodeclarada América Ahora ha tomado como rehenes al heredero de propiedades inmobiliarias James Betincourt Junior y a su contratista, Lawrence Adams. Al parecer se encontraban visitando un proyecto, el hotel Old Granite y fueron capturados mientras el primero inspeccionaba el trabajo de Adam. Ahora los sospechosos se encuentran recluidos en las últimas dos plantas del hotel y piden doce millones de dólares de rescate antes de media noche. Afirman que Betincourt Investments debe este dinero como 'entrada del pago de sus deudas con el pueblo americano'.","|América Ahora es una milicia nacional pequeña pero activa. Son encarnizados separatistas que se oponen a la inmigración, al comercio libre y a los intereses en manos de extranjeros. La mayoría de sus acciones anteriores han sido perpetradas contra propiedades en manos de extranjeros, saboteando sus sedes o cometiendo actos de vandalismo, lo que consiguió que fuera demasiado caro mantenerlas. Este es su primer secuestro y puede indicar un cambio en las tácticas del grupo. Teniendo en cuenta la naturaleza pública del incidente, puede que el grupo esté también buscando publicidad claramente. Hemos hablado con los medios de comunicación y hemos recibido cooperación de su parte. Lo que no está claro es cuánto durará.","|Haceos a la idea de que los sospechosos de América Ahora están bien armados y actuarán como un grupo, aunque su inexperiencia con rehenes puede hacer las cosas más difíciles para los civiles. Tened mucho cuidado.","|Y ahora... a por las víctimas. James Betincourt Junior es el hijo del presidente y propietario principal de Betincourt Investments, una empresa de desarrollo de propiedades con base en Francia. Hace seis meses rescataron al hotel Old Granite de la bancarrota por doce millones de dólares y desde entonces lo están reformando. Junior ha estado encargado de las reformas y estaba inspeccionando el trabajo cuando fue capturado. Lawrence Adams es el contratista y arquitecto encargado de las tareas de reformas. ","|Los sospechosos se encuentran en las últimas dos plantas del hotel, la sexta y la séptima. Encontraréis los mapas en la tabla. Hemos cortado la corriente de los ascensores y uno de ellos está atrapado entre el quinto y el sexto. Podéis subir por las escaleras o por el hueco del ascensor. Informan de que se escuchan tiroteos procedentes del séptimo piso, así que es el momento de entrar.")
+LocationInfoText=("Hotel Old Granite, 1700 Avenida 7 Oeste.","|","Sierra Uno cubre el Lado 1, nivel 7 - la zona de construcción al descubierto.")
+HostageName=("James Betincourt, Jr.","Lawrence Adams")
+HostageVitals=("Sexo: Hombre|Origen: Caucásico|Pelo: Marrón|Ojos: Marrones|Altura: 1,85|Peso: 72|Fecha de nacimiento: 01/04/1975|Edad: 33","Sexo: Hombre|Origen: Caucásico|Pelo: Negro|Ojos: Azules|Altura: 1,55|Peso: 86|Fecha de nacimiento: 04/19/1966|Edad: 42")
+HostageDescription=("Hijo de James Betincourt, presidente y propietario de Betincourt Investments. Betincourt Investments es propietario de Old Granite.","Lawrence Adams es el contratista de los trabajos de reforma del hotel Old Granite. ")
+SuspectName=("Desconocido")
+SuspectVitals=("")
+SuspectDescription=("Llevan chalecos antibalas y máscaras, van equipados con ametralladoras. ")
+EntryOptionTitle=("Columna del ascensor","Hueco de la escalera")
+EntryDescription=("Entrada desde la parte superior del ascensor detenido en el nivel 5.","Entrada del hueco de la escalera desde el nivel 5.")
+TimeLinePlot=(0,31,38,42,48,58,96,100)
+TimeLineTime=("12:30","14:17","14:40","14:53","15:12","15:47","17:57","18:12")
+TimeLineShortDescription=("Encuentro establecido","Contacto perdido","Piden recompensa","Llegan los SWAT","Más peticiones","Más peticiones","Fracasan las negociaciones","Comienza la entrada estratégica")
+TimeLineLongDescription=(" - Encuentro organizado: Betincourt y Adams se encuentran en las obras del hotel."," - Kevin Halskey, el chofer de Betincourt, intenta contactar con éste por móvil pero no lo consigue."," - Charles Betincourt, propietario y presidente de Betincourt Investments, ha sido contactado para exigirle 12 millones de dólares antes de media noche. Si no se obedece, los rehenes morirán. Central notificada; servicios de emergencia notificados. SWAT responde."," - Llega SWAT. Perímetro de contención y vigilancia desde zonas elevadas preparados."," - El ENC establece contacto con los sospechosos. Exigen 12 millones de dólares reiteradamente antes de media noche. Además, se añaden a la recompensa 10 millones más por cada hora de retraso después de las 21.00. El ENC continúa con las negociaciones."," - Los sospechosos exigen esta vez que su 'Manifiesto del Nuevo Americano' sea publicado en un periódico nacional. El ENC pide la liberación de un rehén a cambio; los sospechosos se niegan."," - El ENC comunica que los sospechosos parecen seguir convencidos de conseguir sus peticiones. El ENC afirma que no se esperan avances a través de las negociaciones."," - Se decide emplear la estrategia. Equipo de asalto preparado.")
+LoadingText=Avenida 7 Oeste, 1700, Hotel Old Granite
+
+[SP-ArmsDeal]
+PrimarySpawnPoint=Patio delantero
+SecondarySpawnPoint=Callejón lateral
+CampaignObjectiveEnemySpawn=("Hadeon Koshka","Clark Jennings")
+MissionDescription=("Orden judicial de alto riesgo / Rescate de rehenes","Avenida Blakestone, 1302","25 de abril - 23.47")
+BriefingText=("La OCCB (Agencia de control del crimen organizado) tiene un trabajo para nosotros. Llevan tras la pista de unos movimientos ilegales de armas en la ciudad desde hace un año y ahora tienen algo sólido con lo que continuar. Nuestro sospechoso es Hadeon Koshka, un ciudadano ucraniano que viaja a Estados Unidos con frecuencia. Sus visitas suelen coincidir con la aparición de nuevas armas rusas en las calles.","|Esta es nuestra noche. El detective encubierto Clark Jennings ha pasado los últimos dos meses infiltrado en la operación Koshka. Ha contactado con la OCCB a primera hora del día de hoy para establecer el lugar y la hora del encuentro. Hoy va a haber movimiento en las viviendas abandonadas del número 1302 de la Avenida Blakestone. El detective Jennings ha notificado su contacto en cuanto ha podido, pero como ha avisado con tan poca antelación, no tenemos tiempo de llamar al ATF. En realidad el tráfico de armas es asunto suyo, pero en este caso nos encontramos en el lugar y el momento adecuado para detenerlo, y ellos no.","|Unos antecedentes. La Unión Soviética tenía depósitos de armas y bases militares en numerosos emplazamientos. Cuando se derrumbó, muchos de estos escondites 'desaparecieron' o fueron abandonados. El comercio de armas, tanto el mercado negro como el legal, es una fuente considerable de ingresos en la región y los gobiernos locales tienen dudas sobre su cese. Así que depende de nosotros el detener la aparición de estas armas en nuestras calles.","|El encuentro será en el 1302 de Blakestone, en un edificio abandonado del Departamento de Vivienda y Desarrollo Urbano. No tenemos un plano, pero gracias a Jennings tenemos unos bocetos de la zona. Koskha debe de estar en la habitación con las armas y su comprador. Como nos jugamos mucho en esta operación, esperamos que los dos grupos traigan refuerzos. Hazte a la idea de que habrá sospechosos armados y peligrosos tanto en el edificio como en las inmediaciones. El detective Jennings estará presente encubierto. No podrá abandonar la clandestinidad hasta que tengáis control de la situación, así que no lo perdáis de vista. Estudiad los objetivos, seleccionad el equipo y adelante.")
+LocationInfoText=("1302 Avenida Blakestone, antiguo Wolcott Housing Project","|Antes de que Koshka y sus socios lo compraran habían comenzado algunos trabajos de demolición. Es posible que Koshka esté en la parte de atrás, pero puede que haya más sospechosos esparcidos por toda la estructura. Hay múltiples accesos al edificio desde el punto de entrada. Entre ellas se encuentran la puerta delantera, la entrada del sótano en Lado 4, nivel 0 y a través de la parte de atrás demolida en el Lado 3, nivel 1.";"|Tenemos ambas zonas cubiertas. Sierra Uno está cubriendo la habitación de intercambio de armas en el Lado 3, nivel 1 y Sierra Dos cubre el Lado 4, nivel 2.")
+HostageName=("Clark Jennings")
+HostageVitals=("Sexo: Hombre|Origen: Caucásico|Pelo: Negro|Ojos: Azules|Altura: 1,82|Peso: 88|Fecha de nacimiento: 08/20/1972|Edad: 36")
+HostageDescription=("El detective Jennings se encuentra actualmente infiltrado entre los secuaces de Koshka. Tendrá un arma y puede asustarse, así que tened cuidado.")
+SuspectName=("Hadeon Koshka")
+SuspectVitals=("Sexo: Hombre|Origen: Caucásico|Pelo: Marrón|Ojos: Azules|Altura: 1,55|Peso: 81|Fecha de nacimiento: 22/03/1963|Edad: 45")
+SuspectDescription=("Hadeon Koshka es un ciudadano ucraniano. Es sospechoso de ser el miembro clave de un grupo de especuladores del mercado negro que vende armas viejas de la Unión Soviética a las bandas de criminales americanas. ")
+EntryOptionTitle=("Lado 1, nivel 1","Lado 2, nivel 1")
+EntryDescription=("Patio delantero.","Callejón lateral.")
+TimeLinePlot=(0,83,100)
+TimeLineTime=("13:12","22:00","23:47")
+TimeLineShortDescription=("Consejo propuesto","Llegan los SWAT","Comienza la entrada estratégica")
+TimeLineLongDescription=(" - El detective Jennings informa que se espera que tenga lugar un intercambio de armas esta noche a las 23.45. La OCCB autoriza el arresto. SWAT notificado."," - Llega SWAT. Perímetro de contención desplegado y vigilancia desde zonas elevadas preparada."," - Comienza la negociación. Equipo de asalto enviado.")
+LoadingText=Avenida Blakestone, 1302, Proyectos Wolcott
+
+[SP-Hospital]
+PrimarySpawnPoint=Acercarse a vestíbulo principal
+SecondarySpawnPoint=Corredor de acceso
+CampaignObjectiveHostageSpawn=("Hyun-Jun Park")
+MissionDescription=("Despliegue rápido","Calle 87, 691","12 de abril - 00.34")
+BriefingText=("De acuerdo, muchachos, tenemos un incidente internacional en nuestras manos. Hyun-Jun Park es un diplomático de Corea del Sur. A primera hora del día de hoy fue atacado por seis hombres armados cuando salía del restaurante. Park fue herido en el ataque, aunque su personal de seguridad lo puso a salvo. Los asesinos escaparon tras el ataque inicial. El señor Park fue conducido al Centro Médico de St. Michael para recibir tratamiento de emergencia. Como no hubo tiempo de colocar seguridad en el hospital, el propio personal de seguridad de Park lo acompañó a la sala de pacientes.","|El señor Park es uno de los oficiales adheridos a la embajada de Corea del Sur; ha estado hablando con la ONU durante los dos últimos días durante las conversaciones de reunificación actuales. Park es un gran defensor de la reunificación y es una de las voces principales en la delegación de Corea del Sur. Creemos que este ataque está relacionado con sus intenciones políticas, pero no sabemos quién está detrás. Sea quien sea, estaban muy bien equipados y organizados y tendieron la emboscada a Park fuera de su itinerario de viaje oficial.","|Acaba de llegar a St. Michael un grupo de hombre armados, aparentemente los mismos que atacaron a Park anteriormente. Están bien armados y se mueven con decisión por el hospital en su intento por localizar su objetivo. No tienen intención de tomar rehenes y su ataque al hospital ha sido brutal. Elegid la entrada, preparad el equipo y entrad.")
+LocationInfoText=("Calle 87, 691","Hospital de St. Michael. Un hospital de construcción antigua que ha sido renovado y modernizado recientemente. Este hospital forma parte de la comunidad desde hace años.","|No hay posiciones estratégicas para francotiradores.")
+HostageName=("Hyun-Jun Park")
+HostageVitals=("Sexo: Hombre|Origen: Asíatico|Pelo: Negro|Ojos:Marrones|Peso: 1,76|Peso: 72|Fecha de nacimiento: 08/22/1947|Edad: 61")
+HostageDescription=("Destacado diplomático de Corea del Sur. Herido en un ataque anterior.")
+SuspectName=("Desconocido")
+SuspectVitals=("Órganos vitales desconocidos")
+SuspectDescription=("Un número indeterminado de hombres muy armados ha asaltado el hospital.")
+EntryOptionTitle=("Lado 1, nivel 1","Lado 3, nivel 1")
+EntryDescription=("Acercarse al vestíbulo principal","Acceder al corredor desde el ala de investigación ")
+TimeLinePlot=(0,10,90,92,100)
+TimeLineTime=("22:20","22:33","00:20","00:23","00:34")
+TimeLineShortDescription=("Ataque inicial","Hyun-Jun Park en el hospital","Hospital atacado","SWAT enviados","Comienza la entrada estratégica")
+TimeLineLongDescription=(" - Ataque inicial al diplomático y al personal de seguridad; Hyun-Jun Park herido, enviado al Centro Médico de St. Michael."," - Hyun-Jun Park ingresa en el hospital."," - Hombres armados atacan el hospital; salta la alarma."," - Los SWAT son enviados a la escena para llevar a cabo tácticas de despliegue rápido. "," - SWAT llega y entra en el edificio inmediatamente para poner el caos en orden.")
+LoadingText=Calle 87, 691, Centro médico St. Michael
+
+[SP-Tenement]
+PrimarySpawnPoint=Puerta delantera
+SecondarySpawnPoint=Salida de incendios
+CampaignObjectiveEnemySpawn=("Andrew Taronne")
+MissionDescription=("Orden judicial de alto riesgo","Calle Carrols, 2189","2 de abril - 16.45")
+BriefingText=("De acuerdo, muchachos, tenemos a unos locos violentos, peligrosos para los vecinos y para ellos mismos. Hace aproximadamente una hora recibimos una llamada desde una cabina de unos fanáticos que se hacen llamar los Taronnianos, que intentan volar por los aires su casa, llevándose parte del vecindario con ellos.","|Los detectives les han seguido la pista y han descubierto unos envíos inquietantes para los Taronnianos. Entre las recientes adquisiciones se encuentran varios productos químicos sospechosos, así como una cantidad preocupante de fertilizante. Nos estamos tomando esta cuestión muy en serio. Nuestro informador no nos dio una hora ni un día, colgó antes de que pudiéramos obtener más información de él. Suponemos que esta información filtrada proviene de alguien que ha abandonado recientemente el culto a este grupo y estamos comprobando entre los familiares si alguien ha vuelto a casa, pero por ahora no hemos encontrado nada. No nos vamos a quedar de brazos cruzados porque tenemos indicios de que existe peligro inminente. Los detectives han rodeado la zona y han reclamado la presencia de los sospechosos. No han recibido respuesta alguna. ","|Sobre los Taronnianos. Surgieron de un grupo separatista en Idaho y siguieron a su líder, Andrew Taronne hasta aquí. Su nombre oficial es algo así como Niños de Taronne. Para ellos, Taronne es una mezcla de gurú omnisciente y profeta. Aparecieron aquí hace unos tres años y compraron en metálico un viejo edificio de apartamentos que necesitaba rehabilitación urgentemente y se mudaron allí en masa. Sólo abandonan el edificio en grupos de tres o más personas y niegan la entrada a los extraños. ","|Todo lo que hacen es bajo las órdenes de Taronne, lo que significa que él es la única persona con la que tenemos que hablar. Aunque Taronne no sale nunca de la casa, así que tendremos que ir a por él. El grupo del que se separaron cree firmemente en la defensa personal y no hay ninguna razón para pensar que los Taronnianos no han adoptado esa doctrina. Preparaos para encontrar resistencia armada y no os sorprendáis si hasta los que no están armados se niegan a rendirse. Mantened vigilado a cualquier niño que pertenezca a los miembros del culto.","|El edificio era un bloque de apartamentos antes de que los Taronnianos se mudaran allí, pero puede que lo hayan modificado. Los planos del edificio os servirán de guía. Preparaos para las sorpresas. Y tened en cuenta que no han tomado precauciones con sus explosivos. Una bala perdida puede provocar bajas no deseadas, así que prestad especial atención al equipo que seleccionáis para esta tarea.")
+LocationInfoText=("Calle Carrols, 2189","|Nadie ha conseguido acceder al interior del edificio. El registro de la propiedad indica que todo el edificio pertenece a estos fanáticos desde hace unos diez años. La vigilancia a través de las ventanas y las aberturas disponibles indican que se han realizado cambios significantes a la estructura interna, aunque no hay permisos archivados desde que Taronne y su grupo establecieron su residencia aquí.","|Sierra Uno está cubriendo el Lado 2, nivel 2 desde un tejado cercano. Sierra Dos cubre el Lado 1, nivel 2.")
+HostageName=("Desconocido")
+HostageVitals=("Órganos vitales desconocidos")
+HostageDescription=("Información no disponible")
+SuspectName=("Andrew Taronne")
+SuspectVitals=("Sexo: Hombre|Origen: Caucásico|Pelo: Negro grisáceo|Ojos: Marrones|Altura: 1,82|Peso: 99|Fecha de nacimiento: 12/03/1959|Edad: 49")
+SuspectDescription=("Líder de los Niños de Taronne. Un líder carismático que ha lavado el cerebro a sus seguidores y ha conseguido que crean ciegamente en sus ideas descabelladas. ")
+EntryOptionTitle=("Lado 1, nivel 1","Lado 2, nivel 2")
+EntryDescription=("Puerta delantera","Salida de emergencia")
+TimeLinePlot=(0,6,10,100)
+TimeLineTime=("11:30","11:49","12:00","16:45")
+TimeLineShortDescription=("Orden de arresto adquirida","Llegan los SWAT","Llamamiento","Comienza la entrada estratégica")
+TimeLineLongDescription=(" - Orden de arresto para Andrew Taronne."," - Llega SWAT. Vigilancia desde zonas elevadas y perímetro de contención establecidos."," - Se les rodea y se les hace un llamamiento. No hay respuesta."," - Tras unas horas sin respuesta por parte de los habitantes de la vivienda, se decide utilizar la estrategia. Equipo de asalto preparado.")
+LoadingText=Calle Carrols, 2189, Viviendas Taronne
+
+[SP-JewelryHeist]
+PrimarySpawnPoint=Puerta delantera, recibidor principal
+SecondarySpawnPoint=Entrada de servicio
+MissionDescription=("Sospechosos parapetados ","Broadway, 1725","8 de marzo - 17.11")
+BriefingText=("Esta también va a ser complicada. La joyería DuPlessis fue asaltada justo antes de la hora de cierre. Los sospechosos entraron en un camión por las puertas de seguridad principales hasta el vestíbulo. La alarma del edificio saltó inmediatamente. Los testigos informan que vieron entrar en el edificio a múltiples sospechosos armados con metralletas y ataviados con chalecos antibalas. Los testigos informan también de que no han visto a los empleados salir del establecimiento, aunque aún estaba abierto y el personal de seguridad estaba en sus puestos.","|El edificio de oficinas de DuPlessis es como un pequeño fuerte. La mayoría de las zonas se encuentran bajo vigilancia constante. Existe un sistema de seguridad separado y un detector de metales para acceder a la cámara acorazada. La puerta de la caja fuerte tiene un cierre con temporizador y se cierra todos los días a las 18.00 y se vuelve a abrir a las 9.00 al día siguiente. La empresa de alarmas ha desactivado el cierre de la puerta para nosotros, por si los ladrones se esconden dentro. Los sospechosos han desactivado las líneas telefónicas del edificio. ","|DuPlessis se encarga principalmente del comercio de diamantes en bruto. Esto implica que no han sido limpiados ni cortados y que no están registrados. Sin embargo, son más pesados para moverlos y no es tan fácil llevarlos a una casa de empeño. Esta semana, DuPlessis iba a recibir un envío de joyas terminadas. No creo que el momento sea una coincidencia. Es probable que nuestros sospechosos tengan contactos con los compradores del mercado negro fuera del país, ya que las joyas terminadas son demasiadas para transportarlas.","|Nuestros sospechosos tienen armas automáticas y chalecos antibalas, así que están preparados para luchar. No sabemos exactamente cómo pretenden irrumpir en la caja fuerte, que debió cerrarse automáticamente cuando saltó la alarma. Una posibilidad es la ayuda desde dentro, así que estad alerta. Casi todos los empleados de DuPlessis están dentro. Desconocemos su situación actual. Estudiad los planos, elegid la entrada y planead el asalto: pero no tardéis demasiado.")
+LocationInfoText=("Broadway, 1725, Joyería DuPlessis","|Los planos de la Joyería DuPlessis se encuentran en los archivos de la policía por razones de seguridad. Las cámaras no están funcionando en estos momentos. La empresa de alarmas ha desactivado el cierre con temporizador de la caja fuerte para evitar que los sospechosos se encierren dentro.","|Sierra Uno y Dos están observando las habitaciones en el Lado 1, nivel 2.")
+HostageName=("Desconocido")
+HostageVitals=("Órganos vitales desconocidos")
+HostageDescription=("Se encuentran dentro del edificio un número desconocido de rehenes.")
+SuspectName=("Desconocido")
+SuspectVitals=("Órganos vitales desconocidos")
+SuspectDescription=("Un número desconocido de hombres armados se encuentran en el interior.")
+EntryOptionTitle=("Lado 1, nivel 1","Lado 3, nivel 2")
+EntryDescription=("Entrada principal del recibidor","Entrada de servicio")
+TimeLinePlot=(0,14,57,100)
+TimeLineTime=("16:57","16:59","17:05","17:11")
+TimeLineShortDescription=("Salta la alarma","SWAT notificados","Llegan los SWAT","Comienza la entrada estratégica")
+TimeLineLongDescription=(" - Alarma activada en la Joyería DuPlessis. La Central ha notificado a la patrulla."," - Llamada al 911. La Central notifica a los servicios de emergencia; SWAT notificados."," - Llega SWAT. Vigilancia desde zonas elevadas y perímetro de contención establecidos."," - Se ha decidido utilizar la estrategia.")
+LoadingText=Broadway, 1725, Joyería DuPlessis
+
+[SP-RedLibrary]
+PrimarySpawnPoint=Entrada delantera
+SecondarySpawnPoint=Entrada al aparcamiento
+CampaignObjectiveHostageSpawn=("Warren Rooney")
+MissionDescription=("Sospechosos parapetados / Rescate de rehenes","Calle Gridley, 732","25 de enero - 18.05")
+BriefingText=("Justo después de las dos de la tarde, un grupo de hombres armados irrumpieron en las oficinas del edificio Wainwright Mill Center. Cruzaron varias dependencias a tiros, hasta que una patrulla los detuvo en una de las oficinas.","|Comenzaron con el robo frustrado de un banco en la Comunidad de Ahorros y Préstamos. Los sospechosos activaron las alarmas al principio del intento, alertando a la seguridad del banco y a la policía local. En lugar de echar a correr, parece que siguieron intentando irrumpir en el banco, pero fueron atrapados en la cámara de seguridad.","|Cuando se enfrentaron a la seguridad, los sospechosos dispararon a dos guardias y escaparon. Tras una persecución en coche con los agentes de la patrulla, los asaltantes colisionaron con las oficinas del Wainwright Mill Center y se refugiaron en la oficina de Red Library. La patrulla se retiró y estableció un perímetro. ","|Red Library es una compañía de software especializada en almacenamiento de datos. Sus empleados suelen trabajar los sábados y sospechamos que esta fue la primera oficina abierta que encontraron los homicidas. Esto implica que por desgracia la oficina estaba ocupada cuando entraron.","|Los negociadores han estado hablando con ellos desde las 15.30. Al parecer estos tipos van muy armados, pero no saben muy bien qué es lo que hacen. Hasta ahora, los sospechosos han demandado una ruta de escape y cinco millones de dólares a cambio de sus 'múltiples prisioneros'. Los negociadores han conseguido liberar a cuatro rehenes a cambio de dos máscaras antigás y dos chalecos antibalas. Los rehenes liberados no pueden aportar el número concreto de empleados, ya que nadie sabe cuánta gente trabajaba hoy allí. La reciente avalancha de disparos nos obliga a entrar y rescatar al resto de los rehenes. ")
+LocationInfoText=("Calle Gridley, 732, Red Library Inc","|La prolongada situación de punto muerto nos ha permitido obtener planos del edificio. Gracias a los rehenes liberados tenemos una idea bastante clara de la distribución de algunos de los cubículos de división. ","|Sierra Uno está cubriendo el Lado 2, nivel 3; parece ser una zona de descanso para los empleados; Sierra Dos cubre el Lado 4, nivel 3.")
+HostageName=("Warren Rooney")
+HostageVitals=("Sexo: Hombre|Origen: Caucásico|Pelo: Marrón|Ojos: Avellana|Altura: aprox. 1,82|Peso: 81|Fecha de nacimiento: Desconocido|Edad: aprox. 45")
+HostageDescription=("El presidente de Red Library Inc. Los compañeros de trabajo lo definen como una persona severa pero justa.")
+SuspectName=("Desconocido")
+SuspectVitals=("Órganos vitales desconocidos")
+SuspectDescription=("Múltiples sospechosos bien armados.")
+EntryOptionTitle=("Lado 1, nivel 1","Lado 4, nivel 0")
+EntryDescription=("La zona de recepción tiene una entrada lateral blindada.","Entrada a través del aparcamiento, subiendo desde las oficinas principales.")
+TimeLinePlot=(0,9,11,13,17,24,57,98,100)
+TimeLineTime=("14:02","14:24","14:30","14:34","14:45","15:03","16:22","18:03","18:05")
+TimeLineShortDescription=("Hombres armados divisados","Llegan los SWAT","El ENC establece contacto con los sospechosos","Primera demanda","Intercambio de rehenes","Pasa la hora límite","Intercambio de rehenes","Disparos","Comienza la entrada")
+TimeLineLongDescription=(" - Hombres armados entran en el edificio."," - Llega SWAT. Perímetro de contención y vigilancia desde zonas elevadas establecidos."," - El ENC establece el primer contacto con los sospechosos; no hay nombres, no hay progreso."," - Exigen 5 millones de dólares y un helicóptero antes de las 15.00."," - Intercambian a dos rehenes por chalecos antibalas."," - El ENC convence a los sospechosos de que la primera petición es disparatada. Vuelven a pedir un vehículo blindado. Hora límite: 18.00."," - En un esfuerzo por ganar tiempo, el ENC acepta entregarles máscaras antigás a cambio de la liberación de más rehenes. Los sospechosos muestran signos de fatiga y comienzan a inquietarse."," - Los sospechosos amenazan a los rehenes mientras hablan por teléfono con el ENC. Se espera que haya civiles heridos. El teléfono no responde, tiroteos continuos. Se decide emplear la estrategia."," - Se procede a entrar debido al fuego constante.")
+LoadingText=Calle Gridley, 732, Red Library Inc.
+
+[SP-AutoGarage]
+PrimarySpawnPoint=Entrada a aparcamiento
+SecondarySpawnPoint=Tejado
+CampaignObjectiveHostageSpawn=("Gary Altman")
+MissionDescription=("Sospechosos parapetados / Rescate de rehenes","Avenida 29, 487","5 de enero - 03.45")
+BriefingText=("Esto es lo que tenemos. Necesitamos un despliegue rápido en la calle 29 y Arlington, el Concesionario de vehículos Victory Imports. Parece que un robo frustrado de coches ha devenido en una situación con sospechosos atrincherados.","|32 Adam, respondiendo a la llamada del 911, hemos interceptado a dos individuos mientras robaban un coche. Tras solicitar que se rindieran, dispararon a los agentes y se retiraron al edificio principal. Se desconoce el número concreto, pero según los informes de la patrulla, han visto al menos a 4 individuos, todos hombres. Están armados y creemos que algunos tienen metralletas. Además, tienen un rehén con ellos: Gary Altman. Altman es un mecánico de Victory Imports y al parecer estuvo trabajando hasta tarde. Fue él quien realizó la primera llamada al 911, que se cortó al poco tiempo. Los intentos sucesivos de contactar con él fueron en vano.","|En estos momentos no tenemos la identidad de los sospechosos. La patrulla informa de que han visto a hombres jóvenes, alrededor de los veinte años, de piel clara, que vestían vaqueros y camisetas, pero no tenemos pruebas suficientes para confirmar detalles específicos. Por ahora creemos que se trata de un nuevo robo. No ha habido ningún garaje local que haya informado de un atraco similar. Parece que vamos a cortar este de raíz.","|La patrulla les ha pedido que colaboren y no ha obtenido por respuesta más que unos disparos aislados. Sin embargo, una vez que los negociadores contactaron con ellos, estuvieron más dispuestos a hablar. Han pedido comida y un chaleco antibalas; ambas peticiones han sido denegadas, ya que no parecen dispuestos o no pueden liberar a Altman. A las 3.30, los sospechosos enviaron un ultimátum en el que pedían que se les permitiera salir libremente. El resto de las comunicaciones con los sospechosos han sido más cortas y tensas. Las negociaciones se encuentran en un punto muerto y les preocupa la seguridad de Altman, ya que al parecer los sospechosos se están desesperando. Es el momento de poner fin a esta situación.")
+LocationInfoText=("Avenida 29, 487","|La planta inferior se utiliza como aparcamiento y zona de reparaciones. Creemos que la segunda planta es principalmente zona de oficinas. Las entradas están por arriba, a través del tejado, o desde abajo, a través de la zona de aparcamiento subterránea.","|Tenemos la zona vigilada desde el tejado.")
+HostageName=("Gary Altman")
+HostageVitals=("Sexo: Hombre|Origen: Caucásico|Altura: 1,55|Peso: 95|Pelo: No disponible|Ojos: Marrones|Fecha de nacimiento: 03/12/1972|Edad: 36")
+HostageDescription=("Mecánico en Victory Imports. Llamó al 911 para informar de un intento de robo de coches, al parecer está dentro de las oficinas del establecimiento.")
+SuspectName=("Desconocido")
+SuspectVitals=("Información no disponible")
+SuspectDescription=("")
+EntryOptionTitle=("Lado 1, nivel 0","Tejado")
+EntryDescription=("Entrada norte a la zona de aparcamiento","Puerta de acceso al tejado")
+TimeLinePlot=(0,2,4,9,14,19,27,73,87,100)
+TimeLineTime=("01:19","01:23","01:27","01:35","01:42","01:50","02:02","03:10","03:30","03:45")
+TimeLineShortDescription=("Llamada al 911","Múltiples sospechosos divisados","Perímetro de contención establecido","Llega SWAT","Rodear y pedir ayuda","Contacto con ENC","Pedir: Permitir escapar","Pedir: Chalecos Kevlar","Amenaza a los rehenes","Realizar acción táctica")
+TimeLineLongDescription=(" - Llamada al 911 informando de un intento de robo de coches en el concesionario de vehículos Victory Imports. 32 Adam enviado a investigar."," - 32 Adam comunica que hay varios sospechosos armados."," - Los agentes de patrulla establecen perímetro de contención. SWAT notificado."," - SWAT entra en escena. Equipos de contención y de vigilancia desde zonas elevadas en sus puestos."," - Se les ha ordenado a los sospechosos que abandonen el edificio. No hay respuesta."," - El ENC establece contacto telefónico con los sospechosos."," - Los sospechosos exigen que se les permita huir libremente a las 04.00."," - Los sospechosos piden chalecos Kevlar. Respuesta denegada."," - Los sospechosos han vuelto a pedir que les dejen huir libremente a las 04.00. Rehenes amenazados."," - Se ha tomado la decisión de utilizar la estrategia para asegurar el estado de los rehenes. Equipo de asalto preparado.")
+LoadingText=Avenida 29, 487, Victory Imports
+
+[SP-ConvenienceStore]
+PrimarySpawnPoint=Entrada lateral
+CampaignObjectiveEnemySpawn=("Alice Jenkins")
+CampaignObjectiveHostageSpawn=("Willis Fillinger","Heidi Rosenstein","Kim Dong Yin")
+MissionDescription=("Sospechosos parapetados","Avenida Pitkin, 3721","18 de noviembre - 07.15")
+BriefingText=("Estamos pendientes de una situación de barricadas/rehenes con al menos tres de ellos. La Central ha recibido una llamada al 911 sobre las 6.00. Un trabajador se detuvo a por gasolina, pero siguió adelante cuando divisó a una mujer armada saliendo por la puerta principal. Llamó al 911 desde su móvil. Los primeros agentes que llegaron allí vieron a varios hombres armados dentro, no se sabe cuántos, y al menos a un civil no armado. Cuando los asaltantes amenazaron a los civiles, retrocedieron y establecieron un perímetro.","|Hasta ahora parece que hemos identificado a uno: Alice Jenkins. Ha estado en rehabilitación por adicción a la oxicodona. La oxicodona es un opiáceo similar a la heroína, igual de adictivo que ésta. Se receta legalmente como medicamento de la Lista II, lo que hace posible que cualquiera la pueda conseguir con una receta falsa y convertirse en traficante. Se vende por menos de ocho dólares en la calle.","|Conociendo a Jenkins, se puede tratar de un robo para conseguir dinero, posiblemente relacionado con una racha de asaltos a comercios. Ella y sus colegas no tenían intención de tomar rehenes y no saben qué hacer con ellos. Eso es lo más peligroso, ya que no podemos predecir sus movimientos y además han dejado de hablar con el negociador. Teniendo en cuenta su comportamiento excéntrico, puede que algunos de los sospechosos estén colocados. Están armados con pistolas y hasta ahora tenemos confirmación visual de tres sospechosos. Puede que sean más. ","|En cuanto a los rehenes, creemos que hay tres: Kim Dong Yin, Heidi Rosenstein y Willis Fischer, empleados de la gasolinera. Puede que además haya algunos clientes, aunque no es muy probable. Tened mucho cuidado al entrar. Estaréis cubiertos en el punto de entrada. Debido a los recientes tiroteos, no podemos esperar más, es hora de aplicar una solución estratégica. Estudiad la situación, equipaos y en marcha.")
+LocationInfoText=("Avenida Pitkin, 3721, Qwik Fuel","|La entrada principal conduce a la tienda, pero es demasiado peligroso acceder directamente desde aquí. Al parecer hay una oficina detrás del mostrador y creemos que conduce a las zonas de almacenamiento. Hay dos entradas a las que se puede acceder desde el punto de entrada. Hay una puerta lateral que conduce a la zona de almacén y la zona de carga, así como a la puerta trasera del Lado 3.";"|Tenemos 2 zonas cubiertas: Sierra Uno cubre el Lado 1, nivel 1 y controla la zona frontal de la tienda. Sierra Dos cubre el Lado 3, nivel 1, a lo largo de la puerta trasera.")
+HostageName=("Heidi Rosenstein","Willis Fillinger","Kim Dong Yin")
+HostageVitals=("Sexo: Mujer|Origen: Caucásico|Altura: 1,73|Peso: Desconocido|Pelo:Marrón|Ojos: Marrones|Fecha de nacimiento: Desconocido|Edad: Desconocido","Sexo: Hombre|Origen: Caucásico|Altura: 1,55|Peso: Desconocido|Pelo: Marrón|Ojos: Marrones|Fecha de nacimiento: Desconocido|Edad: Desconocido","Sexo: Hombre|Origen: Asíatico|Altura: Desconocido|Peso: Desconocido|Pelo: Marrón|Ojos: Marrones|Fecha de nacimiento: Desconocido|Edad: Desconocido")
+HostageDescription=("Heidi Rosenstein realiza el turno de día de 06.00 a 14.00.","Encargado de día; salió del trabajo aproximadamente a las 05.30; se espera que llegue antes de las 06.00.","Empleado del turno de noche en Qwik Fuel. Se cree que aún está en el edificio, aunque no lo ha visto nadie.")
+SuspectName=("Alice Jenkins","Hombre armado desconocido")
+SuspectVitals=("Sexo: Mujer|Origen: Caucásico|Altura: 1,55|Peso: 63|Pelo: Marrón|Ojos: Marrones|Fecha de nacimiento: 04/09/1977|Edad: 31","Órganos vitales desconocidos")
+SuspectDescription=("Alice Jenkins es una delincuente reincidente y actualmente en libertad bajo palabra por delitos de tenencia. Ha estado implicada en múltiples robos y tiene un historial de resistencia al arresto. Es violenta e inestable.","Los agentes en la escena han informado que hay otros dos hombres armados y puede que haya más. La llamada al 911 informó de que los sospechosos están armados con pistolas.")
+EntryOptionTitle=("Lado 2, nivel 1")
+EntryDescription=("Entrada lateral")
+TimeLinePlot=(0,33,66,100)
+TimeLineTime=("06:15","06:30","06:45","07:15")
+TimeLineShortDescription=("Llamada al 911","Llegan los SWAT","El ENC contacta con los sospechosos","Comienza la entrada estratégica")
+TimeLineLongDescription=(" - Llamada al 911 de un cliente que informa de que hay un hombre armado y una potencial situación de rehén en la gasolinera Qwik Fuel. La Central notifica servicios de emergencia. SWAT notificados."," - Los SWAT entran en escena. Se ha establecido una zona de vigilancia, perímetro de contención confirmado."," - El Equipo de negociación en crisis (ENC) confirma la presencia de tres rehenes y al menos 3 sospechosos armados. Equipo de asalto preparado."," - Disparos. Se decide emplear la estrategia.")
+LoadingText=Avenida Pitkin, 3721, Gasolinera Qwik Fuel
+
+[SP-FairfaxResidence]
+PrimarySpawnPoint=Patio trasero
+SecondarySpawnPoint=Camino de entrada
+CampaignObjectiveEnemySpawn=("Lawrence Fairfax")
+CampaignObjectiveHostageSpawn=("Melinda Kline")
+MissionDescription=("Orden judicial de alto riesgo / Rescate de rehenes","Glendive Lane, 25","23 de octubre - 04.43")
+BriefingText=("Preparaos, muchachos, esta vez no va a ser fácil. Nuestro objetivo, Lawrence Fairfax, es el sospechoso número uno en una serie de horribles homicidios. Un poco de información: durante el pasado año y medio han desaparecido siete mujeres y todas ellas estudiaban en la universidad estatal. Sus restos, que mostraban signos de tortura y desmembramiento, reaparecieron en un plazo de una a tres semanas con posterioridad a su desaparición. El asesino fue cuidadoso, el equipo forense no fue capaz de obtener una muestra suya de ADN de ninguno de los cuerpos.","|Pero esto cambió con el último hallazgo. Un obrero de la zona encontró esta mañana otra víctima. Los restos de ADN encontrados en sus uñas coincidían con el de uno de los hombres que estaban siendo investigados por el equipo forense: Lawrence Fairfax.","|Aunque hay algo preocupante: otra estudiante, Melinda Kline, desapareció hace un tiempo, alrededor del 18 de octubre. Eso fue hace seis días. Si Fairfax la tiene y está siguiendo el perfil, hay posibilidades de que siga viva. Nuestra prioridad principal es rescatarla. Por eso vamos a entrar sin avisar.","|Sobre nuestro sospechoso. Fairfax trabaja temporalmente como carpintero y a veces trabaja en la Universidad. No tiene antecedentes penales, pero en los tribunales hay un par de órdenes de alejamiento contra él. Lo han despedido de su último trabajo por robo. Los compañeros de trabajo de Fairfax no dicen mucho de él, no se mezcla con los demás. Ha estado en la biblioteca de derecho en múltiples ocasiones, sobre todo en los días anteriores a la desaparición de tres de nuestras víctimas, incluida Melinda Kline. La entrevista que le realizó la policía fue poco concluyente, pero el detective responsable consiguió una muestra de ADN de un pañuelo usado por él. ","|Fairfax estaba viendo a un psiquiatra cuando fue despedido, pero no hemos podido acceder a su historial. El psiquiatra nos advirtió de que Fairfax habría podido fortificar su vivienda. Estad atentos a las trampas, especialmente en las áreas que sólo utiliza Fairfax. Vive con su madre, Gladys Fairfax. Ella es muy solitaria y prácticamente no sale de casa porque sufre problemas de salud. No tenemos indicios para creer que ella también esté implicada, pero andaos con cuidado.","|Compañeros, unos segundos pueden ser la diferencia entre recuperar a Melinda Kline viva o encontrarla muerta. Estudiad los planos, seleccionad el equipo y adelante.")
+LocationInfoText=("Glendive Lane, 25","|Esta casa es un dúplex, tiene 2 dormitorios y 1 baño. La mayoría de las viviendas de esta zona tienen la misma estructura. Nuestro plano se basa en las viviendas vecinas del mismo estilo y es impreciso para el nivel 1. El piso bajo de este tipo de casas suele estar personalizado y puede estar terminado o no. La información sobre la planta baja es orientativa.")
+HostageName=("Melinda Kline","Gladys Fairfax")
+HostageVitals=("Sexo: Mujer|Origen: Caucásico|Altura: 1,67|Peso: 56|Pelo: Negro|Ojos: Marrones|Fecha de nacimiento: 02/04/1988|Edad: 20","Sexo: Mujer|Origen: Caucásico|Altura: 1,61|Peso: 74|Pelo: Gris|Ojos: Marrones|Fecha de nacimiento: 05/29/1940|Edad: 68")
+HostageDescription=("Melinda Kline es una estudiante de derecho de segundo año en el City College. Se comunicó su desaparición el 18 de octubre; la última vez que se le vio fue después de su última clase el 17 de octubre a las 19.45. Su desaparición es inexplicable e inesperada de su parte, de acuerdo con sus amigos y familiares.","Gladys Fairfax es la propietaria del 25 de Glendive Lane. Recibe una pensión de incapacidad de la Seguridad Social y su salud suele ser mala.")
+SuspectName=("Lawrence Fairfax")
+SuspectVitals=("Sexo: Hombre|Origen: Caucásico|Altura: 1,56|Peso: aprox. 90|Pelo: Negro|Ojos: Marrones|Fecha de nacimiento: 20/7/1980|Edad: 28")
+SuspectDescription=("Actualmente empleado temporalmente como carpintero en una obra en el City College. Parece ser una persona poco sociable, sólo se le conoce un familiar vivo, su madre, Gladys Fairfax. ")
+EntryOptionTitle=("Lado 3, nivel 1","Lado 2, nivel 0")
+EntryDescription=("Acceso del patio trasero a la puerta trasera.","Camino de entrada al garaje.")
+TimeLinePlot=(0,55,94,98,100)
+TimeLineTime=("18 de octubre","20.20","04.00","04.30","04.43")
+TimeLineShortDescription=("Desaparecida: Melinda Kline","Cuerpo encontrado","Identificación de ADN","Llegan los SWAT","Comienza la entrada estratégica")
+TimeLineLongDescription=(" - Angela Karey, la compañera de piso de Melinda Kline, informa sobre su desaparición. La última vez que se le vio fue después de su última clase el 17 de octubre a las 19.45. Sus amigos afirman que no tenía planes de viajar."," - Los restos de Rachel Polson son encontrados por Emmet Duran, un obrero de la construcción."," - El equipo forense encuentra restos de ADN pertenecientes a Lawrence Fairfax en las yemas de los dedos de Polson."," - Llega SWAT. Perímetro de contención establecido. No se ha establecido vigilancia desde zonas elevadas."," - Se ha decidido utilizar la estrategia. Equipo de asalto preparado.")
+LoadingText=Glendive Lane, 25, Residencia Fairfax
+
+[SP-FoodWall]
+PrimarySpawnPoint=Esquina de callejón
+CampaignObjectiveEnemySpawn=("Alex Jiménez","Lian Niu")
+MissionDescription=("Orden judicial de alto riesgo","Calle Norman, 1572","8 de octubre - 20.24")
+BriefingText=("De acuerdo, chicos, escuchad. La División de investigación del crimen organizado lleva mucho tiempo organizando esto y nos ha pedido ayuda con la orden de arresto. Durante las últimas dos semanas, el restaurante Food Wall ha estado bajo estrecha vigilancia. Creemos que el propietario, un tal Lian Niu, armero experimentado, se dedica a la modificación ilegal de armas y está fabricando cartuchos a medida de gran volumen. Niu vive encima del restaurante y realiza sus trabajillos allí. Ha sido interrogado sobre armas ilegales anteriormente, pero no han encontrado nada. ","|Hace diez minutos, el detective Sheary divisó a Alex Jiménez entrando en el restaurante. Revisad vuestros expedientes, Alex Jiménez, también conocido como 'El navajas', es un asesino a sueldo con contactos en Colombia. Es un sospechoso importante de numerosos homicidios acaecidos durante el último año y medio. Jiménez debe ser considerado armado y peligroso.","|Sheary cree que Jiménez forma parte del negocio en estos momentos y ha recibido modificaciones de una ametralladora MAC-10 utilizada en un reciente homicidio. Queremos pillarlos con las manos en la masa, por lo que no podemos advertir a Jiménez ni a Niu. Los clientes y los empleados del restaurante seguirán en el edificio cuando entres. Identificad el objetivo, como siempre.","|Vuestra prioridad principal, por supuesto, es evitar daños civiles a toda costa, y después de eso, aseguraos de que el arma está en manos de Jiménez. La División está deseando tener una larga charla con Jiménez y Niu y esa pistola es la excusa perfecta. Estudiad el plano detenidamente, calculad la entrada y adelante.")
+LocationInfoText=("Calle Norman, 1572, Restaurante Food Wall","|La puerta principal de la calle conduce a la zona de asientos. Hay también una puerta trasera en la cocina desde el callejón. Se puede acceder a ambas desde el punto de entrada. El primer piso está destinado al restaurante Food Wall, que tiene asientos en la parte delantera y la cocina en la trasera. Hay un espacio con baños que conecta la zona de asientos con la cocina. En la parte trasera debería haber unas escaleras que conducen al apartamento de Niu. Creemos que toda la segunda planta es un apartamento. Hay un dormitorio en el Lado 3, nivel 2, sobre la cocina.")
+HostageName=("Desconocido")
+HostageVitals=("Información no disponible")
+HostageDescription=("")
+SuspectName=("Alex Jiménez","Lian Niu")
+SuspectVitals=("Sexo: Hombre|Origen: Hispano|Altura: 1,5|Peso: 86|Pelo: Marrón|Ojos: Marrones|Fecha de nacimiento: 04/09/1977|Edad: 31","Sexo: Hombre|Origen: Asiático|Altura: 1,55|Peso: 72|Pelo: Negro|Ojos: Marrones|Fecha de nacimiento: 14/10/1974|Edad: 34")
+SuspectDescription=("Alex Jiménez también conocido como El navajas. Se busca a Jiménez por varios homicidios. Tiene contactos con narcotraficantes colombianos, aunque se desconoce la identidad de su jefe actual.","Lian Niu es el dueño del restaurante Food Wall, aunque paga a un gerente para que lo gestione. Desde hace un tiempo se viene sospechando que trafica y modifica armas ilegales y que es posible que utilice el restaurante para blanquear sus beneficios.")
+EntryOptionTitle=("Lado 1, nivel 1")
+EntryDescription=("Esquina de callejón")
+TimeLinePlot=(0,80,86,100)
+TimeLineTime=("23 de septiembre","19.42","19.55","20.24")
+TimeLineShortDescription=("Orden de arresto expedida","Sospechoso divisado","Llegan los SWAT","Comienza la entrada estratégica")
+TimeLineLongDescription=(" - Restaurante Food Wall bajo vigilancia."," - El detective Carl Sheary divisa a Alex Jiménez entrando en el establecimiento. Sheary notifica al COT."," - SWAT entra en escena. Equipos de contención y de vigilancia desde zonas elevadas en sus puestos."," - Se decide emplear la estrategia. Equipo de asalto preparado.")
+LoadingText=Calle Norman, 1572, Restaurante Food Wall
+
+[Custom_Timed]
+Description=Informar antes de que se acabe el tiempo
+TimerCaption=Tiempo restante
+
+[Custom_PlayerUninjured]
+Description=Evitar heridas a ti mismo
+
+[Custom_NoSuspectsKilled]
+Description=Evitar bajas de sospechosos
+
+[Custom_NoCiviliansInjured]
+Description=Evitar heridas a civiles
+
+[Custom_NoOfficersKilled]
+Description=Evitar bajas de agentes
+
+[Custom_NoOfficersInjured]
+Description=Evitar heridas a agentes
+
+[Training_ProtectOfficers]
+Description=No asesinar a tu agente compañero
+
+[Keep_Cadets_Healthy]
+Description=No incapacitar a los voluntarios
+
+[Keep_Trainer_Alive]
+Description=No asesinar al teniente Bonds
+
+[Keep_Volunteers_Alive]
+Description=No asesinar a los voluntarios
+
+[UseSniper]
+Description=Disparar al objetivo con el francotirador
+
+[CommandThroughViewport]
+Description=Ordenar al equipo azul que se mueva y despeje utilizando el área de visualización
+
+[MoveRedToOtherDoor]
+Description=Llevar al equipo rojo a la puerta de la izquierda
+
+[BlueStackUp]
+Description=Ordenar al equipo azul que avance
+
+[UseOptiwand]
+Description=Ordenar a la unidad que se mueva y despeje
+
+[BangAndClear]
+Description=Ordenar a la unidad que golpee y despeje
+
+[OpenAndClearDefault]
+Description=Ordenar a la unidad que abra y despeje
+
+[FirstDefault]
+Description=Ordenar a la unidad que forme filas
+
+[Rescue_Hanson]
+Description=No asesinar al agente Hanson
+
+[RestrainHanson]
+Description=Arrestar al agente Hanson
+
+[YellCompliance]
+Description=Haz que el agente Hanson obedezca
+
+[Complete_LockedDoors]
+Description=Atraviesa las puertas cerradas
+
+[Complete_GrenadePractice]
+Description=Probar todas las granadas
+
+[Complete_TargetPractice]
+Description=Disparar a cada uno de los cuatro objetivos
+
+[Complete_ShootingRange]
+Description=Dispara tus armas a las tres distancias
+
+[Complete_Training]
+Description=Completar el curso de entrenamiento
+
+[Neutralize_CultLeader]
+Description=Neutralizar a Andrew Taronne
+
+[Neutralize_Killer]
+Description=Neutralizar a Lawrence Fairfax
+
+[Rescue_Kline]
+Description=Rescatar a Melinda Kline
+
+[Rescue_Altman]
+Description=Rescatar a Gary Altman
+
+[Rescue_CEO]
+Description=Rescatar a Warren Rooney
+
+[Disable_Bombs]
+Description=Encuentra y desactiva las bombas
+TimerCaption=Temporizador de bomba
+
+[Rescue_Adams]
+Description=Rescatar a Lawrence Adams
+
+[Rescue_Bettencourt]
+Description=Rescatar a James Betincourt
+
+[Rescue_Diplomat]
+Description=Rescatar a Hyun-Jun Park
+
+[Secure_Weapon]
+Description=Asegurar la MAC-10
+
+[Neutralize_GunBroker]
+Description=Neutralizar a Lian Niu
+
+[Neutralize_Jimenez]
+Description=Neutralizar a Alex Jiménez
+
+[Secure_Briefcase]
+Description=Asegurar el maletín
+
+[Neutralize_TerrorLeader]
+Description=Neutralizar a Jean Trouffant
+
+[Rescue_Sterling]
+Description=Rescatar al Dr. Theodore Sturgeon
+
+[Neutralize_Alice]
+Description=Neutralizar a Alice Jenkins
+
+[Rescue_Victims]
+Description=Rescatar a Kim Dong Yin
+
+[Rescue_Fillinger]
+Description=Rescatar a Willis Fischer
+
+[Rescue_Rosenstein]
+Description=Rescatar a Heidi Rosenstein
+
+[Rescue_Walsh]
+Description=Rescatar al detective Walsh
+
+[Investigate_Laundromat]
+Description=Investiga la lavandería
+
+[Neutralize_Kruse]
+Description=Neutralizar a Allen Kruse
+
+[Neutralize_Grover]
+Description=Neutralizar a Simon Gowan
+
+[Rescue_Baccus]
+Description=Arrestar a Louie Baccus
+
+[Arrest_Jennings]
+Description=Encuentro con Jennings
+
+[Neutralize_Koshka]
+Description=Neutralizar a Hadeon Koshka
+
+[Rescue_All_Hostages]
+Description=Rescatar a todos los civiles
+
+[Neutralize_All_Enemies]
+Description=Restablecer el orden
+
+[SP-Training]
+LoadingText=Instalaciones de entrenamiento Riverside
+
+[Custom_PoliceCadet]
+Description=Hombre, cadete de policía
+
+[Custom_MelindaKline]
+Description=Melinda Kline
+
+[Custom_Training_SWATInstructor]
+Description=Sonny Bonds
+
+[Custom_Female_Homeless]
+Description=Mujer, vagabunda
+
+[Custom_Nurse]
+Description=Mujer, enfermera
+
+[Custom_Female_Heavy]
+Description=Mujer, robusta
+
+[Custom_FemaleOffice]
+Description=Mujer, administrativa
+
+[Custom_FemaleCasual3]
+Description=Mujer, informal 3
+
+[Custom_FemaleCasual2]
+Description=Mujer, informal 2
+
+[Custom_FemaleCasual1]
+Description=Mujer, informal 1
+
+[Custom_Homeless_Male]
+Description=Hombre, vagabundo
+
+[Custom_Janitor]
+Description=Hombre, conserje
+
+[Custom_Doctor]
+Description=Hombre
+
+[Custom_MaleCasual_Beefy]
+Description=Hombre, informal fornido
+
+[Custom_LeoMel]
+Description=Hombre, informal 5
+
+[Custom_MaleCasual4]
+Description=Hombre, informal 4
+
+[Custom_MaleCasual3]
+Description=Hombre, informal 3
+
+[Custom_MaleCasual2]
+Description=Hombre, informal 2
+
+[Custom_MaleCasual1]
+Description=Hombre, informal 1
+
+[Custom_MaleSuit2]
+Description=Hombre, traje grande
+
+[Custom_MaleSuit1]
+Description=Hombre, traje delgado
+
+[Custom_FatGuy]
+Description=Hombre, gordo
+
+[Custom_GangMembers]
+Description=Hombre, miembro de la banda
+
+[Custom_MaleCasual_BodyArmor]
+Description=Hombre, chaleco antibalas sobre camiseta
+
+[Custom_Militia]
+Description=Milicia, chaleco antibalas
+
+[Custom_Terrorist_GasMask]
+Description=Terrorista, máscara antigás
+
+[Custom_Terrorist_HockeyMask]
+Description=Terrorista, chaleco antibalas y máscara de hockey
+
+[Custom_TerroristsWithBodyArmor]
+Description=Terrorista, chaleco antibalas
+
+[Custom_Terrorists]
+Description=Terrorista
+
+[Command_Command_Cancel]
+Text=SALIR DEL MENÚ
+
+[Command_Command_CancelMP]
+Text=SALIR DEL MENÚ
+

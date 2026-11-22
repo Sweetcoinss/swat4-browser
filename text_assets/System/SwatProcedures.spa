@@ -1,0 +1,51 @@
+[Procedure_CompleteMission]
+Description=Misión completada
+
+[Procedure_ArrestUnIncapacitatedSuspects]
+Description=Sospechosos arrestados
+
+[Procedure_ArrestIncapacitatedSuspects]
+Description=Sospechosos incapacitados
+
+[Procedure_KillSuspects]
+Description=Sospechosos neutralizados
+
+[Procedure_NoSuspectsNeutralized]
+Description=No hay sospechosos neutralizados
+
+[Procedure_NoCiviliansInjured]
+Description=No hay civiles heridos
+
+[Procedure_NoOfficersDown]
+Description=No hay agentes abatidos
+
+[Procedure_PlayerUninjured]
+Description=Jugador no herido
+
+[Procedure_ReportCharactersToTOC]
+Description=Informar de estado al COT
+
+[Procedure_SecureAllWeapons]
+Description=Todas las armas aseguradas
+
+[Procedure_EvacuateDownedOfficers]
+Description=Error al informar de un agente abatido
+
+[Procedure_NoHostageIncapacitated]
+Description=Rehén incapacitado
+
+[Procedure_NoHostageKilled]
+Description=Rehén asesinado
+
+[Procedure_NoOfficerIncapacitated]
+Description=Agente compañero incapacitado
+
+[Procedure_NoOfficerInjured]
+Description=Agente compañero herido
+
+[Procedure_NoUnauthorizedUseOfDeadlyForce]
+Description=Uso no autorizado de la fuerza mortal
+
+[Procedure_NoUnauthorizedUseOfForce]
+Description=Uso no autorizado de la fuerza
+

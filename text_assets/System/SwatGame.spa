@@ -1,0 +1,94 @@
+[SwatGUIConfig]
+DifficultyString[0]=Fácil
+DifficultyString[1]=Normal
+DifficultyString[2]=Difícil
+DifficultyString[3]=Élite
+FriendlyName=("Restaurante Food Wall","Residencia Fairfax","Gasolinera Qwik Fuel","Discoteca A-Bomb","Concesionario de vehículos Victory Imports","Oficinas de Red Library","Expendedoras y tragaperras Northside","Joyería DuPlessis","Viviendas Niños de Taronne","Centro médico de St. Michael","Los proyectos Wolcott ","Hotel Old Granite","Centro de investigación Mount Threshold")
+;CustomEquipmentLoadoutFriendlyNames=("Assaulter (JHP)","Assaulter (FMJ)","CQB Specialist","Breacher","Scout","Pacifier","Less Lethal Specialist")
+LocalizedCommandString=("Clásico: Arma primaria","Clásico: Arma secundaria","Clásico: Bengala deslumbrante","Clásico: Granada de gas CS","Clásico: Granada urticante","Clásico: Aerosol de pimienta","Clásico: Franquear","Clásico: Juego de herramientas","Clásico: Optiwand","Clásico: Cuña","Gráfico: Arma primaria","Gráfico: Arma secundaria","Gráfico: Bengala deslumbrante","Gráfico: Granada de gas CS","Gráfico: Granada urticante","Gráfico: Aerosol de pimienta","Gráfico: Franquear","Gráfico: Juego de herramientas","Gráfico: Optiwand","Gráfico: Cuña","Clásico: Atrás","Clásico: Despliegue","Abrir/Cerrar menús","Fuego","Recargar","Equipar con esposas","Cambiar modo de disparo","Zoom","Activar linterna","Usar","Cambiar grupo de comando","Alternar cámara del equipo rojo","Alternar cámara del equipo azul","Alternar cámara de francotirador","Desactivar áreas de visualización","Controlar áreas de visualización","Mostrar objetivos y puntuación","Abrir Interfaz de comando gráfica","Dar orden rápida","Equipar siguiente arma","Equipar arma anterior","Desplazar comando arriba","Desplazar comando abajo","Mover hacia delante","Mover hacia atrás","Hacia la izquierda","Hacia la derecha","Inclinarse a la izquierda","Inclinarse a la derecha","Correr/Andar","Agacharse","Alternar Correr/Andar","Alternar agacharse","Decir","El equipo dice","Subir el chat","Bajar el chat","Subir página de chat","Bajar página de chat","Desplazar chat a Inicio","Desplazar chat a Fin")
+AudioVirtualizationChoices=("Ninguno","Bajo HRTF","Alto HRTF")
+SoundQualityChoices=("Alta","Baja")
+ScreenResolutionChoices=("800x600","1024x768","1280x1024","1600x1200")
+TextureDetailChoices=("Baja","Media","Alta")
+OtherDetailChoices=("Desactivado","Bajo","Medio","Alto")
+RenderDetailChoices=("Personalizada","Baja","Media","Alta","Muy alta")
+PixelShaderChoices=("No","Sí")
+RealtimeMirrorChoices=("No","Sí")
+VoiceTypeChoices=("Aleatorio","Líder","Reynolds","Girard","Fields","Jackson")
+NetworkConnectionChoices=("Módem","ISDN","Cable/ADSL","LAN/T1")
+TDMDescription=El objetivo es matar o arrestar a todos los miembros del equipo contrario que puedas. Las muertes valen 1 punto, los arrestos 5 puntos.||Gana el primer equipo que alcance el límite de puntuación. Si se llega al límite de tiempo, gana el equipo con más puntos al final de la ronda.
+VIPDescription=Un jugador del equipo SWAT es seleccionado aleatoriamente para ser VIP. SWAT debe escoltar al VIP al punto de escape del otro lado del mapa. Los sospechosos deben capturar al VIP. Deben retenerlo como rehén durante 2 minutos. Los jugadores de SWAT pueden utilizar el juego de herramientas para liberar al VIP. Cuando hayan pasado los dos minutos, los sospechosos deben asesinar al VIP para ganar la partida.||Ganará SWAT si el VIP consigue escapar o si los sospechosos asesinan al VIP antes de capturarlo y retenerlo.
+BombDescription=De tres a cinco bombas son colocadas aleatoriamente en el mapa. El SWAT debe utilizar el juego de herramientas para desactivar todas las bombas antes de que se acabe la ronda. Los sospechosos deben defender las bombas y evitar que sean desactivadas. El SWAT ganará cuando hayan sido desactivadas todas las bombas. Si sigue activa alguna bomba cuando finalize la cuenta atrás del temporizador, ganarán los sospechosos.
+COOPDescription=Jugar misiones de un solo jugador con un grupo de hasta cinco agentes.
+TDMFriendlyName=Sospechosos parapetados
+VIPFriendlyName=Escolta VIP
+BombFriendlyName=Despliegue rápido
+COOPFriendlyName=Cooperativo
+MPSuspectsWinMessage=¡Los sospechosos han ganado la ronda!
+MPSWATWinMessage=¡SWAT ha ganado la ronda!
+MPTieMessage=La partida ha acabado en empate.
+;MPName=Player
+MPNameAllowableCharSet=abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ()<>{}|_!^àáâãäåçèéêëìíîïñòóôõöùúûüÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜß¿¡«»€œæ
+
+[SwatPlayer]
+YouString=Tú
+
+[ServerSettings]
+;ServerName=Swat4 Server
+
+[TrainingTextManager]
+OpenKeybindingCode=[k=
+CloseKeybindingCode=]
+
+[ClassicCommandInterface_SP]
+ElementString=Como una Unidad -
+RedTeamString=Equipo rojo -
+BlueTeamString=Equipo azul -
+BackString=Retroceso: Menú principal
+
+[ClassicCommandInterface_MP]
+ElementString=¿Qué debería ir aquí?
+RedTeamString=Equipo rojo -
+BlueTeamString=Equipo azul -
+BackString=Retroceso: Menú principal
+
+[NetTeamA]
+TeamName=SWAT
+
+[NetTeamB]
+TeamName=Sospechosos
+
+[GUIFireMode]
+FireModeSingleText=SEMI
+FireModeBurstText=RAFAGA
+FireModeAutoText=AUTO
+
+[ConcussiveDamageType]
+FriendlyName=Explosión C2
+
+[CustomScenarioCreatorData]
+PredefinedRedOneLoadOut=("Assaulter_JHP","Assaulter_FMJ","CQB_Specialist","Breacher","Scout","Pacifier","LessLethal")
+PredefinedRedTwoLoadOut=("Assaulter_JHP","Assaulter_FMJ","CQB_Specialist","Breacher","Scout","Pacifier","LessLethal")
+PredefinedBlueOneLoadOut=("Assaulter_JHP","Assaulter_FMJ","CQB_Specialist","Breacher","Scout","Pacifier","LessLethal")
+PredefinedBlueTwoLoadOut=("Assaulter_JHP","Assaulter_FMJ","CQB_Specialist","Breacher","Scout","Pacifier","LessLethal")
+PrimaryWeaponCategoryDescription=("Rifles de asalto","Ametralladoras","Escopetas","Pistolas")
+BackupWeaponCategoryDescription=("Rifles de asalto","Ametralladoras","Escopetas","Pistolas")
+AnyString=Cualquiera
+AnyLoadoutString=Cualquier arma
+NoneString=Ninguno
+CopyOfString=Copia de
+NewScenarioString=Nuevo escenario
+DefaultPackString=Predeterminado
+UnavailableString=[ No disponible ]
+LowString=Bajo
+MediumString=Medio
+HighString=Alto
+EasyString=Fácil
+NormalString=Normal
+HardString=Difícil
+EliteString=Élite
+NumberOfHostagesString=NÚMERO DE REHENES
+NumberOfEnemiesString=NÚMERO DE SOSPECHOSOS
+CommaIncludingString=, INCLUYENDO
+CampaignObjectivesString=OBJETIVOS DE CAMPAÑA.
+

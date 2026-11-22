@@ -1,0 +1,32 @@
+; This list represents the items in FormMain.cbo_new_material in the IGEffectsConfigurator.
+; It should be kept manually in-sync with enum EMaterialVisualType in Engine/Classes/Material.uc.
+
+MVT_Default
+MVT_Concrete
+MVT_Stone
+MVT_ThinGlass
+MVT_ThickGlass
+MVT_ThinCloth
+MVT_ThickCloth
+MVT_ThinMetal
+MVT_ThickMetal
+MVT_Wood
+MVT_Plastic
+MVT_Cardboard
+MVT_Plaster
+MVT_Water
+MVT_Flesh
+MVT_Carpet
+MVT_Dirt
+MVT_WaterPipe
+MVT_Plant
+MVT_RedBrick
+MVT_OpaqueGlass
+MVT_MetalGrate
+MVT_Mirror
+MVT_Roaches
+MVT_WoodDebris
+MVT_WoodCharred
+MVT_SteamPipe
+MVT_Sky
+MVT_Electronics

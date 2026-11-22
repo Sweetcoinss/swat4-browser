@@ -1,0 +1,32 @@
+[EnemyProtecHelmet]
+Description=Si lees esto, envía un informe de error comunicando que ves la descripción del casco Protec.
+FriendlyName=Casco ProArmor
+
+[EnemyKevlarHelmet]
+Description=Si lees esto, envía un informe de error comunicando que ves la descripción del casco Kevlar.
+FriendlyName=Casco Kevlar
+
+[KevlarHelmet]
+Description=Si lees esto, es que hay un error. Esta descripción del casco Kevlar no debería mostrarse nunca.
+FriendlyName=Casco Kevlar
+
+[gasMask]
+Description=La máscara antigás proporciona inmunidad frente al gas CS y reduce notablemente la duración del efecto del aerosol de pimienta. Desafortunadamente, limita la visión y no ofrece protección balística.
+FriendlyName=Máscara antigás
+GUIImage=Texture'gui_tex.equip_gasmask'
+
+[HelmetAndGoggles]
+Description=El casco Kevlar, combinado con gafas tácticas, proporciona una prevención del daño superior en la región de la cabeza, además de eliminar los efectos de las bengalas deslumbrantes.
+FriendlyName=Casco
+GUIImage=Texture'gui_tex.equip_goggles'
+
+[HeavyBodyArmor]
+Description=El chaleco antibalas pesado está provisto de unas placas cerámicas que proporcionan la mejor protección posible frente a las penetraciones balísticas. Incluso cuando es alcanzado por balas sólidas, la protección que proporciona frente a pistolas y ametralladoras es excepcional, pero sigue siendo vulnerable a los rifles de asalto y a postas de escopeta perforante. Además, el gran peso de las placas reduce la velocidad de quien lo lleva. Su grosor y su volumen reducen un 50% también los efectos de granadas urticantes y escopetas no letales.
+FriendlyName=Chaleco pesado
+GUIImage=Texture'gui_tex.equip_heavyarmor'
+
+[LightBodyArmor]
+Description=Este es el chaleco antibalas básico que se lleva durante operaciones normales. El chaleco ligero proporciona algo de protección frente a las balas de punta hueca y los perdigones, pero poca frente a las balas sólidas.
+FriendlyName=Chaleco ligero
+GUIImage=Texture'gui_tex.equip_lightarmor'
+

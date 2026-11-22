@@ -1,0 +1,2148 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\UWindow.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65541,
+  "names": 1373,
+  "imports": 139,
+  "exports": 3480,
+  "classes": 78,
+  "functions": 736,
+  "states": 2,
+  "properties": 2470,
+  "enums": 9,
+  "structs": 4,
+  "consts": 25,
+  "class_list": [
+    {
+      "name": "UWindowWindow",
+      "path": "UWindowWindow",
+      "super": "UWindowBase",
+      "outer": "None",
+      "functions": [
+        "DrawStretchedTextureSegment",
+        "LMouseDown",
+        "GetLevel",
+        "CreateWindow",
+        "GetPlayerOwner",
+        "Paint",
+        "DrawStretchedTexture",
+        "SetSize",
+        "Created",
+        "TextSize",
+        "ClipText",
+        "BeforePaint",
+        "DrawClippedTexture",
+        "ReplaceText",
+        "Close",
+        "LMouseUp",
+        "FocusOtherWindow",
+        "MouseMove",
+        "DrawUpBevel",
+        "Tick",
+        "Resized",
+        "Click",
+        "GetMouseXY",
+        "RemoveAmpersand",
+        "ActivateWindow",
+        "MessageClients",
+        "DoubleClick",
+        "SetAcceptsFocus",
+        "ShowChildWindow",
+        "GetEntryLevel",
+        "BringToFront",
+        "WindowEvent",
+        "ResolutionChanged",
+        "MouseLeave",
+        "KeyUp",
+        "KeyDown",
+        "RMouseDown",
+        "ShowWindow",
+        "HideChildWindow",
+        "WindowIsVisible",
+        "GetDesiredDimensions",
+        "GetLookAndFeelTexture",
+        "ParseAmpersand",
+        "DrawMiscBevel",
+        "RMouseUp",
+        "WrapClipText",
+        "FindWindowUnder",
+        "PropagateKey",
+        "PropagateMessage",
+        "CheckKeyFocusWindow",
+        "FindChildWindow",
+        "WindowHidden",
+        "WindowShown",
+        "isActive",
+        "ClipTextWidth",
+        "AfterPaint",
+        "WindowToGlobal",
+        "GetParent",
+        "MouseEnter",
+        "HotKeyDown",
+        "HotKeyUp",
+        "DoTick",
+        "KeyFocusExit",
+        "KeyFocusEnter",
+        "KeyPressed",
+        "PaintClients",
+        "CancelAcceptsFocus",
+        "GlobalToWindow",
+        "BeginPlay",
+        "RClick",
+        "MClick",
+        "HideWindow",
+        "NotifyAfterLevelChange",
+        "NotifyBeforeLevelChange",
+        "NotifyQuitUnreal",
+        "MouseIsOver",
+        "ToolTip",
+        "CheckMousePassThrough",
+        "SetAcceptsHotKeys",
+        "ShowModal",
+        "WaitModal",
+        "SetMouseWindow",
+        "SetParent",
+        "MessageBox",
+        "MessageBoxDone",
+        "SetCursor",
+        "StripCRLF",
+        "DrawClippedActor",
+        "DrawVertTiledPieces",
+        "DrawHorizTiledPieces",
+        "Tile",
+        "SendToBack",
+        "EscClose",
+        "FocusWindow",
+        "MMouseUp",
+        "MMouseDown",
+        "ProcessMenuKey",
+        "Deactivated",
+        "Activated",
+        "AfterCreate",
+        "BeforeCreate",
+        "RDoubleClick",
+        "MDoubleClick",
+        "SaveConfigs"
+      ],
+      "states": [],
+      "properties": [
+        "WinWidth",
+        "WinHeight",
+        "LookAndFeel",
+        "Root",
+        "ParentWindow",
+        "WinLeft",
+        "WinTop",
+        "ClippingRegion",
+        "bMouseDown",
+        "Cursor",
+        "PrevSiblingWindow",
+        "LastChildWindow",
+        "bUWindowActive",
+        "bLeaveOnscreen",
+        "ActiveWindow",
+        "bWindowVisible",
+        "NextSiblingWindow",
+        "OwnerWindow",
+        "FirstChildWindow",
+        "bAlwaysOnTop",
+        "bTransient",
+        "bAcceptsFocus",
+        "bAcceptsHotKeys",
+        "bAlwaysBehind",
+        "bMMouseDown",
+        "bRMouseDown",
+        "ModalWindow",
+        "ClickTime",
+        "MClickTime",
+        "RClickTime",
+        "ClickX",
+        "ClickY",
+        "MClickX",
+        "MClickY",
+        "RClickX",
+        "RClickY",
+        "bIgnoreRDoubleClick",
+        "bIgnoreMDoubleClick",
+        "bIgnoreLDoubleClick",
+        "bNoClip"
+      ]
+    },
+    {
+      "name": "UWindowList",
+      "path": "UWindowList",
+      "super": "UWindowBase",
+      "outer": "None",
+      "functions": [
+        "SetupSentinel",
+        "Compare",
+        "CreateItem",
+        "GraftLeft",
+        "GraftRight",
+        "RightMost",
+        "LeftMost",
+        "Remove",
+        "InsertBefore",
+        "InsertAfter",
+        "InsertItemBefore",
+        "InsertItemAfter",
+        "ContinueSort",
+        "Tick",
+        "Sort",
+        "DisconnectList",
+        "DestroyList",
+        "DestroyListItem",
+        "CountShown",
+        "CopyExistingListItem",
+        "ShowThisItem",
+        "Count",
+        "MoveItemSorted",
+        "Validate",
+        "Append",
+        "AppendItem",
+        "DoAppendItem",
+        "Clear",
+        "Insert",
+        "AppendListCopy",
+        "FindEntry",
+        "InsertItem"
+      ],
+      "states": [],
+      "properties": [
+        "Next",
+        "Sentinel",
+        "Prev",
+        "Last",
+        "ParentNode",
+        "BranchLeft",
+        "BranchRight",
+        "bItemOrderChanged",
+        "bTreeSort",
+        "InternalCount",
+        "CurrentSortItem",
+        "bSortSuspended",
+        "CompareCount",
+        "bSuspendableSort",
+        "Tag"
+      ]
+    },
+    {
+      "name": "UWindowLookAndFeel",
+      "path": "UWindowLookAndFeel",
+      "super": "UWindowBase",
+      "outer": "None",
+      "functions": [
+        "Menu_DrawPulldownMenuItem",
+        "Menu_DrawPulldownMenuBackground",
+        "Menu_DrawMenuBarItem",
+        "Menu_DrawMenuBar",
+        "Tab_DrawTabPageArea",
+        "Tab_SetTabPageSize",
+        "Tab_SetupRightButton",
+        "Tab_SetupLeftButton",
+        "Tab_GetTabSize",
+        "Tab_DrawTab",
+        "SB_HDraw",
+        "SB_VDraw",
+        "SB_SetupRightButton",
+        "SB_SetupLeftButton",
+        "SB_SetupDownButton",
+        "SB_SetupUpButton",
+        "Editbox_Draw",
+        "Editbox_SetupSizes",
+        "ComboList_DrawItem",
+        "ComboList_DrawBackground",
+        "Checkbox_SetupSizes",
+        "Combo_GetButtonBitmaps",
+        "Combo_Draw",
+        "Combo_SetupSizes",
+        "DrawClientArea",
+        "FW_SetupFrameButtons",
+        "FW_HitTest",
+        "FW_GetClientArea",
+        "FW_DrawWindowFrame",
+        "GetTexture",
+        "Setup",
+        "Combo_SetupLeftButton",
+        "Combo_SetupRightButton",
+        "Checkbox_Draw",
+        "Button_DrawSmallButton",
+        "PlayMenuSound",
+        "ControlFrame_SetupSizes",
+        "ControlFrame_Draw"
+      ],
+      "states": [],
+      "properties": [
+        "Size_ScrollbarWidth",
+        "Size_ScrollbarButtonHeight",
+        "MiscBevelT",
+        "MiscBevelR",
+        "MiscBevelL",
+        "BevelUpTL",
+        "MiscBevelTL",
+        "Size_TabAreaHeight",
+        "MiscBevelB",
+        "FrameTL",
+        "BevelUpBL",
+        "MiscBevelBL",
+        "ComboBtnUp",
+        "TabSelectedM",
+        "TabUnselectedM",
+        "FrameBL",
+        "Active",
+        "Size_MinScrollbarHeight",
+        "FrameT",
+        "Misc",
+        "FrameL",
+        "BevelUpBR",
+        "MiscBevelBR",
+        "TabSelectedL",
+        "TabUnselectedL",
+        "MiscBevelTR",
+        "BevelUpTR",
+        "FrameBR",
+        "FrameB",
+        "FrameR",
+        "FrameTR",
+        "ColumnHeadingHeight",
+        "Inactive",
+        "EditBoxTextColor",
+        "EditBoxBevel",
+        "TabSelectedR",
+        "TabUnselectedR",
+        "Size_TabAreaOverhangHeight",
+        "Size_TabXOffset",
+        "Pulldown_TextBorder",
+        "Pulldown_HBorder",
+        "Pulldown_VBorder",
+        "Pulldown_ItemHeight",
+        "Size_TabSpacing",
+        "TabBackground",
+        "ActiveS",
+        "InactiveS",
+        "HLine",
+        "FrameActiveTitleColor",
+        "FrameInactiveTitleColor",
+        "HeadingActiveTitleColor",
+        "HeadingInActiveTitleColor",
+        "FrameTitleX",
+        "FrameTitleY",
+        "BevelUpT",
+        "BevelUpL",
+        "BevelUpR",
+        "BevelUpB",
+        "BevelUpArea",
+        "ComboBtnDisabled",
+        "ComboBtnDown",
+        "MiscBevelArea"
+      ]
+    },
+    {
+      "name": "UWindowRootWindow",
+      "path": "UWindowRootWindow",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "KeyEvent",
+        "BeginPlay",
+        "GetLookAndFeel",
+        "Created",
+        "MoveMouse",
+        "DrawMouse",
+        "CheckCaptureMouseUp",
+        "CheckCaptureMouseDown",
+        "CancelCapture",
+        "CaptureMouse",
+        "GetLookAndFeelTexture",
+        "isActive",
+        "AddHotkeyWindow",
+        "RemoveHotkeyWindow",
+        "WindowEvent",
+        "HotKeyDown",
+        "HotKeyUp",
+        "CloseActiveWindow",
+        "Resized",
+        "SetScale",
+        "SetupFonts",
+        "ChangeLookAndFeel",
+        "HideWindow",
+        "SetMousePos",
+        "QuitGame",
+        "DoQuitGame",
+        "Tick",
+        "Initialized",
+        "PostRender",
+        "Message"
+      ],
+      "states": [
+        "UWindows"
+      ],
+      "properties": [
+        "Fonts",
+        "GUIScale",
+        "MouseX",
+        "MouseY",
+        "MouseWindow",
+        "NormalCursor",
+        "KeyFocusWindow",
+        "WECursor",
+        "HotkeyWindows",
+        "bMouseCapture",
+        "DiagCursor1",
+        "DiagCursor2",
+        "NSCursor",
+        "LooksAndFeels",
+        "ConsoleWindow",
+        "HSplitCursor",
+        "HandCursor",
+        "VSplitCursor",
+        "RealHeight",
+        "RealWidth",
+        "MoveCursor",
+        "FocusedWindow",
+        "bAllowConsole",
+        "QuitTime",
+        "OldMouseX",
+        "OldMouseY",
+        "LookAndFeelClass",
+        "bRequestQuit",
+        "MouseScale",
+        "OldClipX",
+        "OldClipY",
+        "ConsoleClass",
+        "bQuickKeyEnable",
+        "WaitCursor"
+      ]
+    },
+    {
+      "name": "UWindowVScrollbar",
+      "path": "UWindowVScrollbar",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "Show",
+        "Scroll",
+        "SetRange",
+        "CheckRange",
+        "Created",
+        "BeforePaint",
+        "Paint",
+        "LMouseDown",
+        "Tick",
+        "MouseMove"
+      ],
+      "states": [],
+      "properties": [
+        "pos",
+        "MaxPos",
+        "ThumbStart",
+        "MaxVisible",
+        "NextClickTime",
+        "ThumbHeight",
+        "bDisabled",
+        "MinPos",
+        "DownButton",
+        "UpButton",
+        "ScrollAmount",
+        "bDragging",
+        "DragY"
+      ]
+    },
+    {
+      "name": "UWindowTabControlItem",
+      "path": "UWindowTabControlItem",
+      "super": "UWindowList",
+      "outer": "None",
+      "functions": [
+        "RightClickTab",
+        "SetCaption"
+      ],
+      "states": [],
+      "properties": [
+        "TabLeft",
+        "TabWidth",
+        "RowNumber",
+        "Caption",
+        "TabTop",
+        "TabHeight",
+        "Owner",
+        "bFlash",
+        "HelpText"
+      ]
+    },
+    {
+      "name": "UWindowPulldownMenuItem",
+      "path": "UWindowPulldownMenuItem",
+      "super": "UWindowList",
+      "outer": "None",
+      "functions": [
+        "CreateSubMenu",
+        "Select",
+        "SetCaption",
+        "DeSelect",
+        "CloseUp",
+        "GetMenuBar"
+      ],
+      "states": [],
+      "properties": [
+        "SubMenu",
+        "Owner",
+        "Caption",
+        "bDisabled",
+        "HotKey",
+        "ItemTop",
+        "bChecked",
+        "Graphic"
+      ]
+    },
+    {
+      "name": "UWindowDynamicTextRow",
+      "path": "UWindowDynamicTextRow",
+      "super": "UWindowList",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "Text",
+        "WrapParent",
+        "bRowDirty"
+      ]
+    },
+    {
+      "name": "UWindowComboControl",
+      "path": "UWindowComboControl",
+      "super": "UWindowDialogControl",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "SetButtons",
+        "Notify",
+        "FindItemIndex",
+        "RemoveItem",
+        "FindItemIndex2",
+        "Close",
+        "SetNumericOnly",
+        "SetNumericFloat",
+        "SetFont",
+        "SetEditTextColor",
+        "SetEditable",
+        "GetSelectedIndex",
+        "SetSelectedIndex",
+        "GetValue",
+        "GetValue2",
+        "SetValue",
+        "SetMaxLength",
+        "Paint",
+        "AddItem",
+        "InsertItem",
+        "BeforePaint",
+        "CloseUp",
+        "DropDown",
+        "Sort",
+        "ClearValue",
+        "Clear",
+        "FocusOtherWindow"
+      ],
+      "states": [],
+      "properties": [
+        "EditBox",
+        "List",
+        "Button",
+        "bListVisible",
+        "EditBoxWidth",
+        "RightButton",
+        "LeftButton",
+        "EditAreaDrawX",
+        "bCanEdit",
+        "bButtons",
+        "ListClass",
+        "EditAreaDrawY"
+      ]
+    },
+    {
+      "name": "UWindowMenuBarItem",
+      "path": "UWindowMenuBarItem",
+      "super": "UWindowList",
+      "outer": "None",
+      "functions": [
+        "SetHelp",
+        "SetCaption",
+        "CreateMenu",
+        "DeSelect",
+        "Select",
+        "CloseUp",
+        "GetMenuBar"
+      ],
+      "states": [],
+      "properties": [
+        "Menu",
+        "Owner",
+        "ItemLeft",
+        "Caption",
+        "ItemWidth",
+        "bHelp",
+        "HotKey"
+      ]
+    },
+    {
+      "name": "UWindowPageControlPage",
+      "path": "UWindowPageControlPage",
+      "super": "UWindowTabControlItem",
+      "outer": "None",
+      "functions": [
+        "RightClickTab",
+        "NextPage"
+      ],
+      "states": [],
+      "properties": [
+        "Page"
+      ]
+    },
+    {
+      "name": "UWindowFramedWindow",
+      "path": "UWindowFramedWindow",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "BeforePaint",
+        "WindowHidden",
+        "WindowEvent",
+        "ToolTip",
+        "MouseMove",
+        "Resized",
+        "LMouseDown",
+        "Paint",
+        "isActive",
+        "GetLookAndFeelTexture"
+      ],
+      "states": [],
+      "properties": [
+        "ClientArea",
+        "CloseBox",
+        "bStatusBar",
+        "MinWinHeight",
+        "MinWinWidth",
+        "bMoving",
+        "bSizable",
+        "bBRSizing",
+        "bBSizing",
+        "bBLSizing",
+        "bRSizing",
+        "bLSizing",
+        "bTRSizing",
+        "bTSizing",
+        "bTLSizing",
+        "WindowTitle",
+        "StatusBarText",
+        "MoveX",
+        "MoveY",
+        "ClientClass"
+      ]
+    },
+    {
+      "name": "UWindowPulldownMenu",
+      "path": "UWindowPulldownMenu",
+      "super": "UWindowListControl",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "CloseUp",
+        "AddMenuItem",
+        "Clear",
+        "DeSelect",
+        "Select",
+        "PerformSelect",
+        "SetSelected",
+        "ShowWindow",
+        "MouseMove",
+        "LMouseUp",
+        "LMouseDown",
+        "BeforePaint",
+        "Paint",
+        "DrawMenuBackground",
+        "DrawItem",
+        "BeforeExecuteItem",
+        "ExecuteItem",
+        "GetMenuBar",
+        "FocusOtherWindow",
+        "KeyDown",
+        "KeyUp",
+        "MenuCmd"
+      ],
+      "states": [],
+      "properties": [
+        "Selected",
+        "Owner",
+        "HBorder",
+        "VBorder",
+        "ItemHeight",
+        "TextBorder",
+        "MyMenuBar"
+      ]
+    },
+    {
+      "name": "UWindowHTMLTextRow",
+      "path": "UWindowHTMLTextRow",
+      "super": "UWindowDynamicTextRow",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "EndStyle",
+        "StartStyle",
+        "DisplayString",
+        "StyleString"
+      ]
+    },
+    {
+      "name": "UWindowComboListItem",
+      "path": "UWindowComboListItem",
+      "super": "UWindowList",
+      "outer": "None",
+      "functions": [
+        "Compare"
+      ],
+      "states": [],
+      "properties": [
+        "Value",
+        "Value2",
+        "SortWeight",
+        "ItemTop"
+      ]
+    },
+    {
+      "name": "UWindowSmallButton",
+      "path": "UWindowSmallButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "AutoWidth",
+        "BeforePaint",
+        "Paint"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowEditControl",
+      "path": "UWindowEditControl",
+      "super": "UWindowDialogControl",
+      "outer": "None",
+      "functions": [
+        "SetDelayedNotify",
+        "BeforePaint",
+        "Paint",
+        "SetMaxLength",
+        "SetValue",
+        "GetValue",
+        "Clear",
+        "SetEditTextColor",
+        "SetHistory",
+        "SetFont",
+        "SetNumericFloat",
+        "SetNumericOnly",
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "EditBox",
+        "EditBoxWidth",
+        "EditAreaDrawX",
+        "EditAreaDrawY"
+      ]
+    },
+    {
+      "name": "UWindowHScrollbar",
+      "path": "UWindowHScrollbar",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "MouseMove",
+        "Tick",
+        "LMouseDown",
+        "Paint",
+        "BeforePaint",
+        "Created",
+        "CheckRange",
+        "SetRange",
+        "Scroll",
+        "Show"
+      ],
+      "states": [],
+      "properties": [
+        "pos",
+        "ThumbStart",
+        "MaxVisible",
+        "ThumbWidth",
+        "NextClickTime",
+        "bDisabled",
+        "MinPos",
+        "MaxPos",
+        "RightButton",
+        "LeftButton",
+        "ScrollAmount",
+        "bDragging",
+        "DragX"
+      ]
+    },
+    {
+      "name": "UWindowDialogControl",
+      "path": "UWindowDialogControl",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "BeforePaint",
+        "Created",
+        "MouseMove",
+        "KeyDown",
+        "SetFont",
+        "Notify",
+        "MouseLeave",
+        "KeyFocusEnter",
+        "KeyFocusExit",
+        "SetHelpText",
+        "MouseEnter",
+        "ExternalDragOver",
+        "SetTextColor",
+        "SetText",
+        "Register",
+        "CheckExternalDrag"
+      ],
+      "states": [],
+      "properties": [
+        "TextX",
+        "TextColor",
+        "Text",
+        "TextY",
+        "Font",
+        "TabNext",
+        "bNoKeyboard",
+        "Align",
+        "bHasKeyboardFocus",
+        "TabPrev",
+        "HelpText",
+        "NotifyWindow",
+        "bAcceptExternalDragDrop",
+        "MinWidth",
+        "MinHeight"
+      ]
+    },
+    {
+      "name": "UWindowComboList",
+      "path": "UWindowComboList",
+      "super": "UWindowListControl",
+      "outer": "None",
+      "functions": [
+        "Sort",
+        "WindowShown",
+        "Clear",
+        "GetLookAndFeelTexture",
+        "Setup",
+        "Created",
+        "FindItemIndex",
+        "FindItemIndex2",
+        "GetItemValue",
+        "RemoveItem",
+        "GetItemValue2",
+        "AddItem",
+        "InsertItem",
+        "SetSelected",
+        "MouseMove",
+        "LMouseUp",
+        "LMouseDown",
+        "BeforePaint",
+        "Paint",
+        "DrawMenuBackground",
+        "DrawItem",
+        "ExecuteItem",
+        "CloseUp",
+        "FocusOtherWindow"
+      ],
+      "states": [],
+      "properties": [
+        "VertSB",
+        "Owner",
+        "HBorder",
+        "ItemHeight",
+        "VBorder",
+        "MaxVisible",
+        "Selected",
+        "TextBorder"
+      ]
+    },
+    {
+      "name": "UWindowEditBox",
+      "path": "UWindowEditBox",
+      "super": "UWindowDialogControl",
+      "outer": "None",
+      "functions": [
+        "KeyFocusExit",
+        "DoubleClick",
+        "KeyFocusEnter",
+        "FocusOtherWindow",
+        "Close",
+        "Paint",
+        "LMouseDown",
+        "Click",
+        "KeyDown",
+        "KeyUp",
+        "KeyPressed",
+        "EditCut",
+        "EditPaste",
+        "EditCopy",
+        "MoveEnd",
+        "MoveHome",
+        "WordRight",
+        "MoveRight",
+        "MoveLeft",
+        "WordLeft",
+        "Delete",
+        "Backspace",
+        "Insert",
+        "InsertText",
+        "Notify",
+        "GetValue2",
+        "GetValue",
+        "SelectAll",
+        "Clear",
+        "SetValue",
+        "SetEditable",
+        "SetHistory",
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "CaretOffset",
+        "Value",
+        "bAllSelected",
+        "bCanEdit",
+        "CurrentHistory",
+        "LastDrawTime",
+        "Offset",
+        "bShowCaret",
+        "NotifyOwner",
+        "bControlDown",
+        "bChangePending",
+        "HistoryList",
+        "bHistory",
+        "bKeyDown",
+        "bDelayedNotify",
+        "MaxLength",
+        "bShiftDown",
+        "bNumericFloat",
+        "bNumericOnly",
+        "Value2",
+        "bSelectOnFocus"
+      ]
+    },
+    {
+      "name": "UWindowTabControlTabArea",
+      "path": "UWindowTabControlTabArea",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "SizeTabsSingleLine",
+        "SizeTabsMultiLine",
+        "LayoutTabs",
+        "Paint",
+        "LMouseDown",
+        "MouseMove",
+        "RMouseDown",
+        "DrawItem",
+        "CheckMousePassThrough"
+      ],
+      "states": [],
+      "properties": [
+        "TabOffset",
+        "TabRows",
+        "FirstShown",
+        "bFlashShown",
+        "DragTab",
+        "UnFlashTime",
+        "bDragging",
+        "bShowSelected",
+        "bArrangeRowsLikeTimHates"
+      ]
+    },
+    {
+      "name": "UWindowGrid",
+      "path": "UWindowGrid",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "KeyDown",
+        "MouseLeaveColumn",
+        "DoubleClickRow",
+        "RightClickRowDown",
+        "RightClickRow",
+        "SelectRow",
+        "SortColumn",
+        "PaintColumn",
+        "Paint",
+        "AddColumn",
+        "Resized",
+        "BeforePaint",
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "VertSB",
+        "HorizSB",
+        "LastColumn",
+        "ClientArea",
+        "bShowHorizSB",
+        "TopRow",
+        "RowHeight",
+        "bSizingColumn",
+        "FirstColumn",
+        "bNoKeyboard"
+      ]
+    },
+    {
+      "name": "UWindowTabControl",
+      "path": "UWindowTabControl",
+      "super": "UWindowListControl",
+      "outer": "None",
+      "functions": [
+        "BeforePaint",
+        "Paint",
+        "GotoTab",
+        "Created",
+        "SetMultiLine",
+        "AddTab",
+        "InsertTab",
+        "GetTab",
+        "DeleteTab"
+      ],
+      "states": [],
+      "properties": [
+        "SelectedTab",
+        "TabArea",
+        "bMultiLine",
+        "LeftButton",
+        "RightButton",
+        "bSelectNearestTabOnRemove"
+      ]
+    },
+    {
+      "name": "UWindowListBoxItem",
+      "path": "UWindowListBoxItem",
+      "super": "UWindowList",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "Caption",
+        "bSelected",
+        "HelpText"
+      ]
+    },
+    {
+      "name": "UWindowDialogClientWindow",
+      "path": "UWindowDialogClientWindow",
+      "super": "UWindowClientWindow",
+      "outer": "None",
+      "functions": [
+        "Paint",
+        "Notify",
+        "GetDesiredDimensions",
+        "CreateControl",
+        "OKPressed"
+      ],
+      "states": [],
+      "properties": [
+        "TabLast",
+        "DesiredHeight",
+        "DesiredWidth"
+      ]
+    },
+    {
+      "name": "UWindowPageWindow",
+      "path": "UWindowPageWindow",
+      "super": "UWindowDialogClientWindow",
+      "outer": "None",
+      "functions": [
+        "RightClickTab"
+      ],
+      "states": [],
+      "properties": [
+        "OwnerTab"
+      ]
+    },
+    {
+      "name": "UWindowHotkeyWindowList",
+      "path": "UWindowHotkeyWindowList",
+      "super": "UWindowList",
+      "outer": "None",
+      "functions": [
+        "FindWindow"
+      ],
+      "states": [],
+      "properties": [
+        "Window"
+      ]
+    },
+    {
+      "name": "UWindowGridColumn",
+      "path": "UWindowGridColumn",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "MouseLeave",
+        "DoubleClick",
+        "RMouseUp",
+        "RMouseDown",
+        "Click",
+        "Paint",
+        "MouseMove",
+        "LMouseUp",
+        "LMouseDown",
+        "BeforePaint",
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "NextColumn",
+        "ColumnNum",
+        "bSizing",
+        "ColumnHeading",
+        "PrevColumn"
+      ]
+    },
+    {
+      "name": "UWindowCheckbox",
+      "path": "UWindowCheckbox",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "BeforePaint",
+        "Paint",
+        "LMouseUp"
+      ],
+      "states": [],
+      "properties": [
+        "bChecked"
+      ]
+    },
+    {
+      "name": "UWindowMenuBar",
+      "path": "UWindowMenuBar",
+      "super": "UWindowListControl",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "AddHelpItem",
+        "AddItem",
+        "ResolutionChanged",
+        "Paint",
+        "MouseMove",
+        "MouseLeave",
+        "Select",
+        "LMouseDown",
+        "DrawItem",
+        "DrawMenuBar",
+        "CloseUp",
+        "Close",
+        "GetMenuBar",
+        "HotKeyDown",
+        "HotKeyUp",
+        "KeyDown",
+        "MenuCmd",
+        "MenuItemSelected"
+      ],
+      "states": [],
+      "properties": [
+        "Selected",
+        "Spacing",
+        "Over",
+        "bAltDown"
+      ]
+    },
+    {
+      "name": "UWindowButton",
+      "path": "UWindowButton",
+      "super": "UWindowDialogControl",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "BeforePaint",
+        "Paint",
+        "Click",
+        "KeyDown",
+        "MouseLeave",
+        "MouseEnter",
+        "DoubleClick",
+        "RClick",
+        "MClick"
+      ],
+      "states": [],
+      "properties": [
+        "bDisabled",
+        "ImageX",
+        "ImageY",
+        "OverRegion",
+        "DisabledRegion",
+        "DownRegion",
+        "UpRegion",
+        "UpTexture",
+        "DownTexture",
+        "DisabledTexture",
+        "OverTexture",
+        "bUseRegion",
+        "RegionScale",
+        "bStretched",
+        "ToolTipString",
+        "OverSound",
+        "DownSound"
+      ]
+    },
+    {
+      "name": "UWindowTabControlRightButton",
+      "path": "UWindowTabControlRightButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "BeforePaint",
+        "LMouseDown"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowTabControlLeftButton",
+      "path": "UWindowTabControlLeftButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "BeforePaint",
+        "LMouseDown"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowComboButton",
+      "path": "UWindowComboButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "BeforePaint",
+        "LMouseDown",
+        "Click",
+        "FocusOtherWindow"
+      ],
+      "states": [],
+      "properties": [
+        "Owner"
+      ]
+    },
+    {
+      "name": "UWindowMessageBox",
+      "path": "UWindowMessageBox",
+      "super": "UWindowFramedWindow",
+      "outer": "None",
+      "functions": [
+        "SetupMessageBox",
+        "BeforePaint",
+        "AfterPaint",
+        "Close"
+      ],
+      "states": [],
+      "properties": [
+        "Result",
+        "TimeOutTime",
+        "TimeOut",
+        "FrameCount",
+        "bSetupSize"
+      ]
+    },
+    {
+      "name": "UWindowSBRightButton",
+      "path": "UWindowSBRightButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "BeforePaint",
+        "LMouseDown",
+        "Tick"
+      ],
+      "states": [],
+      "properties": [
+        "NextClickTime"
+      ]
+    },
+    {
+      "name": "UWindowSBLeftButton",
+      "path": "UWindowSBLeftButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "BeforePaint",
+        "LMouseDown",
+        "Tick"
+      ],
+      "states": [],
+      "properties": [
+        "NextClickTime"
+      ]
+    },
+    {
+      "name": "UWindowSBDownButton",
+      "path": "UWindowSBDownButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "BeforePaint",
+        "LMouseDown",
+        "Tick"
+      ],
+      "states": [],
+      "properties": [
+        "NextClickTime"
+      ]
+    },
+    {
+      "name": "UWindowSBUpButton",
+      "path": "UWindowSBUpButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "BeforePaint",
+        "LMouseDown",
+        "Tick"
+      ],
+      "states": [],
+      "properties": [
+        "NextClickTime"
+      ]
+    },
+    {
+      "name": "UWindowLayoutRow",
+      "path": "UWindowLayoutRow",
+      "super": "UWindowLayoutBase",
+      "outer": "None",
+      "functions": [
+        "CalcMinHeight",
+        "AddCell",
+        "SetupSentinel"
+      ],
+      "states": [],
+      "properties": [
+        "CellList"
+      ]
+    },
+    {
+      "name": "UWindowConsoleWindow",
+      "path": "UWindowConsoleWindow",
+      "super": "UWindowFramedWindow",
+      "outer": "None",
+      "functions": [
+        "Close",
+        "SetDimensions",
+        "ResolutionChanged",
+        "ShowWindow",
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "OldParentHeight",
+        "OldParentWidth"
+      ]
+    },
+    {
+      "name": "UWindowEditBoxHistory",
+      "path": "UWindowEditBoxHistory",
+      "super": "UWindowList",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "HistoryText"
+      ]
+    },
+    {
+      "name": "UWindowFrameCloseBox",
+      "path": "UWindowFrameCloseBox",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "KeyDown",
+        "Click",
+        "Created"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowListBox",
+      "path": "UWindowListBox",
+      "super": "UWindowListControl",
+      "outer": "None",
+      "functions": [
+        "KeyUp",
+        "DrawItem",
+        "ExternalDragOver",
+        "MouseMove",
+        "DoubleClickItem",
+        "ReceiveDoubleClickItem",
+        "DoubleClick",
+        "LMouseDown",
+        "SetSelected",
+        "SetSelectedItem",
+        "MakeSelectedVisible",
+        "GetItemAt",
+        "Resized",
+        "Paint",
+        "Sort",
+        "SetHelpText",
+        "BeforePaint",
+        "AddItem",
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "SelectedItem",
+        "VertSB",
+        "ItemHeight",
+        "bDragging",
+        "DragY",
+        "bCanDrag",
+        "bCanDragExternal",
+        "DoubleClickList",
+        "DefaultHelpText",
+        "bHotTrack"
+      ]
+    },
+    {
+      "name": "UWindowBitmap",
+      "path": "UWindowBitmap",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "Paint"
+      ],
+      "states": [],
+      "properties": [
+        "R",
+        "t",
+        "bStretch",
+        "bCenter"
+      ]
+    },
+    {
+      "name": "UWindowBase",
+      "path": "UWindowBase",
+      "super": "Engine.Interaction",
+      "outer": "None",
+      "functions": [
+        "BuildObjectWithProperties",
+        "InStrAfter",
+        "GetRegion",
+        "NewTexRegion",
+        "NewRegion"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowLayoutCell",
+      "path": "UWindowLayoutCell",
+      "super": "UWindowLayoutBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "RowSpan",
+        "ColSpan",
+        "C",
+        "VAlign",
+        "HAlign"
+      ]
+    },
+    {
+      "name": "UWindowPageControl",
+      "path": "UWindowPageControl",
+      "super": "UWindowTabControl",
+      "outer": "None",
+      "functions": [
+        "ResolutionChanged",
+        "NotifyQuitUnreal",
+        "NotifyBeforeLevelChange",
+        "NotifyAfterLevelChange",
+        "GetDesiredDimensions",
+        "BeforePaint",
+        "Paint",
+        "AddPage",
+        "InsertPage",
+        "GetPage",
+        "DeletePage",
+        "Close",
+        "GotoTab",
+        "FirstPage"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowListControl",
+      "path": "UWindowListControl",
+      "super": "UWindowDialogControl",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "DrawItem"
+      ],
+      "states": [],
+      "properties": [
+        "Items",
+        "ListClass",
+        "SelectionColor",
+        "bNoSelectionBox",
+        "SelectionBkgColor"
+      ]
+    },
+    {
+      "name": "UWindowConsoleTextAreaControl",
+      "path": "UWindowConsoleTextAreaControl",
+      "super": "UWindowDynamicTextArea",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowGridClient",
+      "path": "UWindowGridClient",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "Created"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowLayoutBase",
+      "path": "UWindowLayoutBase",
+      "super": "UWindowList",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowComboRightButton",
+      "path": "UWindowComboRightButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "LMouseDown",
+        "BeforePaint"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowComboLeftButton",
+      "path": "UWindowComboLeftButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "BeforePaint",
+        "LMouseDown"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowClientWindow",
+      "path": "UWindowClientWindow",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "Close"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowMessageBoxArea",
+      "path": "UWindowMessageBoxArea",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "GetHeight",
+        "Paint"
+      ],
+      "states": [],
+      "properties": [
+        "Message"
+      ]
+    },
+    {
+      "name": "UWindowConsoleClientWindow",
+      "path": "UWindowConsoleClientWindow",
+      "super": "UWindowDialogClientWindow",
+      "outer": "None",
+      "functions": [
+        "Message",
+        "Paint",
+        "BeforePaint",
+        "Notify",
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "EditControl",
+        "TextArea"
+      ]
+    },
+    {
+      "name": "UWindowDynamicTextArea",
+      "path": "UWindowDynamicTextArea",
+      "super": "UWindowDialogControl",
+      "outer": "None",
+      "functions": [
+        "AddText",
+        "Paint",
+        "BeforePaint",
+        "TextAreaClipText",
+        "WrapRow",
+        "SplitRowAt",
+        "RemoveWrap",
+        "RemoveNextWord",
+        "GetWrapPos",
+        "DrawTextLine",
+        "TextAreaTextSize",
+        "WordWrap",
+        "CheckMaxRows",
+        "SetTextColor",
+        "SetFont",
+        "SetAbsoluteFont",
+        "Clear",
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "VertSB",
+        "List",
+        "VisibleRows",
+        "Count",
+        "DefaultTextHeight",
+        "bDirty",
+        "RowClass",
+        "AbsoluteFont",
+        "bAutoScrollbar",
+        "MaxLines",
+        "bTopCentric",
+        "bHCenter",
+        "bVariableRowHeight",
+        "WrapWidth",
+        "OldW",
+        "OldH",
+        "Font",
+        "TextColor",
+        "bVCenter",
+        "bScrollOnResize"
+      ]
+    },
+    {
+      "name": "UWindowLayoutControl",
+      "path": "UWindowLayoutControl",
+      "super": "UWindowLayoutBase",
+      "outer": "None",
+      "functions": [
+        "AddCell",
+        "AddRow",
+        "PerformLayout",
+        "Create"
+      ],
+      "states": [],
+      "properties": [
+        "RowList",
+        "MinimumHeight",
+        "MinimumWidth",
+        "WinHeight",
+        "WinWidth",
+        "WinLeft",
+        "WinTop",
+        "OwnerWindow"
+      ]
+    },
+    {
+      "name": "UWindowMessageBoxCW",
+      "path": "UWindowMessageBoxCW",
+      "super": "UWindowDialogClientWindow",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "KeyDown",
+        "BeforePaint",
+        "Resized",
+        "GetHeight",
+        "Paint",
+        "SetupMessageBoxClient",
+        "Notify"
+      ],
+      "states": [],
+      "properties": [
+        "NoButton",
+        "OKButton",
+        "CancelButton",
+        "YesButton",
+        "EnterResult",
+        "MessageArea",
+        "Buttons",
+        "YesText",
+        "NoText",
+        "OKText",
+        "CancelText"
+      ]
+    },
+    {
+      "name": "UWindowControlFrame",
+      "path": "UWindowControlFrame",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "Paint",
+        "BeforePaint",
+        "SetFrame"
+      ],
+      "states": [],
+      "properties": [
+        "Framed"
+      ]
+    },
+    {
+      "name": "UWindowSmallCloseButton",
+      "path": "UWindowSmallCloseButton",
+      "super": "UWindowSmallButton",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "Click"
+      ],
+      "states": [],
+      "properties": [
+        "CloseText"
+      ]
+    },
+    {
+      "name": "UWindowTextAreaControl",
+      "path": "UWindowTextAreaControl",
+      "super": "UWindowDialogControl",
+      "outer": "None",
+      "functions": [
+        "Paint",
+        "Created",
+        "SetScrollable",
+        "BeforePaint",
+        "SetAbsoluteFont",
+        "AddText",
+        "Resized",
+        "SetPrompt",
+        "Clear"
+      ],
+      "states": [],
+      "properties": [
+        "VertSB",
+        "Head",
+        "BufSize",
+        "VisibleRows",
+        "TextArea",
+        "Tail",
+        "Lines",
+        "bScrollable",
+        "Prompt",
+        "bShowCaret",
+        "LastDrawTime",
+        "AbsoluteFont",
+        "Font",
+        "bCursor",
+        "bScrollOnResize"
+      ]
+    },
+    {
+      "name": "WindowConsole",
+      "path": "WindowConsole",
+      "super": "Engine.Console",
+      "outer": "None",
+      "functions": [
+        "KeyEvent",
+        "Tick",
+        "ResetUWindow",
+        "ShowConsole",
+        "HideConsole",
+        "ToggleUWindow",
+        "LaunchUWindow",
+        "CloseUWindow",
+        "CreateRootWindow",
+        "RenderUWindow",
+        "Message",
+        "UpdateHistory",
+        "HistoryUp",
+        "HistoryDown",
+        "NotifyLevelChange"
+      ],
+      "states": [
+        "UWindow"
+      ],
+      "properties": [
+        "Root",
+        "MouseY",
+        "MouseX",
+        "Viewport",
+        "bQuickKeyEnable",
+        "ConsoleWindow",
+        "bShowConsole",
+        "bUWindowActive",
+        "OldClipX",
+        "OldClipY",
+        "bCreatedRoot",
+        "bNoDrawWorld",
+        "bLevelChange",
+        "OldLevel",
+        "bLocked",
+        "MouseScale",
+        "RootWindow",
+        "MsgText",
+        "TopLine",
+        "ConsoleLines",
+        "ConsoleClass",
+        "ShowDesktop",
+        "Scrollback",
+        "numLines",
+        "TextLines",
+        "MsgTime",
+        "MsgTickTime",
+        "MsgTick",
+        "ConsolePos",
+        "ConsoleDest",
+        "bNoStuff",
+        "bTyping",
+        "bBlackout",
+        "bUWindowType",
+        "UWindowKey"
+      ]
+    },
+    {
+      "name": "UWindowWrappedTextArea",
+      "path": "UWindowWrappedTextArea",
+      "super": "UWindowTextAreaControl",
+      "outer": "None",
+      "functions": [
+        "Paint"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowWin95LookAndFeel",
+      "path": "UWindowWin95LookAndFeel",
+      "super": "UWindowLookAndFeel",
+      "outer": "None",
+      "functions": [
+        "FW_DrawWindowFrame",
+        "FW_SetupFrameButtons",
+        "FW_GetClientArea",
+        "FW_HitTest",
+        "DrawClientArea",
+        "Combo_SetupSizes",
+        "Combo_Draw",
+        "ComboList_DrawBackground",
+        "ComboList_DrawItem",
+        "Checkbox_SetupSizes",
+        "Combo_GetButtonBitmaps",
+        "Editbox_SetupSizes",
+        "Editbox_Draw",
+        "Tab_DrawTab",
+        "SB_SetupUpButton",
+        "SB_SetupDownButton",
+        "SB_SetupLeftButton",
+        "SB_SetupRightButton",
+        "SB_VDraw",
+        "SB_HDraw",
+        "Tab_SetupLeftButton",
+        "Tab_SetupRightButton",
+        "Tab_SetTabPageSize",
+        "Tab_DrawTabPageArea",
+        "Tab_GetTabSize",
+        "Menu_DrawMenuBar",
+        "Menu_DrawMenuBarItem",
+        "Menu_DrawPulldownMenuBackground",
+        "Menu_DrawPulldownMenuItem"
+      ],
+      "states": [],
+      "properties": [
+        "SBRightUp",
+        "SBLeftUp",
+        "CloseBoxUp",
+        "FrameSBL",
+        "FrameSBR",
+        "FrameSB",
+        "SBBackground",
+        "SBRightDisabled",
+        "SBRightDown",
+        "SBLeftDisabled",
+        "SBLeftDown",
+        "SBDownUp",
+        "SBUpUp",
+        "SBUpDown",
+        "SBUpDisabled",
+        "SBDownDown",
+        "SBDownDisabled",
+        "CloseBoxDown",
+        "CloseBoxOffsetX",
+        "CloseBoxOffsetY"
+      ]
+    },
+    {
+      "name": "UWindowVSplitter",
+      "path": "UWindowVSplitter",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "Paint",
+        "BeforePaint",
+        "LMouseDown",
+        "MouseMove"
+      ],
+      "states": [],
+      "properties": [
+        "SplitPos",
+        "BottomClientWindow",
+        "OldWinHeight",
+        "TopClientWindow",
+        "bSizing",
+        "MinWinHeight",
+        "bSizable",
+        "MaxSplitPos",
+        "bBottomGrow"
+      ]
+    },
+    {
+      "name": "UWindowURLTextArea",
+      "path": "UWindowURLTextArea",
+      "super": "UWindowDynamicTextArea",
+      "outer": "None",
+      "functions": [
+        "BeforePaint",
+        "Paint",
+        "TextAreaClipText",
+        "LaunchUnrealURL",
+        "Click",
+        "ProcessText"
+      ],
+      "states": [],
+      "properties": [
+        "bReleased"
+      ]
+    },
+    {
+      "name": "UWindowSmallOKButton",
+      "path": "UWindowSmallOKButton",
+      "super": "UWindowSmallCloseButton",
+      "outer": "None",
+      "functions": [
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "OKText"
+      ]
+    },
+    {
+      "name": "UWindowSmallCancelButton",
+      "path": "UWindowSmallCancelButton",
+      "super": "UWindowButton",
+      "outer": "None",
+      "functions": [
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "CancelText"
+      ]
+    },
+    {
+      "name": "UWindowScrollingDialogClient",
+      "path": "UWindowScrollingDialogClient",
+      "super": "UWindowPageWindow",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "BeforePaint",
+        "GetDesiredDimensions",
+        "Paint"
+      ],
+      "states": [],
+      "properties": [
+        "HorizSB",
+        "VertSB",
+        "BRBitmap",
+        "FixedArea",
+        "ClientArea",
+        "bShowVertSB",
+        "bShowHorizSB",
+        "FixedAreaClass",
+        "ClientClass"
+      ]
+    },
+    {
+      "name": "UWindowRightClickMenu",
+      "path": "UWindowRightClickMenu",
+      "super": "UWindowPulldownMenu",
+      "outer": "None",
+      "functions": [
+        "Created",
+        "RMouseDown",
+        "RMouseUp",
+        "CloseUp"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowProgressBar",
+      "path": "UWindowProgressBar",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "SetPercent",
+        "Paint"
+      ],
+      "states": [],
+      "properties": [
+        "Percent"
+      ]
+    },
+    {
+      "name": "UWindowLabelControl",
+      "path": "UWindowLabelControl",
+      "super": "UWindowDialogControl",
+      "outer": "None",
+      "functions": [
+        "Paint",
+        "BeforePaint",
+        "Created"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UWindowHTMLTextArea",
+      "path": "UWindowHTMLTextArea",
+      "super": "UWindowDynamicTextArea",
+      "outer": "None",
+      "functions": [
+        "ReadStyleText",
+        "WriteStyleText",
+        "SetCanvasStyle",
+        "FirstMatching",
+        "GetHexDigit",
+        "ParseColor",
+        "GetTag",
+        "GetOption",
+        "HTMLUpdateStyle",
+        "ProcessInlineHTML",
+        "CalcHTMLTextWidth",
+        "ParseHTML",
+        "AddText",
+        "RemoveNextWord",
+        "GetWrapPos",
+        "RemoveWrap",
+        "SplitRowAt",
+        "DrawTextLine",
+        "WrapRow",
+        "TextAreaClipText",
+        "TextAreaTextSize",
+        "LaunchUnrealURL",
+        "OverURL",
+        "ProcessURL",
+        "Click",
+        "Paint",
+        "BeforePaint",
+        "SetHTML"
+      ],
+      "states": [],
+      "properties": [
+        "BGColor",
+        "TextColor",
+        "bReleased",
+        "bShowBlink",
+        "LastBlinkTime",
+        "ALinkColor",
+        "LinkColor"
+      ]
+    },
+    {
+      "name": "UWindowHSplitter",
+      "path": "UWindowHSplitter",
+      "super": "UWindowWindow",
+      "outer": "None",
+      "functions": [
+        "MouseMove",
+        "LMouseDown",
+        "BeforePaint",
+        "Paint",
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "SplitPos",
+        "RightClientWindow",
+        "LeftClientWindow",
+        "OldWinWidth",
+        "bSizing",
+        "MinWinWidth",
+        "bSizable",
+        "MaxSplitPos",
+        "bRightGrow"
+      ]
+    },
+    {
+      "name": "UWindowHSliderControl",
+      "path": "UWindowHSliderControl",
+      "super": "UWindowDialogControl",
+      "outer": "None",
+      "functions": [
+        "KeyDown",
+        "MouseMove",
+        "LMouseDown",
+        "LMouseUp",
+        "Paint",
+        "BeforePaint",
+        "CheckValue",
+        "SetValue",
+        "GetValue",
+        "SetRange",
+        "Created"
+      ],
+      "states": [],
+      "properties": [
+        "Value",
+        "Step",
+        "MinValue",
+        "SliderDrawX",
+        "SliderWidth",
+        "TrackStart",
+        "TrackWidth",
+        "MaxValue",
+        "SliderDrawY",
+        "bSliding",
+        "bNoSlidingNotify"
+      ]
+    }
+  ],
+  "package": "System\\UWindow.u"
+}

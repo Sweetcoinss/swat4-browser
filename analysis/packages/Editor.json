@@ -1,0 +1,341 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\Editor.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 263,
+  "imports": 45,
+  "exports": 366,
+  "classes": 15,
+  "functions": 36,
+  "states": 0,
+  "properties": 282,
+  "enums": 1,
+  "structs": 1,
+  "consts": 1,
+  "class_list": [
+    {
+      "name": "BrushBuilder",
+      "path": "BrushBuilder",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "Build",
+        "Vertex3f",
+        "Vertexv",
+        "BadParameters",
+        "GetPolyCount",
+        "GetVertex",
+        "GetVertexCount",
+        "EndBrush",
+        "BeginBrush",
+        "Poly3i",
+        "Poly4i",
+        "PolyBegin",
+        "Polyi",
+        "PolyEnd"
+      ],
+      "states": [],
+      "properties": [
+        "MergeCoplanars",
+        "Group",
+        "Polys",
+        "Vertices",
+        "ToolTip",
+        "BitmapFilename"
+      ]
+    },
+    {
+      "name": "MaterialFactory",
+      "path": "MaterialFactory",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "CreateMaterial",
+        "ConsoleCommand"
+      ],
+      "states": [],
+      "properties": [
+        "Description"
+      ]
+    },
+    {
+      "name": "SheetBuilder",
+      "path": "SheetBuilder",
+      "super": "BrushBuilder",
+      "outer": "None",
+      "functions": [
+        "Build"
+      ],
+      "states": [],
+      "properties": [
+        "Height",
+        "Width",
+        "VertBreaks",
+        "HorizBreaks",
+        "Axis",
+        "GroupName"
+      ]
+    },
+    {
+      "name": "VolumetricBuilder",
+      "path": "VolumetricBuilder",
+      "super": "BrushBuilder",
+      "outer": "None",
+      "functions": [
+        "BuildVolumetric",
+        "Build"
+      ],
+      "states": [],
+      "properties": [
+        "NumSheets",
+        "Radius",
+        "Height",
+        "GroupName"
+      ]
+    },
+    {
+      "name": "TetrahedronBuilder",
+      "path": "TetrahedronBuilder",
+      "super": "BrushBuilder",
+      "outer": "None",
+      "functions": [
+        "Extrapolate",
+        "BuildTetrahedron",
+        "Build"
+      ],
+      "states": [],
+      "properties": [
+        "Radius",
+        "SphereExtrapolation",
+        "GroupName"
+      ]
+    },
+    {
+      "name": "TerrainBuilder",
+      "path": "TerrainBuilder",
+      "super": "BrushBuilder",
+      "outer": "None",
+      "functions": [
+        "BuildTerrain",
+        "Build"
+      ],
+      "states": [],
+      "properties": [
+        "Height",
+        "Width",
+        "Breadth",
+        "WidthSegments",
+        "DepthSegments",
+        "GroupName"
+      ]
+    },
+    {
+      "name": "SpiralStairBuilder",
+      "path": "SpiralStairBuilder",
+      "super": "BrushBuilder",
+      "outer": "None",
+      "functions": [
+        "BuildCurvedStair",
+        "Build"
+      ],
+      "states": [],
+      "properties": [
+        "StepHeight",
+        "SlopedFloor",
+        "SlopedCeiling",
+        "InnerRadius",
+        "StepWidth",
+        "StepThickness",
+        "NumStepsPer360",
+        "NumSteps",
+        "CounterClockwise",
+        "GroupName"
+      ]
+    },
+    {
+      "name": "RawMaterialFactory",
+      "path": "RawMaterialFactory",
+      "super": "MaterialFactory",
+      "outer": "None",
+      "functions": [
+        "CreateMaterial"
+      ],
+      "states": [],
+      "properties": [
+        "MaterialClass"
+      ]
+    },
+    {
+      "name": "LinearStairBuilder",
+      "path": "LinearStairBuilder",
+      "super": "BrushBuilder",
+      "outer": "None",
+      "functions": [
+        "Build"
+      ],
+      "states": [],
+      "properties": [
+        "StepHeight",
+        "NumSteps",
+        "StepLength",
+        "StepWidth",
+        "AddToFirstStep",
+        "GroupName"
+      ]
+    },
+    {
+      "name": "EditorEngine",
+      "path": "EditorEngine",
+      "super": "Engine.Engine",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "TexPropSphere",
+        "bFastRebuild",
+        "bBootstrapping",
+        "AutoSaveIndex",
+        "AutoSaveCount",
+        "Mode",
+        "TerrainEditBrush",
+        "ClickFlags",
+        "MovementSpeed",
+        "PackageContext",
+        "AddLocation",
+        "AddPlane",
+        "Tools",
+        "BrowseClass",
+        "ConstraintsVtbl",
+        "GridEnabled",
+        "SnapVertices",
+        "SnapDistance",
+        "GridSize",
+        "RotGridEnabled",
+        "RotGridSize",
+        "UseSizingBox",
+        "UseAxisIndicator",
+        "FovAngleDegrees",
+        "GodMode",
+        "AutoSave",
+        "AutosaveTimeMinutes",
+        "GameCommandLine",
+        "EditPackages",
+        "AlwaysShowTerrain",
+        "UseActorRotationGizmo",
+        "LoadEntirePackageWhenSaving",
+        "RedrawAllViewportsWhenMoving",
+        "MaterialBackdrop",
+        "MaterialArrow",
+        "BadHighlight",
+        "BkgndHi",
+        "Bkgnd",
+        "Bad",
+        "Pad",
+        "Results",
+        "Trans",
+        "CurrentClass",
+        "CurrentMesh",
+        "CurrentStaticMesh",
+        "CurrentTexture",
+        "TempModel",
+        "TexPropCube",
+        "Level"
+      ]
+    },
+    {
+      "name": "CylinderBuilder",
+      "path": "CylinderBuilder",
+      "super": "BrushBuilder",
+      "outer": "None",
+      "functions": [
+        "Build",
+        "BuildCylinder"
+      ],
+      "states": [],
+      "properties": [
+        "Sides",
+        "Height",
+        "OuterRadius",
+        "InnerRadius",
+        "Hollow",
+        "AlignToSide",
+        "GroupName"
+      ]
+    },
+    {
+      "name": "CurvedStairBuilder",
+      "path": "CurvedStairBuilder",
+      "super": "BrushBuilder",
+      "outer": "None",
+      "functions": [
+        "Build",
+        "BuildCurvedStair"
+      ],
+      "states": [],
+      "properties": [
+        "NumSteps",
+        "InnerRadius",
+        "AddToFirstStep",
+        "StepWidth",
+        "AngleOfCurve",
+        "StepHeight",
+        "GroupName",
+        "CounterClockwise"
+      ]
+    },
+    {
+      "name": "CubeBuilder",
+      "path": "CubeBuilder",
+      "super": "BrushBuilder",
+      "outer": "None",
+      "functions": [
+        "Build",
+        "BuildCube"
+      ],
+      "states": [],
+      "properties": [
+        "WallThickness",
+        "Height",
+        "Breadth",
+        "Width",
+        "Tessellated",
+        "Hollow",
+        "GroupName"
+      ]
+    },
+    {
+      "name": "ConeBuilder",
+      "path": "ConeBuilder",
+      "super": "BrushBuilder",
+      "outer": "None",
+      "functions": [
+        "BuildCone",
+        "Build"
+      ],
+      "states": [],
+      "properties": [
+        "Sides",
+        "InnerRadius",
+        "OuterRadius",
+        "Hollow",
+        "Height",
+        "CapHeight",
+        "AlignToSide",
+        "GroupName"
+      ]
+    },
+    {
+      "name": "AnimNotifyProps",
+      "path": "AnimNotifyProps",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "Notify"
+      ]
+    }
+  ],
+  "package": "System\\Editor.u"
+}

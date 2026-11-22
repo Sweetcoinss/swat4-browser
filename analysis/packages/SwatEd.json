@@ -1,0 +1,174 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\SwatEd.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 144,
+  "imports": 33,
+  "exports": 139,
+  "classes": 10,
+  "functions": 0,
+  "states": 0,
+  "properties": 94,
+  "enums": 0,
+  "structs": 7,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "LIPSincControllerProps",
+      "path": "LIPSincControllerProps",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "WBrowserLIPSincPtr"
+      ]
+    },
+    {
+      "name": "LIPSincPrefsProps",
+      "path": "LIPSincPrefsProps",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "WBrowserLIPSincPtr"
+      ]
+    },
+    {
+      "name": "MeshEditProps",
+      "path": "MeshEditProps",
+      "super": "Engine.MeshObject",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "WBrowserAnimationPtr",
+        "Scale",
+        "Translation",
+        "Rotation",
+        "MinVisBound",
+        "MaxVisBound",
+        "VisSphereCenter",
+        "VisSphereRadius",
+        "LODStyle",
+        "DefaultAnimation",
+        "Material",
+        "LOD_Strength",
+        "LODLevels",
+        "SkinTesselationFactor",
+        "TestCollisionRadius",
+        "TestCollisionHeight",
+        "CollisionSpheres",
+        "CollisionBoxes",
+        "CollisionStaticMeshes",
+        "Sockets",
+        "ApplyNewSockets",
+        "ContinuousUpdate",
+        "bImpostorPresent",
+        "SpriteMaterial",
+        "Scale3D",
+        "RelativeRotation",
+        "RelativeLocation",
+        "ImpColor",
+        "ImpSpaceMode",
+        "ImpDrawMode",
+        "ImpLightMode"
+      ]
+    },
+    {
+      "name": "NotifyProperties",
+      "path": "NotifyProperties",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "OldArrayCount",
+        "WBrowserAnimationPtr",
+        "Notifys"
+      ]
+    },
+    {
+      "name": "SequEditProps",
+      "path": "SequEditProps",
+      "super": "Engine.MeshObject",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "WBrowserAnimationPtr",
+        "Rate",
+        "Compression",
+        "ReCompressionMethod",
+        "SequenceName",
+        "Groups"
+      ]
+    },
+    {
+      "name": "SkelPrefsEditProps",
+      "path": "SkelPrefsEditProps",
+      "super": "Engine.MeshObject",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "WBrowserAnimationPtr",
+        "RootZero",
+        "AnimSlomo"
+      ]
+    },
+    {
+      "name": "UnrealEdEngine",
+      "path": "UnrealEdEngine",
+      "super": "Editor.EditorEngine",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "NotifyVtbl",
+        "hWndMain",
+        "MorePad"
+      ]
+    },
+    {
+      "name": "LIPSincAnimProps",
+      "path": "LIPSincAnimProps",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "WBrowserLIPSincPtr",
+        "Sound",
+        "bInterruptible",
+        "BlendOutTime",
+        "BlendInTime"
+      ]
+    },
+    {
+      "name": "AnimEditProps",
+      "path": "AnimEditProps",
+      "super": "Engine.MeshObject",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "WBrowserAnimationPtr",
+        "GlobalCompression",
+        "CompressionMethod"
+      ]
+    },
+    {
+      "name": "AnimBrowserMesh",
+      "path": "AnimBrowserMesh",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "System\\SwatEd.u"
+}

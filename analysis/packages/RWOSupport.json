@@ -1,0 +1,607 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\RWOSupport.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 430,
+  "imports": 110,
+  "exports": 565,
+  "classes": 38,
+  "functions": 80,
+  "states": 2,
+  "properties": 360,
+  "enums": 4,
+  "structs": 3,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "Reaction",
+      "path": "Reaction",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "InternalExecute"
+      ],
+      "states": [],
+      "properties": [
+        "Done",
+        "Event",
+        "OnceOnly"
+      ]
+    },
+    {
+      "name": "ReactiveWorldObject",
+      "path": "ReactiveWorldObject",
+      "super": "Engine.HavokActor",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay",
+        "Trigger",
+        "Destroyed",
+        "RemoveProjectors",
+        "ReactToStingGrenade",
+        "ReactToFlashbangGrenade",
+        "ReactToBumped",
+        "ReactToTriggered",
+        "ReactToDamaged",
+        "TriggerEffectEvent",
+        "OnUsed",
+        "ReactToGrenade",
+        "ReactToUsed",
+        "PostUsed",
+        "CanBeUsedNow",
+        "Timer",
+        "CanBeUsed",
+        "ReactToTimerExpired",
+        "DestroyRWO"
+      ],
+      "states": [],
+      "properties": [
+        "UsedHandlers",
+        "IsConseptuallyBroken",
+        "DamagedHandlers",
+        "BumpedHandlers",
+        "TriggeredHandlers",
+        "GrenadeDetonatedHandlers",
+        "TimerExpiredHandlers",
+        "ShouldReactToTriggeredOnPostBeginPlayInMP",
+        "IgnoreZeroDamage",
+        "UsableNow",
+        "bShouldDestroySelf",
+        "hkJointFriction",
+        "SkeletonPhysicsFile",
+        "useIntrusionDrivenUpdates",
+        "hkCollisionSubpartIgnoreID",
+        "hkCollisionSubpartID",
+        "hkCollisionSystemGroup",
+        "hkCollisionLayer",
+        "hkForceUpright",
+        "hkForceUprightDamping",
+        "hkForceUprightStrength",
+        "hkAngularVel",
+        "hkLinearVel",
+        "hkKeyframed",
+        "hkActive",
+        "hkAngularDamping",
+        "hkLinearDamping",
+        "hkRestitution",
+        "hkFriction",
+        "hkStabilizedInertia",
+        "hkMass",
+        "bClientOnly",
+        "bHighDetailOnly",
+        "TriggerableNow"
+      ]
+    },
+    {
+      "name": "Handler",
+      "path": "Handler",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "DoReactions"
+      ],
+      "states": [],
+      "properties": [
+        "Reactions"
+      ]
+    },
+    {
+      "name": "ScriptedAnimationSet",
+      "path": "ScriptedAnimationSet",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "Initialize",
+        "SelectAnimation"
+      ],
+      "states": [],
+      "properties": [
+        "ScriptedAnimations",
+        "TotalChance",
+        "LoopCount"
+      ]
+    },
+    {
+      "name": "ReactiveStaticMesh",
+      "path": "ReactiveStaticMesh",
+      "super": "ReactiveWorldObject",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Handler_TimerExpired",
+      "path": "Handler_TimerExpired",
+      "super": "Handler",
+      "outer": "None",
+      "functions": [
+        "dispatch",
+        "Handle"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Handler_Bumped",
+      "path": "Handler_Bumped",
+      "super": "Handler",
+      "outer": "None",
+      "functions": [
+        "dispatch",
+        "Handle"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Handler_Damaged",
+      "path": "Handler_Damaged",
+      "super": "Handler",
+      "outer": "None",
+      "functions": [
+        "dispatch",
+        "Handle"
+      ],
+      "states": [],
+      "properties": [
+        "AccumulatedDamage",
+        "minimum",
+        "AccumulateDamage"
+      ]
+    },
+    {
+      "name": "Handler_GrenadeDetonated",
+      "path": "Handler_GrenadeDetonated",
+      "super": "Handler",
+      "outer": "None",
+      "functions": [
+        "dispatch",
+        "Handle"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Handler_Used",
+      "path": "Handler_Used",
+      "super": "Handler",
+      "outer": "None",
+      "functions": [
+        "dispatch",
+        "Handle"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Handler_Triggered",
+      "path": "Handler_Triggered",
+      "super": "Handler",
+      "outer": "None",
+      "functions": [
+        "dispatch",
+        "Handle"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AnimatedMeshAttachmentModel",
+      "path": "AnimatedMeshAttachmentModel",
+      "super": "ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Handler_KarmaImpacted",
+      "path": "Handler_KarmaImpacted",
+      "super": "Handler",
+      "outer": "None",
+      "functions": [
+        "Handle",
+        "dispatch"
+      ],
+      "states": [],
+      "properties": [
+        "MinimumVelocity",
+        "AccumulatedVelocity",
+        "AccumulateVelocity"
+      ]
+    },
+    {
+      "name": "MessageRWOReacted",
+      "path": "MessageRWOReacted",
+      "super": "Engine.Message",
+      "outer": "None",
+      "functions": [
+        "editorDisplay",
+        "construct_NameName"
+      ],
+      "states": [],
+      "properties": [
+        "RWO"
+      ]
+    },
+    {
+      "name": "ReactiveAnimatedMesh",
+      "path": "ReactiveAnimatedMesh",
+      "super": "ReactiveWorldObject",
+      "outer": "None",
+      "functions": [
+        "Trigger",
+        "UnlinkScriptedAnimationSet",
+        "PlayAnimationFromSet",
+        "PlayScriptedSequences",
+        "Destroyed",
+        "PreBeginPlay"
+      ],
+      "states": [
+        "Idling",
+        "Running"
+      ],
+      "properties": [
+        "ScriptedSequence",
+        "AnimatedMeshAttachmentModels",
+        "Idle",
+        "AnimatedMeshAttachments",
+        "PreCreatedAttachments",
+        "ExtraAnimationSets",
+        "WhenDoneDo"
+      ]
+    },
+    {
+      "name": "Reaction_DamageRadius",
+      "path": "Reaction_DamageRadius",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute",
+        "DealDamage",
+        "DealDamageTo"
+      ],
+      "states": [],
+      "properties": [
+        "DamageSource",
+        "DamageTimer",
+        "DamageInstigator",
+        "Radius",
+        "DamagePerInterval",
+        "LastExecuteTime",
+        "DeltCount",
+        "DamageAlternateOrigin",
+        "IntervalTime",
+        "DropOffMode",
+        "Intervals"
+      ]
+    },
+    {
+      "name": "Reaction_ModifyAIMorale",
+      "path": "Reaction_ModifyAIMorale",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "ModifyMoraleOf",
+        "IsOnSpawnerGroupsList",
+        "execute",
+        "ShouldModifyMorale"
+      ],
+      "states": [],
+      "properties": [
+        "SpawnerGroups",
+        "MoraleModicationAmount",
+        "ModificationAIType"
+      ]
+    },
+    {
+      "name": "Reaction_PlayAnimation",
+      "path": "Reaction_PlayAnimation",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "Channel",
+        "TweenTime",
+        "Animation",
+        "Rate",
+        "Mode"
+      ]
+    },
+    {
+      "name": "PopupRWO",
+      "path": "PopupRWO",
+      "super": "ReactiveWorldObject",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay",
+        "TakeHitImpulse"
+      ],
+      "states": [],
+      "properties": [
+        "HingeConstraint",
+        "HingeConstraintLabel"
+      ]
+    },
+    {
+      "name": "DamageRadiusDamageType",
+      "path": "DamageRadiusDamageType",
+      "super": "Engine.DamageCategory",
+      "outer": "None",
+      "functions": [
+        "GetFriendlyName"
+      ],
+      "states": [],
+      "properties": [
+        "FriendlyName"
+      ]
+    },
+    {
+      "name": "Reaction_UseSelf",
+      "path": "Reaction_UseSelf",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Reaction_SetTimer",
+      "path": "Reaction_SetTimer",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "Time",
+        "Loop"
+      ]
+    },
+    {
+      "name": "Reaction_SetCollision",
+      "path": "Reaction_SetCollision",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "BlockActors",
+        "CollideActors",
+        "BlockPlayers"
+      ]
+    },
+    {
+      "name": "Reaction_RunScript",
+      "path": "Reaction_RunScript",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "Script"
+      ]
+    },
+    {
+      "name": "Reaction_KillAllMySounds",
+      "path": "Reaction_KillAllMySounds",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Reaction_ChangeTag",
+      "path": "Reaction_ChangeTag",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "NewTag",
+        "OldTag"
+      ]
+    },
+    {
+      "name": "Reaction_ExitMissionWithConfirmation",
+      "path": "Reaction_ExitMissionWithConfirmation",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Reaction_TriggerSelf",
+      "path": "Reaction_TriggerSelf",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ReactiveKarmaActor",
+      "path": "ReactiveKarmaActor",
+      "super": "ReactiveWorldObject",
+      "outer": "None",
+      "functions": [
+        "PostTakeDamage",
+        "Trigger",
+        "KImpact"
+      ],
+      "states": [],
+      "properties": [
+        "MomentumToKarmaImpulseConversionFactor",
+        "LastImpactTime",
+        "ImpactInterval"
+      ]
+    },
+    {
+      "name": "AnimNotify_ChangeSkinAtIndex",
+      "path": "AnimNotify_ChangeSkinAtIndex",
+      "super": "Engine.AnimNotify_Scripted",
+      "outer": "None",
+      "functions": [
+        "Notify"
+      ],
+      "states": [],
+      "properties": [
+        "Material",
+        "Index"
+      ]
+    },
+    {
+      "name": "Reaction_TriggerEffectEvent",
+      "path": "Reaction_TriggerEffectEvent",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "EffectEvent",
+        "bUnTrigger",
+        "ConsiderStandingOn"
+      ]
+    },
+    {
+      "name": "Reaction_AlertAIs",
+      "path": "Reaction_AlertAIs",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "ShouldAlertAI",
+        "AlertAI",
+        "IsOnSpawnerGroupsList",
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "SpawnerGroups"
+      ]
+    },
+    {
+      "name": "Reaction_TriggerUnrealEvent",
+      "path": "Reaction_TriggerUnrealEvent",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "Event",
+        "bUnTrigger"
+      ]
+    },
+    {
+      "name": "Reaction_Destroy",
+      "path": "Reaction_Destroy",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Reaction_ChangeStaticMesh",
+      "path": "Reaction_ChangeStaticMesh",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "StaticMeshIndex",
+        "StaticMeshes",
+        "BecomeBroken"
+      ]
+    },
+    {
+      "name": "Reaction_ChangeTexture",
+      "path": "Reaction_ChangeTexture",
+      "super": "Reaction",
+      "outer": "None",
+      "functions": [
+        "execute"
+      ],
+      "states": [],
+      "properties": [
+        "MaterialIndex",
+        "Materials",
+        "BecomeBroken",
+        "IndexToChange"
+      ]
+    },
+    {
+      "name": "DeployedTacticalAid",
+      "path": "DeployedTacticalAid",
+      "super": "ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [
+        "IsDeployed"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BreakableWindow",
+      "path": "BreakableWindow",
+      "super": "ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay"
+      ],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "System\\RWOSupport.u"
+}

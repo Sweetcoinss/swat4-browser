@@ -1,0 +1,120 @@
+[FullMetalJacket]
+Description=La munición sólida o FMJ (full metal jacket) es un núcleo de plomo rodeado por una resistente capa metálica. Esta munición está diseñada para una penetración alta. Es mejor utilizarla frente a objetivos blindados, ya que puede penetrar el blindaje y seguir proporcionando poder de detención.
+FriendlyName=FMJ
+
+[MP5SMG_FMJ]
+FriendlyName=FMJ de 9mm
+GUIImage=Texture'gui_tex.ammo_9mm_FMJ'
+
+[JacketedHollowPoint]
+Description=Munición de punta hueca encamisada, caracterizada por su ahuecamiento en su posición final que inicia una expansión uniforme desde la punta de la bala hasta la zona hueca. Esta expansión provoca graves daños internos al objetivo con menor penetración. Esta munición, también conocida como JHP (jacketed hollow point), da mejor resultado frente a objetivos no blindados, ya que provoca un daño máximo con menos posibilidad de penetración que podría alcanzar a objetivos no deseados.
+FriendlyName=JHP
+
+[MP5SMG_JHP]
+FriendlyName=JHP de 9mm
+GUIImage=Texture'gui_tex.ammo_9mm_JHP'
+
+[M4Super90SGAmmo]
+Description=El 00 buck para escopetas ha sido reglamentario en el cumplimiento de la ley durante años. Estos cartuchos contienen 9 perdigones de calibre 00. Los perdigones se esparcen una vez disparados y pueden producir grandes daños a los objetivos no blindados. Son menos efectivos frente a objetivos blindados porque la forma redondeada de los perdigones y su escasa velocidad no les permite penetrar en éstos.
+FriendlyName=00 Buck
+GUIImage=Texture'gui_tex.ammo_00buckshotgun'
+
+[M4Super90SGSabotAmmo]
+Description=Este cartucho de especialidad de calibre 12 está especialmente diseñado para penetrar blindajes. Es una posta con aletas estabilizadoras que contiene un botón penetrador de acero. Aunque es relativamente impreciso, permite a la escopeta ser bastante efectiva frente a objetivos blindados.
+FriendlyName=Calibre 12
+GUIImage=Texture'gui_tex.ammo_sabot'
+
+[M4A1MG_FMJ]
+FriendlyName=.223 FMJ
+GUIImage=Texture'gui_tex.ammo_223cal_FMJ'
+
+[M4A1MG_JHP]
+FriendlyName=.223 JHP
+GUIImage=Texture'gui_tex.ammo_223cal_JHP'
+
+[NovaPumpSGAmmo]
+Description=El 00 buck para escopetas ha sido reglamentario en el cumplimiento de la ley durante años. Estos cartuchos contienen 9 perdigones de calibre 00. Los perdigones se esparcen una vez disparados y pueden producir grandes daños a los objetivos no blindados. Son menos efectivos frente a objetivos blindados porque la forma redondeada de los perdigones y su escasa velocidad no les permite penetrar en éstos.
+FriendlyName=00 Buck
+GUIImage=Texture'gui_tex.ammo_00buckshotgun'
+
+[NovaPumpSGSabotAmmo]
+Description=Este cartucho de especialidad de calibre 12 está especialmente diseñado para penetrar blindajes. Es una posta con aletas estabilizadoras que contiene un botón penetrador de acero. Aunque es relativamente impreciso, permite a la escopeta ser bastante efectiva frente a objetivos blindados.
+FriendlyName=Calibre 12
+GUIImage=Texture'gui_tex.ammo_sabot'
+
+[CSBallLauncherAmmo]
+Description=La munición de bolas de OC consiste en bolas de plástico rígidas rellenas de Oleoresina Capsicum, el ingrediente activo del aerosol de pimienta. Las bolas se rompen al impactar, liberando un agente químico que afecta a cualquier persona que se encuentre en el reducido radio que rodee el lugar de la explosión.
+FriendlyName=Bola de OC
+GUIImage=Texture'gui_tex.ammo_paintball'
+
+[LessLethalAmmo]
+Description=Cartuchos de escopeta no mortal son proyectiles regulares de calibre 00 que están rellenos de pequeños sacos de perdigones. Al disparar los sacos de perdigones, éstos se expanden para provocar un impacto con un gran alcance. Este impacto de fuerza directa provoca grandes daños y derriba al objetivo, incapacitándolo temporalmente.
+FriendlyName=Perdigones
+GUIImage=Texture'gui_tex.ammo_lesslethal'
+
+[AK47MG_FMJ]
+GUIImage=Texture'gui_tex.ammo_762cal_FMJ'
+
+[AK47MG_JHP]
+GUIImage=Texture'gui_tex.ammo_762cal_JHP'
+
+[UZISMG_FMJ]
+GUIImage=Texture'gui_tex.ammo_9mm_FMJ'
+
+[UZISMG_JHP]
+GUIImage=Texture'gui_tex.ammo_9mm_JHP'
+
+[UMP45SMG_FMJ]
+FriendlyName=0,45 FMJ
+GUIImage=Texture'gui_tex.ammo_45cal_FMJ'
+
+[UMP45SMG_JHP]
+FriendlyName=0,45 JHP
+GUIImage=Texture'gui_tex.ammo_45cal_JHP'
+
+[G36kMG_FMJ]
+FriendlyName=.223 FMJ
+GUIImage=Texture'gui_tex.ammo_223cal_FMJ'
+
+[G36kMG_JHP]
+FriendlyName=.223 JHP
+GUIImage=Texture'gui_tex.ammo_223cal_JHP'
+
+[ColtM1911HG_FMJ]
+FriendlyName=0,45 FMJ
+GUIImage=Texture'gui_tex.ammo_45cal_FMJ'
+
+[ColtM1911HG_JHP]
+FriendlyName=0,45 JHP
+GUIImage=Texture'gui_tex.ammo_45cal_JHP'
+
+[TaserAmmo]
+Description=El cartucho de descarga eléctrica consiste en dos sondas que son propulsadas por aire comprimido. Las sondas pueden alcanzar hasta 5 metros de distancia al ser disparadas. Están conectadas al arma por unos cables aislados de alto voltaje. El cartucho debe ser reemplazado después de cada disparo.
+FriendlyName=Cartucho
+GUIImage=Texture'gui_tex.ammo_taser'
+
+[Glock9mmHG_FMJ]
+FriendlyName=FMJ de 9mm
+GUIImage=Texture'gui_tex.ammo_9mm_FMJ'
+
+[Glock9mmHG_JHP]
+FriendlyName=JHP de 9mm
+GUIImage=Texture'gui_tex.ammo_9mm_JHP'
+
+[PythonRevolverHG_FMJ]
+FriendlyName=.357 Mágnum FMJ
+GUIImage=Texture'gui_tex.ammo_357cal_FMJ'
+
+[PythonRevolverHG_JHP]
+FriendlyName=.357 Mágnum JHP
+GUIImage=Texture'gui_tex.ammo_357cal_JHP'
+
+[BreachingShotgunAmmo]
+FriendlyName=Bala de franqueo frangible
+
+[VIPPIstolAmmo_JHP]
+Description=Descripción de munición JHP VIP
+
+[SawedOffSGAmmo]
+FriendlyName=00 perdigón
+

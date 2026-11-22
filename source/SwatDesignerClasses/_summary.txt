@@ -1,0 +1,5 @@
+package=SwatDesignerClasses
+version=129/27
+classes_ok=758
+classes_failed=0
+imports_skipped=39

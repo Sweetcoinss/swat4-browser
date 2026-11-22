@@ -1,0 +1,4 @@
+class PlayerTagInterfaceDoorRelatedContext extends PlayerInterfaceDoorRelatedContext
+	native
+	config(PlayerInterface_PlayerTags)
+	perobjectconfig;

@@ -1,0 +1,18 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\VisualEffectsConfig.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 1148,
+  "imports": 243,
+  "exports": 643,
+  "classes": 0,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [],
+  "package": "System\\VisualEffectsConfig.u"
+}

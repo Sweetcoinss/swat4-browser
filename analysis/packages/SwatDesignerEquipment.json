@@ -1,0 +1,37 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\Classes\\SwatDesignerEquipment.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 12,
+  "imports": 6,
+  "exports": 2,
+  "classes": 2,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "PythonRevolverHG_LowAmmo",
+      "path": "PythonRevolverHG_LowAmmo",
+      "super": "SwatEquipment.PythonRevolverHG",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BerettaM9HG_LowAmmo",
+      "path": "BerettaM9HG_LowAmmo",
+      "super": "SwatEquipment.BerettaM9HG",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "Classes\\SwatDesignerEquipment.u"
+}

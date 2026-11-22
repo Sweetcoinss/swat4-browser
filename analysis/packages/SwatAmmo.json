@@ -1,0 +1,415 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\Classes\\SwatAmmo.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 89,
+  "imports": 26,
+  "exports": 44,
+  "classes": 44,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "FullMetalJacket",
+      "path": "FullMetalJacket",
+      "super": "SwatEquipment.ClipBasedAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JacketedHollowPoint",
+      "path": "JacketedHollowPoint",
+      "super": "SwatEquipment.ClipBasedAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ShotgunSabotAmmo",
+      "path": "ShotgunSabotAmmo",
+      "super": "SwatEquipment.ShotgunAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SawedOffSGAmmo",
+      "path": "SawedOffSGAmmo",
+      "super": "SwatEquipment.ShotgunAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK47MG_FMJ",
+      "path": "AK47MG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BerettaM9HG_FMJ",
+      "path": "BerettaM9HG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PythonRevolverHG_FMJ",
+      "path": "PythonRevolverHG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BerettaM9HG_LowAmmo_FMJ",
+      "path": "BerettaM9HG_LowAmmo_FMJ",
+      "super": "BerettaM9HG_FMJ",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4A1MG_JHP",
+      "path": "M4A1MG_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glock9mmHG_JHP",
+      "path": "Glock9mmHG_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPPIstolAmmo_JHP",
+      "path": "VIPPIstolAmmo_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PepperSprayAmmo",
+      "path": "PepperSprayAmmo",
+      "super": "SwatEquipment.RoundBasedAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BreachingShotgunAmmo",
+      "path": "BreachingShotgunAmmo",
+      "super": "SwatEquipment.FrangibleBreachingAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4Super90SGSabotAmmo",
+      "path": "M4Super90SGSabotAmmo",
+      "super": "ShotgunSabotAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ColtM1911HG_JHP",
+      "path": "ColtM1911HG_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glock9mmHG_FMJ",
+      "path": "Glock9mmHG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UZISMG_FMJ",
+      "path": "UZISMG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ColtM1911HG_FMJ",
+      "path": "ColtM1911HG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MP5SMG_JHP",
+      "path": "MP5SMG_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MP5SMG_FMJ",
+      "path": "MP5SMG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4A1MG_FMJ",
+      "path": "M4A1MG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TaserAmmo",
+      "path": "TaserAmmo",
+      "super": "SwatEquipment.RoundBasedAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPPistolAmmo_FMJ",
+      "path": "VIPPistolAmmo_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NovaPumpSGAmmo",
+      "path": "NovaPumpSGAmmo",
+      "super": "SwatEquipment.ShotgunAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NovaPumpSGSabotAmmo",
+      "path": "NovaPumpSGSabotAmmo",
+      "super": "ShotgunSabotAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "G36kMG_FMJ",
+      "path": "G36kMG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SniperRifle_FMJ",
+      "path": "SniperRifle_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ScorpionHG_FMJ",
+      "path": "ScorpionHG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UMP45SMG_FMJ",
+      "path": "UMP45SMG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSBallLauncherAmmo",
+      "path": "CSBallLauncherAmmo",
+      "super": "SwatEquipment.RoundBasedAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "M4Super90SGAmmo",
+      "path": "M4Super90SGAmmo",
+      "super": "SwatEquipment.ShotgunAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "USP40HG_FMJ",
+      "path": "USP40HG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SniperRifle_JHP",
+      "path": "SniperRifle_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UZISMG_JHP",
+      "path": "UZISMG_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "LessLethalAmmo",
+      "path": "LessLethalAmmo",
+      "super": "SwatEquipment.ShotgunAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PythonRevolverHG_LowAmmo_FMJ",
+      "path": "PythonRevolverHG_LowAmmo_FMJ",
+      "super": "PythonRevolverHG_FMJ",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK47MG_LowAmmo_FMJ",
+      "path": "AK47MG_LowAmmo_FMJ",
+      "super": "AK47MG_FMJ",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AK47MG_JHP",
+      "path": "AK47MG_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SawedOffSGAmmo_LowAmmo",
+      "path": "SawedOffSGAmmo_LowAmmo",
+      "super": "SawedOffSGAmmo",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "IngramHG_FMJ",
+      "path": "IngramHG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HK53SMG_FMJ",
+      "path": "HK53SMG_FMJ",
+      "super": "FullMetalJacket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UMP45SMG_JHP",
+      "path": "UMP45SMG_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "G36kMG_JHP",
+      "path": "G36kMG_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PythonRevolverHG_JHP",
+      "path": "PythonRevolverHG_JHP",
+      "super": "JacketedHollowPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "Classes\\SwatAmmo.u"
+}

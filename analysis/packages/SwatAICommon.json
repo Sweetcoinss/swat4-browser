@@ -1,0 +1,6719 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\SwatAICommon.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 3961,
+  "imports": 272,
+  "exports": 7434,
+  "classes": 312,
+  "functions": 2069,
+  "states": 103,
+  "properties": 4214,
+  "enums": 24,
+  "structs": 6,
+  "consts": 81,
+  "class_list": [
+    {
+      "name": "ISwatAI",
+      "path": "ISwatAI",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "RegisterVisionNotification",
+        "UnregisterVisionNotification",
+        "RegisterHearingNotification",
+        "UnregisterHearingNotification",
+        "DisableVision",
+        "EnableVision",
+        "DisableHearing",
+        "EnableHearing",
+        "isVisible",
+        "SetPendingDoor",
+        "ClearPendingDoor",
+        "ShouldForceOpenLockedDoors",
+        "GetAwareness",
+        "DisableAwareness",
+        "EnableFavorLowThreatPath",
+        "DisableFavorLowThreatPath",
+        "GetKnowledge",
+        "GetCoverFinder",
+        "EnableFavorCoveredPath",
+        "DisableFavorCoveredPath",
+        "FindRunToPoint",
+        "GetViewDirection",
+        "GetViewPoint",
+        "NotifyBecameCompliant",
+        "IssueComplianceTo",
+        "CanIssueComplianceTo",
+        "GetRestrainedHandcuffs",
+        "GetArrester",
+        "IsCompliant",
+        "IsArrested",
+        "IsOtherActorAThreat",
+        "IsAggressive",
+        "GetInitialMorale",
+        "GetTouchingStaircaseAimVolumeAtIndex",
+        "GetNumTouchingStaircaseAimVolumes",
+        "OnUntouchedStaircaseAimVolume",
+        "OnTouchedStaircaseAimVolume",
+        "IsTurning",
+        "CanPawnUseLowReady",
+        "AnimAreAimingChannelsMuted",
+        "AnimSnapBaseToAim",
+        "GetAnimBaseYaw",
+        "GetAimOrientation",
+        "AnimGetAimOrigin",
+        "AnimIsWeaponAimSet",
+        "AnimCanAimAtDesiredRotation",
+        "AnimCanAimAtDesiredActor",
+        "AnimCanAimAtDesiredPoint",
+        "AnimIsAimedAtDesired",
+        "GetMovementUpperBodyAimBehavior",
+        "GetUpperBodyAnimBehavior",
+        "UnsetUpperBodyAnimBehavior",
+        "SetUpperBodyAnimBehavior",
+        "DisableAim",
+        "SetAimUrgency",
+        "GetAimRotation",
+        "UnlockAim",
+        "LockAim",
+        "AimToRotation",
+        "AimAtActor",
+        "AimAtPoint",
+        "DisableRagdoll",
+        "GetRagdollSimulationTimeout",
+        "IsUnderhandThrowTo",
+        "IsUnderhandThrow",
+        "SetThrowSide",
+        "SetGrenadeTargetLocation",
+        "GetThrowAngle",
+        "GetThrowOrigin",
+        "GetThrowOriginOffset",
+        "HasFiredWeaponEquipped",
+        "HasUsableWeapon",
+        "SetWeaponTargetLocation",
+        "SetWeaponTarget",
+        "GetFlinchAnimation",
+        "GetTasedRecoveryAnimation",
+        "GetTasedAffectedAnimation",
+        "GetTasedReactionAnimation",
+        "GetStungRecoveryAnimation",
+        "GetStungAffectedAnimation",
+        "GetStungReactionAnimation",
+        "GetGasRecoveryAnimation",
+        "GetGasAffectedAnimation",
+        "GetGasReactionAnimation",
+        "GetFBRecoveryAnimation",
+        "GetFBAffectedAnimation",
+        "GetFBReactionAnimation",
+        "SwapInCompliantAnimSet",
+        "SwapInRestrainedAnimSet",
+        "GetTimeToWaitBetweenFiring",
+        "GetDefaultAIFireModeForWeapon",
+        "LatentAITriggerEffectEvent",
+        "ShouldPlayFullBodyHitAnimation",
+        "AnimPlayEquipment",
+        "AnimPlayQuickHit",
+        "AnimStopQuickHit",
+        "GetUpperBodyBone",
+        "AnimSetIdle",
+        "AnimStopEquipment",
+        "AnimStopSpecial",
+        "AnimGetQuickHitChannel",
+        "AnimGetSpecialChannel",
+        "GetIdleCategory",
+        "SetIdleCategory",
+        "ChooseIdle",
+        "IsIdleCurrent",
+        "GetSpeechManagerAction",
+        "GetCommanderAction",
+        "IsRelevantToPlayerOrOfficers",
+        "SetIsCompliant",
+        "IsIntenseInjury"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ISwatOfficer",
+      "path": "ISwatOfficer",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "GetOfficerCommanderAction",
+        "GetOfficerSpeechManagerAction",
+        "PlayTurnAwayAnimation",
+        "GetThrownWeapon",
+        "GetItemAtSlot",
+        "GetPrimaryWeapon",
+        "GetBackupWeapon",
+        "ReEquipFiredWeapon",
+        "InstantReEquipFiredWeapon",
+        "HasTaser",
+        "SetDoorToBlowC2On",
+        "GetCurrentFormation",
+        "SetCurrentFormation",
+        "ClearFormation"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ISwatDoor",
+      "path": "ISwatDoor",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "IsOpen",
+        "IsOpenLeft",
+        "IsBroken",
+        "IsLocked",
+        "IsWedged",
+        "IsChargePlacedOnLeft",
+        "IsChargePlacedOnRight",
+        "GetOpenPositions",
+        "IsOfficerAtSideOpenPoint",
+        "GetCenterOpenPoint",
+        "GetSidesOpenRotation",
+        "GetClosePoint",
+        "GetBreachFromPoint",
+        "GetBreachAimPoint",
+        "GetOpenAnimation",
+        "GetCloseAnimation",
+        "GetTryDoorAnimation",
+        "GetLastInteractor",
+        "GetPendingInteractor",
+        "SetPendingInteractor",
+        "IsBlockedFor",
+        "WasBlockedBy",
+        "GetStackupPoints",
+        "GetClearPoints",
+        "PointIsToMyLeft",
+        "ActorIsToMyLeft",
+        "GetSkeletalRegionCenter",
+        "GetLeftRoomName",
+        "GetRightRoomName",
+        "Breached",
+        "Blasted",
+        "OnUnlocked",
+        "OnWedged",
+        "OnUnwedged",
+        "GetDeployedWedge",
+        "CanBeLocked",
+        "Lock",
+        "RegisterInterestedInDoorOpening",
+        "UnRegisterInterestedInDoorOpening",
+        "GetMoveAndClearPauseThreshold",
+        "WasDoorInitiallyOpen",
+        "GetPlacedThrowPoint",
+        "GetAdditionalGrenadeThrowDistance",
+        "GetDoorModels"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MoveToActorGoal",
+      "path": "MoveToActorGoal",
+      "super": "MoveToGoalBase",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceIntActor",
+        "GetDestinationActor",
+        "GetDestination",
+        "SetDestinationActor"
+      ],
+      "states": [],
+      "properties": [
+        "m_destination"
+      ]
+    },
+    {
+      "name": "ISwatEnemy",
+      "path": "ISwatEnemy",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "SpawnedFromGroup",
+        "ThrowWeaponDown",
+        "DropAllWeapons",
+        "GetBackupWeapon",
+        "GetPrimaryWeapon",
+        "BecomeAThreat",
+        "IsAThreat",
+        "GetEnemySpeechManagerAction",
+        "GetEnemyCommanderAction",
+        "StopSprinting",
+        "StartSprinting",
+        "GetEnemySkill",
+        "BecomeAware",
+        "SetCurrentState",
+        "GetCurrentState",
+        "IsAnInvestigator"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SwatAIRepository",
+      "path": "SwatAIRepository",
+      "super": "Engine.AIRepository",
+      "outer": "None",
+      "functions": [
+        "PreBeginPlay",
+        "PostBeginPlay",
+        "CreateCharacterTypesList",
+        "GetVoiceTypeForCharacterType",
+        "IsAFemaleCharacterType",
+        "VerifyVoiceTypeExists",
+        "VerifyCharacterTypeExists",
+        "CreateHive",
+        "GetHive",
+        "CreateOfficerSquads",
+        "GetElementSquad",
+        "GetRedSquad",
+        "GetBlueSquad",
+        "IsOfficerMovingAndClearing",
+        "UpdateDoorKnowledgeForOfficers",
+        "NotifyOfficersDoorLocked",
+        "NotifyOfficersDoorWedged",
+        "NotifyOfficersDoorWedgeRemoved",
+        "NotifyOfficersDoorCanOpen",
+        "CreateIdleActionClassesList",
+        "GetIdleActions",
+        "CreateInitialReactionClassesList",
+        "GetInitialReactions",
+        "IsEnemyHostageConversationActive",
+        "ActivateEnemyHostageConversation",
+        "DeactivateEnemyHostageConversation",
+        "SetNavigationPointListForRoom",
+        "GetRoomNavigationPoints",
+        "AddNavigationPointToRoomList",
+        "DoesRoomHaveAny",
+        "GetRoomNavigationPointsOfType",
+        "GetClosestNavigationPointInRoom",
+        "FindRandomPointInRoom",
+        "FindUnclaimedFleePointInRoom",
+        "GetNavigationPointsInRoomThatCanHitPoint",
+        "GetClosestRoomNameToPoint",
+        "ReleaseNavigationPointList",
+        "GetNewNavigationPointList",
+        "FindClosestNavigationPointTo",
+        "FindAllOfNavigationPointClass",
+        "FindClosestOfNavigationPointClass",
+        "DoesRoomContainAIs",
+        "GetClosestUncompliantViewableAIInRoom"
+      ],
+      "states": [],
+      "properties": [
+        "CharacterTypes",
+        "RedSquad",
+        "BlueSquad",
+        "CurrentEnemyInHostageConversation",
+        "ElementSquad",
+        "HiveMind",
+        "InitialReactions",
+        "idleActions",
+        "RoomNavigationPoints"
+      ]
+    },
+    {
+      "name": "RotateTowardRotationGoal",
+      "path": "RotateTowardRotationGoal",
+      "super": "Tyrion.AI_MovementGoal",
+      "outer": "None",
+      "functions": [
+        "Construct_AI_ResourceIntRotator"
+      ],
+      "states": [],
+      "properties": [
+        "DesiredRotation"
+      ]
+    },
+    {
+      "name": "MoveToLocationGoal",
+      "path": "MoveToLocationGoal",
+      "super": "MoveToGoalBase",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceIntVector",
+        "GetDestination"
+      ],
+      "states": [],
+      "properties": [
+        "m_destination"
+      ]
+    },
+    {
+      "name": "OfficerSpeechManagerAction",
+      "path": "OfficerSpeechManagerAction",
+      "super": "CharacterSpeechManagerAction",
+      "outer": "None",
+      "functions": [
+        "TriggerOfficerDownSpeech",
+        "TriggerLeadDownSpeech",
+        "TriggerReactedFirstShotSpeech",
+        "TriggerReactedSecondShotSpeech",
+        "TriggerReactedThirdShotSpeech",
+        "TriggerSuspectSpottedSpeech",
+        "TriggerSuspectDownSpeech",
+        "TriggerSuspectFleeingSpeech",
+        "TriggerSuspectWontComplySpeech",
+        "TriggerHostageSpottedSpeech",
+        "TriggerHostageDownSpeech",
+        "TriggerHostageWontComplySpeech",
+        "TriggerClearAnnouncement",
+        "TriggerComplySpeech",
+        "TriggerComplyWithGunSpeech",
+        "TriggerWedgePlacedSpeech",
+        "TriggerWedgeRemovedSpeech",
+        "TriggerWedgeNotFoundSpeech",
+        "TriggerDeployingToolkitSpeech",
+        "TriggerDeployingTaserSpeech",
+        "TriggerFinishedLockPickSpeech",
+        "TriggerReportDoorLockedSpeech",
+        "TriggerReportDoorWedgedSpeech",
+        "TriggerReportDoorOpenSpeech",
+        "TriggerReachedStackUpSpeech",
+        "TriggerStartedClearingSpeech",
+        "TriggerReportedThresholdClearSpeech",
+        "TriggerReportedContinuingClear2Plus",
+        "TriggerReportedContinuingClear2Minus",
+        "TriggerReportedDeployingShotgunSpeech",
+        "TriggerReportedDeployingC2Speech",
+        "TriggerDoorNotClosedSpeech",
+        "TriggerDoorIsAlreadyWedgedSpeech",
+        "TriggerLessLethalShotgunUnavailableSpeech",
+        "TriggerDeployingPepperBallSpeech",
+        "TriggerPepperBallUnavailableSpeech",
+        "TriggerWedgeUnavailableSpeech",
+        "TriggerFlashbangUnavailableSpeech",
+        "TriggerGasUnavailableSpeech",
+        "TriggerStingUnavailableSpeech",
+        "TriggerTaserUnavailableSpeech",
+        "TriggerC2UnavailableSpeech",
+        "TriggerDoorBreachingEquipmentUnavailableSpeech",
+        "TriggerToolkitUnavailableSpeech",
+        "TriggerShotgunUnavailableSpeech",
+        "TriggerPepperSprayUnavailableSpeech",
+        "TriggerMirrorUnavailableSpeech",
+        "TriggerReportedSuspectSecuredSpeech",
+        "TriggerReportedHostageSecuredSpeech",
+        "TriggerCompletedMoveToSpeech",
+        "TriggerRepliedMoveToSpeech",
+        "TriggerRepliedFallInSpeech",
+        "TriggerCompletedFallInSpeech",
+        "TriggerStillCoveringSpeech",
+        "TriggerEvidenceSecuredSpeech",
+        "TriggerEvidenceNotFoundSpeech",
+        "TriggerWeaponSecuredSpeech",
+        "TriggerWeaponNotFoundSpeech",
+        "TriggerReassureAggressiveHostageSpeech",
+        "TriggerReassurePassiveHostageSpeech",
+        "TriggerArrestedSuspectSpeech",
+        "TriggerArrestedReportSpeech",
+        "TriggerOptiwandReportSpeech",
+        "TriggerMoveUpBangsSpeech",
+        "TriggerMoveUpGasSpeech",
+        "TriggerMoveUpStingSpeech",
+        "TriggerMoveUpBreachSGSpeech",
+        "TriggerMoveUpC2Speech",
+        "TriggerGenericMoveUpSpeech",
+        "TriggerRepliedDisablingSpeech",
+        "TriggerReportedBombDisabledSpeech",
+        "TriggerReportedTrapDisabledSpeech",
+        "TriggerReportedGenericDisabledSpeech",
+        "TriggerGenericOrderReplySpeech",
+        "TriggerBusyEngagingSpeech",
+        "TriggerLostTargetSpeech",
+        "TriggerTargetCompliantSpeech",
+        "TriggerCouldntBreachLockedDoorSpeech",
+        "TriggerPlayerInTheWaySpeech",
+        "TriggerPlayerBlockingDoorSpeech",
+        "TriggerCharacterBlockingDoorSpeech",
+        "TriggerCouldntCompleteMoveSpeech",
+        "TriggerCantDeployThrownSpeech",
+        "TriggerRedTeamNeedsOrdersSpeech",
+        "TriggerBlueTeamNeedsOrdersSpeech",
+        "TriggerOtherTeamOnItSpeech",
+        "TriggerCoveringTargetSpeech",
+        "TriggerElementReportedSpeech",
+        "TriggerRedTeamReportedSpeech",
+        "TriggerBlueTeamReportedSpeech"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AttackTargetGoal",
+      "path": "AttackTargetGoal",
+      "super": "SwatWeaponGoal",
+      "outer": "None",
+      "functions": [
+        "SetOrderedToAttackTarget",
+        "SetHavePerfectAim",
+        "SetChanceToSucceedAfterFiring",
+        "construct_AI_ResourceIntActor",
+        "construct_AI_ResourceActor",
+        "construct_AI_Resource"
+      ],
+      "states": [],
+      "properties": [
+        "Target",
+        "TargetPawn",
+        "bOrderedToAttackTarget",
+        "bHavePerfectAim",
+        "ChanceToSucceedAfterFiring"
+      ]
+    },
+    {
+      "name": "SwatCharacterAction",
+      "path": "SwatCharacterAction",
+      "super": "Tyrion.AI_CharacterAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "SleepInitialDelayTime",
+        "EnableSenses",
+        "DisableSenses",
+        "SetPawn"
+      ],
+      "states": [],
+      "properties": [
+        "m_pawn",
+        "Level",
+        "MaxInitialDelayTime",
+        "MinInitialDelayTime"
+      ]
+    },
+    {
+      "name": "AimAroundGoal",
+      "path": "AimAroundGoal",
+      "super": "SwatWeaponGoal",
+      "outer": "None",
+      "functions": [
+        "SetPointTooCloseRadius",
+        "SetAimFovDegrees",
+        "SetAimAtPointTime",
+        "SetAimOuterFovDegrees",
+        "SetAimInnerFovDegrees",
+        "SetExtraDoorWeight",
+        "SetOnlyAimIfMoving",
+        "SetDoOnce",
+        "SetAimWeapon",
+        "construct_AI_ResourceFloatFloat",
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": [
+        "DefaultMinAimAtPointTime",
+        "DefaultMaxAimAtPointTime",
+        "DefaultOuterFovDegrees",
+        "DefaultInnerFovDegrees",
+        "MaxAimAtPointTime",
+        "MinAimAtPointTime",
+        "DefaultMaxWaitForNewPointTime",
+        "DefaultMinWaitForNewPointTime",
+        "PointTooCloseRadius",
+        "AimOuterFovDot",
+        "AimInnerFovDot",
+        "bAimWeapon",
+        "ExtraDoorWeight",
+        "bOnlyAimIfMoving",
+        "bDoOnce",
+        "MaxWaitForNewPointTime",
+        "MinWaitForNewPointTime",
+        "MaxInitialDelayTime",
+        "MinInitialDelayTime",
+        "bInitialDelay",
+        "UpperBodyAnimBehaviorClientId",
+        "bAimOnlyIfCharacterResourcesAvailable",
+        "bUseUpperBodyProcedurally"
+      ]
+    },
+    {
+      "name": "SwatCharacterGoal",
+      "path": "SwatCharacterGoal",
+      "super": "Tyrion.AI_CharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AimAtTargetGoal",
+      "path": "AimAtTargetGoal",
+      "super": "SwatWeaponGoal",
+      "outer": "None",
+      "functions": [
+        "SetMinDistanceToTargetToAim",
+        "SetHoldAimTime_FloatFloat",
+        "SetHoldAimTime_Float",
+        "SetHoldAimTime",
+        "SetAimWeapon",
+        "SetShouldFinishOnSuccess",
+        "SetAimOnlyWhenCanHitTarget",
+        "construct_AI_ResourceIntActor",
+        "construct_AI_ResourceActor",
+        "construct_AI_Resource"
+      ],
+      "states": [],
+      "properties": [
+        "Target",
+        "MinDistanceToTargetToAim",
+        "HoldAimTime",
+        "bHoldAimForPeriodOfTime",
+        "bAimWeapon",
+        "bShouldFinishOnSuccess",
+        "bOnlyWhenCanHitTarget"
+      ]
+    },
+    {
+      "name": "MoveToOpponentGoal",
+      "path": "MoveToOpponentGoal",
+      "super": "MoveToActorGoal",
+      "outer": "None",
+      "functions": [
+        "SetStopWhenSuccessful"
+      ],
+      "states": [],
+      "properties": [
+        "bStopWhenSuccessful"
+      ]
+    },
+    {
+      "name": "StackupPoint",
+      "path": "StackupPoint",
+      "super": "BaseDoorPoint",
+      "outer": "None",
+      "functions": [
+        "ClearClaims",
+        "SetClaimedByOfficer",
+        "IsClaimedByOfficer"
+      ],
+      "states": [],
+      "properties": [
+        "OfficerClaimer",
+        "ThrowSide",
+        "CanThrowFromPoint",
+        "BlockedOpenRight",
+        "BlockedOpenLeft",
+        "StackupPathToDoor",
+        "AlternatePriority",
+        "StackupPointIcons"
+      ]
+    },
+    {
+      "name": "SquadCommandGoal",
+      "path": "SquadCommandGoal",
+      "super": "OfficerSquadGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVector",
+        "IsInteractingWith",
+        "GetDoorBeingUsed",
+        "CopyAdditionalPropertiesFromTemplate",
+        "SetHasBeenCopied",
+        "ShouldRepostElementGoalOnSubElementSquad"
+      ],
+      "states": [],
+      "properties": [
+        "CommandGiver",
+        "CommandOrigin",
+        "bHasBeenCopied",
+        "bRepostElementGoalOnSubElementSquad"
+      ]
+    },
+    {
+      "name": "MoveToDoorGoal",
+      "path": "MoveToDoorGoal",
+      "super": "MoveToGoalBase",
+      "outer": "None",
+      "functions": [
+        "SetPreferSides",
+        "GetDestination",
+        "construct_AI_ResourceIntDoor",
+        "construct_AI_ResourceDoor",
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": [
+        "DoorUsageSide",
+        "DoorUsageRotation",
+        "TargetDoor",
+        "bPreferSides"
+      ]
+    },
+    {
+      "name": "Hive",
+      "path": "Hive",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "Construct_Void",
+        "GetNumOfficers",
+        "GetOfficer",
+        "GetClosestOfficerTo",
+        "GetClosestOfficerThatCanHit",
+        "GetAwareness",
+        "DisableAwareness",
+        "EnableAwareness",
+        "AddOfficerToHiveAwareness",
+        "RemoveOfficerFromHiveAwareness",
+        "CheckUpdateOfficerAssignmentsForEnemy",
+        "NotifyEnemyBecameThreat",
+        "NotifyEnemyStunned",
+        "NotifyEnemyFleeing",
+        "NotifyAIBecameCompliant",
+        "NotifyCompliantAIFinishedComplying",
+        "NotifyAIBecameRestrained",
+        "RemoveWatchedAI",
+        "AddWatchedAI",
+        "FindCompliantTargetToWatch",
+        "FindRestrainedTargetToWatch",
+        "FindTargetToWatchForOfficer",
+        "NotifyAIDied",
+        "NotifyOfficerConstructed",
+        "NotifyOfficerDestroyed",
+        "NotifyOfficerDied",
+        "NotifyPlayerDied",
+        "IsPawnWithinDistanceOfOfficers",
+        "IsActorWithinDistanceOfOfficers",
+        "RequestNewEngagingPointForOfficer",
+        "ClearEngagingPointForOfficer",
+        "SetEngagingPointForOfficer",
+        "FindEngagingPointForOfficerInRoom",
+        "OfficerSawPawn",
+        "OfficerLostPawn",
+        "HasTurnedOnPlayer",
+        "NotifyOfficerShotByPlayer",
+        "TriggerAppropriateSpeechForRogueLead",
+        "PlayerCrossedDamageThreshold",
+        "FinishedAssignment",
+        "NotifyAIIgnoringOfficers",
+        "NotifyOfficersOfTarget",
+        "OfficerSawHostage",
+        "OfficerSawEnemy",
+        "ClearCommandGoalsForOfficer",
+        "IsOfficerBreaching",
+        "IsOfficerDeployingNonLethal",
+        "IsOfficerClearingIntoRoom",
+        "CanAssignOfficerToTarget",
+        "CanAssignAnyOfficerToTarget",
+        "UpdateOfficerAssignments",
+        "AssignOfficer",
+        "ClearOfficerEngagements"
+      ],
+      "states": [],
+      "properties": [
+        "SwatAIRepo",
+        "Blackboard",
+        "HiveAwarenessPawns",
+        "HiveAwareness",
+        "CurrentPlayerDamage",
+        "MaxWatchTargetDistance",
+        "bTriggeredSecondShotReaction",
+        "bTriggeredFirstShotReaction",
+        "PlayerDamageThreshold",
+        "bAwarenessDisabled",
+        "AwarenessCounter",
+        "CachedEngagements",
+        "bTriggeredThirdShotReaction",
+        "ThreateningUncompliantAssignments",
+        "NonThreateningUncompliantAssignments"
+      ]
+    },
+    {
+      "name": "RotateTowardActorGoal",
+      "path": "RotateTowardActorGoal",
+      "super": "Tyrion.AI_MovementGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceIntActor"
+      ],
+      "states": [],
+      "properties": [
+        "ActorToRotateToward"
+      ]
+    },
+    {
+      "name": "ElementSquadInfo",
+      "path": "ElementSquadInfo",
+      "super": "OfficerTeamInfo",
+      "outer": "None",
+      "functions": [
+        "TriggerTeamReportedSpeech",
+        "TriggerTargetCompliantSpeech",
+        "TriggerReactedThirdShotSpeech",
+        "TriggerReactedSecondShotSpeech",
+        "TriggerReactedFirstShotSpeech",
+        "TriggerHostageWontComplySpeech",
+        "TriggerSuspectWontComplySpeech",
+        "TriggerLeadDownSpeech",
+        "TriggerOfficerDownSpeech",
+        "TriggerHostageDownSpeech",
+        "TriggerSuspectDownSpeech",
+        "TriggerEnemyFleeingSpeech",
+        "CanSpeak",
+        "CreateCommandGoalFromTemplate",
+        "RemoveCommandGoalsFor",
+        "UnpostCommandGoals",
+        "GetElementSpeechManagerAction",
+        "Destroyed",
+        "PostSpeechManagerGoal",
+        "InitAbilities",
+        "PostBeginPlay"
+      ],
+      "states": [],
+      "properties": [
+        "ElementSpeechManagerGoal",
+        "ElementSpeechManager"
+      ]
+    },
+    {
+      "name": "DistanceSensor",
+      "path": "DistanceSensor",
+      "super": "Tyrion.AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "IsWithinRequiredDistance",
+        "SetWithinSensorValue",
+        "SetOutsideSensorValue",
+        "UpdateTarget",
+        "PostSetParameters",
+        "setParameters_FloatVectorBool",
+        "setParameters_FloatActorBool",
+        "setParameters",
+        "SetCollisionHeightMultiplier",
+        "SetIgnoreHeightDistance",
+        "SetUseNavigationDistance",
+        "SetRequiredDistance",
+        "GetTargetOrigin",
+        "ResetTargetActor",
+        "ResetRequiredDistance",
+        "NotifyOutsideRequiredDistance",
+        "NotifyWithinRequiredDistance"
+      ],
+      "states": [],
+      "properties": [
+        "RequiredDistance",
+        "TargetActor",
+        "bInitialTest",
+        "TargetLocation",
+        "DistanceSensorUpdateRate",
+        "bWithinRequiredDistance",
+        "__UpdateTarget__Delegate",
+        "CollisionHeightMultiplier",
+        "bIgnoreHeightDistance",
+        "bUseNavigationDistance"
+      ]
+    },
+    {
+      "name": "CloseDoorGoal",
+      "path": "CloseDoorGoal",
+      "super": "MoveToDoorGoal",
+      "outer": "None",
+      "functions": [
+        "SetCloseDoorFromLeft",
+        "SetCloseDoorFromBehind"
+      ],
+      "states": [],
+      "properties": [
+        "CloseDoorFromBehind",
+        "CloseDoorFromLeft"
+      ]
+    },
+    {
+      "name": "OfficerTeamInfo",
+      "path": "OfficerTeamInfo",
+      "super": "AICommon.SquadInfo",
+      "outer": "None",
+      "functions": [
+        "Destroyed",
+        "TriggerTeamReportedSpeech",
+        "PostBeginPlay",
+        "InitAbilities",
+        "UnpostCommandGoals",
+        "IsSubElement",
+        "DeployPepperBallGun",
+        "DeployLessLethalShotgun",
+        "DeployShotgun",
+        "DisableTarget",
+        "DeployPepperSpray",
+        "DeployTaser",
+        "MirrorCorner",
+        "MirrorUnderDoor",
+        "MirrorRoom",
+        "InternalMirrorRoom",
+        "Cover",
+        "MoveTo",
+        "SecureEvidence",
+        "Restrain",
+        "Secure",
+        "CloseDoor",
+        "DeployC2",
+        "RemoveWedge",
+        "DeployWedge",
+        "PickLock",
+        "DeployThrownItemAt",
+        "BreachStingAndClear",
+        "BreachGasAndClear",
+        "BreachBangAndClear",
+        "BreachAndClear",
+        "StingAndClear",
+        "GasAndClear",
+        "BangAndClear",
+        "MoveAndClear",
+        "StackUpAndTryDoorAt",
+        "StackUpAt",
+        "FallIn",
+        "IsTeamInteractingWith",
+        "IsOtherSubElementInteractingWith",
+        "IsFallingIn",
+        "IsOtherSubElementFallingIn",
+        "GetDoorBeingUsed",
+        "IsOtherSubElementUsingDoor",
+        "GetOtherTeam",
+        "IsExecutingCommandGoal",
+        "ClearNonCharacterInteractionCommandGoal",
+        "ClearCommandGoal",
+        "InternalPostCommandGoal",
+        "PostCommandGoal",
+        "CanMirror",
+        "CanDisable",
+        "CanDeployWedge",
+        "CanDeployPepperBallGun",
+        "CanDeployLessLethalShotgun",
+        "CanDeployTaser",
+        "CanDeployPepperSpray",
+        "CanDeployC2",
+        "CanDeployShotgun",
+        "CanDeployThrownItem",
+        "CanStingAndClear",
+        "CanGasAndClear",
+        "CanBangAndClear",
+        "CanBreachStingAndClear",
+        "CanBreachGasAndClear",
+        "CanBreachBangAndClear",
+        "CanBreachAndClear",
+        "CanBreachAndClearLockedDoor",
+        "CanPickLock",
+        "DoesAnOfficerHaveUsableEquipment",
+        "TriggerOtherTeamDoingBehaviorSpeech",
+        "TriggerBusyEngagingSpeech",
+        "AreOfficersBusyEngaging",
+        "CanExecuteCommand",
+        "hasActiveMembers",
+        "GetClosestOfficerWithEquipment",
+        "GetClosestOfficerThatCanHit",
+        "GetClosestOfficerTo",
+        "GetClosestOfficerWithEquipmentTo",
+        "GetSecondOfficer",
+        "GetFirstOfficer",
+        "GetRoomNameToClear",
+        "IsMovingAndClearing",
+        "IsOfficerOnTeam",
+        "GetSquadAI"
+      ],
+      "states": [],
+      "properties": [
+        "CurrentSquadCommandGoal",
+        "SwatAIRepo"
+      ]
+    },
+    {
+      "name": "ISwatPawn",
+      "path": "ISwatPawn",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "DoesBelieveDoorLocked",
+        "DoesBelieveDoorWedged",
+        "SetDoorLockedBelief",
+        "SetDoorWedgedBelief",
+        "IsFlashbanged",
+        "IsGassed",
+        "IsPepperSprayed",
+        "IsStung",
+        "IsTased"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RotateTowardPointGoal",
+      "path": "RotateTowardPointGoal",
+      "super": "Tyrion.AI_MovementGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceIntVector"
+      ],
+      "states": [],
+      "properties": [
+        "PointToRotateToward"
+      ]
+    },
+    {
+      "name": "IdleDefinition",
+      "path": "IdleDefinition",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "IdleWeaponStatus",
+        "IdleTime",
+        "CharacterIdlePosition",
+        "IdleCharacterAggression",
+        "Weight",
+        "IdleCategory",
+        "IdleCharacterType"
+      ]
+    },
+    {
+      "name": "StackUpGoal",
+      "path": "StackUpGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "construct_AI_ResourceStackupPoint",
+        "SetStackUpPoint",
+        "SetRunToStackupPoint"
+      ],
+      "states": [],
+      "properties": [
+        "StackupPoint",
+        "bRunToStackupPoint"
+      ]
+    },
+    {
+      "name": "EngageOfficerGoal",
+      "path": "EngageOfficerGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HiveBlackboard",
+      "path": "HiveBlackboard",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "UpdateHostage",
+        "UpdateEnemy",
+        "HasAIBeenEncountered",
+        "MakePlayerEnemy",
+        "IsACompliantAI",
+        "AddCompliantAI",
+        "RemoveCompliantAI",
+        "ValidateRestrainedAIs",
+        "IsARestrainedAI",
+        "AddRestrainedAI",
+        "RemoveRestrainedAI",
+        "AddWatchedAI",
+        "RemoveWatchedAI",
+        "IsAIBeingWatched",
+        "AddAssignedTarget",
+        "AreAnyAssignedTargetsThreatening",
+        "RemoveAssignedTarget",
+        "IsAnAssignedTarget"
+      ],
+      "states": [],
+      "properties": [
+        "RestrainedAIs",
+        "AssignedTargets",
+        "CompliantAIs",
+        "AIsBeingWatched",
+        "PlayerEnemy",
+        "EncounteredEnemies",
+        "EncounteredHostages",
+        "EngagingPointMap"
+      ]
+    },
+    {
+      "name": "VisionSensor",
+      "path": "VisionSensor",
+      "super": "Tyrion.AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "OnViewerSawPawn",
+        "OnViewerLostPawn",
+        "Begin",
+        "cleanup",
+        "IsCurrentlySeen",
+        "GetVisibleConsciousPawnClosestTo"
+      ],
+      "states": [],
+      "properties": [
+        "pawns",
+        "LastPawnSeen",
+        "LastPawnLost",
+        "LastLostPawnLocation",
+        "LastTimeSeen",
+        "LastTimeLost"
+      ]
+    },
+    {
+      "name": "OfficerSquadAction",
+      "path": "OfficerSquadAction",
+      "super": "Tyrion.AI_SquadAction",
+      "outer": "None",
+      "functions": [
+        "NotifyPawnDied",
+        "GetFirstOfficer",
+        "GetSecondOfficer",
+        "GetClosestOfficerWithEquipment",
+        "GetClosestOfficerTo",
+        "DoesAnOfficerHaveUsableEquipment",
+        "GetClosestOfficerWithEquipmentTo",
+        "PawnDied"
+      ],
+      "states": [],
+      "properties": [
+        "CommandOrigin",
+        "CommandGiver",
+        "bHasBeenCopied"
+      ]
+    },
+    {
+      "name": "CommanderAction",
+      "path": "CommanderAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "NotifyDoorBlocked",
+        "RemoveNonDeathGoals",
+        "initAction",
+        "cleanup",
+        "goalNotAchievedCB",
+        "NotifyBecameCompliant",
+        "WillReactToGrenadeBeingThrown",
+        "GetStunnedByC2DetonationMoraleModification",
+        "GetTasedMoraleModification",
+        "GetStungMoraleModification",
+        "GetPepperSprayedMoraleModification",
+        "GetGassedMoraleModification",
+        "GetFlashbangedMoraleModification",
+        "OnHeardNoise",
+        "OnPawnLostVisionNotification",
+        "OnPawnEncounteredVisionNotification",
+        "FindBetterEnemy",
+        "NotifyDoorWedged",
+        "ShouldScream",
+        "GetShotMoraleModification",
+        "DisableSensingSystems",
+        "PostComplianceCheck",
+        "ShouldRemoveFailedPatrolGoal",
+        "OnThreatened",
+        "PreComplianceCheck",
+        "NotifyTookHit",
+        "ShouldRunWhenFlashBanged",
+        "ShouldRunWhenGassed",
+        "ShouldRunWhenPepperSprayed",
+        "ShouldRunWhenStung",
+        "ShouldRunWhenTased",
+        "ShouldRunWhenStunnedByC2",
+        "SetSpecificDebugInfo",
+        "SetDebugBlackboardInfo",
+        "SetDebugMoraleHistoryInfo",
+        "NotifyDoorLocked",
+        "MoveMinimumDistanceAwayFromLocation",
+        "MoveToActor",
+        "CanMoveToActor",
+        "NotifyBlockingDoorOpen",
+        "NotifyBlockingDoorClose",
+        "AimAtTarget",
+        "RotateToRotation",
+        "RotateToFace",
+        "GetMoraleHistoryEntrySummary",
+        "GetMoraleHistoryCount",
+        "ChangeMorale",
+        "GetCurrentMorale",
+        "NotifyGrenadeThrown",
+        "NotifyStung",
+        "NotifyStunnedByC2Detonation",
+        "NotifyTased",
+        "IsAffectedByPepperSpray",
+        "NotifyPepperSprayed",
+        "NotifyGassed",
+        "NotifyFlashbanged",
+        "PlayFlinch",
+        "TriggerScreamSpeech",
+        "Scream",
+        "OnSkeletalRegionHit",
+        "RemoveGoalsToDie",
+        "RemoveIdleGoal",
+        "BecomeIncapacitated",
+        "StartPatrolling",
+        "ResetIdling",
+        "IsRestrainedGoalRunning",
+        "NotifyRestrained",
+        "NotifyArrestInterrupted",
+        "NotifyBeginArrest",
+        "RemoveComplianceGoal",
+        "PostComplianceGoal",
+        "IsListeningForCompliance",
+        "IsIgnoringComplianceOrders",
+        "OnComplianceIssued",
+        "HasLineOfSightToDoor",
+        "OnNoLongerThreatened",
+        "OnSensorMessage",
+        "IsDeadlyNoise",
+        "goalAchievedCB",
+        "FindIdleGoal",
+        "InitializeMorale",
+        "ActivateComplySensor",
+        "ActivateThreatenedSensor",
+        "ActivateHearingSensor",
+        "ActivateVisionSensor"
+      ],
+      "states": [],
+      "properties": [
+        "VisionSensor",
+        "CurrentPatrolGoal",
+        "CurrentRestrainedGoal",
+        "CurrentMoveToActorGoal",
+        "CurrentPepperSprayedGoal",
+        "CurrentAimAtTargetGoal",
+        "CurrentReactToBeingShotGoal",
+        "CurrentRotateTowardRotationGoal",
+        "CurrentFlashbangedGoal",
+        "CurrentRotateTowardActorGoal",
+        "CurrentGassedGoal",
+        "CurrentTasedGoal",
+        "CurrentStungGoal",
+        "CurrentAvoidLocationGoal",
+        "CurrentStunnedByC2Goal",
+        "CurrentComplianceGoal",
+        "HearingSensor",
+        "CurrentIncapacitatedGoal",
+        "CurrentIdleGoal",
+        "ScreamTimer",
+        "ThreatenedSensor",
+        "ComplySensor",
+        "MoraleHistory",
+        "CurrentMorale",
+        "bListeningForCompliance",
+        "MinReactToGunshotDistance",
+        "bStartIncapacitated",
+        "ComplianceOrdersIgnored",
+        "Patrol",
+        "StartIncapacitateIdleCategoryOverride",
+        "MaxMorale",
+        "MinScreamTime",
+        "MaxScreamTime",
+        "MaxComplianceOrdersToIgnore"
+      ]
+    },
+    {
+      "name": "FleePoint",
+      "path": "FleePoint",
+      "super": "Engine.PathNode",
+      "outer": "None",
+      "functions": [
+        "ClaimPoint",
+        "GetFleePointUser",
+        "UnclaimPoint"
+      ],
+      "states": [],
+      "properties": [
+        "FleePointUser",
+        "ShouldCrouchAtPoint"
+      ]
+    },
+    {
+      "name": "MoveToGoalBase",
+      "path": "MoveToGoalBase",
+      "super": "Tyrion.AI_MovementGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt",
+        "ShouldStopMovingDelegate",
+        "ShouldWalkDelegate",
+        "SetShouldSucceedWhenDestinationBlocked",
+        "SetUseNavigationDistanceOnSensor",
+        "SetShouldWalk",
+        "SetShouldWalkEntireMove",
+        "SetWalkThresholdTarget",
+        "SetWalkThreshold",
+        "SetOpenDoorsFrantically",
+        "SetUseCoveredPaths",
+        "SetMoveToThreshold",
+        "SetShouldCrouch",
+        "SetAllowDirectMoveFailure",
+        "SetShouldNotCloseInitiallyOpenDoors",
+        "SetShouldCloseOpenedDoors",
+        "SetAcceptNearbyPath",
+        "SetRotateTowardsPointsDuringMovement",
+        "SetRotateTowardsFirstPoint",
+        "ShouldWalkEntireMove"
+      ],
+      "states": [],
+      "properties": [
+        "__ShouldStopMovingDelegate__Delegate",
+        "bShouldWalkEntireMove",
+        "bShouldWalk",
+        "__ShouldWalkDelegate__Delegate",
+        "MoveToThreshold",
+        "WalkThreshold",
+        "bShouldNotCloseInitiallyOpenDoors",
+        "bAllowDirectMoveFailure",
+        "bUseCoveredPaths",
+        "bOpenDoorsFrantically",
+        "bUseNavigationDistanceOnSensor",
+        "bShouldSucceedWhenDestinationBlocked",
+        "bAcceptNearbyPath",
+        "WalkThresholdTarget",
+        "bRotateTowardsPointsDuringMovement",
+        "bRotateTowardsFirstPoint",
+        "bShouldCrouch",
+        "bShouldCloseOpenedDoors"
+      ]
+    },
+    {
+      "name": "OpenDoorGoal",
+      "path": "OpenDoorGoal",
+      "super": "MoveToDoorGoal",
+      "outer": "None",
+      "functions": [
+        "SetOpenFrantically",
+        "WasOpenedFromSide"
+      ],
+      "states": [],
+      "properties": [
+        "bOpenFrantically",
+        "bOpenedFromSide"
+      ]
+    },
+    {
+      "name": "OfficerCommandGoal",
+      "path": "OfficerCommandGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Formation",
+      "path": "Formation",
+      "super": "Core.RefCount",
+      "outer": "None",
+      "functions": [
+        "Construct_Void",
+        "construct_Pawn",
+        "cleanup",
+        "SpawnReorderTimer",
+        "CleanupTimer",
+        "GetOrderedMember",
+        "IsMemberOutsidePathfindingDistance",
+        "HasFormationMemberSizeChanged",
+        "HasFormationLocationsChanged",
+        "ReorderMembers",
+        "GetPawnInFront",
+        "GetDestinationForMember",
+        "AddMember",
+        "AddMembers",
+        "RemoveMember",
+        "ClearMembers",
+        "GetFormationIndexForMember",
+        "GetOrderedIndexForMember",
+        "IsInFormation",
+        "SetLeader",
+        "GetLeader",
+        "IsLeader"
+      ],
+      "states": [],
+      "properties": [
+        "FormationMembers",
+        "OrderedMembers",
+        "Leader",
+        "ReorderTimer",
+        "CachedOrderedMembersLocations",
+        "CachedLeaderLocation",
+        "ReorderTime"
+      ]
+    },
+    {
+      "name": "ThrowGrenadeGoal",
+      "path": "ThrowGrenadeGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt",
+        "construct_AI_ResourceVectorVectorByteBool",
+        "SetThrowRotation",
+        "SetThrowSide",
+        "SetWaitToThrowGrenade",
+        "RegisterForGrenadeThrowing",
+        "NotifyThrowGrenade"
+      ],
+      "states": [],
+      "properties": [
+        "bWaitToThrowGrenade",
+        "TargetLocation",
+        "ThrowFromLocation",
+        "GrenadeSlot",
+        "ThrowSide",
+        "ThrowRotation",
+        "ThrowRotationOverridden",
+        "ThrowClient"
+      ]
+    },
+    {
+      "name": "InitialReactionGoal",
+      "path": "InitialReactionGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawn"
+      ],
+      "states": [],
+      "properties": [
+        "StimuliPawn"
+      ]
+    },
+    {
+      "name": "TargetSensor",
+      "path": "TargetSensor",
+      "super": "Tyrion.AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "NotifyCanHitTarget",
+        "NotifyCannotHitTarget",
+        "setParameters"
+      ],
+      "states": [],
+      "properties": [
+        "Target",
+        "bCanHitTarget",
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "ClearPoint",
+      "path": "ClearPoint",
+      "super": "BaseDoorPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "ClearRoutePoints",
+        "ClearPathColors",
+        "ClearPathLocations",
+        "ClearPointIcons"
+      ]
+    },
+    {
+      "name": "SwatWeaponAction",
+      "path": "SwatWeaponAction",
+      "super": "Tyrion.AI_WeaponAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "LatentAimAtActor",
+        "UpdateThreatToTarget",
+        "LatentAimAtPoint",
+        "AimAtActor",
+        "AimAtPoint",
+        "SwitchWeapons",
+        "GetBackupWeapon",
+        "ShootWeaponAt",
+        "IsAThreatBasedOnAim",
+        "AimAndHoldAtPoint",
+        "HasWeaponEquipped",
+        "GetOffsetAngleForEnemy",
+        "GetSkillLevelAimErrorOffset",
+        "GetAimSpot"
+      ],
+      "states": [],
+      "properties": [
+        "m_pawn",
+        "Level"
+      ]
+    },
+    {
+      "name": "SquadSecureGoal",
+      "path": "SquadSecureGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "CopyAdditionalPropertiesFromTemplate",
+        "AddSecureTarget",
+        "GetNumSecureTargets",
+        "GetSecureTarget",
+        "RemoveSecureTarget",
+        "IsASecureTarget",
+        "ValidateSecureTargets",
+        "IsInteractingWith"
+      ],
+      "states": [],
+      "properties": [
+        "SecureTargets"
+      ]
+    },
+    {
+      "name": "EnemyCommanderAction",
+      "path": "EnemyCommanderAction",
+      "super": "CommanderAction",
+      "outer": "None",
+      "functions": [
+        "SetSpecificDebugInfo",
+        "GetEnemySkillName",
+        "GetEnemyStateName",
+        "GetStimuliResponseTypeName",
+        "FinishedMovingEngageBehavior",
+        "FinishedEngagingEnemies",
+        "FindBetterEnemy",
+        "GetBetterEnemy",
+        "RespondToSeeingEnemy",
+        "SetHasFledWithoutUsableWeapon",
+        "HasFledWithoutUsableWeapon",
+        "NotifyDoorBlocked",
+        "NotifyDoorWedged",
+        "RemoveSuspiciousGoals",
+        "CreateBarricadeGoal",
+        "CreateInvestigateGoal",
+        "InterruptCurrentEngagement",
+        "EngageCurrentEnemy",
+        "ReactInitiallyToEnemy",
+        "ShouldDoInitialReaction",
+        "GetInitialReactionChance",
+        "NotifyTookHit",
+        "SetCurrentEnemy",
+        "EncounterEnemy",
+        "ShouldEncounterEnemy",
+        "ShouldEncounterNewEnemy",
+        "IsThreateningHostage",
+        "IsRunningAway",
+        "IsTakingCover",
+        "WillReactToGrenadeBeingThrown",
+        "GetSkillSpecificReactToThrownGrenadeChance",
+        "NotifyBecameCompliant",
+        "PostComplianceCheck",
+        "PreComplianceCheck",
+        "CheckIfSurprisedByEnemy",
+        "WasSurprised",
+        "GetSkillSpecificSurpriseComplianceModification",
+        "ShouldScream",
+        "GetScreamChance",
+        "HandleFootstepNoise",
+        "BecomeSuspicious",
+        "OnHeardNoise",
+        "DoWeKnowAboutPawn",
+        "DoesSoundCauseUsToKnowAboutPawn",
+        "LostPawnTimerTriggered",
+        "DeactivateLostPawnTimer",
+        "ActivateLostPawnTimer",
+        "OnPawnLostVisionNotification",
+        "OnPawnEncounteredVisionNotification",
+        "DisableSensingSystems",
+        "CheckOutOfUsableWeapons",
+        "GetOutOfWeaponsMoraleModification",
+        "NotifyNearbyEnemyKilled",
+        "GetNearbyEnemyKilledMoraleModification",
+        "NotifyKilledOfficer",
+        "GetKilledOfficerMoraleModification",
+        "NotifyWeaponDropped",
+        "GetWeaponDroppedMoraleModification",
+        "GetShotMoraleModification",
+        "GetStunnedByC2DetonationMoraleModification",
+        "GetTasedMoraleModification",
+        "GetStungMoraleModification",
+        "GetPepperSprayedMoraleModification",
+        "GetGassedMoraleModification",
+        "GetFlashbangedMoraleModification",
+        "SetupHostageConversing",
+        "GetCurrentEnemy",
+        "ShouldRemoveFailedPatrolGoal",
+        "goalNotAchievedCB",
+        "RemoveNonDeathGoals",
+        "cleanup",
+        "initAction"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentEngageOfficerGoal",
+        "CurrentEnemy",
+        "CurrentInitialReactionGoal",
+        "CurrentInvestigateGoal",
+        "CurrentBarricadeGoal",
+        "CurrentConverseWithHostagesGoal",
+        "LostPawnTimer",
+        "bIgnoreCurrentEnemy",
+        "BlockedDoorCount",
+        "bWasSurprised",
+        "bHasHadInitialReactionChance",
+        "OldEnemy",
+        "bReceivedUsableWeaponsMoralePenalty",
+        "bHasFledWithoutUsableWeapon",
+        "LastBlockedDoor",
+        "SurprisedComplianceDotProduct",
+        "MaxBlockedDoorCount",
+        "LowSkillInitialReactionChance",
+        "MediumSkillInitialReactionChance",
+        "HighSkillInitialReactionChance",
+        "MinDistanceToOfficersToDoInitialReaction",
+        "LowSkillScreamChance",
+        "MediumSkillScreamChance",
+        "HighSkillScreamChance",
+        "SurprisedComplianceAngle",
+        "MaxSurprisedComplianceDistance",
+        "LowSkillSurprisedComplianceMoraleModification",
+        "MediumSkillSurprisedComplianceMoraleModification",
+        "HighSkillSurprisedComplianceMoraleModification",
+        "LowSkillWeaponDroppedMoraleModification",
+        "MediumSkillWeaponDroppedMoraleModification",
+        "HighSkillWeaponDroppedMoraleModification",
+        "LowSkillFlashbangedMoraleModification",
+        "MediumSkillFlashbangedMoraleModification",
+        "HighSkillFlashbangedMoraleModification",
+        "LowSkillGassedMoraleModification",
+        "MediumSkillGassedMoraleModification",
+        "HighSkillGassedMoraleModification",
+        "LowSkillPepperSprayedMoraleModification",
+        "MediumSkillPepperSprayedMoraleModification",
+        "HighSkillPepperSprayedMoraleModification",
+        "LowSkillStungMoraleModification",
+        "MediumSkillStungMoraleModification",
+        "HighSkillStungMoraleModification",
+        "LowSkillTasedMoraleModification",
+        "MediumSkillTasedMoraleModification",
+        "HighSkillTasedMoraleModification",
+        "LowSkillStunnedByC2MoraleModification",
+        "MediumSkillStunnedByC2MoraleModification",
+        "HighSkillStunnedByC2MoraleModification",
+        "LowSkillShotMoraleModification",
+        "MediumSkillShotMoraleModification",
+        "HighSkillShotMoraleModification",
+        "LowSkillKilledOfficerMoraleModification",
+        "MediumSkillKilledOfficerMoraleModification",
+        "HighSkillKilledOfficerMoraleModification",
+        "LowSkillNearbyEnemyKilledMoraleModification",
+        "MediumSkillNearbyEnemyKilledMoraleModification",
+        "HighSkillNearbyEnemyKilledMoraleModification",
+        "LowSkillOutOfUsableWeaponsMoraleModification",
+        "MediumSkillOutOfUsableWeaponsMoraleModification",
+        "HighSkillOutOfUsableWeaponsMoraleModification",
+        "DeltaDistanceToSwitchEnemies",
+        "LowSkillReactToThrownGrenadeChance",
+        "MediumSkillReactToThrownGrenadeChance",
+        "HighSkillReactToThrownGrenadeChance",
+        "MinLostPawnDeltaTime",
+        "MaxLostPawnDeltaTime"
+      ]
+    },
+    {
+      "name": "SquadMoveAndClearGoal",
+      "path": "SquadMoveAndClearGoal",
+      "super": "SquadStackUpGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorDoorBool",
+        "GetRoomNameToClear"
+      ],
+      "states": [],
+      "properties": [
+        "RoomNameToClear"
+      ]
+    },
+    {
+      "name": "DistanceToOfficersSensor",
+      "path": "DistanceToOfficersSensor",
+      "super": "DistanceSensor",
+      "outer": "None",
+      "functions": [
+        "setParameters_FloatBool",
+        "IsWithinRequiredDistance"
+      ],
+      "states": [],
+      "properties": [
+        "bRequiresLineOfSight"
+      ]
+    },
+    {
+      "name": "CharacterSpeechManagerAction",
+      "path": "CharacterSpeechManagerAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "TriggerScreamSpeech",
+        "TriggerBeanBagSpeech",
+        "TriggerStingSpeech",
+        "TriggerStunnedByC2Speech",
+        "TriggerTasedSpeech",
+        "TriggerPepperSprayedSpeech",
+        "TriggerFlashbangedSpeech",
+        "TriggerGassedSpeech",
+        "TriggerIntenseInjuredSpeech",
+        "TriggerNormalInjuredSpeech",
+        "TriggerDiedSpeech",
+        "TriggerIncapacitatedSpeech",
+        "TriggerHitByDoorSpeech",
+        "TriggerRestrainedSpeech",
+        "TriggerCompliantSpeech",
+        "ClearEventQueue",
+        "DebugTriggerSpeech",
+        "TriggerSpeech"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "EventQueue",
+        "bInterrupted"
+      ]
+    },
+    {
+      "name": "MoveInFormationGoal",
+      "path": "MoveInFormationGoal",
+      "super": "MoveToActorGoal",
+      "outer": "None",
+      "functions": [
+        "SetMoveToThresholds",
+        "SetWalkThresholds"
+      ],
+      "states": [],
+      "properties": [
+        "OuterWalkThreshold",
+        "InnerWalkThreshold",
+        "OuterMoveToThreshold",
+        "InnerMoveToThreshold"
+      ]
+    },
+    {
+      "name": "SquadStackUpGoal",
+      "path": "SquadStackUpGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorDoorBool",
+        "GetDoorBeingUsed"
+      ],
+      "states": [],
+      "properties": [
+        "TargetDoor",
+        "bTriggerCouldntBreachLockedSpeech"
+      ]
+    },
+    {
+      "name": "BarricadeGoal",
+      "path": "BarricadeGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceVectorBoolBool"
+      ],
+      "states": [],
+      "properties": [
+        "bCanCloseDoors",
+        "bDelayBarricade",
+        "StimuliOrigin"
+      ]
+    },
+    {
+      "name": "UseBreachingChargeGoal",
+      "path": "UseBreachingChargeGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt",
+        "construct_AI_ResourceDoorNavigationPoint",
+        "SetInterestedInDetonatorEquippingClient"
+      ],
+      "states": [],
+      "properties": [
+        "TargetDoor",
+        "SafeLocation",
+        "InterestedInDetonatorEquippingClient"
+      ]
+    },
+    {
+      "name": "DoorSideSensor",
+      "path": "DoorSideSensor",
+      "super": "Tyrion.AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "setParameters",
+        "cleanup",
+        "NotifyTargetOnSide"
+      ],
+      "states": [],
+      "properties": [
+        "Target",
+        "Door",
+        "bNotifyOnLeftSide"
+      ]
+    },
+    {
+      "name": "UseOptiwandGoal",
+      "path": "UseOptiwandGoal",
+      "super": "SwatWeaponGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceVector",
+        "SetOverloadedViewOrigin",
+        "SetMirrorAroundCorner"
+      ],
+      "states": [],
+      "properties": [
+        "bUseOverloadedViewOrigin",
+        "OverloadedViewOrigin",
+        "bMirrorAroundCorner",
+        "OptiwandViewDirection"
+      ]
+    },
+    {
+      "name": "CommonSensorAction",
+      "path": "CommonSensorAction",
+      "super": "Tyrion.AI_SensorCharacterAction",
+      "outer": "None",
+      "functions": [
+        "GetComplySensor",
+        "GetHearingSensor",
+        "GetVisionSensor",
+        "cleanup",
+        "setupSensors"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "VisionSensor",
+        "HearingSensor",
+        "ComplySensor",
+        "DoorOpeningSensor"
+      ]
+    },
+    {
+      "name": "ThreatenedSensor",
+      "path": "ThreatenedSensor",
+      "super": "Tyrion.AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "NotifyThreatened",
+        "NotifyNoLongerThreatened"
+      ],
+      "states": [],
+      "properties": [
+        "ThreatenedBy"
+      ]
+    },
+    {
+      "name": "MoveAndClearGoal",
+      "path": "MoveAndClearGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "construct_AI_ResourceClearPointVectorBool"
+      ],
+      "states": [],
+      "properties": [
+        "bShouldAnnounceClear",
+        "TargetClearPoint",
+        "CommandOrigin"
+      ]
+    },
+    {
+      "name": "UseBreachingShotgunGoal",
+      "path": "UseBreachingShotgunGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt",
+        "construct_AI_ResourceDoorNavigationPoint"
+      ],
+      "states": [],
+      "properties": [
+        "TargetDoor",
+        "PostBreachPoint"
+      ]
+    },
+    {
+      "name": "SwatWeaponGoal",
+      "path": "SwatWeaponGoal",
+      "super": "Tyrion.AI_WeaponGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HearingSensor",
+      "path": "HearingSensor",
+      "super": "Tyrion.AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "WillListenToSound",
+        "OnListenerHeardNoise",
+        "Begin",
+        "cleanup",
+        "DebugHearingSensorToLog"
+      ],
+      "states": [],
+      "properties": [
+        "LastSoundMaker",
+        "LastSoundHeardOrigin",
+        "LastSoundHeardCategory",
+        "LastSoundHeardTime"
+      ]
+    },
+    {
+      "name": "InvestigateGoal",
+      "path": "InvestigateGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceVectorBool"
+      ],
+      "states": [],
+      "properties": [
+        "bShouldWalkToInvestigate",
+        "InvestigateLocation"
+      ]
+    },
+    {
+      "name": "SquadStackUpAction",
+      "path": "SquadStackUpAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "NotifyPawnDied",
+        "selectionHeuristic",
+        "ShouldFirstOfficerBeStackedUp",
+        "ShouldRunToStackupPoint",
+        "SwapOfficerRoles",
+        "ClearOutStackUpGoals",
+        "ClearOutStackedUpGoals",
+        "ClearStackupPointClaims",
+        "GetFirstOfficer",
+        "GetSecondOfficer",
+        "GetThirdOfficer",
+        "GetFourthOfficer",
+        "GetStackupPointForOrderedOfficer",
+        "GetStackupPointIndexForOrderedOfficer",
+        "PickLock",
+        "StackUpOfficer",
+        "PopulateUnorderedOfficers",
+        "GetNumberLivingOfficersInSquad",
+        "DeflateWeightByCloserUnorderedOfficersTo",
+        "IsPositionedOnWrongSideOfDoor",
+        "DetermineOfficerStackupPoints",
+        "GetStackupWeightForOfficer",
+        "GetUnorderedOfficerIndex",
+        "IsOfficerOrdered",
+        "SetOrderedStackUpPointForOfficer",
+        "PostStackUpGoalOnOfficer",
+        "PopulateStackUpPoints",
+        "IsOfficerAtSideOpenPoint",
+        "TestForAlreadyStackedUpOfficers",
+        "AreOfficersAlreadyStackedUp",
+        "CanInteractWithTargetDoor",
+        "IsDoorOpenTowardsStackupSide",
+        "NeedsToStackUp",
+        "TriggerOrderedToStackUpReplySpeech",
+        "StackUpSquad",
+        "InternalStackUpSquad",
+        "PostStackedUpGoal",
+        "SwapStackUpPositions",
+        "RemoveStackedUpGoalOnOfficer",
+        "TriggerCompletedSpeech",
+        "IsC2ChargeDeployedOnThisSideOfDoor",
+        "GetC2BreachingOfficer",
+        "MoveUpC2Breacher",
+        "MoveUpShotgunBreacher",
+        "MoveUpBreacher"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "TargetDoor",
+        "OfficersInStackUpOrder",
+        "StackUpPoints",
+        "UnorderedOfficers",
+        "StackedUpGoals",
+        "StackUpGoals",
+        "CurrentPickLockGoal",
+        "CurrentStackUpGoal",
+        "MatchedOfficersToStackupPoints",
+        "CurrentCloseDoorGoal",
+        "bTriggerCouldntBreachLockedSpeech"
+      ]
+    },
+    {
+      "name": "SecureEvidenceGoal",
+      "path": "SecureEvidenceGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceIEvidence"
+      ],
+      "states": [],
+      "properties": [
+        "EvidenceTarget"
+      ]
+    },
+    {
+      "name": "RestrainAndReportGoal",
+      "path": "RestrainAndReportGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawn"
+      ],
+      "states": [],
+      "properties": [
+        "CompliantTarget"
+      ]
+    },
+    {
+      "name": "PepperSprayedGoal",
+      "path": "PepperSprayedGoal",
+      "super": "StunnedGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CompliantSensor",
+      "path": "CompliantSensor",
+      "super": "Tyrion.AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "setParameters",
+        "cleanup",
+        "NotifyFailed",
+        "NotifyTargetCompliant"
+      ],
+      "states": [],
+      "properties": [
+        "Target"
+      ]
+    },
+    {
+      "name": "RemoveWedgeGoal",
+      "path": "RemoveWedgeGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "construct_AI_ResourceDoor"
+      ],
+      "states": [],
+      "properties": [
+        "TargetDoor"
+      ]
+    },
+    {
+      "name": "RestrainedGoal",
+      "path": "RestrainedGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawn"
+      ],
+      "states": [],
+      "properties": [
+        "Restrainer"
+      ]
+    },
+    {
+      "name": "ISwatAICharacter",
+      "path": "ISwatAICharacter",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "SetDesiredAIEquipment",
+        "SetCanBeArrested",
+        "IsFemale",
+        "ForceUpdateAwareness"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StunnedGoal",
+      "path": "StunnedGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceVectorFloat",
+        "construct_AI_Resource"
+      ],
+      "states": [],
+      "properties": [
+        "bShouldRunFromStunningDevice",
+        "bPlayedReaction",
+        "StunnedDuration",
+        "StunningDeviceLocation"
+      ]
+    },
+    {
+      "name": "ElementSpeechManagerAction",
+      "path": "ElementSpeechManagerAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "TriggerTargetCompliantSpeech",
+        "TriggerReactedThirdShotSpeech",
+        "TriggerReactedSecondShotSpeech",
+        "TriggerReactedFirstShotSpeech",
+        "TriggerHostageWontComplySpeech",
+        "TriggerSuspectWontComplySpeech",
+        "TriggerLeadDownSpeech",
+        "TriggerOfficerDownSpeech",
+        "TriggerHostageDownSpeech",
+        "TriggerSuspectDownSpeech",
+        "TriggerEnemyFleeingSpeech",
+        "GetClosestOfficerToOfficer"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AimAtPointGoal",
+      "path": "AimAtPointGoal",
+      "super": "SwatWeaponGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceIntVector",
+        "construct_AI_ResourceVector",
+        "construct_AI_Resource"
+      ],
+      "states": [],
+      "properties": [
+        "Point"
+      ]
+    },
+    {
+      "name": "ComplianceGoal",
+      "path": "ComplianceGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "SetHasCompliedAlready",
+        "HasCompliedAlready",
+        "SetCanBeArrested",
+        "CanBeArrested"
+      ],
+      "states": [],
+      "properties": [
+        "bCanBeArrested",
+        "bHasCompliedAlready"
+      ]
+    },
+    {
+      "name": "RedSquadInfo",
+      "path": "RedSquadInfo",
+      "super": "ColoredSquadInfo",
+      "outer": "None",
+      "functions": [
+        "TriggerSquadSpecificNeedOrdersSpeech",
+        "TriggerTeamReportedSpeech"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PatrolGoal",
+      "path": "PatrolGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePatrolList"
+      ],
+      "states": [],
+      "properties": [
+        "Patrol"
+      ]
+    },
+    {
+      "name": "AttackEnemyGoal",
+      "path": "AttackEnemyGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawn"
+      ],
+      "states": [],
+      "properties": [
+        "Enemy"
+      ]
+    },
+    {
+      "name": "MoveOfficerToEngageGoal",
+      "path": "MoveOfficerToEngageGoal",
+      "super": "MoveToOpponentGoal",
+      "outer": "None",
+      "functions": [
+        "Construct_AI_ResourceIntPawn"
+      ],
+      "states": [],
+      "properties": [
+        "Opponent"
+      ]
+    },
+    {
+      "name": "TasedGoal",
+      "path": "TasedGoal",
+      "super": "StunnedGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StungGoal",
+      "path": "StungGoal",
+      "super": "StunnedGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceActorVectorFloat"
+      ],
+      "states": [],
+      "properties": [
+        "stingGrenade"
+      ]
+    },
+    {
+      "name": "FlashbangedGoal",
+      "path": "FlashbangedGoal",
+      "super": "StunnedGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GassedGoal",
+      "path": "GassedGoal",
+      "super": "StunnedGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SwatCharacterResource",
+      "path": "SwatCharacterResource",
+      "super": "Tyrion.AI_CharacterResource",
+      "outer": "None",
+      "functions": [
+        "Init",
+        "cleanup"
+      ],
+      "states": [],
+      "properties": [
+        "CommonSensorAction",
+        "ThreatenedSensorAction",
+        "CompliantSensorAction",
+        "TargetSensorAction",
+        "DistanceSensorAction",
+        "DistanceToOfficersSensorAction",
+        "DistanceToUncomplaintCharactersSensorAction",
+        "ArrestedSensorAction",
+        "DoorSideSensorAction"
+      ]
+    },
+    {
+      "name": "ArrestedSensor",
+      "path": "ArrestedSensor",
+      "super": "Tyrion.AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "setParameters",
+        "cleanup",
+        "NotifyTargetArrested"
+      ],
+      "states": [],
+      "properties": [
+        "Target"
+      ]
+    },
+    {
+      "name": "InitialReactionDefinition",
+      "path": "InitialReactionDefinition",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "CanUseInitialReactionDefinition",
+        "CanUseInitialReactionBasedOnType",
+        "CanUseInitialReactionBasedOnPosition",
+        "CanUseInitialReactionBasedOnStimuliPosition"
+      ],
+      "states": [],
+      "properties": [
+        "ReactionPosition",
+        "StimuliPosition",
+        "ReactionCharacterTypes",
+        "AnimationTweenTime",
+        "AnimationName"
+      ]
+    },
+    {
+      "name": "StunnedByC2Goal",
+      "path": "StunnedByC2Goal",
+      "super": "StunnedGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StackedUpGoal",
+      "path": "StackedUpGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "construct_AI_ResourceStackupPoint",
+        "GetStackUpPoint"
+      ],
+      "states": [],
+      "properties": [
+        "StackupPoint"
+      ]
+    },
+    {
+      "name": "ISwatHostage",
+      "path": "ISwatHostage",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "GetHostageCommanderAction",
+        "GetHostageSpeechManagerAction",
+        "SpawnedFromGroup",
+        "GetCurrentState",
+        "SetCurrentState"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "EngageForComplianceGoal",
+      "path": "EngageForComplianceGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawn"
+      ],
+      "states": [],
+      "properties": [
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "ReactToBeingShotGoal",
+      "path": "ReactToBeingShotGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceByteVectorVector"
+      ],
+      "states": [],
+      "properties": [
+        "RegionHit",
+        "HitNormal",
+        "HitLocation"
+      ]
+    },
+    {
+      "name": "AvoidLocationGoal",
+      "path": "AvoidLocationGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceIntVector",
+        "construct_AI_ResourceVector",
+        "construct_AI_Resource"
+      ],
+      "states": [],
+      "properties": [
+        "AvoidLocation"
+      ]
+    },
+    {
+      "name": "HostageReactionToOfficersGoal",
+      "path": "HostageReactionToOfficersGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnBool"
+      ],
+      "states": [],
+      "properties": [
+        "bWasInDanger",
+        "Officer"
+      ]
+    },
+    {
+      "name": "CowerGoal",
+      "path": "CowerGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MoveToAttackOfficerGoal",
+      "path": "MoveToAttackOfficerGoal",
+      "super": "MoveToOpponentGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ConverseWithHostagesGoal",
+      "path": "ConverseWithHostagesGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ColoredSquadInfo",
+      "path": "ColoredSquadInfo",
+      "super": "OfficerTeamInfo",
+      "outer": "None",
+      "functions": [
+        "TriggerSquadSpecificNeedOrdersSpeech",
+        "InternalTriggerNeedOrdersSpeech",
+        "TriggerNeedOrdersSpeech",
+        "IsSubElement",
+        "UnpostCommandGoals",
+        "DestroyNeedOrdersTimer",
+        "Destroyed"
+      ],
+      "states": [],
+      "properties": [
+        "NeedOrdersTimer",
+        "NeedOrdersTriggerTimeDelta"
+      ]
+    },
+    {
+      "name": "BlueSquadInfo",
+      "path": "BlueSquadInfo",
+      "super": "ColoredSquadInfo",
+      "outer": "None",
+      "functions": [
+        "TriggerTeamReportedSpeech",
+        "TriggerSquadSpecificNeedOrdersSpeech"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StunnedAction",
+      "path": "StunnedAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "ShouldAffectMoraleAgain",
+        "GetMoraleModificationAmount",
+        "TriggerStunnedSpeech",
+        "GetReactionAnimation",
+        "GetAffectedAnimation",
+        "GetRecoveryAnimation",
+        "AddAdditionalStunnedTime",
+        "ShouldDelayReaction",
+        "UnTriggerStunnedSpeech",
+        "ShouldTriggerStunnedSpeech",
+        "ShouldReTriggerStunnedSpeech",
+        "NotifyFinishedAffectedAnimation",
+        "SetPlayedReaction",
+        "PlayRecoveryAnimation",
+        "PlayAffectedAnimation",
+        "PlayReactionAnimation",
+        "RunFromStunningDevice",
+        "FindRunToPoint",
+        "goalNotAchievedCB",
+        "ExtendBeingStunned",
+        "cleanup",
+        "ReturnMorale",
+        "AffectMorale",
+        "initAction"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "EndTime",
+        "bPlayedAnimation",
+        "bPlayedReaction",
+        "bRecovering",
+        "MoralePenalty",
+        "StartTime",
+        "bShouldRunFromStunningDevice",
+        "StunningDeviceLocation",
+        "StunnedDuration"
+      ]
+    },
+    {
+      "name": "IdleAimAroundGoal",
+      "path": "IdleAimAroundGoal",
+      "super": "AimAroundGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UseGrenadeGoal",
+      "path": "UseGrenadeGoal",
+      "super": "SwatWeaponGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "construct_AI_ResourceByteVector",
+        "RegisterForGrenadeThrowing",
+        "SetWaitToThrowGrenade",
+        "NotifyThrowGrenade"
+      ],
+      "states": [],
+      "properties": [
+        "bWaitToThrowGrenade",
+        "vTargetLocation",
+        "GrenadeSlot",
+        "ThrowClient"
+      ]
+    },
+    {
+      "name": "PatrolList",
+      "path": "PatrolList",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "GetPatrolEntry",
+        "GetNumPatrolEntries"
+      ],
+      "states": [],
+      "properties": [
+        "PatrolEntries",
+        "PatrolPathLocations"
+      ]
+    },
+    {
+      "name": "IInterestedInDoorOpening",
+      "path": "IInterestedInDoorOpening",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "NotifyDoorOpening"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ElementSpeechManagerGoal",
+      "path": "ElementSpeechManagerGoal",
+      "super": "Tyrion.AI_SquadGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TryDoorGoal",
+      "path": "TryDoorGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "construct_AI_ResourceDoorBool"
+      ],
+      "states": [],
+      "properties": [
+        "TargetDoor",
+        "bTriggerReportResultsSpeech"
+      ]
+    },
+    {
+      "name": "DistanceSensorAction",
+      "path": "DistanceSensorAction",
+      "super": "Tyrion.AI_SensorAction",
+      "outer": "None",
+      "functions": [
+        "setupSensors",
+        "TestWithinRequiredDistance",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "DistanceSensor"
+      ]
+    },
+    {
+      "name": "EnemySpeechManagerAction",
+      "path": "EnemySpeechManagerAction",
+      "super": "CharacterSpeechManagerAction",
+      "outer": "None",
+      "functions": [
+        "TriggerDownedOfficerSpeech",
+        "TriggerUncompliantSpeech",
+        "TriggerBarricadeSpeech",
+        "TriggerInvestigateSpeech",
+        "TriggerCallForHelpSpeech",
+        "TriggerFleeSpeech",
+        "TriggerDoorBlockedSpeech",
+        "TriggerOfficerEncounteredSpeech"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WatchNonHostileTargetGoal",
+      "path": "WatchNonHostileTargetGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AnimatorIdleDefinition",
+      "path": "AnimatorIdleDefinition",
+      "super": "IdleDefinition",
+      "outer": "None",
+      "functions": [
+        "GetRandomNumberOfTimeToPlay"
+      ],
+      "states": [],
+      "properties": [
+        "MaxNumberOfTimesToPlay",
+        "MinNumberOfTimesToPlay",
+        "AnimationTweenTime",
+        "AnimationName"
+      ]
+    },
+    {
+      "name": "DeployLessLethalShotgunGoal",
+      "path": "DeployLessLethalShotgunGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawn"
+      ],
+      "states": [],
+      "properties": [
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "DeployPepperBallGoal",
+      "path": "DeployPepperBallGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawn"
+      ],
+      "states": [],
+      "properties": [
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "PickLockGoal",
+      "path": "PickLockGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt",
+        "construct_AI_ResourceDoorNavigationPoint"
+      ],
+      "states": [],
+      "properties": [
+        "PostPickLockDestination",
+        "TargetDoor"
+      ]
+    },
+    {
+      "name": "MirrorDoorGoal",
+      "path": "MirrorDoorGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "construct_AI_ResourceDoor"
+      ],
+      "states": [],
+      "properties": [
+        "TargetDoor"
+      ]
+    },
+    {
+      "name": "MirrorCornerGoal",
+      "path": "MirrorCornerGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "construct_AI_ResourceActor"
+      ],
+      "states": [],
+      "properties": [
+        "TargetMirrorPoint"
+      ]
+    },
+    {
+      "name": "DeployPepperSprayGoal",
+      "path": "DeployPepperSprayGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawn"
+      ],
+      "states": [],
+      "properties": [
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "PlaceWedgeGoal",
+      "path": "PlaceWedgeGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "construct_AI_ResourceDoor"
+      ],
+      "states": [],
+      "properties": [
+        "TargetDoor"
+      ]
+    },
+    {
+      "name": "DeployTaserGoal",
+      "path": "DeployTaserGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawn"
+      ],
+      "states": [],
+      "properties": [
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "IncapacitatedGoal",
+      "path": "IncapacitatedGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceBoolName"
+      ],
+      "states": [],
+      "properties": [
+        "bIsInstantIncapacitation",
+        "IncapaciatedIdleCategoryOverride"
+      ]
+    },
+    {
+      "name": "StaircaseAimPoint",
+      "path": "StaircaseAimPoint",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "IdleGoal",
+      "path": "IdleGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AIKnowledge",
+      "path": "AIKnowledge",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "Init",
+        "Term",
+        "GetLastKnownKnowledgeAboutPawn",
+        "HasKnownKnowledgeAboutPawn",
+        "UpdateKnowledgeAboutPawn",
+        "OnViewerSawPawn",
+        "OnViewerLostPawn"
+      ],
+      "states": [],
+      "properties": [
+        "m_visionNotifier",
+        "m_thisPawn",
+        "m_knowledgeMap"
+      ]
+    },
+    {
+      "name": "SwatMovementAction",
+      "path": "SwatMovementAction",
+      "super": "Tyrion.AI_MovementAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "cleanup",
+        "DropToGround",
+        "FinishRotation",
+        "RotateTowardRotation",
+        "RotateTowardPoint",
+        "RotateTowardActor"
+      ],
+      "states": [],
+      "properties": [
+        "m_pawn",
+        "Level"
+      ]
+    },
+    {
+      "name": "OfficerCommanderAction",
+      "path": "OfficerCommanderAction",
+      "super": "CommanderAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "cleanup",
+        "RemoveNonDeathGoals",
+        "GetHive",
+        "GetCurrentAssignment",
+        "SetupWatchingNonHostileTargets",
+        "SetupIdleAimAroundGoal",
+        "OnPawnEncounteredVisionNotification",
+        "OnPawnLostVisionNotification",
+        "OnHeardNoise",
+        "RotateToFaceNoise",
+        "NotifyDoorBlocked",
+        "ShouldEngageTarget",
+        "EngageTarget",
+        "ClearAssignment",
+        "ClearEngageGoals",
+        "FindBetterEnemy",
+        "EngageTargetForCompliance",
+        "AttackTarget",
+        "EngageAssignment"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAttackEnemyGoal",
+        "CurrentEngageForComplianceGoal",
+        "CurrentAssignment",
+        "CurrentIdleAimAroundGoal",
+        "CurrentWatchNonHostileTargetGoal",
+        "CurrentRotateTowardRotationGoal",
+        "HiveMind",
+        "bHasEngaged",
+        "MaxFinishedEngagingTimeToAimAround",
+        "MinFinishedEngagingTimeToAimAround",
+        "MaxAimAtNoiseWhileMovingTime",
+        "MinAimAtNoiseWhileMovingTime"
+      ]
+    },
+    {
+      "name": "OrderComplianceGoal",
+      "path": "OrderComplianceGoal",
+      "super": "SwatWeaponGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawn"
+      ],
+      "states": [],
+      "properties": [
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "ComplySensor",
+      "path": "ComplySensor",
+      "super": "Tyrion.AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "NotifyComply"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadSecureAction",
+      "path": "SquadSecureAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "NotifyPawnDied",
+        "cleanup",
+        "ClearOutRestrainAndReportGoals",
+        "ClearOutSecureEvidenceGoals",
+        "CopyTargetsBeingSecuredToGoal",
+        "AddSecureTarget",
+        "GetNumSecureTargets",
+        "GetSecureTarget",
+        "RemoveSecureTarget",
+        "AddTargetBeingSecured",
+        "RemoveTargetBeingSecured",
+        "IsTargetBeingSecured",
+        "NotifyNewSecureTarget",
+        "goalAchievedCB",
+        "goalNotAchievedCB",
+        "RemoveRestrainAndReportGoal",
+        "RemoveSecureEvidenceGoal",
+        "PopulateAvailableOfficers",
+        "MakeOfficerAvailable",
+        "MakeOfficerUnavailable",
+        "AreAnyOfficersAvailable",
+        "ValidateAvailableOfficers",
+        "GetClosestAvailableOfficerToTarget",
+        "RestrainAndReportOnTarget",
+        "SecureEvidence",
+        "SecureCurrentTargets",
+        "TriggerReplyToOrderSpeech"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "AvailableOfficers",
+        "CurrentRestrainAndReportGoals",
+        "CurrentSecureEvidenceGoals",
+        "TargetsBeingSecured"
+      ]
+    },
+    {
+      "name": "DoorOpeningSensor",
+      "path": "DoorOpeningSensor",
+      "super": "Tyrion.AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "AddDoor",
+        "setParameters",
+        "NotifyDoorOpening",
+        "cleanup"
+      ],
+      "states": [],
+      "properties": [
+        "TargetDoors"
+      ]
+    },
+    {
+      "name": "AICoverFinder",
+      "path": "AICoverFinder",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "IsCoverAvailable",
+        "FindCover",
+        "FindCoverBehindActor",
+        "IsLocationInCover",
+        "IsLocationInCoverBehindActor",
+        "construct_Pawn",
+        "GetOuterPawn"
+      ],
+      "states": [],
+      "properties": [
+        "m_pawn"
+      ]
+    },
+    {
+      "name": "SquadThrowGrenadeAndClearAction",
+      "path": "SquadThrowGrenadeAndClearAction",
+      "super": "SquadMoveAndClearAction",
+      "outer": "None",
+      "functions": [
+        "PostTargetDoorOpened",
+        "PreTargetDoorOpened",
+        "PrepareToMoveThroughOpenDoorway",
+        "goalAchievedCB",
+        "ShouldStackUpIfOfficersInRoomToClear",
+        "PrepareToMoveSquad"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DisableTargetGoal",
+      "path": "DisableTargetGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceActorVectorBool"
+      ],
+      "states": [],
+      "properties": [
+        "Target",
+        "DisableFromPoint",
+        "bUseMoveToThreshold"
+      ]
+    },
+    {
+      "name": "IInterestedInDetonatorEquipping",
+      "path": "IInterestedInDetonatorEquipping",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "NotifyDetonatorEquipping"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "IMirrorPoint",
+      "path": "IMirrorPoint",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "GetMirroringFromPoint",
+        "GetMirroringToPoint",
+        "GetMirroringDirection"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CoverGoal",
+      "path": "CoverGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceVectorVectorVectorBool",
+        "construct_AI_Resource"
+      ],
+      "states": [],
+      "properties": [
+        "coverLocation",
+        "CoverFromLocation",
+        "CommandOrigin",
+        "bShouldAimAround"
+      ]
+    },
+    {
+      "name": "MoveToGoal",
+      "path": "MoveToGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceActor"
+      ],
+      "states": [],
+      "properties": [
+        "Destination"
+      ]
+    },
+    {
+      "name": "CharacterTypesList",
+      "path": "CharacterTypesList",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "VerifyCharacterTypeExists",
+        "VerifyVoiceTypeExists",
+        "GetVoiceTypeForCharacterType",
+        "CreateVoiceTypes",
+        "IsAFemaleCharacterType",
+        "VerifyFemaleCharacterTypes",
+        "PreBeginPlay"
+      ],
+      "states": [],
+      "properties": [
+        "CharacterTypes",
+        "FemaleCharacterTypes",
+        "CharacterVoiceTypes"
+      ]
+    },
+    {
+      "name": "ThreatenedSensorAction",
+      "path": "ThreatenedSensorAction",
+      "super": "Tyrion.AI_SensorCharacterAction",
+      "outer": "None",
+      "functions": [
+        "setupSensors",
+        "cleanup",
+        "UpdateThreatFrom",
+        "IsThreatened"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "ThreatenedSensor"
+      ]
+    },
+    {
+      "name": "DistanceToUncomplaintCharactersSensor",
+      "path": "DistanceToUncomplaintCharactersSensor",
+      "super": "DistanceSensor",
+      "outer": "None",
+      "functions": [
+        "setParameters_Float",
+        "SetOutsideSensorValue",
+        "SetWithinSensorValue",
+        "IsWithinRequiredDistance"
+      ],
+      "states": [],
+      "properties": [
+        "ClosestUncompliantCharacter"
+      ]
+    },
+    {
+      "name": "CharacterVoiceTypes",
+      "path": "CharacterVoiceTypes",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "HasVoiceType",
+        "GetUniqueVoiceType",
+        "Construct_Void"
+      ],
+      "states": [],
+      "properties": [
+        "VoiceTypes",
+        "VoiceTypesUsed"
+      ]
+    },
+    {
+      "name": "StaircaseAimVolume",
+      "path": "StaircaseAimVolume",
+      "super": "Engine.Volume",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay",
+        "Touch",
+        "UnTouch",
+        "GetNumStaircaseAimPoints",
+        "GetStaircaseAimPointAtIndex"
+      ],
+      "states": [],
+      "properties": [
+        "StaircaseAimPoints",
+        "StaircaseAimPointNames"
+      ]
+    },
+    {
+      "name": "SquadBreachThrowGrenadeAndClearAction",
+      "path": "SquadBreachThrowGrenadeAndClearAction",
+      "super": "SquadBreachAndClearAction",
+      "outer": "None",
+      "functions": [
+        "PrepareToMoveSquad"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HostageSpeechManagerAction",
+      "path": "HostageSpeechManagerAction",
+      "super": "CharacterSpeechManagerAction",
+      "outer": "None",
+      "functions": [
+        "TriggerUncompliantSpeech",
+        "TriggerDoorBlockedSpeech",
+        "TriggerInDangerSpeech",
+        "TriggerSpottedOfficerNormalSpeech",
+        "TriggerSpottedOfficerScaredSpeech"
+      ],
+      "states": [],
+      "properties": [
+        "InDangerSpeechEffectEvents"
+      ]
+    },
+    {
+      "name": "SquadMoveAndClearAction",
+      "path": "SquadMoveAndClearAction",
+      "super": "SquadStackUpAction",
+      "outer": "None",
+      "functions": [
+        "SetThrower",
+        "TriggerThrowGrenadeMoveUpSpeech",
+        "goalAchievedCB",
+        "PrepareToMoveSquad",
+        "ShouldStackUpIfOfficersInRoomToClear",
+        "cleanup",
+        "SetBreacher",
+        "selectionHeuristic",
+        "initAction",
+        "DetermineClearRoomSide",
+        "ClearOutMoveAndClearGoals",
+        "OnSensorMessage",
+        "DeactivateDistanceSensors",
+        "DeactivateDoorSideSensors",
+        "NotifyPawnDied",
+        "NotifyGrenadeDetonated",
+        "NotifyDoorOpening",
+        "NotifyGrenadeReadyToThrow",
+        "NotifyRegisteredOnProjectile",
+        "LatentMoveOfficerToActor",
+        "ShouldRunToStackupPoint",
+        "OpenTargetDoor",
+        "FirstOfficerReadyToOpenDoor",
+        "ShouldThrowerBeFirstOfficer",
+        "GetThrowingOfficer",
+        "MoveOfficerToThrowingPoint",
+        "GetTargetDoorEdge",
+        "GetThrowSide",
+        "GetTargetThrowPoint",
+        "PrepareToThrowGrenade",
+        "ThrowGrenade",
+        "FinishUpThrowBehavior",
+        "MoveUpThrower",
+        "SwapOfficerRoles",
+        "RemoveWedge",
+        "WaitToFinishOpeningDoor",
+        "OpenDoorForThrowingGrenade",
+        "FindNumberOfClearPointsInClearingRoom",
+        "AddMoveAndClearGoalToList",
+        "PostMoveAndClearGoalOnOfficer",
+        "CreateClearFormation",
+        "StopFollowingLeader",
+        "SetupOfficerRoles",
+        "MoveFirstTwoOfficersThroughDoor",
+        "MoveUpSecondTwoOfficers",
+        "StartFollowerMoveAndClear",
+        "PauseLeadingOfficer",
+        "ActivateFollowingSensor",
+        "StopLeadingOfficer",
+        "PauseFollowingOfficer",
+        "StopFollowingOfficer",
+        "MoveFirstTwoOfficersToClearPoints",
+        "MoveRemainingOfficersThroughDoor",
+        "WaitForFirstTwoOfficersTimerCompleted",
+        "WaitForFirstTwoOfficers",
+        "StartWaitForFirstTwoOfficersTimer",
+        "ClearFirstTwoOfficersTimer",
+        "ClearSecondTwoOfficersMoveUpBehavior",
+        "ActivateDoorSideSensors",
+        "HandleDoorSideSensorMessage",
+        "MoveStackedUpSquad",
+        "GetClearingRoomName",
+        "IsOfficerInRoomToClear",
+        "ShouldStackUpBeforeClearing",
+        "AreAnyOfficersInRoomToClear",
+        "IsFirstOfficerThrower",
+        "TriggerStartedClearingSpeech",
+        "ShouldAnnounceClearThreshold",
+        "TriggerReportedThresholdClearSpeech",
+        "TriggerReportedContinuingClear"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "Thrower",
+        "Follower",
+        "Leader",
+        "CurrentThrowGrenadeGoal",
+        "FourthOfficer",
+        "CurrentOpenDoorGoal",
+        "Breacher",
+        "ThirdOfficer",
+        "FollowerMoveInFormationGoal",
+        "ClearFormation",
+        "ClearPoints",
+        "CurrentMoveToActorGoal",
+        "CurrentMoveToLocationGoal",
+        "ThirdOfficerStackUpGoal",
+        "FourthOfficerStackUpGoal",
+        "DoorOpener",
+        "MoveAndClearGoals",
+        "CurrentRemoveWedgeGoal",
+        "FollowerMoveAndClearGoal",
+        "LeaderMoveAndClearGoal",
+        "LeaderDistanceSensor",
+        "FollowerDistanceSensor",
+        "WaitForFirstTwoOfficersTimer",
+        "FollowerDoorSideSensor",
+        "LeaderDoorSideSensor",
+        "NumClearPointsInClearingRoom",
+        "bClearingRoomIsOnRight",
+        "bShouldStackUpBeforeClearing",
+        "Projectile",
+        "FormationWalkThreshold",
+        "FormationMoveToThreshold",
+        "bFollowerReachedOtherSide",
+        "bLeaderReachedOtherSide",
+        "InitialClearPauseTime",
+        "MaxWaitForFirstTwoOfficersTime",
+        "DoorOpenedFromSideDelayTime",
+        "MoveUpStackupGoals"
+      ]
+    },
+    {
+      "name": "IdleActionsList",
+      "path": "IdleActionsList",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "PreBeginPlay",
+        "CreateAnimatorIdleActionDefinitions",
+        "CreateProceduralIdleActionDefinitions"
+      ],
+      "states": [],
+      "properties": [
+        "AnimatorIdleNames",
+        "ProceduralIdleNames",
+        "ProceduralIdleDefinitions",
+        "AnimatorIdleDefinitions"
+      ]
+    },
+    {
+      "name": "AttackTargetAction",
+      "path": "AttackTargetAction",
+      "super": "SwatWeaponAction",
+      "outer": "None",
+      "functions": [
+        "SetTimeToStopTryingToAttack",
+        "IsTargetAThreat",
+        "AimAtLastSeenPosition",
+        "AimAndFireAtTarget",
+        "AttackTarget",
+        "ShouldSucceed",
+        "SetFireMode",
+        "ReadyWeapon",
+        "OnSensorMessage",
+        "ActivateTargetSensor",
+        "cleanup",
+        "initAction"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "TargetPawn",
+        "Target",
+        "TargetSensor",
+        "bCanHitTarget",
+        "TimeToStopTryingToAttack",
+        "MaximumTimeToWaitToAttack",
+        "bOrderedToAttackTarget",
+        "bHavePerfectAim",
+        "ChanceToSucceedAfterFiring"
+      ]
+    },
+    {
+      "name": "IDeployedC2Charge",
+      "path": "IDeployedC2Charge",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "GetDoorDeployedOn"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "InitialReactionsList",
+      "path": "InitialReactionsList",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "PreBeginPlay",
+        "CreateInitialReactionDefinitions",
+        "GetRandomInitialReactionDefinitionFor"
+      ],
+      "states": [],
+      "properties": [
+        "InitialReactions",
+        "InitialReactionNames"
+      ]
+    },
+    {
+      "name": "PatrolPoint",
+      "path": "PatrolPoint",
+      "super": "Engine.PathNode",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "ReferringSpawners"
+      ]
+    },
+    {
+      "name": "TargetSensorAction",
+      "path": "TargetSensorAction",
+      "super": "Tyrion.AI_SensorCharacterAction",
+      "outer": "None",
+      "functions": [
+        "setupSensors",
+        "cleanup",
+        "TestCanHitTarget"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "TargetSensor",
+        "bCurrentlyCanHitTarget"
+      ]
+    },
+    {
+      "name": "AimAroundAction",
+      "path": "AimAroundAction",
+      "super": "SwatWeaponAction",
+      "outer": "None",
+      "functions": [
+        "selectionHeuristic",
+        "FindAndAimAtPoint",
+        "CanAimAtNewPoint",
+        "AimAtBestPoint",
+        "ShouldContinueAimingAtCurrentPoint",
+        "FindBestPointToAimAt",
+        "GetStaircaseAimPoint",
+        "GetStaircaseTravelDirection",
+        "CacheWeightProcessingData",
+        "GetKnowledgeAimWeight",
+        "ApplyExtraDoorWeight",
+        "ApplyNearFriendlyPawnPenalty",
+        "ApplyAimDirectionSimilarityWeight",
+        "ApplyThreatWeight",
+        "ApplyConfidenceAndDistanceWeight",
+        "GetAimDirectionFov",
+        "GetZDiffFromPawnToActor",
+        "IsPointTooClose",
+        "GetAimDirectionNormal",
+        "ForceReevaluation",
+        "RemovePawnFromCachedData",
+        "OnOtherActorDestroyed",
+        "OnOtherPawnDied",
+        "SetCurrentUpperBodyAnimBehavior",
+        "cleanup",
+        "initAction"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAimPoint",
+        "CurrentUpperBodyAnimBehavior",
+        "FriendlyPawns",
+        "FriendlyPawnDirectionNormals",
+        "PawnDirectionNormal",
+        "CurrentAimDirectionNormal",
+        "PawnIsMoving",
+        "AimAtPointDuration",
+        "bInitialDelay",
+        "UpperBodyAnimBehaviorClientId",
+        "bAimWeapon",
+        "StaircaseTravelDirectionForCurrentAimPoint",
+        "bForceReevaluation",
+        "StairCasePointWeight",
+        "MaxInitialDelayTime",
+        "MinInitialDelayTime",
+        "AimOuterFovDot",
+        "AimInnerFovDot",
+        "bAimOnlyIfCharacterResourcesAvailable",
+        "bUseUpperBodyProcedurally",
+        "ExtraDoorWeight",
+        "bOnlyAimIfMoving",
+        "bDoOnce",
+        "MaxWaitForNewPointTime",
+        "MinWaitForNewPointTime",
+        "MaxAimAtPointTime",
+        "MinAimAtPointTime",
+        "PointTooCloseRadius"
+      ]
+    },
+    {
+      "name": "AimBetweenPointsGoal",
+      "path": "AimBetweenPointsGoal",
+      "super": "SwatWeaponGoal",
+      "outer": "None",
+      "functions": [
+        "AddPoint",
+        "GetPoint",
+        "GetNumberOfPoints"
+      ],
+      "states": [],
+      "properties": [
+        "Points"
+      ]
+    },
+    {
+      "name": "SquadMirrorCornerGoal",
+      "path": "SquadMirrorCornerGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorActor",
+        "IsInteractingWith"
+      ],
+      "states": [],
+      "properties": [
+        "TargetMirrorPoint"
+      ]
+    },
+    {
+      "name": "SquadMirrorDoorGoal",
+      "path": "SquadMirrorDoorGoal",
+      "super": "SquadStackUpGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadGasAndClearGoal",
+      "path": "SquadGasAndClearGoal",
+      "super": "SquadMoveAndClearGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PlacedThrowPoint",
+      "path": "PlacedThrowPoint",
+      "super": "Engine.PathNode",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "ThrowSide"
+      ]
+    },
+    {
+      "name": "SquadFallInGoal",
+      "path": "SquadFallInGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadMoveToGoal",
+      "path": "SquadMoveToGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorVector"
+      ],
+      "states": [],
+      "properties": [
+        "Destination"
+      ]
+    },
+    {
+      "name": "SquadPickLockGoal",
+      "path": "SquadPickLockGoal",
+      "super": "SquadStackUpGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadDisableTargetGoal",
+      "path": "SquadDisableTargetGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorActor",
+        "IsInteractingWith"
+      ],
+      "states": [],
+      "properties": [
+        "Target"
+      ]
+    },
+    {
+      "name": "SquadDeployThrownItemThroughDoorGoal",
+      "path": "SquadDeployThrownItemThroughDoorGoal",
+      "super": "SquadMoveAndClearGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorDoorByte"
+      ],
+      "states": [],
+      "properties": [
+        "ThrownItemSlot"
+      ]
+    },
+    {
+      "name": "SquadDeployThrownItemGoal",
+      "path": "SquadDeployThrownItemGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorByteVector"
+      ],
+      "states": [],
+      "properties": [
+        "ThrownItemSlot",
+        "TargetThrowLocation"
+      ]
+    },
+    {
+      "name": "IMoveToInformation",
+      "path": "IMoveToInformation",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "GetDestination"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MoveToActionBase",
+      "path": "MoveToActionBase",
+      "super": "SwatMovementAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "initAction",
+        "GetDestination",
+        "IsInPosition",
+        "SetDistanceSensorParameters",
+        "MoveTowardActor",
+        "ReportMoveToOutcome",
+        "FindPathToLocation",
+        "FindPathToActor",
+        "MoveTowardLocation",
+        "HandleDistanceSensorMessage",
+        "OnSensorMessage",
+        "ShouldStopMoving",
+        "NavigateThroughDoor",
+        "PostCloseDoorGoal",
+        "ShouldCloseDoor",
+        "PostOpenDoorGoal",
+        "HasReachedNearbyPath",
+        "ShouldRotateTowardsPointsDuringMovement",
+        "RotateTowardsMovementPoint_Vector",
+        "RotateTowardsMovementPoint",
+        "RotateTowardsMovementActor_Actor",
+        "RotateTowardsMovementActor",
+        "ResetOverriddenMoveToThreshold",
+        "SetOverriddenMoveToThreshold",
+        "SetMovement",
+        "ShouldUseNavigationDistanceOnSensor",
+        "ActivateDistanceSensor",
+        "ShouldWalk",
+        "goalNotAchievedCB",
+        "selectionHeuristic"
+      ],
+      "states": [],
+      "properties": [
+        "CurrentCloseDoorGoal",
+        "CurrentOpenDoorGoal",
+        "DistanceSensor",
+        "WalkThresholdTarget",
+        "WalkThreshold",
+        "bShouldCrouch",
+        "OverriddenMoveToThreshold",
+        "bHasRotatedTowardFirstPoint",
+        "bAcceptNearbyPath",
+        "bRotateTowardsFirstPoint",
+        "bRotateTowardsPointsDuringMovement",
+        "bAllowDirectMoveFailure",
+        "OriginalMoveToThreshold",
+        "bUseNavigationDistanceOnSensor",
+        "bOpenDoorsFrantically",
+        "bUseCoveredPaths",
+        "bShouldNotCloseInitiallyOpenDoors",
+        "bShouldCloseOpenedDoors",
+        "MoveToThreshold",
+        "bShouldSucceedWhenDestinationBlocked",
+        "MovementTimeOut",
+        "bIsMoving",
+        "bWasAvoidingCollision"
+      ]
+    },
+    {
+      "name": "LookAtOfficersActionBase",
+      "path": "LookAtOfficersActionBase",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "DetermineAndCacheNearbyOfficerToLookAt",
+        "CacheNearbyOfficerToLookAt",
+        "LookAtNearbyOfficers",
+        "InitLookAtOfficersActionBase"
+      ],
+      "states": [],
+      "properties": [
+        "OfficerBeingLookedAt",
+        "UpperBodyAnimBehaviorClientId",
+        "TimeLastLookedAtOfficer",
+        "TimeBetweenLookingAtOfficers",
+        "TimeDurationLookingAtOfficer",
+        "TimeStartedLookingAtOfficer"
+      ]
+    },
+    {
+      "name": "MoveToOpponentAction",
+      "path": "MoveToOpponentAction",
+      "super": "MoveToActorAction",
+      "outer": "None",
+      "functions": [
+        "ShouldStopMovingToOpponent"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "FirstCanHitTime",
+        "bStopWhenSuccessful",
+        "DistanceToStopMoving"
+      ]
+    },
+    {
+      "name": "MoveToActorAction",
+      "path": "MoveToActorAction",
+      "super": "MoveToActionBase",
+      "outer": "None",
+      "functions": [
+        "SetDistanceSensorParameters",
+        "GetDestination",
+        "GetDestinationActor",
+        "IsInPosition",
+        "MoveToActor"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "bSucceeded"
+      ]
+    },
+    {
+      "name": "BaseDoorPoint",
+      "path": "BaseDoorPoint",
+      "super": "Engine.PathNode",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "ParentDoor",
+        "Priority"
+      ]
+    },
+    {
+      "name": "SquadDeployTaserGoal",
+      "path": "SquadDeployTaserGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorPawn",
+        "IsInteractingWith"
+      ],
+      "states": [],
+      "properties": [
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "SquadPlaceWedgeGoal",
+      "path": "SquadPlaceWedgeGoal",
+      "super": "SquadStackUpGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadRemoveWedgeGoal",
+      "path": "SquadRemoveWedgeGoal",
+      "super": "SquadStackUpGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ReactToBeingShotAction",
+      "path": "ReactToBeingShotAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "GetHitRightAnimation",
+        "GetHitLeftAnimation",
+        "GetHitInBackAnimation",
+        "GetHitInFrontAnimation",
+        "GetTorsoHitRegion",
+        "GetHitTorsoAnimation",
+        "GetHitHeadAnimation",
+        "GetHitLeftArmAnimation",
+        "GetHitRightArmAnimation",
+        "GetHitLeftLegAnimation",
+        "GetHitRightLegAnimation",
+        "GetHitAnimationUsingBodyTargeting",
+        "GetHitAnimation",
+        "GetNormalQuickHitAnimation",
+        "GetRestrainedQuickHitAnimation",
+        "GetQuickHitAnimation",
+        "PlayHitAnimation",
+        "TriggerInjuredSpeech",
+        "PlayQuickHit",
+        "LatentPlayQuickHit"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "RestrainedHitRight",
+        "RestrainedHitLeft",
+        "CompliantHitRight",
+        "CompliantHitLeft",
+        "RestrainedQuickHitFront",
+        "RestrainedHitFront",
+        "CompliantHitFront",
+        "StandingHitInFront",
+        "StandingHitInBack",
+        "StandingHitLeft",
+        "StandingHitRight",
+        "CrouchingHitInFront",
+        "CrouchingHitInBack",
+        "CrouchingHitLeft",
+        "CrouchingHitRight",
+        "StandingHitInHead",
+        "CrouchingHitInHead",
+        "StandingHitRightArm",
+        "CrouchingHitRightArm",
+        "StandingHitLeftArm",
+        "CrouchingHitLeftArm",
+        "StandingHitRightLeg",
+        "CrouchingHitRightLeg",
+        "StandingHitLeftLeg",
+        "CrouchingHitLeftLeg",
+        "CompliantHitBack",
+        "RestrainedHitBack",
+        "QuickHitFront",
+        "QuickHitBack",
+        "QuickHitLeft",
+        "QuickHitRight",
+        "HitLocation",
+        "RegionHit",
+        "RestrainedQuickHitRight",
+        "RestrainedQuickHitLeft",
+        "RestrainedQuickHitBack",
+        "QuickHitBaseBone",
+        "RestrainedQuickHitBaseBone",
+        "HitNormal"
+      ]
+    },
+    {
+      "name": "BaseIdleAction",
+      "path": "BaseIdleAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "AreResourcesAvailableToIdle",
+        "cleanup",
+        "selectionHeuristic",
+        "SetCurrentIdle",
+        "GetIdleWeight",
+        "CanUseIdleAction",
+        "CanUseIdleBasedOnCategory",
+        "CanUseIdleBasedOnPosition",
+        "CanUseIdleBasedOnAggression",
+        "CanUseIdleBasedOnState",
+        "CanUseIdleBasedOnWeapon",
+        "construct_IdleDefinition"
+      ],
+      "states": [],
+      "properties": [
+        "OurIdleDefinition",
+        "bIsCurrentIdle"
+      ]
+    },
+    {
+      "name": "ProceduralIdleAction",
+      "path": "ProceduralIdleAction",
+      "super": "BaseIdleAction",
+      "outer": "None",
+      "functions": [
+        "AreResourcesAvailableToIdle",
+        "initAction"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadStackUpAndTryDoorGoal",
+      "path": "SquadStackUpAndTryDoorGoal",
+      "super": "SquadStackUpGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadDeployShotgunGoal",
+      "path": "SquadDeployShotgunGoal",
+      "super": "SquadStackUpGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FallInGoal",
+      "path": "FallInGoal",
+      "super": "OfficerCommandGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SuspiciousAction",
+      "path": "SuspiciousAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "CheckWeaponStatus"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadStingAndClearGoal",
+      "path": "SquadStingAndClearGoal",
+      "super": "SquadMoveAndClearGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadDeployPepperSprayGoal",
+      "path": "SquadDeployPepperSprayGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorPawn",
+        "IsInteractingWith"
+      ],
+      "states": [],
+      "properties": [
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "MoveToDoorAction",
+      "path": "MoveToDoorAction",
+      "super": "MoveToLocationAction",
+      "outer": "None",
+      "functions": [
+        "ReportMoveToOutcome",
+        "RotateAndLockToDoorUsageRotation",
+        "MoveToCloseDoor",
+        "MoveToOpenDoor",
+        "MoveToDoor",
+        "IsInPosition",
+        "GetDestination",
+        "ShouldStopMoving",
+        "GetDoorUsageRotation",
+        "SetDoorUsageRotation",
+        "GetDoorUsageSide",
+        "SetUsageSide",
+        "SetDistanceSensorParameters"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "TargetDoor",
+        "OpenPoint",
+        "Destination",
+        "MoveToDoorThreshold",
+        "bPreferSides"
+      ]
+    },
+    {
+      "name": "ProceduralIdleDefinition",
+      "path": "ProceduralIdleDefinition",
+      "super": "IdleDefinition",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "ProceduralClassName"
+      ]
+    },
+    {
+      "name": "SquadDeployPepperBallGoal",
+      "path": "SquadDeployPepperBallGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorPawn",
+        "IsInteractingWith"
+      ],
+      "states": [],
+      "properties": [
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "SquadDeployLessLethalShotgunGoal",
+      "path": "SquadDeployLessLethalShotgunGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorPawn",
+        "IsInteractingWith"
+      ],
+      "states": [],
+      "properties": [
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "SquadBangAndClearGoal",
+      "path": "SquadBangAndClearGoal",
+      "super": "SquadMoveAndClearGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadDeployC2Goal",
+      "path": "SquadDeployC2Goal",
+      "super": "SquadStackUpGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadCoverGoal",
+      "path": "SquadCoverGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorVector"
+      ],
+      "states": [],
+      "properties": [
+        "coverLocation"
+      ]
+    },
+    {
+      "name": "SquadCloseDoorGoal",
+      "path": "SquadCloseDoorGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorDoor",
+        "GetDoorBeingUsed"
+      ],
+      "states": [],
+      "properties": [
+        "TargetDoor"
+      ]
+    },
+    {
+      "name": "SquadBreachStingAndClearGoal",
+      "path": "SquadBreachStingAndClearGoal",
+      "super": "SquadMoveAndClearGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadBreachGasAndClearGoal",
+      "path": "SquadBreachGasAndClearGoal",
+      "super": "SquadMoveAndClearGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadBreachAndClearAction",
+      "path": "SquadBreachAndClearAction",
+      "super": "SquadMoveAndClearAction",
+      "outer": "None",
+      "functions": [
+        "PreTargetDoorBreached",
+        "PostTargetDoorBreached",
+        "PrepareToMoveSquad",
+        "cleanup",
+        "goalAchievedCB",
+        "NotifyDetonatorEquipping",
+        "ShouldStackUpIfOfficersInRoomToClear",
+        "SetBreacher",
+        "CanOfficerBreachWithShotgun",
+        "UseBreachingShotgun",
+        "CanOfficerBreachWithC2",
+        "PlaceAndUseBreachingCharge"
+      ],
+      "states": [],
+      "properties": [
+        "CurrentUseBreachingChargeGoal",
+        "CurrentUseBreachingShotgunGoal"
+      ]
+    },
+    {
+      "name": "SquadBreachAndClearGoal",
+      "path": "SquadBreachAndClearGoal",
+      "super": "SquadMoveAndClearGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadBreachBangAndClearGoal",
+      "path": "SquadBreachBangAndClearGoal",
+      "super": "SquadMoveAndClearGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StungAction",
+      "path": "StungAction",
+      "super": "StunnedAction",
+      "outer": "None",
+      "functions": [
+        "TriggerStunnedSpeech",
+        "GetMoraleModificationAmount",
+        "ShouldAffectMoraleAgain",
+        "AddAdditionalStunnedTime",
+        "GetReactionAnimation",
+        "GetAffectedAnimation",
+        "GetRecoveryAnimation"
+      ],
+      "states": [],
+      "properties": [
+        "stingGrenade"
+      ]
+    },
+    {
+      "name": "StunnedByC2Action",
+      "path": "StunnedByC2Action",
+      "super": "StunnedAction",
+      "outer": "None",
+      "functions": [
+        "TriggerStunnedSpeech",
+        "ShouldTriggerStunnedSpeech",
+        "GetMoraleModificationAmount",
+        "ShouldAffectMoraleAgain",
+        "AddAdditionalStunnedTime",
+        "GetReactionAnimation",
+        "GetAffectedAnimation",
+        "GetRecoveryAnimation"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FlashbangedAction",
+      "path": "FlashbangedAction",
+      "super": "StunnedAction",
+      "outer": "None",
+      "functions": [
+        "TriggerStunnedSpeech",
+        "GetMoraleModificationAmount",
+        "ShouldAffectMoraleAgain",
+        "AddAdditionalStunnedTime",
+        "GetReactionAnimation",
+        "GetAffectedAnimation",
+        "GetRecoveryAnimation"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TasedAction",
+      "path": "TasedAction",
+      "super": "StunnedAction",
+      "outer": "None",
+      "functions": [
+        "TriggerStunnedSpeech",
+        "GetMoraleModificationAmount",
+        "ShouldAffectMoraleAgain",
+        "AddAdditionalStunnedTime",
+        "ShouldDelayReaction",
+        "GetReactionAnimation",
+        "GetAffectedAnimation",
+        "GetRecoveryAnimation",
+        "NotifyFinishedAffectedAnimation"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GassedAction",
+      "path": "GassedAction",
+      "super": "StunnedAction",
+      "outer": "None",
+      "functions": [
+        "TriggerStunnedSpeech",
+        "UnTriggerStunnedSpeech",
+        "ShouldReTriggerStunnedSpeech",
+        "GetMoraleModificationAmount",
+        "ShouldAffectMoraleAgain",
+        "AddAdditionalStunnedTime",
+        "GetReactionAnimation",
+        "GetAffectedAnimation",
+        "GetRecoveryAnimation"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DoorSideSensorAction",
+      "path": "DoorSideSensorAction",
+      "super": "Tyrion.AI_SensorCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "setupSensors"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "DoorSideSensor"
+      ]
+    },
+    {
+      "name": "DistanceToUncomplaintCharactersSensorAction",
+      "path": "DistanceToUncomplaintCharactersSensorAction",
+      "super": "DistanceSensorAction",
+      "outer": "None",
+      "functions": [
+        "setupSensors"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HostageCommanderAction",
+      "path": "HostageCommanderAction",
+      "super": "CommanderAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "cleanup",
+        "RemoveNonDeathGoals",
+        "goalNotAchievedCB",
+        "DisableSensingSystems",
+        "OnPawnEncounteredVisionNotification",
+        "OnPawnLostVisionNotification",
+        "GetShotMoraleModification",
+        "NotifyDoorBlocked",
+        "GetFlashbangedMoraleModification",
+        "GetGassedMoraleModification",
+        "GetPepperSprayedMoraleModification",
+        "GetStungMoraleModification",
+        "GetTasedMoraleModification",
+        "GetStunnedByC2DetonationMoraleModification",
+        "PostComplianceCheck",
+        "NotifyBecameCompliant",
+        "OnHeardNoise",
+        "ReactToNearbyGunshot",
+        "ShouldScream",
+        "GetHeardDeadlyNoiseCrouchChance",
+        "OnHeardDeadlyNoise",
+        "RotateToFaceNoise",
+        "OnThreatened",
+        "IsInDanger",
+        "Cower",
+        "ReactToRescuer",
+        "WillReactToGrenadeBeingThrown"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentHostageReactionToOfficersGoal",
+        "CurrentCowerGoal",
+        "Rescuer",
+        "bWasInDanger",
+        "NextTimeToPlayInDangerSpeech",
+        "bHasHeardFirstDeadlyNoise",
+        "MaxDeltaTimeToPlayInDangerSpeech",
+        "MinDeltaTimeToPlayInDangerSpeech",
+        "AggressiveCrouchWhenHearsDeadlyNoiseChance",
+        "PassiveCrouchWhenHearsDeadlyNoiseChance",
+        "ScreamChance",
+        "ReactToThrownGrenadeChance",
+        "ShotMoraleModification",
+        "StunnedByC2MoraleModification",
+        "TasedMoraleModification",
+        "StungMoraleModification",
+        "PepperSprayedMoraleModification",
+        "GassedMoraleModification",
+        "FlashbangedMoraleModification",
+        "RescuerUpdateTime",
+        "DangerUpdateTime"
+      ]
+    },
+    {
+      "name": "DistanceToOfficersSensorAction",
+      "path": "DistanceToOfficersSensorAction",
+      "super": "DistanceSensorAction",
+      "outer": "None",
+      "functions": [
+        "setupSensors"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AttackEnemyAction",
+      "path": "AttackEnemyAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "AttackEnemyWithWeapon",
+        "MoveToAttackEnemy",
+        "IsMovingToAttack",
+        "ShouldMoveToAttackEnemy",
+        "goalNotAchievedCB",
+        "cleanup",
+        "GetEnemy",
+        "selectionHeuristic"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveOfficerToEngageGoal",
+        "CurrentAttackTargetGoal",
+        "Enemy"
+      ]
+    },
+    {
+      "name": "UpperBodyAnimBehaviorClients",
+      "path": "UpperBodyAnimBehaviorClients",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CompliantSensorAction",
+      "path": "CompliantSensorAction",
+      "super": "Tyrion.AI_SensorCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "setupSensors"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CompliantSensor"
+      ]
+    },
+    {
+      "name": "ArrestedSensorAction",
+      "path": "ArrestedSensorAction",
+      "super": "Tyrion.AI_SensorCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "setupSensors"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "ArrestedSensor"
+      ]
+    },
+    {
+      "name": "MoveToLocationAction",
+      "path": "MoveToLocationAction",
+      "super": "MoveToActionBase",
+      "outer": "None",
+      "functions": [
+        "SetDistanceSensorParameters",
+        "IsInPosition",
+        "GetDestination",
+        "MoveToLocation"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": []
+    },
+    {
+      "name": "MoveToAttackOfficerAction",
+      "path": "MoveToAttackOfficerAction",
+      "super": "MoveToOpponentAction",
+      "outer": "None",
+      "functions": [
+        "ShouldStopMovingToOfficer",
+        "ShouldCrouchWhileAttacking",
+        "CrouchWhileAttacking",
+        "StandUp",
+        "FinishUp"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "StartMovingLocation",
+        "DistanceToTravel",
+        "bFinishUp",
+        "MaxTimeToStand",
+        "MinTimeToStand",
+        "MaxTimeToCrouch",
+        "MinTimeToCrouch",
+        "MinDistanceToCrouch",
+        "CrouchWhileAttackingChance",
+        "MaxDistanceToTravel",
+        "MinDistanceToTravel"
+      ]
+    },
+    {
+      "name": "PepperSprayedAction",
+      "path": "PepperSprayedAction",
+      "super": "StunnedAction",
+      "outer": "None",
+      "functions": [
+        "TriggerStunnedSpeech",
+        "GetMoraleModificationAmount",
+        "ShouldAffectMoraleAgain",
+        "AddAdditionalStunnedTime",
+        "ShouldDelayReaction",
+        "GetReactionAnimation",
+        "GetAffectedAnimation",
+        "GetRecoveryAnimation"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RestrainedAction",
+      "path": "RestrainedAction",
+      "super": "LookAtOfficersActionBase",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "cleanup",
+        "goalNotAchievedCB",
+        "RotateToRestrainablePosition",
+        "Restrain",
+        "RestrainInterrupted"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "Cuffs",
+        "CurrentRotateTowardRotationGoal",
+        "Restrainer",
+        "MinSleepTimeBeforeLookingAtOfficers",
+        "MaxSleepTimeBeforeLookingAtOfficers"
+      ]
+    },
+    {
+      "name": "SquadBangAndClearAction",
+      "path": "SquadBangAndClearAction",
+      "super": "SquadThrowGrenadeAndClearAction",
+      "outer": "None",
+      "functions": [
+        "TriggerThrowGrenadeMoveUpSpeech",
+        "SetThrower",
+        "PrepareToMoveThroughOpenDoorway",
+        "PreTargetDoorOpened",
+        "PostTargetDoorOpened"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadBreachBangAndClearAction",
+      "path": "SquadBreachBangAndClearAction",
+      "super": "SquadBreachThrowGrenadeAndClearAction",
+      "outer": "None",
+      "functions": [
+        "TriggerThrowGrenadeMoveUpSpeech",
+        "SetThrower",
+        "PreTargetDoorBreached",
+        "PostTargetDoorBreached"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadBreachGasAndClearAction",
+      "path": "SquadBreachGasAndClearAction",
+      "super": "SquadBreachThrowGrenadeAndClearAction",
+      "outer": "None",
+      "functions": [
+        "TriggerThrowGrenadeMoveUpSpeech",
+        "SetThrower",
+        "PreTargetDoorBreached",
+        "PostTargetDoorBreached"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadBreachStingAndClearAction",
+      "path": "SquadBreachStingAndClearAction",
+      "super": "SquadBreachThrowGrenadeAndClearAction",
+      "outer": "None",
+      "functions": [
+        "TriggerThrowGrenadeMoveUpSpeech",
+        "SetThrower",
+        "PreTargetDoorBreached",
+        "PostTargetDoorBreached"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StackUpAction",
+      "path": "StackUpAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "SetStackUpPoint",
+        "cleanup",
+        "PostAimAtTargetGoal",
+        "RemoveAimAtTargetGoal",
+        "MoveToStackUpPoint"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAimAtTargetGoal",
+        "CurrentMoveToActorGoal",
+        "StackupPoint",
+        "DistanceToStartWalking",
+        "MinDistanceToAimAtDoor",
+        "bRunToStackupPoint",
+        "bShouldWalk"
+      ]
+    },
+    {
+      "name": "SquadCloseDoorAction",
+      "path": "SquadCloseDoorAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "CloseTheDoor"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentCloseDoorGoal",
+        "TargetDoor",
+        "DoorCloser"
+      ]
+    },
+    {
+      "name": "SquadCoverAction",
+      "path": "SquadCoverAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "CleanupCoverGoals",
+        "GetClosestCoverFromPoint",
+        "CreateCoverGoals"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CoverGoals",
+        "Level",
+        "coverLocation"
+      ]
+    },
+    {
+      "name": "SquadDeployC2Action",
+      "path": "SquadDeployC2Action",
+      "super": "SquadStackUpAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "DeployC2"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentUseBreachingChargeGoal"
+      ]
+    },
+    {
+      "name": "TakeCoverAction",
+      "path": "TakeCoverAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "TakeCover",
+        "initAction",
+        "SwapInFullBodyTakeCoverAnimations",
+        "ResetFullBodyAnimations",
+        "NotifyFoundCover",
+        "MoveToTakeCover"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CoverResult",
+        "CurrentMoveToLocationGoal",
+        "AICoverFinder",
+        "m_tookCover"
+      ]
+    },
+    {
+      "name": "ThrowGrenadeAction",
+      "path": "ThrowGrenadeAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "goalNotAchievedCB",
+        "NotifyThrowGrenade",
+        "RotateToThrowGrenade",
+        "IsRotatedToThrowRotation",
+        "MoveToThrowFromLocation",
+        "ThrowGrenade"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToLocationGoal",
+        "CurrentUseGrenadeGoal",
+        "CurrentRotateTowardRotationGoal",
+        "TargetLocation",
+        "ThrowFromLocation",
+        "ThrowRotation",
+        "bWaitToThrowGrenade",
+        "ThrowClient",
+        "GrenadeSlot",
+        "ThrowSide",
+        "ThrowRotationOverridden"
+      ]
+    },
+    {
+      "name": "UseGrenadeAction",
+      "path": "UseGrenadeAction",
+      "super": "SwatWeaponAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "cleanup",
+        "SetContinueToThrowGrenade",
+        "GetThrowSpeed",
+        "PrepareToThrowGrenade",
+        "EquipGrenade",
+        "ThrowGrenade",
+        "PlayNodAnimation"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "GrenadeWeapon",
+        "ThrowClient",
+        "bContinueToThrowGrenade",
+        "vTargetLocation",
+        "GrenadeSlot",
+        "bWaitToThrowGrenade",
+        "NodAnimation"
+      ]
+    },
+    {
+      "name": "SquadDeployLessLethalShotgunAction",
+      "path": "SquadDeployLessLethalShotgunAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "DeployLessLethalShotgunOnTarget"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentDeployLessLethalShotgunGoal",
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "ComplianceAction",
+      "path": "ComplianceAction",
+      "super": "LookAtOfficersActionBase",
+      "outer": "None",
+      "functions": [
+        "GetPreComplyAnimation",
+        "PreComply",
+        "Comply",
+        "GetComplianceAnimation",
+        "TriggerCompliantSpeech",
+        "cleanup",
+        "initAction"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "bJustComplied",
+        "StandingStunnedArmsUpAnimations",
+        "CrouchingStunnedArmsUpAnimations",
+        "StandingArmsUpAnimations",
+        "CrouchingArmsUpAnimations",
+        "StandingStunnedComplianceAnimations",
+        "CrouchingStunnedComplianceAnimations",
+        "StandingComplianceAnimations",
+        "CrouchingComplianceAnimations"
+      ]
+    },
+    {
+      "name": "SquadDeployPepperBallAction",
+      "path": "SquadDeployPepperBallAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "DeployPepperBallOnTarget"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentDeployPepperBallGoal",
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "SquadDeployPepperSprayAction",
+      "path": "SquadDeployPepperSprayAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "DeployPepperSprayOnTarget"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentDeployPepperSprayGoal",
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "SquadDeployShotgunAction",
+      "path": "SquadDeployShotgunAction",
+      "super": "SquadStackUpAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "CanOfficerUseBreachingShotgun",
+        "DeployShotgun"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentUseBreachingShotgunGoal"
+      ]
+    },
+    {
+      "name": "SquadDeployTaserAction",
+      "path": "SquadDeployTaserAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "DeployTaserOnTarget"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentDeployTaserGoal",
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "SquadDeployThrownItemAction",
+      "path": "SquadDeployThrownItemAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "NotifyPawnDied",
+        "goalNotAchievedCB",
+        "DeployThrownItem",
+        "MoveOfficerToThrowingPosition",
+        "ThrowGrenadeAtTargetLocation",
+        "GetThrowingOfficer",
+        "CanOfficerThrowFromNavigationPoint",
+        "GetPointToThrowFromForOfficer",
+        "GetThrowMidpoint",
+        "TraceToThrowGrenade",
+        "CanThrowGrenadeFromPoint",
+        "CanThrowGrenade"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "CurrentThrowGrenadeGoal",
+        "TargetThrowLocation",
+        "ThrownItemSlot",
+        "ThrowFrom"
+      ]
+    },
+    {
+      "name": "OfficerSquadGoal",
+      "path": "OfficerSquadGoal",
+      "super": "Tyrion.AI_SquadGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "bIsCharacterInteractionCommandGoal"
+      ]
+    },
+    {
+      "name": "SquadDeployThrownItemThroughDoorAction",
+      "path": "SquadDeployThrownItemThroughDoorAction",
+      "super": "SquadThrowGrenadeAndClearAction",
+      "outer": "None",
+      "functions": [
+        "TriggerThrowGrenadeMoveUpSpeech",
+        "SetThrower",
+        "PrepareToMoveThroughOpenDoorway",
+        "PreTargetDoorOpened",
+        "PostTargetDoorOpened"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "ThrownItemSlot"
+      ]
+    },
+    {
+      "name": "SquadDisableTargetAction",
+      "path": "SquadDisableTargetAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "GetDisableFromPoint",
+        "DisableTarget"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentDisableTargetGoal",
+        "Target"
+      ]
+    },
+    {
+      "name": "SquadExamineAndReportAction",
+      "path": "SquadExamineAndReportAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "ClearOutMoveToGoals",
+        "ExamineTheTarget",
+        "ReportAboutTarget"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "MoveToActorGoals",
+        "ExamineTarget"
+      ]
+    },
+    {
+      "name": "SquadFallInAction",
+      "path": "SquadFallInAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "goalNotAchievedCB",
+        "NotifyPawnDied",
+        "SpawnCompletedTimer",
+        "ShouldReplyCompleted",
+        "CheckFallInCompleted",
+        "CleanupCompletedTimer",
+        "FallInSquad",
+        "FindOfficerToTriggerFallInSpeech",
+        "TriggerFallInSpeech"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CompletedTimer",
+        "FallInFormation",
+        "CompletedTimerUpdateRate",
+        "CopyCompletedTimerUpdateRate",
+        "MinDistanceToTriggerReplySpeech",
+        "MinDistanceToTriggerCompletedSpeech"
+      ]
+    },
+    {
+      "name": "SquadGasAndClearAction",
+      "path": "SquadGasAndClearAction",
+      "super": "SquadThrowGrenadeAndClearAction",
+      "outer": "None",
+      "functions": [
+        "TriggerThrowGrenadeMoveUpSpeech",
+        "SetThrower",
+        "PrepareToMoveThroughOpenDoorway",
+        "PreTargetDoorOpened",
+        "PostTargetDoorOpened"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadMirrorCornerAction",
+      "path": "SquadMirrorCornerAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "GetClosestOfficerWithOptiwand",
+        "MirrorAroundCorner"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMirrorCornerGoal",
+        "TargetMirrorPoint"
+      ]
+    },
+    {
+      "name": "SquadStingAndClearAction",
+      "path": "SquadStingAndClearAction",
+      "super": "SquadThrowGrenadeAndClearAction",
+      "outer": "None",
+      "functions": [
+        "TriggerThrowGrenadeMoveUpSpeech",
+        "SetThrower",
+        "PrepareToMoveThroughOpenDoorway",
+        "PreTargetDoorOpened",
+        "PostTargetDoorOpened"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SquadStackUpAndTryDoorAction",
+      "path": "SquadStackUpAndTryDoorAction",
+      "super": "SquadStackUpAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "goalAchievedCB",
+        "NotifyPawnDied",
+        "ShouldFirstOfficerBeStackedUp",
+        "TryDoor",
+        "RemoveTryDoorGoal"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentTryDoorGoal"
+      ]
+    },
+    {
+      "name": "SquadMirrorDoorAction",
+      "path": "SquadMirrorDoorAction",
+      "super": "SquadStackUpAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "GetFirstOfficerWithMirror",
+        "MirrorDoor"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMirrorDoorGoal",
+        "OfficerWithMirror"
+      ]
+    },
+    {
+      "name": "SquadRemoveWedgeAction",
+      "path": "SquadRemoveWedgeAction",
+      "super": "SquadStackUpAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "RemoveWedge"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentRemoveWedgeGoal"
+      ]
+    },
+    {
+      "name": "SquadPlaceWedgeAction",
+      "path": "SquadPlaceWedgeAction",
+      "super": "SquadStackUpAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "GetFirstOfficerWithWedgeIndex",
+        "PlaceWedge"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentPlaceWedgeGoal",
+        "OfficerWithWedge",
+        "OfficerWithWedgeStackupPoint"
+      ]
+    },
+    {
+      "name": "SquadMoveToAction",
+      "path": "SquadMoveToAction",
+      "super": "OfficerSquadAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "ClearOutMoveToGoals",
+        "goalNotAchievedCB",
+        "MoveOfficersToDestination",
+        "TriggerRepliedMoveToSpeech",
+        "TriggerCompletedMoveToSpeech"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "MoveToGoals",
+        "Destination",
+        "Level"
+      ]
+    },
+    {
+      "name": "SquadPickLockAction",
+      "path": "SquadPickLockAction",
+      "super": "SquadStackUpAction",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "Running"
+      ],
+      "properties": []
+    },
+    {
+      "name": "ReloadGoal",
+      "path": "ReloadGoal",
+      "super": "SwatWeaponGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GuardGoal",
+      "path": "GuardGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "construct_AI_ResourceActor"
+      ],
+      "states": [],
+      "properties": [
+        "Target"
+      ]
+    },
+    {
+      "name": "CommanderGoal",
+      "path": "CommanderGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [
+        "BecomeIncapacitated",
+        "SetPatrol"
+      ],
+      "states": [],
+      "properties": [
+        "Patrol",
+        "bStartIncapacitated",
+        "StartIncapacitateIdleCategoryOverride"
+      ]
+    },
+    {
+      "name": "SpeechManagerGoal",
+      "path": "SpeechManagerGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TakeCoverGoal",
+      "path": "TakeCoverGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ClearRoutePoint",
+      "path": "ClearRoutePoint",
+      "super": "Engine.PathNode",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "ClearRoutePriority",
+        "ClearPoint"
+      ]
+    },
+    {
+      "name": "SquadExamineAndReportGoal",
+      "path": "SquadExamineAndReportGoal",
+      "super": "SquadCommandGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourcePawnVectorActor"
+      ],
+      "states": [],
+      "properties": [
+        "ExamineTarget"
+      ]
+    },
+    {
+      "name": "CachedEngageInfo",
+      "path": "CachedEngageInfo",
+      "super": "Core.RefCount",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "CachedNavigationPointsForEngaging",
+        "CachedTime",
+        "CachedRoomForEngaging",
+        "CachedOpponent"
+      ]
+    },
+    {
+      "name": "SwatMovementResource",
+      "path": "SwatMovementResource",
+      "super": "Tyrion.AI_MovementResource",
+      "outer": "None",
+      "functions": [
+        "Init",
+        "cleanup"
+      ],
+      "states": [],
+      "properties": [
+        "MovementDistanceSensorAction"
+      ]
+    },
+    {
+      "name": "RightStackupPoint",
+      "path": "RightStackupPoint",
+      "super": "StackupPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RightClearPoint",
+      "path": "RightClearPoint",
+      "super": "ClearPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "LeftStackupPoint",
+      "path": "LeftStackupPoint",
+      "super": "StackupPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "LeftClearPoint",
+      "path": "LeftClearPoint",
+      "super": "ClearPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AlternateStackupPoint",
+      "path": "AlternateStackupPoint",
+      "super": "StackupPoint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ThreatenHostageGoal",
+      "path": "ThreatenHostageGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RegroupGoal",
+      "path": "RegroupGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FleeGoal",
+      "path": "FleeGoal",
+      "super": "SwatCharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WatchNonHostileTargetAction",
+      "path": "WatchNonHostileTargetAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "cleanup",
+        "GetPotentialWatchTarget",
+        "FindInitialWatchTarget",
+        "FindNewWatchTarget",
+        "selectionHeuristic",
+        "goalNotAchievedCB",
+        "AimAtWatchTarget",
+        "SpeakToCompliantTarget"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentWatchTarget",
+        "CurrentAimAtTargetGoal",
+        "CurrentRotateTowardActorGoal",
+        "LastSpokenToWatchTarget",
+        "NextSpokenToWatchTargetTime",
+        "MinWatchTargetTime",
+        "MaxWatchTargetTime",
+        "MinDistanceToAimGun",
+        "MinDeltaTimeBetweenSpeakingToTarget",
+        "MaxDeltaTimeBetweenSpeakingToTarget"
+      ]
+    },
+    {
+      "name": "UseOptiwandAction",
+      "path": "UseOptiwandAction",
+      "super": "SwatWeaponAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "GetOptiwandViewOrigin",
+        "LookForPawnsUsingOptiwand",
+        "ReportSeeingPawns",
+        "DebugSeenPawns",
+        "EquipOptiwand",
+        "GetUseOptiwandAnimation",
+        "UseOptiwand"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "optiwand",
+        "SeenPawns",
+        "bUseOverloadedViewOrigin",
+        "OverloadedViewOrigin",
+        "bMirrorAroundCorner",
+        "OptiwandUseTweenTime",
+        "OptiwandViewDirection"
+      ]
+    },
+    {
+      "name": "UseBreachingShotgunAction",
+      "path": "UseBreachingShotgunAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "cleanup",
+        "NotifyDoorOpening",
+        "CheckBreachingShotgunAmmunition",
+        "EquipBreachingShotgun",
+        "GetLocationToBreachFrom",
+        "MoveToBreachingLocation",
+        "MoveToPostBreachingPoint",
+        "AimAtDoorKnob",
+        "StopAimingAtDoorKnob",
+        "BreachDoorWithShotgun",
+        "TriggerReportedDeployingShotgunSpeech"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "BreachingShotgun",
+        "CurrentMoveToLocationGoal",
+        "CurrentAimAtPointGoal",
+        "TargetDoor",
+        "CurrentMoveToActorGoal",
+        "BreachAimLocation",
+        "PostBreachPoint"
+      ]
+    },
+    {
+      "name": "UseBreachingChargeAction",
+      "path": "UseBreachingChargeAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "NotifyDoorOpening",
+        "IsC2ChargeDeployedOnThisSideOfDoor",
+        "GetDeployPoint",
+        "MoveToDeployPoint",
+        "GetPlacementPoint",
+        "RotateToPlacementPoint",
+        "RotateToDoor",
+        "EquipBreachingCharge",
+        "UseBreachingCharge",
+        "MoveToSafeLocation",
+        "EquipDetonator",
+        "BlowDoor",
+        "TriggerReportedDeployingC2Speech"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "TargetDoor",
+        "BreachingCharge",
+        "CurrentMoveToLocationGoal",
+        "CurrentMoveToActorGoal",
+        "CurrentRotateTowardActorGoal",
+        "Detonator",
+        "CurrentRotateTowardPointGoal",
+        "InterestedInDetonatorEquippingClient",
+        "SafeLocation"
+      ]
+    },
+    {
+      "name": "TryDoorAction",
+      "path": "TryDoorAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "goalNotAchievedCB",
+        "ReportResultsToTeam",
+        "TriggerReportResultsSpeech",
+        "MoveToTryDoor",
+        "TryDoor",
+        "CanInteractWithTargetDoor"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToDoorGoal",
+        "TargetDoor",
+        "TryDoorUsageSide",
+        "TryDoorUsageRotation",
+        "bTriggerReportResultsSpeech"
+      ]
+    },
+    {
+      "name": "TrainerCommanderAction",
+      "path": "TrainerCommanderAction",
+      "super": "CommanderAction",
+      "outer": "None",
+      "functions": [
+        "GetFlashbangedMoraleModification",
+        "GetGassedMoraleModification",
+        "GetPepperSprayedMoraleModification",
+        "GetStungMoraleModification",
+        "GetTasedMoraleModification",
+        "GetStunnedByC2DetonationMoraleModification",
+        "ShouldRunWhenFlashBanged",
+        "ShouldRunWhenGassed",
+        "ShouldRunWhenPepperSprayed",
+        "ShouldRunWhenStung",
+        "ShouldRunWhenTased",
+        "ShouldRunWhenStunnedByC2",
+        "WillReactToGrenadeBeingThrown"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ThreatenHostageAction",
+      "path": "ThreatenHostageAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "OnSensorMessage",
+        "OnOtherPawnDied",
+        "CanThreatenHostage",
+        "IsWithinDistanceOfOfficers",
+        "HasLineOfSightToAPlayer",
+        "selectionHeuristic",
+        "IsHostageInUsableLocation",
+        "GetClosestUsableHostageInRoom",
+        "CanAimAtHostage",
+        "CreateDistanceToOfficersSensor",
+        "MoveTowardsHostage",
+        "AimAtHostage",
+        "ShootHostage",
+        "TriggerThreatenHostageSpeech",
+        "WaitToKillHostage"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToOpponentGoal",
+        "Hostage",
+        "CurrentAimAtTargetGoal",
+        "CurrentAttackTargetGoal",
+        "Officer",
+        "DistanceToOfficersSensor",
+        "bHurryUpAndKillHostage",
+        "DistanceToHurryUp",
+        "MaxDistanceOfficerCanComeCloser",
+        "HostageResponseTriggerEffectEvents",
+        "MinTimeToShootHostage",
+        "MaxTimeToShootHostage",
+        "MinRequiredDistanceToOfficer",
+        "MinRequiredDistanceToHostage",
+        "MinAgressiveThreatenHostageChance",
+        "MaxAgressiveThreatenHostageChance",
+        "MaxPassiveThreatenHostageChance",
+        "MinPassiveThreatenHostageChance",
+        "ThreatenHostageTriggerEffectEvent",
+        "MinSleepTimeBetweenSpeech",
+        "MaxSleepTimeBetweenSpeech",
+        "RequiredHearingDistance"
+      ]
+    },
+    {
+      "name": "TakeCoverAndAttackAction",
+      "path": "TakeCoverAndAttackAction",
+      "super": "TakeCoverAction",
+      "outer": "None",
+      "functions": [
+        "CanTakeCoverAndAttack",
+        "CoverIsInBadPosition",
+        "selectionHeuristic",
+        "cleanup",
+        "goalNotAchievedCB",
+        "goalAchievedCB",
+        "OnSensorMessage",
+        "GetSkillSpecificSuccessAfterFiringChance",
+        "GetSkillSpecificAttackChance",
+        "ShouldAttackWhileTakingCover",
+        "GetEnemy",
+        "StopAttacking",
+        "Attack",
+        "IsRotatedToAttackRotation",
+        "RotateToAttackRotation",
+        "CanLeanAtCoverResult",
+        "CanUseCover",
+        "FindBestCoverToAttackFrom",
+        "TakeCoverAtInitialCoverLocation",
+        "TakeCover",
+        "MoveTowardEnemyBriefly",
+        "AimAroundBriefly",
+        "AttackWhileCrouchingBehindCover",
+        "Lean",
+        "StopLeaning",
+        "ReEvaluateCover",
+        "AttackWhileLeaningBehindCover",
+        "AttackFromBehindCover"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAimAroundGoal",
+        "CurrentAttackTargetGoal",
+        "CurrentMoveToOpponentGoal",
+        "CurrentRotateTowardRotationGoal",
+        "CachedSeenPawns",
+        "DistanceToOfficersSensor",
+        "AttackCoverLocationType",
+        "AttackLeanState",
+        "AttackRotation",
+        "MinDistanceToOfficersWhileTakingCover",
+        "MinStandTime",
+        "MaxStandTime",
+        "MoveBrieflyChance",
+        "LowSkillAttackWhileTakingCoverChance",
+        "MediumSkillAttackWhileTakingCoverChance",
+        "HighSkillAttackWhileTakingCoverChance",
+        "MinCrouchTime",
+        "MaxCrouchTime",
+        "MinLeanTime",
+        "MaxLeanTime",
+        "MinPassiveTakeCoverAndAttackPercentageChance",
+        "MaxPassiveTakeCoverAndAttackPercentageChance",
+        "MinAggressiveTakeCoverAndAttackPercentageChance",
+        "MaxAggressiveTakeCoverAndAttackPercentageChance",
+        "LowSkillSuccessAfterFiringChance",
+        "MediumSkillSuccessAfterFiringChance",
+        "HighSkillSuccessAfterFiringChance",
+        "MoveBrieflyChanceIncrement",
+        "AimAroundInnerFovDegrees",
+        "AimAroundOuterFovDegrees",
+        "AimAroundMinAimTime",
+        "AimAroundMaxAimTime"
+      ]
+    },
+    {
+      "name": "SweepWeaponIdleAction",
+      "path": "SweepWeaponIdleAction",
+      "super": "ProceduralIdleAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "SweepWeapon"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAimAroundGoal"
+      ]
+    },
+    {
+      "name": "StackedUpAction",
+      "path": "StackedUpAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "GetStackUpPoint",
+        "StackUp",
+        "RotateToStackUpPointRotation",
+        "IsRotatedToStackUpPointRotation",
+        "IsBlockedByAnotherOfficerAtCenterPoint",
+        "IsStackUpPointBlocked",
+        "WaitLoop"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "CurrentRotateTowardRotationGoal"
+      ]
+    },
+    {
+      "name": "SecureEvidenceAction",
+      "path": "SecureEvidenceAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "GetEvidenceTarget",
+        "goalNotAchievedCB",
+        "MoveIntoPosition",
+        "RotateTowardsTarget",
+        "SecureEvidence"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "CurrentRotateTowardRotationGoal",
+        "EvidenceTarget"
+      ]
+    },
+    {
+      "name": "RotateTowardRotationAction",
+      "path": "RotateTowardRotationAction",
+      "super": "SwatMovementAction",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "DesiredRotation"
+      ]
+    },
+    {
+      "name": "RotateTowardPointAction",
+      "path": "RotateTowardPointAction",
+      "super": "SwatMovementAction",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "PointToRotateToward"
+      ]
+    },
+    {
+      "name": "RotateTowardActorAction",
+      "path": "RotateTowardActorAction",
+      "super": "SwatMovementAction",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "ActorToRotateToward"
+      ]
+    },
+    {
+      "name": "RestrainAndReportAction",
+      "path": "RestrainAndReportAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "OnSensorMessage",
+        "ActivateArrestedSensor",
+        "DeactivateArrestedSensor",
+        "goalNotAchievedCB",
+        "MoveIntoPosition",
+        "RotateTowardsTarget",
+        "RestrainTarget",
+        "TriggerReassuranceSpeech",
+        "TriggerFinishedArrestSpeech",
+        "TriggerTargetRestrainedSpeech"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CompliantTarget",
+        "CurrentMoveToActorGoal",
+        "Handcuffs",
+        "CurrentRotateTowardRotationGoal",
+        "TargetArrestedSensor",
+        "DistanceFromTargetToRestrain"
+      ]
+    },
+    {
+      "name": "RemoveWedgeAction",
+      "path": "RemoveWedgeAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "NotifyDoorOpening",
+        "SetRemoveWedgeAim",
+        "UnsetRemoveWedgeAim",
+        "UpdateOfficersKnowledge",
+        "MoveToRemoveWedge",
+        "GetRemoveWedgePoint",
+        "RotateToRemoveWedgePoint",
+        "RemoveWedge"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "TargetDoor",
+        "CurrentMoveToDoorGoal",
+        "CurrentRotateTowardPointGoal",
+        "Toolkit",
+        "Wedge"
+      ]
+    },
+    {
+      "name": "ReloadAction",
+      "path": "ReloadAction",
+      "super": "SwatWeaponAction",
+      "outer": "None",
+      "functions": [
+        "selectionHeuristic",
+        "ReloadWeapon"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": []
+    },
+    {
+      "name": "RegroupAction",
+      "path": "RegroupAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "IsAnotherSwatEnemyAlive",
+        "IsWithinDistanceOfOfficers",
+        "CanGetOutOfRoomSafely",
+        "selectionHeuristic",
+        "cleanup",
+        "OnSensorMessage",
+        "GetSkillSpecificAttackChance",
+        "ShouldAttackWhileRegrouping",
+        "AttackWhileRegrouping",
+        "SwapInFullBodyFleeAnimations",
+        "ResetFullBodyAnimations",
+        "FindRegroupDestination",
+        "Regroup",
+        "CallForHelp"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "CurrentAttackTargetGoal",
+        "DistanceToOfficersSensor",
+        "MinRequiredRegroupDistanceFromOfficer",
+        "bUseDistanceToOfficersSensor",
+        "MaxAggressiveRegroupPercentageChance",
+        "MinAggressiveRegroupPercentageChance",
+        "MaxPassiveRegroupPercentageChance",
+        "MinPassiveRegroupPercentageChance",
+        "HighSkillAttackWhileRegroupingChance",
+        "MediumSkillAttackWhileRegroupingChance",
+        "LowSkillAttackWhileRegroupingChance"
+      ]
+    },
+    {
+      "name": "PlaceWedgeAction",
+      "path": "PlaceWedgeAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "NotifyDoorOpening",
+        "UpdateOfficersKnowledge",
+        "GetPlaceWedgePoint",
+        "RotateToPlaceWedgePoint",
+        "MoveToPlaceWedge",
+        "PlaceWedge"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "TargetDoor",
+        "CurrentMoveToDoorGoal",
+        "CurrentRotateTowardPointGoal",
+        "Wedge"
+      ]
+    },
+    {
+      "name": "PickLockAction",
+      "path": "PickLockAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "NotifyDoorOpening",
+        "SetPickLockAim",
+        "UnsetPickLockAim",
+        "GetPickLockPoint",
+        "MoveToPickLockPoint",
+        "GetLockPickPoint",
+        "RotateToLockPickPoint",
+        "EquipToolkit",
+        "PickLock",
+        "MoveToPostPickLockLocation",
+        "RotateToPostPickLockRotation"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "CurrentMoveToLocationGoal",
+        "Toolkit",
+        "TargetDoor",
+        "CurrentRotateTowardPointGoal",
+        "CurrentRotateTowardRotationGoal",
+        "bDoorHasOpened",
+        "PostPickLockDestination",
+        "bMovedToPickLock"
+      ]
+    },
+    {
+      "name": "PatrolAction",
+      "path": "PatrolAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "goalNotAchievedCB",
+        "MoveToPatrolDestination",
+        "RotateToPatrolPointRotation",
+        "IdleAtPatrolPoint",
+        "UpdatePatrolIndex"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "CurrentRotateTowardRotationGoal",
+        "CurrentPatrolIndex",
+        "Patrol"
+      ]
+    },
+    {
+      "name": "OrderComplianceAction",
+      "path": "OrderComplianceAction",
+      "super": "SwatWeaponAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "ActivateComplianceSensor",
+        "SetOrderComplianceAim",
+        "UnsetOrderComplianceAim",
+        "cleanup",
+        "OnSensorMessage",
+        "GetComplyOrderAnimName",
+        "OrderToComply",
+        "SetTimeToStopTryingToEngage"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "TargetPawn",
+        "CompliantSensor",
+        "TimeToStopTryingToEngage",
+        "MinComplianceOrderSleepTime",
+        "MaxComplianceOrderSleepTime",
+        "ComplyMGOrderAnims",
+        "ComplySGOrderAnims",
+        "ComplySMGOrderAnims",
+        "ComplyHGOrderAnims",
+        "ComplyPepperBallOrderAnims",
+        "MaxComplianceWaitTime",
+        "MinComplianceWaitTime",
+        "MaximumTimeToWaitToEngage"
+      ]
+    },
+    {
+      "name": "OpenDoorAction",
+      "path": "OpenDoorAction",
+      "super": "MoveToDoorAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "cleanup",
+        "ShouldContinueToOpenDoor",
+        "UpdateDoorKnowledge",
+        "OpenDoor"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "SwatDoorTarget",
+        "bIsDoorBlockedBeforeOpen",
+        "bOpenFrantically",
+        "BlockedSleepTime"
+      ]
+    },
+    {
+      "name": "MoveToAction",
+      "path": "MoveToAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "goalNotAchievedCB",
+        "AimAround",
+        "MoveToDestination"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "CurrentAimAroundGoal",
+        "MoveToMaxAimHoldTime",
+        "MoveToMinAimHoldTime",
+        "DistanceFromDestinationToStartWalking",
+        "Destination"
+      ]
+    },
+    {
+      "name": "MoveOfficerToEngageAction",
+      "path": "MoveOfficerToEngageAction",
+      "super": "MoveToOpponentAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "cleanup",
+        "ActivateTargetSensor",
+        "OnSensorMessage",
+        "ShouldStopMovingToOpponent",
+        "MoveToPointToEngageFrom"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "TargetSensor",
+        "Opponent",
+        "PointToEngageFrom",
+        "RoomNameToEngageFrom"
+      ]
+    },
+    {
+      "name": "MoveInFormationAction",
+      "path": "MoveInFormationAction",
+      "super": "MoveToActorAction",
+      "outer": "None",
+      "functions": [
+        "GetDestinationActor",
+        "GetDestination",
+        "SetDistanceSensorParameters",
+        "SetFormationDestination",
+        "UpdateDistanceSensorTarget",
+        "HandleDistanceSensorMessage",
+        "NotifyFinishedMovingToLocation"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "FormationDestination",
+        "OuterWalkThreshold",
+        "InnerWalkThreshold",
+        "OuterMoveToThreshold",
+        "InnerMoveToThreshold"
+      ]
+    },
+    {
+      "name": "MoveAndClearAction",
+      "path": "MoveAndClearAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "resourceStolenCB",
+        "SetupDistanceToUncomplaintCharactersSensor",
+        "OnSensorMessage",
+        "PauseMovement",
+        "UnPauseMovement",
+        "RemoveRotateToFacePausingCharacterGoal",
+        "RotateToFacePausingCharacter",
+        "AimAround",
+        "RotateToClearPointRotation",
+        "BuildClearRoute",
+        "MoveToClearRoutePoint",
+        "MoveToNextClearRoutePoint",
+        "MoveToClearRoutePoints",
+        "IsClearPointOnSameSideAsCommandOrigin",
+        "HasCurrentAssignment",
+        "ShouldAnnounceClear",
+        "IsRotatedToClearPointRotation"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "CurrentAimAroundGoal",
+        "CurrentRotateTowardActorGoal",
+        "CurrentRotateTowardRotationGoal",
+        "TargetClearPoint",
+        "DistanceToUncomplaintCharactersSensor",
+        "ClearRoute",
+        "bPauseMovement",
+        "CurrentClearRouteIndex",
+        "EndHoldClearPositionTime",
+        "MaxHoldClearPositionTime",
+        "MinHoldClearPositionTime",
+        "MoveAndClearAimAroundPointTooCloseDistance",
+        "MoveAndClearAimAroundOuterRadius",
+        "MoveAndClearAimAroundInnerRadius",
+        "MoveAndClearMaxAimHoldTime",
+        "MoveAndClearMinAimHoldTime",
+        "DistanceToStopMovingWithUncompliantCharacter",
+        "bShouldAnnounceClear",
+        "CommandOrigin"
+      ]
+    },
+    {
+      "name": "MirrorDoorAction",
+      "path": "MirrorDoorAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "SetMirroringType",
+        "SetMirroringOrientation",
+        "MoveToMirroringPosition",
+        "RotateToMirroringRotation",
+        "GetMirrorViewOrigin",
+        "UseMirror",
+        "MirrorDoor"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentUseOptiwandGoal",
+        "CurrentRotateTowardRotationGoal",
+        "CurrentMoveToLocationGoal",
+        "TargetDoor",
+        "SwatTargetDoor",
+        "bMirrorAroundCorner",
+        "MirroringFromRotation",
+        "MirroringFromPoint",
+        "MirroringRotation",
+        "bCrouchWhileMirroring"
+      ]
+    },
+    {
+      "name": "MirrorCornerAction",
+      "path": "MirrorCornerAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "MoveToMirrorPoint",
+        "RotateToMirrorCorner",
+        "MirrorAroundCorner"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentUseOptiwandGoal",
+        "CurrentMoveToLocationGoal",
+        "CurrentRotateTowardRotationGoal",
+        "MirrorCornerRotation",
+        "TargetMirrorPoint"
+      ]
+    },
+    {
+      "name": "LookAtFriendlyIdleAction",
+      "path": "LookAtFriendlyIdleAction",
+      "super": "ProceduralIdleAction",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "InvestigateAction",
+      "path": "InvestigateAction",
+      "super": "SuspiciousAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "goalNotAchievedCB",
+        "goalAchievedCB",
+        "MoveToInvestigationDestination",
+        "AimAtInvestigationLocation",
+        "AimAround",
+        "CanLookAtInvestigateLocation",
+        "StartInvestigateTimeoutTimer"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAimAroundGoal",
+        "CurrentMoveToLocationGoal",
+        "CurrentAimAtPointGoal",
+        "InvestigateTimeoutTimer",
+        "InvestigateLocation",
+        "CurrentRotateTowardPointGoal",
+        "bShouldWalkToInvestigate",
+        "MaxInvestigateTime",
+        "MinInvestigateTime",
+        "ReactionSpeechChance",
+        "MaxInvestigateDelayTime",
+        "MinInvestigateDelayTime"
+      ]
+    },
+    {
+      "name": "InitialReactionAction",
+      "path": "InitialReactionAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "goalNotAchievedCB",
+        "RotateTowardStimuli",
+        "PlayInitialReactionAnimation"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentRotateTowardRotationGoal",
+        "InitialReaction",
+        "StimuliPawn"
+      ]
+    },
+    {
+      "name": "IncapacitatedAction",
+      "path": "IncapacitatedAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "IsRagdollIncapacitation",
+        "Convulse",
+        "ShouldTriggerIncapacitatedSpeech"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "DistanceToHearIncapacitatedSpeech",
+        "IncapaciatedIdleCategoryOverride",
+        "MaxTimeBetweenTriggeringIncapacitatedSpeech",
+        "MinTimeBetweenTriggeringIncapacitatedSpeech",
+        "MaxTimeBeforeTriggeringIncapacitatedSpeech",
+        "MinTimeBeforeTriggeringIncapacitatedSpeech",
+        "bIsInstantIncapacitation"
+      ]
+    },
+    {
+      "name": "IdleAimAroundAction",
+      "path": "IdleAimAroundAction",
+      "super": "AimAroundAction",
+      "outer": "None",
+      "functions": [
+        "selectionHeuristic"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HostageReactionToOfficersAction",
+      "path": "HostageReactionToOfficersAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "RotateToOfficer",
+        "PlayReactionAnimation",
+        "GetHighestThreat",
+        "GetThreatAnimation",
+        "PlayInitialReaction",
+        "TriggerReactionSpeech"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentRotateTowardRotationGoal",
+        "CurrentInitialReactionGoal",
+        "PointToThreatAnimation",
+        "Officer",
+        "PointBehindAnimation",
+        "PointToRightAnimation",
+        "PointToLeftAnimation",
+        "bWasInDanger",
+        "DesiredDistanceToOfficer"
+      ]
+    },
+    {
+      "name": "GuardAction",
+      "path": "GuardAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "MoveToTarget"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "Target"
+      ]
+    },
+    {
+      "name": "FleeAction",
+      "path": "FleeAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "initAction",
+        "cleanup",
+        "IsWithinDistanceOfOfficers",
+        "FindFleeDestination",
+        "CanGetOutOfRoomSafely",
+        "selectionHeuristic",
+        "OnSensorMessage",
+        "GetSkillSpecificAttackChance",
+        "ShouldAttackWhileFleeing",
+        "AttackWhileFleeing",
+        "SwapInFullBodyFleeAnimations",
+        "ResetFullBodyAnimations",
+        "FindFleePointDestination",
+        "Flee"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "DistanceToOfficersSensor",
+        "CurrentAttackTargetGoal",
+        "FleeDestination",
+        "bUseDistanceToOfficersSensor",
+        "MinRequiredFleeDistanceFromOfficer",
+        "MaxAggressiveFleePercentageChance",
+        "MinAggressiveFleePercentageChance",
+        "MaxPassiveFleePercentageChance",
+        "MinPassiveFleePercentageChance",
+        "HighSkillAttackWhileFleeingChance",
+        "MediumSkillAttackWhileFleeingChance",
+        "LowSkillAttackWhileFleeingChance"
+      ]
+    },
+    {
+      "name": "FallInAction",
+      "path": "FallInAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "FollowPlayer",
+        "AimAround",
+        "goalNotAchievedCB",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveInFormationGoal",
+        "CurrentAimAroundGoal",
+        "bIsLowReady",
+        "FallInMinAimHoldTime",
+        "FallInMaxAimHoldTime"
+      ]
+    },
+    {
+      "name": "EngageForComplianceAction",
+      "path": "EngageForComplianceAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "OrderTargetToComply",
+        "MoveTowardsComplianceTarget",
+        "ShouldMoveTowardsComplianceTarget",
+        "goalNotAchievedCB",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveOfficerToEngageGoal",
+        "CurrentOrderComplianceGoal",
+        "TargetPawn",
+        "MaxComplianceOrderSleepTime",
+        "MinComplianceOrderSleepTime"
+      ]
+    },
+    {
+      "name": "EnemyCowerAction",
+      "path": "EnemyCowerAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "FaceTargetOfficer",
+        "ShouldFaceTargetOfficer",
+        "PlayCowerAnimation",
+        "GetInitialCowerAnimation",
+        "selectionHeuristic",
+        "GetOfficerTarget",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentRotateTowardActorGoal",
+        "CrouchedInitialEnemyCowerAnimations"
+      ]
+    },
+    {
+      "name": "EnemyComplianceAction",
+      "path": "EnemyComplianceAction",
+      "super": "ComplianceAction",
+      "outer": "None",
+      "functions": [
+        "GetPreComplyAnimation"
+      ],
+      "states": [],
+      "properties": [
+        "CrouchedComplianceDropWeaponAnimations",
+        "StandingComplianceDropWeaponAnimations",
+        "CrouchedStunnedComplianceDropWeaponAnimations",
+        "StandingStunnedComplianceDropWeaponAnimations"
+      ]
+    },
+    {
+      "name": "DisableTargetAction",
+      "path": "DisableTargetAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "DisableTarget",
+        "RotateTowardsTarget",
+        "MoveIntoPosition",
+        "NotifyDoorOpening",
+        "TriggerCompletedDisableSpeech",
+        "UnsetDisableTargetAim",
+        "SetDisableTargetAim",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToLocationGoal",
+        "Toolkit",
+        "CurrentRotateTowardRotationGoal",
+        "Target",
+        "bDoorHasOpened",
+        "TargetSwatDoor",
+        "bMovedToDisableTarget",
+        "DisableFromPoint",
+        "bUseMoveToThreshold",
+        "DistanceFromTargetToDisable"
+      ]
+    },
+    {
+      "name": "DeployTaserAction",
+      "path": "DeployTaserAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "AttackWithTaser",
+        "UnequipTaser",
+        "EquipTaser",
+        "goalNotAchievedCB",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAttackTargetGoal",
+        "CurrentMoveToOpponentGoal",
+        "Taser",
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "DeployPepperSprayAction",
+      "path": "DeployPepperSprayAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "AttackWithPepperSpray",
+        "UnequipPepperSpray",
+        "EquipPepperSpray",
+        "goalNotAchievedCB",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAttackTargetGoal",
+        "CurrentMoveToOpponentGoal",
+        "PepperSpray",
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "DeployPepperBallAction",
+      "path": "DeployPepperBallAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "AttackWithCSBallLauncher",
+        "UnequipCSBallLauncher",
+        "EquipCSBallLauncher",
+        "goalNotAchievedCB",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAttackTargetGoal",
+        "CurrentMoveToOpponentGoal",
+        "CSBallLauncher",
+        "TargetPawn",
+        "MaxNumberPepperBallsToFire"
+      ]
+    },
+    {
+      "name": "DeployLessLethalShotgunAction",
+      "path": "DeployLessLethalShotgunAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "AttackWithLessLethalShotgun",
+        "UnequipLessLethalShotgun",
+        "EquipLessLethalShotgun",
+        "goalNotAchievedCB",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAttackTargetGoal",
+        "CurrentMoveToOpponentGoal",
+        "LessLethalShotgun",
+        "TargetPawn"
+      ]
+    },
+    {
+      "name": "CowerAction",
+      "path": "CowerAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "PlayCowerAnimation",
+        "GetInitialCowerAnimation"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "StandingInitialCowerAnimations",
+        "CrouchedInitialCowerAnimations"
+      ]
+    },
+    {
+      "name": "CoverAction",
+      "path": "CoverAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "HasMovedFarAwayFromCoverFromLocation",
+        "SetTimeToAnnounceStillCovering",
+        "AimAroundAtCoverLocation",
+        "MovingCanAimAtCoverLocation",
+        "CanAimAtCoverLocation",
+        "RotateToFaceCoverLocation",
+        "MoveToCoverFromLocation",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToLocationGoal",
+        "CurrentAimAroundGoal",
+        "CurrentRotateTowardRotationGoal",
+        "StartCanHitCoverLocationTime",
+        "bShouldAimAround",
+        "CoverFromLocation",
+        "coverLocation",
+        "LastCoverFromLocation",
+        "TimeToAnnounceStillCovering",
+        "CommandOrigin",
+        "InnerAimAroundFOVDegrees",
+        "OuterAimAroundFOVDegrees",
+        "MinDeltaWaitTimeToAnnounceStillCovering",
+        "MaxDeltaWaitTimeToAnnounceStillCovering"
+      ]
+    },
+    {
+      "name": "ConverseWithHostagesAction",
+      "path": "ConverseWithHostagesAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "ConverseWithTarget",
+        "RotateToFaceTarget",
+        "selectionHeuristic",
+        "CanEnemiesConverseWithHostages",
+        "CanPlayerHearConversation",
+        "FindTargetHostage",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentRotateTowardRotationGoal",
+        "TargetHostage",
+        "MinPlayerDistanceForConversation",
+        "MinSleepTimeBetweenSpeech",
+        "MaxSleepTimeBetweenSpeech",
+        "HostageReplyToEnemyTriggerEffectEvent",
+        "EnemyTalkToHostageTriggerEffectEvent",
+        "ConverseChance",
+        "SubsequentEnemyResponseChance",
+        "EnemyReplyToHostageTriggerEffectEvent",
+        "MinTimeBetweenConversing",
+        "MaxTimeBetweenConversing"
+      ]
+    },
+    {
+      "name": "CloseDoorAction",
+      "path": "CloseDoorAction",
+      "super": "MoveToDoorAction",
+      "outer": "None",
+      "functions": [
+        "CloseDoor",
+        "ShouldContinueToCloseDoor",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "SwatDoorTarget",
+        "CloseDoorFromBehind",
+        "CloseDoorFromLeft"
+      ]
+    },
+    {
+      "name": "BarricadeAction",
+      "path": "BarricadeAction",
+      "super": "SuspiciousAction",
+      "outer": "None",
+      "functions": [
+        "AimAtOpeningDoor",
+        "ShootAtOpeningDoor",
+        "RemoveAimAroundGoal",
+        "CreateDoorOpeningSensor",
+        "CloseAndLockDoorsInRoom",
+        "LockDoor",
+        "CloseDoor",
+        "AimAtClosestDoor",
+        "RemoveDoorFromCloseAndLockList",
+        "GetClosestClosableDoorToStimuliOrigin",
+        "GetClosestDoorToStimuliOrigin",
+        "DoesRoomHaveDoorsToCloseAndLock",
+        "PopulateDoorsInRoom",
+        "AimAround",
+        "ShouldCrouchAtFleePoint",
+        "MoveToBarricadePoint",
+        "FindBarricadePoint",
+        "OnSensorMessage",
+        "goalNotAchievedCB",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentAimAtTargetGoal",
+        "BarricadePoint",
+        "CurrentCloseDoorGoal",
+        "CurrentMoveToDoorGoal",
+        "CurrentAimAroundGoal",
+        "CurrentMoveToActorGoal",
+        "ClosableDoorsInRoom",
+        "AttackDoorGoal",
+        "DoorOpening",
+        "DoorOpeningSensor",
+        "DoorsInRoom",
+        "StimuliOrigin",
+        "AimAtClosestDoorTime",
+        "CrouchAtFleePointChance",
+        "ReactionSpeechChance",
+        "MaxBarricadeDelayTime",
+        "MinBarricadeDelayTime",
+        "CloseAndLockSubsequentDoorChance",
+        "CloseAndLockInitialDoorChance",
+        "MaxShootingAtDoorsTime",
+        "MinShootingAtDoorsTime",
+        "ShootAtDoorsChance",
+        "bCanCloseDoors",
+        "bDelayBarricade"
+      ]
+    },
+    {
+      "name": "AvoidLocationAction",
+      "path": "AvoidLocationAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "RunFromAvoidLocation",
+        "FindRunToPoint",
+        "goalNotAchievedCB",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToActorGoal",
+        "AvoidLocation"
+      ]
+    },
+    {
+      "name": "AttackOfficerAction",
+      "path": "AttackOfficerAction",
+      "super": "SwatCharacterAction",
+      "outer": "None",
+      "functions": [
+        "FinishUpMoveToAttackBehavior",
+        "AttackEnemyWithWeapon",
+        "MoveToAttackEnemy",
+        "GetSkillSpecificSuccessAfterFiringChance",
+        "cleanup",
+        "selectionHeuristic",
+        "GetOfficerTarget"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "CurrentMoveToAttackOfficerGoal",
+        "CurrentAttackTargetGoal",
+        "HighSkillSuccessAfterFiringChance",
+        "MediumSkillSuccessAfterFiringChance",
+        "LowSkillSuccessAfterFiringChance",
+        "MaxAggressiveAttackOfficerPercentageChance",
+        "MinAggressiveAttackOfficerPercentageChance",
+        "MaxPassiveAttackOfficerPercentageChance",
+        "MinPassiveAttackOfficerPercentageChance"
+      ]
+    },
+    {
+      "name": "AnimatorIdleAction",
+      "path": "AnimatorIdleAction",
+      "super": "BaseIdleAction",
+      "outer": "None",
+      "functions": [
+        "PlayIdleAnimation",
+        "initAction",
+        "AreResourcesAvailableToIdle"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "NumTimesToPlay",
+        "NumTimesPlayed",
+        "AnimationName"
+      ]
+    },
+    {
+      "name": "AimBetweenPointsAction",
+      "path": "AimBetweenPointsAction",
+      "super": "SwatWeaponAction",
+      "outer": "None",
+      "functions": [
+        "AimBetweenPoints"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": []
+    },
+    {
+      "name": "AimAtTargetAction",
+      "path": "AimAtTargetAction",
+      "super": "SwatWeaponAction",
+      "outer": "None",
+      "functions": [
+        "AimAtTarget",
+        "CheckAimingMode",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "Target",
+        "MinDistanceToTargetToAim",
+        "HoldAimTime",
+        "bHoldAimForPeriodOfTime",
+        "bAimWeapon",
+        "bShouldFinishOnSuccess",
+        "bOnlyWhenCanHitTarget"
+      ]
+    },
+    {
+      "name": "AimAtPointAction",
+      "path": "AimAtPointAction",
+      "super": "SwatWeaponAction",
+      "outer": "None",
+      "functions": [
+        "AimAtDesiredPoint",
+        "cleanup",
+        "initAction"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "Point"
+      ]
+    }
+  ],
+  "package": "System\\SwatAICommon.u"
+}

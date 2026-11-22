@@ -1,0 +1,190 @@
+# ============================================================
+# SWAT 4 — Complete Extraction & Browser Reimplementation
+# Master Information File
+# ============================================================
+# Repository: https://github.com/Sweetcoinss/swat4-browser
+# Created: 2026
+# ============================================================
+
+## PROJECT OVERVIEW
+## ================
+This project contains a complete extraction of SWAT 4 (Irrational Games, 2005)
+game assets, source code (UnrealScript), game logic, and 3D models, prepared
+for a browser-based reimplementation using Three.js / Godot (WebAssembly).
+
+Game: SWAT 4
+Engine: Unreal Engine 2.5 (file version 129, licensee 27)
+Platform: Windows (original)
+Extraction date: 2026
+
+## FOLDER STRUCTURE
+## ================
+/swat4-browser/
+├── source/                 # Decompiled UnrealScript (2848 .uc files)
+│   ├── SwatGame/           # 320 classes (game core)
+│   ├── Engine/             # 290 classes (base engine)
+│   ├── SwatAICommon/       # 312 classes (AI)
+│   ├── SwatDesignerClasses/# 758 classes (designer content)
+│   ├── SwatEffects/        # 269 classes (effects)
+│   ├── SwatEquipment/      # 74 classes (weapons/gear)
+│   ├── SwatGui/            # 72 classes (UI)
+│   ├── SwatObjectives/     # 18 classes (mission objectives)
+│   ├── SwatProcedures/     # 20 classes (scoring)
+│   ├── SwatAmmo/           # 44 classes (ammo types)
+│   ├── Tyrion/             # 68 classes (AI framework)
+│   ├── UWindow/            # 78 classes (UI framework)
+│   ├── GUI/                # 63 classes (GUI)
+│   ├── Gameplay/           # 23 classes (triggers/actions)
+│   ├── Scripting/          # 59 classes (scripting)
+│   ├── Core/               # 9 classes (Object base)
+│   └── ... (35 packages total)
+│
+├── analysis/               # Machine-readable metadata
+│   ├── packages_summary.json  # Per-package counts
+│   ├── packages/*.json        # Full class lists per package
+│   ├── classes.txt            # package\tclass\tsuper
+│   └── functions.txt          # package\tClass.Function (10237)
+│
+├── logic/                  # Extracted game logic
+│   ├── game_logic.json        # 2760 classes structured (2.6 MB)
+│   ├── summary.json           # Per-package counts
+│   ├── js_skeletons/          # 977 JavaScript class skeletons
+│   │   ├── SwatGame/          # 281 JS files
+│   │   ├── Engine/            # 260 JS files
+│   │   ├── SwatAICommon/      # 300 JS files
+│   │   ├── Tyrion/            # 66 JS files
+│   │   ├── SwatObjectives/    # 18 JS files
+│   │   ├── SwatProcedures/    # 20 JS files
+│   │   ├── Gameplay/          # 23 JS files
+│   │   └── Core/              # 9 JS files
+│   └── README.md              # Game systems overview
+│
+├── assets/                 # Extracted 3D assets (glTF + textures)
+│   ├── (StaticMeshes from 38 .usx packages)
+│   ├── (SkeletalMeshes from 55 .ukx packages)
+│   ├── (Textures from 73 .utx packages)
+│   └── (Sounds from 9 .uax packages)
+│
+├── models/                 # Character models (23 glTF)
+│   ├── SWATMaleAnimation/  # 17 skeletal meshes
+│   └── FemaleAnimation/    # 6 skeletal meshes
+│
+├── text_assets/            # 116 text/config files
+│   ├── System/*.ini        # Game configuration
+│   ├── System/*.int        # Localization
+│   └── ...
+│
+├── html/                   # Browser viewers
+│   ├── SWAT4_Models_Gallery.html   # 3D model gallery (23 models)
+│   ├── SWAT4_Phase1.html           # Phase 1: Level + Movement PoC
+│   ├── SWAT4_Browser_PoC.html      # Original PoC
+│   └── SwatOfficer_preview.html    # Single model viewer
+│
+├── README.md               # Project documentation
+└── MASTER_INFO.txt         # This file
+│
+## STATISTICS
+## ==========
+Packages (.u):           35
+Classes:                 2848
+Functions:               10237
+Variables:               ~6000
+States:                  163+
+Enums:                   100+
+Text assets:             116
+Character models:        23
+Static meshes:           4143+ (from Arms_sm.usx alone)
+Total source bytes:      ~5.4 MB
+Total assets:            ~500 MB+ (estimated after full export)
+
+## KEY GAME SYSTEMS
+## ================
+### Mission Flow
+1. SwatGameInfo (GameInfo) manages mission lifecycle
+2. SwatGamePlayerController handles player input and commands
+3. SwatPlayer / SwatPawn represents player character
+4. SwatOfficer represents SWAT team members (AI)
+5. SwatEnemy / SwatSuspect represents hostiles
+
+### Objectives (SwatObjectives/)
+- Do_ArrestTargetEnemies, Do_NeutralizeTargetEnemies, etc.
+- Do_RescueAllHostages, Do_SecureTargetEvidence, etc.
+- DoNot_LetOfficerDie, DoNot_LetHostageDie, etc.
+
+### Scoring (SwatProcedures/)
+- Procedure_ArrestSuspects, Procedure_NeutralizeSuspects
+- Procedure_NoOfficerInjured, Procedure_NoHostageKilled
+- Procedure_CompleteMission
+
+### AI (Tyrion + SwatAICommon)
+- Behavior trees (Tyrion framework)
+- Officer AI: follow commands, clear rooms, arrest
+- Suspect AI: flee, fight, surrender
+- Navigation: pathfinding, door handling
+
+### Equipment (SwatEquipment/)
+- Weapons: pistols, rifles, shotguns, less-lethal
+- Tactical: flashbangs, CS gas, stinger grenades
+- Armor: protective gear
+
+## NATIVE FUNCTION MAPPING
+## ======================
+All 174 __NFUN__ native call tokens resolved to real names:
+- 219 native declarations found
+- 0 collisions
+- Source: FFA (Shrek 2) read_tail method adapted for SWAT 4
+
+## DECOMPILATION METHOD
+## ====================
+Tool: UELib (Eliot VU) with SWAT4 build profile
+Wrapper: DecompileAll.exe (C#) 
+- Initializes each package (InitializePackage)
+- Writes one .uc per UClass
+- Native calls: __NFUN_<n>__ → resolved via native map
+- Control flow: structured if/for/while/switch where possible
+
+## BROWSER REIMPLEMENTATION PLAN
+## ============================
+Phase 1: Level + Movement (DONE)
+  - Three.js scene with rooms, obstacles
+  - FPS controls (WASD + mouse look)
+  - 8 character models placed in scene
+  - Collision via raycasting
+
+Phase 2: Static Meshes + Real Levels
+  - Export StaticMeshes from .usx packages (DONE: 4143 meshes)
+  - Parse .s4m map files for actor placements
+  - Build levels using real SWAT 4 geometry
+
+Phase 3: Game Logic
+  - Convert UnrealScript → JavaScript
+  - Implement SwatGameInfo, SwatPlayerController
+  - Basic AI (officer follow commands)
+
+Phase 4: Combat + Objectives
+  - Weapons (shooting, less-lethal)
+  - Objectives tracking (arrest, rescue, neutralize)
+  - Scoring system
+
+Phase 5: Full Game
+  - All levels (30 .s4m maps)
+  - Multiplayer (WebRTC)
+  - Polish (audio, effects, UI)
+
+## GITHUB REPOSITORY
+## =================
+Repository: https://github.com/Sweetcoinss/swat4-browser
+Token: (provided by user, stored securely)
+
+## NOTES
+## ====
+- The engine (UE2.5) is NOT available as source (binary DLLs only)
+- This is a REIMPLEMENTATION, not a port of the original binary
+- Expected fidelity: 90%+ of original gameplay
+- Rendering/physics will differ from original (Godot/Three.js vs UE2.5)
+- Multiplayer requires WebRTC (not GameSpy)
+
+## CONTACT
+## =======
+Created by AI assistant (OpenCode) for user
+Date: 2026

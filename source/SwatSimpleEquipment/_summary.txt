@@ -1,0 +1,5 @@
+package=SwatSimpleEquipment
+version=129/27
+classes_ok=97
+classes_failed=0
+imports_skipped=3

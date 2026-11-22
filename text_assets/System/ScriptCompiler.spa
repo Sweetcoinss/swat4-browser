@@ -1,0 +1,15 @@
+[Public]
+Object=(Name=ScriptCompiler.MakeCommandlet,Class=Class,MetaClass=Core.Commandlet)
+
+
+[MakeCommandlet]
+HelpCmd=realizar
+HelpOneLiner=Reconstruir paquetes UnrealScript
+HelpUsage=make [-option...] [parm=value]...
+HelpParm[0]=En silencio
+HelpDesc[0]=No hay advertencias; "sí" a todas las preguntas
+HelpParm[1]=NoBind
+HelpDesc[1]=No fuerces funciones nativas a unirse a DLL
+HelpParm[2]=All
+HelpDesc[2]=Limpiar reconstrucción (de lo contrario la reconstrucción es incremental)
+

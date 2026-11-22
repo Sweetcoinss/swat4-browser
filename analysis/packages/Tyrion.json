@@ -1,0 +1,1098 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\Tyrion.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 438,
+  "imports": 76,
+  "exports": 987,
+  "classes": 68,
+  "functions": 246,
+  "states": 18,
+  "properties": 507,
+  "enums": 2,
+  "structs": 0,
+  "consts": 10,
+  "class_list": [
+    {
+      "name": "AI_Goal",
+      "path": "AI_Goal",
+      "super": "Engine.Tyrion_GoalBase",
+      "outer": "None",
+      "functions": [
+        "construct_AI_Resource",
+        "Init",
+        "setUpDeactivationSentinel",
+        "postGoal",
+        "unPostGoal",
+        "copyParametersFrom",
+        "priorityFn",
+        "changePriority",
+        "hasCompleted",
+        "wasAchieved",
+        "wasNotAchieved",
+        "wasConsidered",
+        "beingAchieved",
+        "markGoalAsAchieved",
+        "handleGoalSuccess",
+        "markGoalAsFailed",
+        "handleGoalFailure",
+        "DeActivate",
+        "Activate",
+        "GetDefaultPriority",
+        "myAddRef",
+        "Construct_Void",
+        "getResource",
+        "OnSensorMessage"
+      ],
+      "states": [],
+      "properties": [
+        "resource",
+        "deactivationSentinel",
+        "parentAction",
+        "bWakeUpPoster",
+        "Priority",
+        "activationSentinel",
+        "achievingAction",
+        "bInactive",
+        "bGoalAchieved",
+        "bGoalFailed",
+        "bPermanent",
+        "bTerminateIfStolen",
+        "bTryOnlyOnce",
+        "bRemoveGoalOfSameType",
+        "bDeleted",
+        "bGoalConsidered",
+        "ignoreCounter",
+        "matchedN",
+        "goalName"
+      ]
+    },
+    {
+      "name": "AI_Resource",
+      "path": "AI_Resource",
+      "super": "Engine.Tyrion_ResourceBase",
+      "outer": "None",
+      "functions": [
+        "Init",
+        "cleanup",
+        "getActionClass",
+        "Pawn",
+        "doesParentHaveResource",
+        "multipleActionsCheck",
+        "displayTyrionDebug",
+        "resetGoals",
+        "removeGoal",
+        "addGoal",
+        "setActionParametersInternal",
+        "findGoalByName",
+        "setActionParameters",
+        "addSensorActionClass",
+        "resourceCheck",
+        "ShallowCopyAction",
+        "chooseAction",
+        "PawnDied",
+        "PushRunnableAction",
+        "myAddRef",
+        "deleteRemovedActions",
+        "deleteSensors"
+      ],
+      "states": [],
+      "properties": [
+        "usedByAction",
+        "runningActions",
+        "idleActions",
+        "sensors",
+        "sensorActions",
+        "removedActions"
+      ]
+    },
+    {
+      "name": "AI_Action",
+      "path": "AI_Action",
+      "super": "AI_RunnableAction",
+      "outer": "None",
+      "functions": [
+        "goalAchievedCB",
+        "runAction",
+        "initAction",
+        "goalNotAchievedCB",
+        "OnSensorMessage",
+        "instantFail",
+        "instantSucceed",
+        "fail",
+        "succeed",
+        "waitForGoal",
+        "interruptGoalIf",
+        "waitForAllGoals",
+        "waitForAllGoalsInList",
+        "waitForAnyGoal",
+        "waitForAllGoalsConsidered",
+        "waitForResourcesAvailable",
+        "getResource",
+        "myAddRef",
+        "interruptAction",
+        "removeAction",
+        "selectionHeuristic",
+        "isChildGoal",
+        "resourceStolenCB"
+      ],
+      "states": [],
+      "properties": [
+        "achievingGoal",
+        "waitingForGoalsN",
+        "resourceUsage",
+        "childGoals",
+        "heuristicValue",
+        "satisfiesGoal"
+      ]
+    },
+    {
+      "name": "AI_Sensor",
+      "path": "AI_Sensor",
+      "super": "Core.DeleteableObject",
+      "outer": "None",
+      "functions": [
+        "deactivateSensorInternal",
+        "activateSensorInternal",
+        "OnSensorMessage",
+        "getResource",
+        "construct_AI_SensorAction",
+        "activateSensor",
+        "activateSentinel",
+        "deactivateSensor",
+        "deactivateSentinel",
+        "Begin",
+        "cleanup",
+        "sendSensorMessage",
+        "sendMessageOnNextValueUpdate",
+        "setIntegerValue",
+        "setFloatValue",
+        "setObjectValue",
+        "bSendMessage",
+        "QueryValue",
+        "queryIntegerValue",
+        "queryFloatValue",
+        "queryObjectValue",
+        "ClearValue",
+        "queryUsage",
+        "setCategoricalValue"
+      ],
+      "states": [],
+      "properties": [
+        "Value",
+        "recipients",
+        "sensorAction",
+        "bNotifyOnValueChange",
+        "bNotifyIfResourceInactive"
+      ]
+    },
+    {
+      "name": "AI_SensorRecipient",
+      "path": "AI_SensorRecipient",
+      "super": "Core.DeleteableObject",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "upperBound",
+        "bNotify",
+        "lowerBound",
+        "Recipient",
+        "userData"
+      ]
+    },
+    {
+      "name": "AI_CharacterResource",
+      "path": "AI_CharacterResource",
+      "super": "AI_Resource",
+      "outer": "None",
+      "functions": [
+        "setResourceOwner",
+        "Init",
+        "cleanup",
+        "isActive",
+        "requiredResourcesAvailable",
+        "Pawn",
+        "getActionClass"
+      ],
+      "states": [],
+      "properties": [
+        "m_pawn"
+      ]
+    },
+    {
+      "name": "AI_SensorWithBounds",
+      "path": "AI_SensorWithBounds",
+      "super": "Core.DeleteableObject",
+      "outer": "None",
+      "functions": [
+        "activateSensor",
+        "activateSentinel",
+        "deactivateSensor",
+        "deactivateSentinel"
+      ],
+      "states": [],
+      "properties": [
+        "sensor",
+        "upperBound",
+        "lowerBound"
+      ]
+    },
+    {
+      "name": "AI_SensorData",
+      "path": "AI_SensorData",
+      "super": "Core.DeleteableObject",
+      "outer": "None",
+      "functions": [
+        "Clear"
+      ],
+      "states": [],
+      "properties": [
+        "integerData",
+        "floatData",
+        "objectData",
+        "dataType"
+      ]
+    },
+    {
+      "name": "AI_SensorAction",
+      "path": "AI_SensorAction",
+      "super": "AI_RunnableAction",
+      "outer": "None",
+      "functions": [
+        "setupSensors",
+        "Pawn",
+        "construct_AI_Resource",
+        "myAddRef",
+        "Begin",
+        "runAction",
+        "instantFail",
+        "addSensorClass"
+      ],
+      "states": [],
+      "properties": [
+        "usageCount",
+        "m_pawn",
+        "bCallBegin"
+      ]
+    },
+    {
+      "name": "AI_MovementResource",
+      "path": "AI_MovementResource",
+      "super": "AI_Resource",
+      "outer": "None",
+      "functions": [
+        "setResourceOwner",
+        "Init",
+        "cleanup",
+        "isActive",
+        "requiredResourcesAvailable",
+        "multipleActionsCheck",
+        "doesParentHaveResource",
+        "Pawn",
+        "getActionClass"
+      ],
+      "states": [],
+      "properties": [
+        "m_pawn"
+      ]
+    },
+    {
+      "name": "AI_WeaponResource",
+      "path": "AI_WeaponResource",
+      "super": "AI_Resource",
+      "outer": "None",
+      "functions": [
+        "setResourceOwner",
+        "Init",
+        "cleanup",
+        "isActive",
+        "requiredResourcesAvailable",
+        "multipleActionsCheck",
+        "doesParentHaveResource",
+        "Pawn",
+        "getActionClass"
+      ],
+      "states": [],
+      "properties": [
+        "m_pawn"
+      ]
+    },
+    {
+      "name": "ISensorNotification",
+      "path": "ISensorNotification",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "getResource",
+        "OnSensorMessage"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestMovementGoalA",
+      "path": "AI_TestMovementGoalA",
+      "super": "AI_MovementGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_RunnableAction",
+      "path": "AI_RunnableAction",
+      "super": "ActionBase",
+      "outer": "None",
+      "functions": [
+        "runAction",
+        "removeAction",
+        "interruptAction",
+        "pauseAction"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "resource"
+      ]
+    },
+    {
+      "name": "AI_TestCharacterB",
+      "path": "AI_TestCharacterB",
+      "super": "AI_CharacterAction",
+      "outer": "None",
+      "functions": [
+        "OnSensorMessage",
+        "goalAchievedCB"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "sensor1",
+        "goalsAchievedN"
+      ]
+    },
+    {
+      "name": "AI_CharacterGoal",
+      "path": "AI_CharacterGoal",
+      "super": "AI_Goal",
+      "outer": "None",
+      "functions": [
+        "getResourceClass",
+        "findResource"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_CharacterAction",
+      "path": "AI_CharacterAction",
+      "super": "AI_Action",
+      "outer": "None",
+      "functions": [
+        "cleanup",
+        "ClassConstruct",
+        "clearDummyMovementGoal",
+        "clearDummyWeaponGoal",
+        "clearDummyGoals",
+        "useResources",
+        "initAction",
+        "characterResource",
+        "movementResource",
+        "findResource",
+        "getResourceClass",
+        "weaponResource"
+      ],
+      "states": [],
+      "properties": [
+        "DummyWeaponGoal",
+        "DummyMovementGoal",
+        "Pawn",
+        "movementResourceStorage",
+        "weaponResourceStorage"
+      ]
+    },
+    {
+      "name": "AI_PeriodicSensor",
+      "path": "AI_PeriodicSensor",
+      "super": "AI_Sensor",
+      "outer": "None",
+      "functions": [
+        "activateSensorInternal",
+        "deactivateSensorInternal"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestMovementB",
+      "path": "AI_TestMovementB",
+      "super": "AI_MovementAction",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "Running"
+      ],
+      "properties": []
+    },
+    {
+      "name": "AI_TestWeaponGoalA",
+      "path": "AI_TestWeaponGoalA",
+      "super": "AI_WeaponGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestWeaponA",
+      "path": "AI_TestWeaponA",
+      "super": "AI_WeaponAction",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "Running"
+      ],
+      "properties": []
+    },
+    {
+      "name": "AI_TestCharacterC",
+      "path": "AI_TestCharacterC",
+      "super": "AI_CharacterAction",
+      "outer": "None",
+      "functions": [
+        "goalAchievedCB"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "goalsAchievedN",
+        "parameter1",
+        "parameter2"
+      ]
+    },
+    {
+      "name": "AI_TestMovementA",
+      "path": "AI_TestMovementA",
+      "super": "AI_MovementAction",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "Running"
+      ],
+      "properties": []
+    },
+    {
+      "name": "ActionBase",
+      "path": "ActionBase",
+      "super": "Engine.Tyrion_ActionBase",
+      "outer": "None",
+      "functions": [
+        "instantFail",
+        "cleanup",
+        "removeAction",
+        "pauseAction",
+        "runAction",
+        "sleepForever",
+        "Pause",
+        "yield",
+        "PawnDied",
+        "wasTicked",
+        "hasCompleted",
+        "IsRunning",
+        "IsIdle",
+        "removeGoal"
+      ],
+      "states": [],
+      "properties": [
+        "bIdle",
+        "bDeleted",
+        "bCompleted",
+        "bWasTicked",
+        "bSensorAction"
+      ]
+    },
+    {
+      "name": "AI_TestCharacterA",
+      "path": "AI_TestCharacterA",
+      "super": "AI_CharacterAction",
+      "outer": "None",
+      "functions": [
+        "goalAchievedCB"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "goalsAchievedN",
+        "parameter1",
+        "parameter2",
+        "copiedAction"
+      ]
+    },
+    {
+      "name": "AI_TestSentinelA",
+      "path": "AI_TestSentinelA",
+      "super": "AI_PeriodicSensor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestCharacterGoalC",
+      "path": "AI_TestCharacterGoalC",
+      "super": "AI_CharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TyrionUnitTest",
+      "path": "TyrionUnitTest",
+      "super": "Engine.Actor",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay",
+        "Timer",
+        "logTest",
+        "signalPassed",
+        "signalFailed",
+        "gotoNextLevel",
+        "getPawn"
+      ],
+      "states": [],
+      "properties": [
+        "workPawn",
+        "workController",
+        "nextLevelURL"
+      ]
+    },
+    {
+      "name": "AI_TestCharacterGoalB",
+      "path": "AI_TestCharacterGoalB",
+      "super": "AI_CharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestSentinelB",
+      "path": "AI_TestSentinelB",
+      "super": "AI_PeriodicSensor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_MovementAction",
+      "path": "AI_MovementAction",
+      "super": "AI_Action",
+      "outer": "None",
+      "functions": [
+        "movementResource",
+        "characterResource",
+        "getResourceClass",
+        "findResource",
+        "runAction",
+        "ClassConstruct"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_SquadResource",
+      "path": "AI_SquadResource",
+      "super": "AI_Resource",
+      "outer": "None",
+      "functions": [
+        "setResourceOwner",
+        "Init",
+        "cleanup",
+        "requiredResourcesAvailable",
+        "hasActiveMembers",
+        "isActive",
+        "Pawn",
+        "getActionClass"
+      ],
+      "states": [],
+      "properties": [
+        "squad"
+      ]
+    },
+    {
+      "name": "AI_TestCharacterGoalA",
+      "path": "AI_TestCharacterGoalA",
+      "super": "AI_CharacterGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceIntInt"
+      ],
+      "states": [],
+      "properties": [
+        "constraint1"
+      ]
+    },
+    {
+      "name": "AI_TestCharacterD",
+      "path": "AI_TestCharacterD",
+      "super": "AI_CharacterAction",
+      "outer": "None",
+      "functions": [
+        "goalAchievedCB",
+        "goalNotAchievedCB",
+        "cleanup"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "goal1",
+        "goal2"
+      ]
+    },
+    {
+      "name": "AI_WeaponAction",
+      "path": "AI_WeaponAction",
+      "super": "AI_Action",
+      "outer": "None",
+      "functions": [
+        "weaponResource",
+        "characterResource",
+        "getResourceClass",
+        "findResource",
+        "runAction",
+        "ClassConstruct"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_MovementGoal",
+      "path": "AI_MovementGoal",
+      "super": "AI_Goal",
+      "outer": "None",
+      "functions": [
+        "getResourceClass",
+        "findResource",
+        "characterResource"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestCharacterE",
+      "path": "AI_TestCharacterE",
+      "super": "AI_CharacterAction",
+      "outer": "None",
+      "functions": [
+        "goalAchievedCB",
+        "ClassConstruct"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "goalsAchievedN"
+      ]
+    },
+    {
+      "name": "AI_Controller",
+      "path": "AI_Controller",
+      "super": "Engine.Controller",
+      "outer": "None",
+      "functions": [
+        "OnHearSound",
+        "drawDebug"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_WeaponGoal",
+      "path": "AI_WeaponGoal",
+      "super": "AI_Goal",
+      "outer": "None",
+      "functions": [
+        "getResourceClass",
+        "findResource",
+        "characterResource"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestInactiveAchievableGoal",
+      "path": "AI_TestInactiveAchievableGoal",
+      "super": "AI_MovementGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt",
+        "Init",
+        "setUpDeactivationSentinel"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_DummyMovementGoal",
+      "path": "AI_DummyMovementGoal",
+      "super": "AI_MovementGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_DummyWeaponGoal",
+      "path": "AI_DummyWeaponGoal",
+      "super": "AI_WeaponGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_SensorResource",
+      "path": "AI_SensorResource",
+      "super": "AI_Resource",
+      "outer": "None",
+      "functions": [
+        "Init",
+        "cleanup"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestSensorA",
+      "path": "AI_TestSensorA",
+      "super": "AI_PeriodicSensor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Setup",
+      "path": "Setup",
+      "super": "Engine.Tyrion_Setup",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay",
+        "Tick"
+      ],
+      "states": [],
+      "properties": [
+        "sensorResource"
+      ]
+    },
+    {
+      "name": "IBooleanGoalCondition",
+      "path": "IBooleanGoalCondition",
+      "super": "Core.Object",
+      "outer": "None",
+      "functions": [
+        "goalTest"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_SensorMovementAction",
+      "path": "AI_SensorMovementAction",
+      "super": "AI_SensorAction",
+      "outer": "None",
+      "functions": [
+        "getResourceClass"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_SensorCharacterAction",
+      "path": "AI_SensorCharacterAction",
+      "super": "AI_SensorAction",
+      "outer": "None",
+      "functions": [
+        "Pawn",
+        "characterResource",
+        "getResourceClass"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_HeadGoal",
+      "path": "AI_HeadGoal",
+      "super": "AI_Goal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_HeadAction",
+      "path": "AI_HeadAction",
+      "super": "AI_Action",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_DummyMovement",
+      "path": "AI_DummyMovement",
+      "super": "AI_MovementAction",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "Running"
+      ],
+      "properties": []
+    },
+    {
+      "name": "AI_SquadAction",
+      "path": "AI_SquadAction",
+      "super": "AI_Action",
+      "outer": "None",
+      "functions": [
+        "squad",
+        "squadResource",
+        "getResourceClass",
+        "findResource",
+        "ClassConstruct"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_DummyHeadGoal",
+      "path": "AI_DummyHeadGoal",
+      "super": "AI_HeadGoal",
+      "outer": "None",
+      "functions": [
+        "construct_AI_ResourceInt"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestSensorActionA",
+      "path": "AI_TestSensorActionA",
+      "super": "AI_SensorCharacterAction",
+      "outer": "None",
+      "functions": [
+        "setupSensors"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "sensor1"
+      ]
+    },
+    {
+      "name": "AI_DummyWeapon",
+      "path": "AI_DummyWeapon",
+      "super": "AI_WeaponAction",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "Running"
+      ],
+      "properties": []
+    },
+    {
+      "name": "TyrionSensorsTest",
+      "path": "TyrionSensorsTest",
+      "super": "TyrionUnitTest",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "UnitTestState"
+      ],
+      "properties": [
+        "characterResource",
+        "pawnName",
+        "goal1",
+        "movementResource",
+        "weaponResource"
+      ]
+    },
+    {
+      "name": "TyrionResourcesTest",
+      "path": "TyrionResourcesTest",
+      "super": "TyrionUnitTest",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "UnitTestState"
+      ],
+      "properties": [
+        "goal1",
+        "characterResource",
+        "goal3",
+        "goal2",
+        "movementResource",
+        "pawnName",
+        "weaponResource"
+      ]
+    },
+    {
+      "name": "TyrionPrioritiesTest",
+      "path": "TyrionPrioritiesTest",
+      "super": "TyrionUnitTest",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "UnitTestState"
+      ],
+      "properties": [
+        "characterResource",
+        "pawnName",
+        "goal1",
+        "movementResource",
+        "weaponResource"
+      ]
+    },
+    {
+      "name": "TyrionInterruptTest",
+      "path": "TyrionInterruptTest",
+      "super": "TyrionUnitTest",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "UnitTestState"
+      ],
+      "properties": [
+        "characterResource",
+        "goal1",
+        "pawnName",
+        "goal2",
+        "movementResource",
+        "weaponResource"
+      ]
+    },
+    {
+      "name": "AI_TestSensorActionB",
+      "path": "AI_TestSensorActionB",
+      "super": "AI_SensorMovementAction",
+      "outer": "None",
+      "functions": [
+        "setupSensors"
+      ],
+      "states": [
+        "Running"
+      ],
+      "properties": [
+        "sentinel2",
+        "sentinel1"
+      ]
+    },
+    {
+      "name": "AI_TestInactivePermanentGoal",
+      "path": "AI_TestInactivePermanentGoal",
+      "super": "AI_CharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestActivePermanentGoal",
+      "path": "AI_TestActivePermanentGoal",
+      "super": "AI_CharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_TestActiveAchievableGoal",
+      "path": "AI_TestActiveAchievableGoal",
+      "super": "AI_CharacterGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": [
+        "parameter1",
+        "parameter2"
+      ]
+    },
+    {
+      "name": "AI_SquadGoal",
+      "path": "AI_SquadGoal",
+      "super": "AI_Goal",
+      "outer": "None",
+      "functions": [
+        "getResourceClass",
+        "findResource"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_SensorWeaponAction",
+      "path": "AI_SensorWeaponAction",
+      "super": "AI_SensorAction",
+      "outer": "None",
+      "functions": [
+        "getResourceClass"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_SensorSquadAction",
+      "path": "AI_SensorSquadAction",
+      "super": "AI_SensorAction",
+      "outer": "None",
+      "functions": [
+        "getResourceClass"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_HeadResource",
+      "path": "AI_HeadResource",
+      "super": "AI_Resource",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AI_DummyHead",
+      "path": "AI_DummyHead",
+      "super": "AI_HeadAction",
+      "outer": "None",
+      "functions": [],
+      "states": [
+        "Running"
+      ],
+      "properties": []
+    }
+  ],
+  "package": "System\\Tyrion.u"
+}

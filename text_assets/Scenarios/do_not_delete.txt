@@ -1,0 +1,3 @@
+This is the directory that contains the .pak files created when the player creates a custom scenario using the Quick Mission Customizer. 
+
+This directory must be present in order for the player to be able to save custom missions.

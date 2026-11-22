@@ -1,0 +1,366 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\SwatProcedures.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 163,
+  "imports": 61,
+  "exports": 347,
+  "classes": 20,
+  "functions": 91,
+  "states": 0,
+  "properties": 196,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "Procedure_ArrestSuspects",
+      "path": "Procedure_ArrestSuspects",
+      "super": "Procedure_NeutralizeSuspects",
+      "outer": "None",
+      "functions": [
+        "OnPawnIncapacitated",
+        "PostInitHook",
+        "OnPawnDied"
+      ],
+      "states": [],
+      "properties": [
+        "IncapacitatedEnemies"
+      ]
+    },
+    {
+      "name": "Procedure_NeutralizeSuspects",
+      "path": "Procedure_NeutralizeSuspects",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "AdditionalBonus",
+        "GetCurrentValue",
+        "Status",
+        "OnGameStarted"
+      ],
+      "states": [],
+      "properties": [
+        "NeutralizedEnemies",
+        "BonusPerEnemy",
+        "TotalEnemies",
+        "TotalBonus",
+        "PerEnemyBonusFraction"
+      ]
+    },
+    {
+      "name": "Procedure_NoUnauthorizedUseOfForce",
+      "path": "Procedure_NoUnauthorizedUseOfForce",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnDied",
+        "OnPawnIncapacitated",
+        "Status",
+        "GetCurrentValue"
+      ],
+      "states": [],
+      "properties": [
+        "IncapacitatedEnemies",
+        "PenaltyPerEnemy"
+      ]
+    },
+    {
+      "name": "Procedure_NoHostageIncapacitated",
+      "path": "Procedure_NoHostageIncapacitated",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnDied",
+        "OnPawnIncapacitated",
+        "Status",
+        "GetCurrentValue"
+      ],
+      "states": [],
+      "properties": [
+        "IncapacitatedHostages",
+        "PenaltyPerHostage"
+      ]
+    },
+    {
+      "name": "Procedure_ReportCharactersToTOC",
+      "path": "Procedure_ReportCharactersToTOC",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "FindInitialReportableCharacters",
+        "OnPawnDied",
+        "OnPawnArrested",
+        "OnPawnIncapacitated",
+        "AddReportableCharacter",
+        "OnReportableReportedToTOC",
+        "Status",
+        "GetCurrentValue",
+        "IsMaxed"
+      ],
+      "states": [],
+      "properties": [
+        "ReportableCharacters",
+        "ReportedCharacters",
+        "Bonus"
+      ]
+    },
+    {
+      "name": "Procedure_NoUnauthorizedUseOfDeadlyForce",
+      "path": "Procedure_NoUnauthorizedUseOfDeadlyForce",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnDied",
+        "Status",
+        "GetCurrentValue"
+      ],
+      "states": [],
+      "properties": [
+        "KilledEnemies",
+        "PenaltyPerEnemy"
+      ]
+    },
+    {
+      "name": "Procedure_NoOfficerInjured",
+      "path": "Procedure_NoOfficerInjured",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnDamaged",
+        "Status",
+        "GetCurrentValue"
+      ],
+      "states": [],
+      "properties": [
+        "InjuredOfficers",
+        "PenaltyPerOfficer"
+      ]
+    },
+    {
+      "name": "Procedure_NoOfficerIncapacitated",
+      "path": "Procedure_NoOfficerIncapacitated",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnDied",
+        "OnPawnIncapacitated",
+        "OnOfficerIncapacitated",
+        "Status",
+        "GetCurrentValue"
+      ],
+      "states": [],
+      "properties": [
+        "IncapacitatedOfficers",
+        "PenaltyPerOfficer"
+      ]
+    },
+    {
+      "name": "Procedure_NoHostageKilled",
+      "path": "Procedure_NoHostageKilled",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnDied",
+        "Status",
+        "GetCurrentValue"
+      ],
+      "states": [],
+      "properties": [
+        "KilledHostages",
+        "PenaltyPerHostage"
+      ]
+    },
+    {
+      "name": "Procedure_EvacuateDownedOfficers",
+      "path": "Procedure_EvacuateDownedOfficers",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "GetCurrentValue",
+        "Status",
+        "AnyPlayersAlive",
+        "OnReportableReportedToTOC",
+        "OnPawnDied",
+        "OnPawnIncapacitated",
+        "PostInitHook"
+      ],
+      "states": [],
+      "properties": [
+        "UnevacuatedDownedOfficers",
+        "PenaltyPerDownedOfficer"
+      ]
+    },
+    {
+      "name": "Procedure_NoSuspectsNeutralized",
+      "path": "Procedure_NoSuspectsNeutralized",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnDied",
+        "GetCurrentValue"
+      ],
+      "states": [],
+      "properties": [
+        "AnyoneNeutralized",
+        "Bonus"
+      ]
+    },
+    {
+      "name": "Procedure_NoCiviliansInjured",
+      "path": "Procedure_NoCiviliansInjured",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "OnPawnDamaged",
+        "PostInitHook",
+        "OnMissionCompleted",
+        "GetCurrentValue"
+      ],
+      "states": [],
+      "properties": [
+        "MissionCompleted",
+        "AnyoneDamaged",
+        "Bonus"
+      ]
+    },
+    {
+      "name": "Procedure_NoSuspectsIncapacitated",
+      "path": "Procedure_NoSuspectsIncapacitated",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnIncapacitated",
+        "OnMissionCompleted",
+        "GetCurrentValue"
+      ],
+      "states": [],
+      "properties": [
+        "MissionCompleted",
+        "AnyoneIncapacitated",
+        "Bonus"
+      ]
+    },
+    {
+      "name": "Procedure_ArrestUnIncapacitatedSuspects",
+      "path": "Procedure_ArrestUnIncapacitatedSuspects",
+      "super": "Procedure_ArrestSuspects",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnArrested",
+        "OnPawnIncapacitated",
+        "AdditionalBonus"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Procedure_CompleteMission",
+      "path": "Procedure_CompleteMission",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "GetCurrentValue",
+        "OnMissionCompleted",
+        "PostInitHook"
+      ],
+      "states": [],
+      "properties": [
+        "CurrentValue",
+        "Bonus"
+      ]
+    },
+    {
+      "name": "Procedure_PlayerUninjured",
+      "path": "Procedure_PlayerUninjured",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnDamaged",
+        "GetCurrentValue",
+        "Status"
+      ],
+      "states": [],
+      "properties": [
+        "InjuredPlayers",
+        "Bonus"
+      ]
+    },
+    {
+      "name": "Procedure_SecureAllWeapons",
+      "path": "Procedure_SecureAllWeapons",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnEvidenceSecured",
+        "Status",
+        "GetCurrentValue",
+        "GetNumUnSecuredWeapons",
+        "IsMaxed"
+      ],
+      "states": [],
+      "properties": [
+        "NumSecured",
+        "Bonus"
+      ]
+    },
+    {
+      "name": "Procedure_ArrestIncapacitatedSuspects",
+      "path": "Procedure_ArrestIncapacitatedSuspects",
+      "super": "Procedure_ArrestSuspects",
+      "outer": "None",
+      "functions": [
+        "OnPawnIncapacitated"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Procedure_KillSuspects",
+      "path": "Procedure_KillSuspects",
+      "super": "Procedure_NeutralizeSuspects",
+      "outer": "None",
+      "functions": [
+        "OnPawnIncapacitated",
+        "OnPawnArrested",
+        "OnPawnDied",
+        "PostInitHook"
+      ],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Procedure_NoOfficersDown",
+      "path": "Procedure_NoOfficersDown",
+      "super": "SwatGame.Procedure",
+      "outer": "None",
+      "functions": [
+        "PostInitHook",
+        "OnPawnIncapacitated",
+        "OnPawnDied",
+        "Status",
+        "GetCurrentValue"
+      ],
+      "states": [],
+      "properties": [
+        "DownedOfficers",
+        "Bonus"
+      ]
+    }
+  ],
+  "package": "System\\SwatProcedures.u"
+}

@@ -1,0 +1,8 @@
+# Large assets (uploaded as release)
+assets/
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+# Temp
+*.tmp

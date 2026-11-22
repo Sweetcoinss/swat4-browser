@@ -1,0 +1,96 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\System\\IGVisualEffectsSubsystem.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 65537,
+  "names": 167,
+  "imports": 80,
+  "exports": 78,
+  "classes": 5,
+  "functions": 13,
+  "states": 0,
+  "properties": 48,
+  "enums": 1,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "ProjectedDecal",
+      "path": "ProjectedDecal",
+      "super": "Engine.Projector",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay",
+        "Destroyed",
+        "Tick",
+        "Init"
+      ],
+      "states": [],
+      "properties": [
+        "Target",
+        "PreferredDistance",
+        "RandomOrient"
+      ]
+    },
+    {
+      "name": "VisualEffectSpecification",
+      "path": "VisualEffectSpecification",
+      "super": "IGEffectsSystem.EffectSpecification",
+      "outer": "None",
+      "functions": [
+        "Init"
+      ],
+      "states": [],
+      "properties": [
+        "MaterialType",
+        "EffectClass"
+      ]
+    },
+    {
+      "name": "VisualEffectsSubsystem",
+      "path": "VisualEffectsSubsystem",
+      "super": "IGEffectsSystem.EffectsSubsystem",
+      "outer": "None",
+      "functions": [
+        "LogState",
+        "StopEffect",
+        "StopEffectSpecification",
+        "OnEffectSpawned",
+        "ProxySpawn",
+        "PlayEffectSpecification",
+        "PostLoaded"
+      ],
+      "states": [],
+      "properties": [
+        "SelectedEffectClasses",
+        "MatchingEffectClasses",
+        "DefaultEffectClasses",
+        "CurrentDecal",
+        "PrecacheVisualEffects"
+      ]
+    },
+    {
+      "name": "EventResponse_VisualEffectsSubsystem",
+      "path": "EventResponse_VisualEffectsSubsystem",
+      "super": "IGEffectsSystem.EventResponse",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BloodDecal",
+      "path": "BloodDecal",
+      "super": "ProjectedDecal",
+      "outer": "None",
+      "functions": [
+        "PostBeginPlay"
+      ],
+      "states": [],
+      "properties": [
+        "DrawScaleRange"
+      ]
+    }
+  ],
+  "package": "System\\IGVisualEffectsSubsystem.u"
+}

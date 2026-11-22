@@ -1,0 +1,100 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\Classes\\SwatProtectiveEquipment.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 54,
+  "imports": 24,
+  "exports": 9,
+  "classes": 9,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "BodyArmor",
+      "path": "BodyArmor",
+      "super": "SwatEquipment.BodyArmorBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "gasMask",
+      "path": "gasMask",
+      "super": "SwatEquipment.GasMaskBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RiotHelmet",
+      "path": "RiotHelmet",
+      "super": "Engine.ProtectiveEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "KevlarHelmet",
+      "path": "KevlarHelmet",
+      "super": "Engine.ProtectiveEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "LightBodyArmor",
+      "path": "LightBodyArmor",
+      "super": "BodyArmor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HeavyBodyArmor",
+      "path": "HeavyBodyArmor",
+      "super": "BodyArmor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "EnemyKevlarHelmet",
+      "path": "EnemyKevlarHelmet",
+      "super": "Engine.ProtectiveEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HelmetAndGoggles",
+      "path": "HelmetAndGoggles",
+      "super": "SwatEquipment.HelmetAndGogglesBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "EnemyProtecHelmet",
+      "path": "EnemyProtecHelmet",
+      "super": "Engine.ProtectiveEquipment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "Classes\\SwatProtectiveEquipment.u"
+}

@@ -1,0 +1,64 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\Classes\\SwatProgrammerSampleClasses.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 46,
+  "imports": 20,
+  "exports": 7,
+  "classes": 5,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "TestDOA",
+      "path": "TestDOA",
+      "super": "SwatGame.StaticDOA",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SampleDOA",
+      "path": "SampleDOA",
+      "super": "SwatGame.StaticDOA",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SampleDOASpawner",
+      "path": "SampleDOASpawner",
+      "super": "SwatGame.InanimateSpawner",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SampleMissionExitDoor",
+      "path": "SampleMissionExitDoor",
+      "super": "RWOSupport.ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TaserProbe",
+      "path": "TaserProbe",
+      "super": "SwatEquipment.TaserProbeBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "Classes\\SwatProgrammerSampleClasses.u"
+}

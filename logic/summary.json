@@ -1,0 +1,233 @@
+{
+  "AICommon": {
+    "classes": 4,
+    "functions": 30,
+    "variables": 14,
+    "states": 0,
+    "enums": 0
+  },
+  "AnimatedDecorMeshes": {
+    "classes": 38,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "Core": {
+    "classes": 9,
+    "functions": 119,
+    "variables": 29,
+    "states": 0,
+    "enums": 3
+  },
+  "Editor": {
+    "classes": 15,
+    "functions": 36,
+    "variables": 106,
+    "states": 0,
+    "enums": 1
+  },
+  "Engine": {
+    "classes": 260,
+    "functions": 2117,
+    "variables": 2241,
+    "states": 37,
+    "enums": 93
+  },
+  "Gameplay": {
+    "classes": 23,
+    "functions": 45,
+    "variables": 22,
+    "states": 0,
+    "enums": 0
+  },
+  "GUI": {
+    "classes": 63,
+    "functions": 577,
+    "variables": 149,
+    "states": 4,
+    "enums": 17
+  },
+  "GUIanimations": {
+    "classes": 15,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "IGEffectsSystem": {
+    "classes": 7,
+    "functions": 35,
+    "variables": 49,
+    "states": 0,
+    "enums": 1
+  },
+  "IGSoundEffectsSubsystem": {
+    "classes": 16,
+    "functions": 80,
+    "variables": 117,
+    "states": 0,
+    "enums": 3
+  },
+  "IGVisualEffectsSubsystem": {
+    "classes": 5,
+    "functions": 13,
+    "variables": 8,
+    "states": 0,
+    "enums": 1
+  },
+  "IpDrv": {
+    "classes": 14,
+    "functions": 101,
+    "variables": 74,
+    "states": 0,
+    "enums": 12
+  },
+  "RWOSupport": {
+    "classes": 38,
+    "functions": 80,
+    "variables": 30,
+    "states": 2,
+    "enums": 4
+  },
+  "Scripting": {
+    "classes": 59,
+    "functions": 206,
+    "variables": 111,
+    "states": 2,
+    "enums": 2
+  },
+  "SwatAIAwareness": {
+    "classes": 2,
+    "functions": 14,
+    "variables": 4,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatAICommon": {
+    "classes": 300,
+    "functions": 1856,
+    "variables": 844,
+    "states": 103,
+    "enums": 16
+  },
+  "SwatAmmo": {
+    "classes": 44,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatCameraEffects": {
+    "classes": 5,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatDesignerClasses": {
+    "classes": 758,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatDesignerEquipment": {
+    "classes": 2,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatEd": {
+    "classes": 10,
+    "functions": 0,
+    "variables": 13,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatEffects": {
+    "classes": 269,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatEquipment": {
+    "classes": 73,
+    "functions": 157,
+    "variables": 135,
+    "states": 5,
+    "enums": 3
+  },
+  "SwatEquipmentModels": {
+    "classes": 85,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatGame": {
+    "classes": 281,
+    "functions": 2819,
+    "variables": 1626,
+    "states": 47,
+    "enums": 40
+  },
+  "SwatGui": {
+    "classes": 72,
+    "functions": 580,
+    "variables": 395,
+    "states": 0,
+    "enums": 4
+  },
+  "SwatObjectives": {
+    "classes": 18,
+    "functions": 78,
+    "variables": 15,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatProcedures": {
+    "classes": 20,
+    "functions": 91,
+    "variables": 39,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatProgrammerSampleClasses": {
+    "classes": 5,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatProtectiveEquipment": {
+    "classes": 9,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "SwatSimpleEquipment": {
+    "classes": 97,
+    "functions": 0,
+    "variables": 0,
+    "states": 0,
+    "enums": 0
+  },
+  "Tyrion": {
+    "classes": 66,
+    "functions": 243,
+    "variables": 101,
+    "states": 18,
+    "enums": 2
+  },
+  "UWindow": {
+    "classes": 78,
+    "functions": 736,
+    "variables": 562,
+    "states": 2,
+    "enums": 9
+  }
+}

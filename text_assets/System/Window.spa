@@ -1,0 +1,92 @@
+[Errors]
+Critical=Error crítico
+FailedConfigLoad=%s (la carga ha fallado)
+NoWritePermissionTitle=Error al escribir en el archivo 
+NoWritePermission=SWAT 4 requiere permisos para escribir en la carpeta de Swat4.exe. Ejecuta SWAT4 con una cuenta de usuario que tenga los permisos apropiados.
+AnotherUserAlreadyRunningGameTitle=SWAT 4 ya se está ejecutando
+AnotherUserAlreadyRunningGame=SWAT 4 se está ejecutando ya en este ordenador bajo un usuario de Windows diferente.
+AlreadyRunningGame=SWAT 4 se está ejecutando ya en este ordenador.
+
+[MinSpecRequirements]
+DoesNotMeetMinSpecTitle=Recursos de sistema insuficientes
+MeetsMinSpec=Este ordenador no cumple o excede los requisitos mínimos para este juego.
+MinSpecInformation=Puedes encontrar los requisitos mínimos del sistema en el manual y la caja del juego. 
+UnsupportedOperatingSystem=Este juego no es compatible con el sistema operativo instalado en este ordenador.
+InsufficientSystemMemory=Este ordenador sólo tiene %d MB de memoria. Este juego requiere al menos %d MB de memoria.
+InsufficientDirectXVersion=Este juego necesita DirectX 9.0c o una versión posterior. Para jugar necesitas que esté instalado DirectX 9.0c o una versión posterior (ver notas de la versión para instrucciones sobre cómo obtenerlo).
+NoHardwareTL=La tarjeta de vídeo de este ordenador no es compatible con Transformación e iluminación de hardware. Es necesario que este juego sea compatible con Transformación e iluminación de hardware.
+InsufficientVideoMemory=La tarjeta de vídeo de este ordenador no tiene suficiente memoria de vídeo integrada. Este juego requiere una tarjeta gráfica de al menos %d MB de memoria de vídeo integrada.
+VideoCardUnsupported=La tarjeta de vídeo de este ordenador no cumple los requisitos de vídeo mínimos para el juego.
+NoHardwareAcceleration=Este juego requiere que esté habilitado el hardware acelerador de vídeo. 1. Asegúrate de que el control deslizante esté al máximo en Aceleración de Hardware, que encontrarás en Panel de control>Pantalla>Avanzado>Solucionar problemas. 2. Ejecuta dxdiag y asegúrate de que en la pestaña Pantalla esté habilitada la aceleración de Direct3d y DirectDraw.
+QueryContinueOnNonMinSpec=NO SE RECOMIENDA jugar a este juego con este hardware ya que es TOTALMENTE INCOMPATIBLE E INESTABLE. ¿Quieres continuar de todos modos?
+NoSoundDeviceInstalled=No se ha encontrado ningún dispositivo de sonido. Este juego requiere una tarjeta de red compatible.
+
+[General]
+BrowseButton=...
+UseButton=Utilizar
+ClearButton=Borrar
+ColorButton=Color 
+PickButton=Elección
+FindButton=Buscar
+OkButton=ACEPTAR
+AddButton=<< Añadir
+EmptyButton=Vacío
+InsertButton=Insert
+DeleteButton=Eliminar
+DefaultsButton=Restablecer predeterminados
+BackButton=< &Anterior
+NextButton=&Siguiente >
+FinishButton=&Finalizar
+CancelButton=CANCELAR
+InstallButton=&Instalar
+YesButton=&Sí
+NoButton=&No
+AgreeButton=&Acepto
+LanguagePrompt=Idioma:
+LanguageWindow=Selección de idioma
+LogWindow=%s Ventana de registro
+PropNone=Nada seleccionado
+PropSingle=%s Propiedades
+PropMulti=%s Propiedades (%i seleccionado)
+InsertCdText=Introduce el CD de SWAT 4 en la unidad y pulsa Aceptar para continuar o Cancelar para salir. 
+InsertCdTitle=CD requerido al iniciar
+AdvancedOptionsTitle=Opciones avanzadas
+Low=Bajo
+High=Alto
+New=NUEVO
+
+[FirstRun]
+Caption=Configuración inicial
+LowMemory=SWAT 4 ha detectado que tienes %i megabytes de memoria disponibles. Se han habilitado las opciones de "Detalles de texturas bajos" y "Calidad de sonido baja" para mejorar el rendimiento. Puedes cambiarlo en el menú de "Configuración de rendimiento".
+NonMMX=SWAT 4 ha detectado que estás utilizando un ordenador no MMX. Teniendo esto en cuenta, se ha ajustado la velocidad de reproducción de sonido para que consuma el mínimo de recursos de la CPU. Puedes cambiarlo en el menú de "Opciones avanzadas / Audio".
+Starting=SWAT 4 se está iniciando con la nueva configuración. Si experimentas problemas, lee la sección Solución de problemas de las notas de la versión en el menú "Inicio".
+
+[IDDIALOG_Directory]
+IDC_Directory=Carpeta de instalación
+IDC_ChoosePrompt=Selecciona la carpeta de instalación.
+IDC_PathTitle=&Ruta:
+IDC_DirectoryTitle=&Directorios:
+IDC_DrivesTitle=&Unidades:
+IDC_NetworkButton=&Ubicación de red:
+
+[IDDIALOG_Password]
+IDC_Password=&Confirmar contraseña:
+IDC_Prompt=Introduce tu nombre y contraseña.
+IDC_Name=&Nombre:
+IDC_Password=&Contraseña:
+
+[IDMENU_NotifyIcon]
+ID_NotifyIcon=Menú
+ID_NotifyShowLog=&Consola de servidor de SWAT4
+ID_NotifyAdvancedOptions=&Opciones avanzadas
+ID_NotifyExit=&Salir del servidor de SWAT4
+
+[IDMENU_Log]
+ID_LogFile=&Archivo: 
+ID_LogAdvancedOptions=&Opciones avanzadas
+ID_LogFileExit=&Salir
+
+[IDDIALOG_CrashBox]
+IDC_Copy=Copiar
+IDC_BugReport=Enviar informe de errores
+BugReportURL=http://support.sierra.com

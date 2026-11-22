@@ -1,0 +1,6841 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\Classes\\SwatDesignerClasses.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 2085,
+  "imports": 660,
+  "exports": 1585,
+  "classes": 758,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "Windows",
+      "path": "Windows",
+      "super": "RWOSupport.BreakableWindow",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Plastic",
+      "path": "Plastic",
+      "super": "RWOSupport.ReactiveKarmaActor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Electrical",
+      "path": "Electrical",
+      "super": "BreakableStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Television",
+      "path": "Television",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Metal",
+      "path": "Metal",
+      "super": "RWOSupport.ReactiveKarmaActor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CourthouseMobile",
+      "path": "CourthouseMobile",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_Binders",
+      "path": "Office_Binders",
+      "super": "Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PaperAndCardboard",
+      "path": "PaperAndCardboard",
+      "super": "RWOSupport.ReactiveKarmaActor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tools",
+      "path": "Tools",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PotsAndPans",
+      "path": "PotsAndPans",
+      "super": "KitchenItems",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Other",
+      "path": "Other",
+      "super": "RWOSupport.ReactiveKarmaActor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Wood",
+      "path": "Wood",
+      "super": "RWOSupport.ReactiveKarmaActor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_WallHangings",
+      "path": "Barber_WallHangings",
+      "super": "WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_CabinetDoors",
+      "path": "Tenement_CabinetDoors",
+      "super": "CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Containers_Plastic",
+      "path": "Containers_Plastic",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CoffeePot",
+      "path": "CoffeePot",
+      "super": "Glass_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "55GallonDrums",
+      "path": "55GallonDrums",
+      "super": "Containers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Containers",
+      "path": "Containers",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_Books",
+      "path": "Office_Books",
+      "super": "Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BathProducts",
+      "path": "BathProducts",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Ashtray",
+      "path": "Ashtray",
+      "super": "Ceramic_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BreakableStaticMesh",
+      "path": "BreakableStaticMesh",
+      "super": "RWOSupport.ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WallHangings",
+      "path": "WallHangings",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Miscellaneous",
+      "path": "Miscellaneous",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_PapierMache",
+      "path": "Silence_PapierMache",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DumpsterCover",
+      "path": "DumpsterCover",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Dishes",
+      "path": "Dishes",
+      "super": "Ceramic_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glass",
+      "path": "Glass",
+      "super": "BreakableStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_WallHangings",
+      "path": "Silence_WallHangings",
+      "super": "WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_WallHangings",
+      "path": "FoodWall_WallHangings",
+      "super": "WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrashCan",
+      "path": "TrashCan",
+      "super": "Containers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glass_Objects",
+      "path": "Glass_Objects",
+      "super": "DestructibleStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_WallHangings",
+      "path": "DNA_WallHangings",
+      "super": "WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PaperProducts",
+      "path": "PaperProducts",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Food_Objects",
+      "path": "Food_Objects",
+      "super": "Soft_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Soft_Objects",
+      "path": "Soft_Objects",
+      "super": "DestructibleStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ExplodingStaticMesh",
+      "path": "ExplodingStaticMesh",
+      "super": "RWOSupport.ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "KitchenItems",
+      "path": "KitchenItems",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StorageBin",
+      "path": "StorageBin",
+      "super": "Containers_Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_WallHangings",
+      "path": "Hotel_WallHangings",
+      "super": "WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_CabinetDoors",
+      "path": "Silence_CabinetDoors",
+      "super": "CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DestructibleStaticMesh",
+      "path": "DestructibleStaticMesh",
+      "super": "RWOSupport.ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Food",
+      "path": "Food",
+      "super": "Soft",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pliers",
+      "path": "Pliers",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Liquor",
+      "path": "Liquor",
+      "super": "Glass_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "dna_binders",
+      "path": "dna_binders",
+      "super": "Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Boxes",
+      "path": "Boxes",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Cash_Stack",
+      "path": "Cash_Stack",
+      "super": "Soft_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SmallCans",
+      "path": "SmallCans",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SodaAndBeerCans",
+      "path": "SodaAndBeerCans",
+      "super": "SmallCans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Drill",
+      "path": "Drill",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_DeadBody",
+      "path": "Hospital_DeadBody",
+      "super": "SwatGame.StaticDOA",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Ceramic_Objects",
+      "path": "Ceramic_Objects",
+      "super": "DestructibleStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PokerChips",
+      "path": "PokerChips",
+      "super": "Plastics",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "5GallonBucket",
+      "path": "5GallonBucket",
+      "super": "Containers_Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Projector",
+      "path": "Projector",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Rubber",
+      "path": "Rubber",
+      "super": "RWOSupport.ReactiveKarmaActor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HangingTwine",
+      "path": "HangingTwine",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PipeBomb",
+      "path": "PipeBomb",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WasteBasket",
+      "path": "WasteBasket",
+      "super": "Containers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AutopsyScale",
+      "path": "AutopsyScale",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RemoteControls",
+      "path": "RemoteControls",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Cars",
+      "path": "Cars",
+      "super": "RWOSupport.ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_Books",
+      "path": "DNA_Books",
+      "super": "Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ScienceStuff",
+      "path": "ScienceStuff",
+      "super": "Glass_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Meat",
+      "path": "Meat",
+      "super": "RWOSupport.ReactiveKarmaActor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Soap",
+      "path": "Soap",
+      "super": "Soft_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Plastics",
+      "path": "Plastics",
+      "super": "DestructibleStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Boombox",
+      "path": "Boombox",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CableBox",
+      "path": "CableBox",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PotatoChips",
+      "path": "PotatoChips",
+      "super": "Food_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Brooms",
+      "path": "Brooms",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ComputerMonitor",
+      "path": "ComputerMonitor",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrashCan_Lid",
+      "path": "TrashCan_Lid",
+      "super": "Miscellaneous",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BeerBottle",
+      "path": "BeerBottle",
+      "super": "Glass_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Books",
+      "path": "Books",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Plank",
+      "path": "Plank",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MilkJug",
+      "path": "MilkJug",
+      "super": "Containers_Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "2LiterSoda",
+      "path": "2LiterSoda",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Clipboard",
+      "path": "Clipboard",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CoffeeMug",
+      "path": "CoffeeMug",
+      "super": "Ceramic_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TissueBox",
+      "path": "TissueBox",
+      "super": "Boxes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AutoPartsBoxes",
+      "path": "AutoPartsBoxes",
+      "super": "Boxes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MylarBalloon",
+      "path": "MylarBalloon",
+      "super": "Soft_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Misc",
+      "path": "Silence_Misc",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Glass_Karma",
+      "path": "Glass_Karma",
+      "super": "RWOSupport.ReactiveKarmaActor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SoySauce",
+      "path": "SoySauce",
+      "super": "Glass_Karma",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Ladle",
+      "path": "Ladle",
+      "super": "KitchenItems",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Spatula",
+      "path": "Spatula",
+      "super": "KitchenItems",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ChineseFoodBox",
+      "path": "ChineseFoodBox",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AutoRepair_Creeper",
+      "path": "AutoRepair_Creeper",
+      "super": "Miscellaneous",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PaintRoller",
+      "path": "PaintRoller",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MeasuringCup",
+      "path": "MeasuringCup",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MotorOil",
+      "path": "MotorOil",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrainingStuff",
+      "path": "TrainingStuff",
+      "super": "RWOSupport.ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MilkCarton",
+      "path": "MilkCarton",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Donuts",
+      "path": "Donuts",
+      "super": "Food",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VelvetRope",
+      "path": "VelvetRope",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Doors_Cabinet",
+      "path": "Doors_Cabinet",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPGoal",
+      "path": "VIPGoal",
+      "super": "SwatGame.VIPGoalBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Generic_DeadBody",
+      "path": "Generic_DeadBody",
+      "super": "SwatGame.StaticDOA",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UtilityLight",
+      "path": "UtilityLight",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CabinetDoors",
+      "path": "CabinetDoors",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ExtensionCord_Winder",
+      "path": "ExtensionCord_Winder",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BurgerLunch",
+      "path": "BurgerLunch",
+      "super": "Food",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PlainContainer",
+      "path": "PlainContainer",
+      "super": "Containers_Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CottageCheese",
+      "path": "CottageCheese",
+      "super": "Containers_Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FryingBasket",
+      "path": "FryingBasket",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Cereal",
+      "path": "Cereal",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Microscope",
+      "path": "Microscope",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "LightFixtures",
+      "path": "LightFixtures",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Medical_Supplies",
+      "path": "Medical_Supplies",
+      "super": "Boxes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Binders",
+      "path": "Binders",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MeatCleaver",
+      "path": "MeatCleaver",
+      "super": "KitchenItems",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ViceGrips",
+      "path": "ViceGrips",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CashRegister",
+      "path": "CashRegister",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JunctionBox",
+      "path": "JunctionBox",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Telephone",
+      "path": "Telephone",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GasCan",
+      "path": "GasCan",
+      "super": "Containers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Chemicals",
+      "path": "Chemicals",
+      "super": "Glass_Karma",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CaulkGun",
+      "path": "CaulkGun",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VCR",
+      "path": "VCR",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ICU_Monitor",
+      "path": "ICU_Monitor",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ExitSign",
+      "path": "ExitSign",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SqueezeBottle",
+      "path": "SqueezeBottle",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "EmergencyLight",
+      "path": "EmergencyLight",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CopyMachine",
+      "path": "CopyMachine",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Clippers",
+      "path": "Clippers",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Guitar",
+      "path": "Guitar",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ProteinPills",
+      "path": "ProteinPills",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WindowCleaner",
+      "path": "WindowCleaner",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TravelMug",
+      "path": "TravelMug",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Metal_Objects",
+      "path": "Metal_Objects",
+      "super": "BreakableStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SprinklerHead",
+      "path": "SprinklerHead",
+      "super": "Metal_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Calculator",
+      "path": "Calculator",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HotChocolateMachine",
+      "path": "HotChocolateMachine",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Abomb_TV",
+      "path": "Abomb_TV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Menus",
+      "path": "Menus",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ComputerCase",
+      "path": "ComputerCase",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Punch",
+      "path": "Punch",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WireSpool",
+      "path": "WireSpool",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CigaretteCarton",
+      "path": "CigaretteCarton",
+      "super": "Boxes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SmokeDetector",
+      "path": "SmokeDetector",
+      "super": "Plastic_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Plastic_Objects",
+      "path": "Plastic_Objects",
+      "super": "BreakableStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Plunger",
+      "path": "Plunger",
+      "super": "Rubber",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Apple",
+      "path": "Apple",
+      "super": "Food",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_WallHangings",
+      "path": "RedLibrary_WallHangings",
+      "super": "WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TirePressureGauge",
+      "path": "TirePressureGauge",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Sander",
+      "path": "Sander",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CuttingBoard",
+      "path": "CuttingBoard",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CD_Stack",
+      "path": "CD_Stack",
+      "super": "Plastics",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "StyrofoamCup",
+      "path": "StyrofoamCup",
+      "super": "Soft_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Soft",
+      "path": "Soft",
+      "super": "BreakableStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TapeMeasure",
+      "path": "TapeMeasure",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MicrowaveOven",
+      "path": "MicrowaveOven",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Dustpan",
+      "path": "Dustpan",
+      "super": "Rubber",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ConsoleController",
+      "path": "ConsoleController",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DVDPlayer",
+      "path": "DVDPlayer",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BirthdayCake",
+      "path": "BirthdayCake",
+      "super": "Food",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "LunchCooler",
+      "path": "LunchCooler",
+      "super": "Containers_Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TimeClock",
+      "path": "TimeClock",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CookingOil",
+      "path": "CookingOil",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HotSauce",
+      "path": "HotSauce",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Signage",
+      "path": "Signage",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PaperTargetHavokSystem",
+      "path": "PaperTargetHavokSystem",
+      "super": "Engine.HavokSkeletalSystem",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodStrainer",
+      "path": "FoodStrainer",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CordonPost",
+      "path": "CordonPost",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrafficCone",
+      "path": "TrafficCone",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "LunchBox",
+      "path": "LunchBox",
+      "super": "Containers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Computer_Keyboard",
+      "path": "Computer_Keyboard",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Wrench",
+      "path": "Wrench",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "bucket",
+      "path": "bucket",
+      "super": "Containers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CleanserBottle",
+      "path": "CleanserBottle",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SprayPaint",
+      "path": "SprayPaint",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BoobyTrap_Bomb_Door_Trigger",
+      "path": "BoobyTrap_Bomb_Door_Trigger",
+      "super": "SwatGame.BoobyTrapDoorAttachment",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FanBelt",
+      "path": "FanBelt",
+      "super": "Rubber",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GasCan_Plastic",
+      "path": "GasCan_Plastic",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PaintTray",
+      "path": "PaintTray",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PaintCan",
+      "path": "PaintCan",
+      "super": "Containers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hammer",
+      "path": "Hammer",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HackSaw",
+      "path": "HackSaw",
+      "super": "Tools",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodTray",
+      "path": "FoodTray",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WaterJug",
+      "path": "WaterJug",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CaulkTube",
+      "path": "CaulkTube",
+      "super": "PaperAndCardboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Chandelier",
+      "path": "Chandelier",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WorkLight",
+      "path": "WorkLight",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pulley",
+      "path": "Pulley",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Wall_WallHangings",
+      "path": "Wall_WallHangings",
+      "super": "WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TeddyBear",
+      "path": "TeddyBear",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MixingBoard",
+      "path": "MixingBoard",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HardHat",
+      "path": "HardHat",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Training",
+      "path": "Training",
+      "super": "BreakableStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "IVStand",
+      "path": "IVStand",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HairTonic",
+      "path": "HairTonic",
+      "super": "Glass_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FryingBaskets",
+      "path": "FryingBaskets",
+      "super": "KitchenItems",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VideoTape",
+      "path": "VideoTape",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NapkinHolder",
+      "path": "NapkinHolder",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ConstructionPylon",
+      "path": "ConstructionPylon",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VideoCamera",
+      "path": "VideoCamera",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CarBattery",
+      "path": "CarBattery",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CoffeeThermos",
+      "path": "CoffeeThermos",
+      "super": "Containers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "IceBucket",
+      "path": "IceBucket",
+      "super": "Containers_Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "UsableObjects",
+      "path": "UsableObjects",
+      "super": "RWOSupport.ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Pitchfork",
+      "path": "Pitchfork",
+      "super": "Miscellaneous",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ComputerMouse",
+      "path": "ComputerMouse",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barrel",
+      "path": "Barrel",
+      "super": "Containers_Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ChannelList",
+      "path": "ChannelList",
+      "super": "Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilverwareCup",
+      "path": "SilverwareCup",
+      "super": "Plastics",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FireAlarm_Buzzer",
+      "path": "FireAlarm_Buzzer",
+      "super": "Electrical",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrainingDummyHavokSystem",
+      "path": "TrainingDummyHavokSystem",
+      "super": "Engine.HavokSkeletalSystem",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TestDynamicLight",
+      "path": "TestDynamicLight",
+      "super": "BreakableStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WallBomb",
+      "path": "WallBomb",
+      "super": "SwatGame.BombBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Con_windowFridgeBig",
+      "path": "Con_windowFridgeBig",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PowerPlant_InteriorWindow",
+      "path": "PowerPlant_InteriorWindow",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_WindowFrontL",
+      "path": "barb_WindowFrontL",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_GasCan_Explode",
+      "path": "Repo_GasCan_Explode",
+      "super": "ExplodingStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrainingLight",
+      "path": "TrainingLight",
+      "super": "TrainingStuff",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_FrontDoorUpperLeft",
+      "path": "con_FrontDoorUpperLeft",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_GasCan_Explode",
+      "path": "Conv_GasCan_Explode",
+      "super": "ExplodingStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_window",
+      "path": "Tenement_window",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CrownVicGreen",
+      "path": "CrownVicGreen",
+      "super": "Cars",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_windowUpper",
+      "path": "Silence_windowUpper",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilenceLivingRoom_TV",
+      "path": "SilenceLivingRoom_TV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_WindowPane2",
+      "path": "barb_WindowPane2",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_GlassCage",
+      "path": "Silence_GlassCage",
+      "super": "Glass",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CSBall",
+      "path": "CSBall",
+      "super": "SwatEquipment.CSBallBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_FrontDoorLowerRight",
+      "path": "con_FrontDoorLowerRight",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_windowLower",
+      "path": "Silence_windowLower",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_PipeBomb",
+      "path": "Tenement_PipeBomb",
+      "super": "ExplodingStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CrownVicRed",
+      "path": "CrownVicRed",
+      "super": "Cars",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "casino_tv",
+      "path": "casino_tv",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Foodwall_RefridComWallSmallGlass",
+      "path": "Foodwall_RefridComWallSmallGlass",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilenceBasement_TV",
+      "path": "SilenceBasement_TV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_GameTV",
+      "path": "Conv_GameTV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_CoffeeMug",
+      "path": "Jewelry_CoffeeMug",
+      "super": "CoffeeMug",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Foodwall_RefridComGlass",
+      "path": "Foodwall_RefridComGlass",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hosp_OxygenTank",
+      "path": "Hosp_OxygenTank",
+      "super": "ExplodingStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_FrontTopWindow",
+      "path": "Tenement_FrontTopWindow",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIP_SkyWindowLong",
+      "path": "VIP_SkyWindowLong",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_FrontDoorLowerLeft",
+      "path": "con_FrontDoorLowerLeft",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIP_SkyWindowCenter",
+      "path": "VIP_SkyWindowCenter",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_FrontDoorWindowBottom",
+      "path": "barb_FrontDoorWindowBottom",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_FrontDoorWindowTop",
+      "path": "barb_FrontDoorWindowTop",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_WindowFrontR",
+      "path": "barb_WindowFrontR",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_TestTubeRack",
+      "path": "DNA_TestTubeRack",
+      "super": "ScienceStuff",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_GasCan_Explode",
+      "path": "Tenement_GasCan_Explode",
+      "super": "ExplodingStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_PlateStack",
+      "path": "Tenement_PlateStack",
+      "super": "Dishes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Arms_windowLower",
+      "path": "Arms_windowLower",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Arms_windowUpper",
+      "path": "Arms_windowUpper",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_WindowFrontBig",
+      "path": "barb_WindowFrontBig",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_dirtyWindowDouble",
+      "path": "con_dirtyWindowDouble",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VendingMachineGlass",
+      "path": "VendingMachineGlass",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_KenoTV",
+      "path": "Conv_KenoTV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_Projector",
+      "path": "Jewelry_Projector",
+      "super": "Projector",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_CashRegister",
+      "path": "FoodWall_CashRegister",
+      "super": "CashRegister",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIP_InteriorWindow",
+      "path": "VIP_InteriorWindow",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_counterWIndow",
+      "path": "con_counterWIndow",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "NurseStation_Window",
+      "path": "NurseStation_Window",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_SecurityMonitor_CeilingMounted",
+      "path": "DNA_SecurityMonitor_CeilingMounted",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_dirtyWindowDouble",
+      "path": "repo_dirtyWindowDouble",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIP_SkyWindowShort",
+      "path": "VIP_SkyWindowShort",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HospitalMedium_TV",
+      "path": "HospitalMedium_TV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_Laptop",
+      "path": "Office_Laptop",
+      "super": "ComputerMonitor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Red_WindowPane",
+      "path": "Red_WindowPane",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_WindowPane3",
+      "path": "barb_WindowPane3",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HospitalSmall_TV",
+      "path": "HospitalSmall_TV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_FrontDoorUpperRight",
+      "path": "con_FrontDoorUpperRight",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_SecurityMonitor_WallMounted",
+      "path": "Jewelry_SecurityMonitor_WallMounted",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIP_FireHoseWindow",
+      "path": "VIP_FireHoseWindow",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_SurveillanceMonitor",
+      "path": "Jewelry_SurveillanceMonitor",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "con_FrontWindowLarge",
+      "path": "con_FrontWindowLarge",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_WireSpool",
+      "path": "Tenement_WireSpool",
+      "super": "WireSpool",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_CultBook",
+      "path": "Tenement_CultBook",
+      "super": "Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_MilkJug",
+      "path": "FoodWall_MilkJug",
+      "super": "MilkJug",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_ComputerCase",
+      "path": "Office_ComputerCase",
+      "super": "ComputerCase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bullseye_Menu",
+      "path": "Bullseye_Menu",
+      "super": "Menus",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WhiteBinder2",
+      "path": "WhiteBinder2",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Register",
+      "path": "Conv_Register",
+      "super": "CashRegister",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_Calculator",
+      "path": "Office_Calculator",
+      "super": "Calculator",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Sprinkler_Head",
+      "path": "Hotel_Sprinkler_Head",
+      "super": "SprinklerHead",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_TravelMug",
+      "path": "RedLibrary_TravelMug",
+      "super": "TravelMug",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_WindowCleaner",
+      "path": "Hotel_WindowCleaner",
+      "super": "WindowCleaner",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_JunctionBox",
+      "path": "Barber_JunctionBox",
+      "super": "JunctionBox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_BurgerLunch",
+      "path": "Office_BurgerLunch",
+      "super": "BurgerLunch",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_ProteinPills",
+      "path": "Tenement_ProteinPills",
+      "super": "ProteinPills",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_2LiterSoda",
+      "path": "Conv_2LiterSoda",
+      "super": "2LiterSoda",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_Needlenose",
+      "path": "Repo_Needlenose",
+      "super": "Pliers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_BusinessPhone",
+      "path": "Office_BusinessPhone",
+      "super": "Telephone",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Abomb_Guitar",
+      "path": "Abomb_Guitar",
+      "super": "Guitar",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_ComputerMonitor_Off",
+      "path": "Office_ComputerMonitor_Off",
+      "super": "ComputerMonitor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_copymachine",
+      "path": "repo_copymachine",
+      "super": "CopyMachine",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_Rolodex",
+      "path": "Office_Rolodex",
+      "super": "Miscellaneous",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_EmergencyLight",
+      "path": "Hotel_EmergencyLight",
+      "super": "EmergencyLight",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Foodwall_ExitSign",
+      "path": "Foodwall_ExitSign",
+      "super": "ExitSign",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_CashStack20s",
+      "path": "FoodWall_CashStack20s",
+      "super": "Cash_Stack",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_Pliers",
+      "path": "Repo_Pliers",
+      "super": "Pliers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ABomb_Liquor_Whiskey",
+      "path": "ABomb_Liquor_Whiskey",
+      "super": "Liquor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_PaperTowels",
+      "path": "FoodWall_PaperTowels",
+      "super": "PaperProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_VCR",
+      "path": "Jewelry_VCR",
+      "super": "VCR",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ABomb_Liquor_Vodka",
+      "path": "ABomb_Liquor_Vodka",
+      "super": "Liquor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Mayhem_TV",
+      "path": "Mayhem_TV",
+      "super": "Abomb_TV",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_BeerBottle",
+      "path": "FoodWall_BeerBottle",
+      "super": "BeerBottle",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Foodwall_CashStack10s",
+      "path": "Foodwall_CashStack10s",
+      "super": "Cash_Stack",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_PaperTowel6Pack",
+      "path": "FoodWall_PaperTowel6Pack",
+      "super": "PaperProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_PlainContainerStack",
+      "path": "FoodWall_PlainContainerStack",
+      "super": "PlainContainer",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_CashStack20s",
+      "path": "Barber_CashStack20s",
+      "super": "Cash_Stack",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Abomb_BeerBottleOne",
+      "path": "Abomb_BeerBottleOne",
+      "super": "BeerBottle",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Carton",
+      "path": "Conv_Carton",
+      "super": "CigaretteCarton",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_SmokeDetector",
+      "path": "Hotel_SmokeDetector",
+      "super": "SmokeDetector",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Ashtray_Full",
+      "path": "Barber_Ashtray_Full",
+      "super": "Ashtray",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Boombox",
+      "path": "FoodWall_Boombox",
+      "super": "Boombox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Plunger",
+      "path": "Hotel_Plunger",
+      "super": "Plunger",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Apple",
+      "path": "Conv_Apple",
+      "super": "Apple",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_2LiterSoda2",
+      "path": "Conv_2LiterSoda2",
+      "super": "2LiterSoda",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_PaperTowels_NotWrapped",
+      "path": "FoodWall_PaperTowels_NotWrapped",
+      "super": "PaperProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Painting6",
+      "path": "Silence_Painting6",
+      "super": "Silence_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "arms_trashcan_lid",
+      "path": "arms_trashcan_lid",
+      "super": "TrashCan_Lid",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_ToiletPaper",
+      "path": "FoodWall_ToiletPaper",
+      "super": "PaperProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_SinclairPainting",
+      "path": "RedLibrary_SinclairPainting",
+      "super": "RedLibrary_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "MissionExitDoor",
+      "path": "MissionExitDoor",
+      "super": "RWOSupport.ReactiveStaticMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Ashtray_Butts",
+      "path": "FoodWall_Ashtray_Butts",
+      "super": "Ashtray",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Abomb_Liquor",
+      "path": "Abomb_Liquor",
+      "super": "Liquor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Ashtray_Black",
+      "path": "Barber_Ashtray_Black",
+      "super": "Ashtray",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PowerPlant_exteriorPane3",
+      "path": "PowerPlant_exteriorPane3",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PowerPlant_exteriorPane2",
+      "path": "PowerPlant_exteriorPane2",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PowerPlant_exteriorPane1",
+      "path": "PowerPlant_exteriorPane1",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_BathBasket",
+      "path": "FoodWall_BathBasket",
+      "super": "WasteBasket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ABomb_BeerBottleTwo",
+      "path": "ABomb_BeerBottleTwo",
+      "super": "BeerBottle",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_ChineseFoodBox",
+      "path": "FoodWall_ChineseFoodBox",
+      "super": "ChineseFoodBox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Abomb_Liquor_Champagne",
+      "path": "Abomb_Liquor_Champagne",
+      "super": "Liquor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_CD_Stack",
+      "path": "Office_CD_Stack",
+      "super": "CD_Stack",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PowerPlant_exteriorPane4",
+      "path": "PowerPlant_exteriorPane4",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_StyrofoamCup",
+      "path": "Office_StyrofoamCup",
+      "super": "StyrofoamCup",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_BurgerLunch",
+      "path": "Hotel_BurgerLunch",
+      "super": "BurgerLunch",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_SourCreamChips",
+      "path": "Conv_SourCreamChips",
+      "super": "PotatoChips",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_ArmLamp",
+      "path": "Office_ArmLamp",
+      "super": "LightFixtures",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Convenience_FridgeGlassDoor",
+      "path": "Convenience_FridgeGlassDoor",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Generic_DoorwayWithoutDoor",
+      "path": "Generic_DoorwayWithoutDoor",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Abomb_Standard_Door",
+      "path": "Abomb_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_FrontSideWindow",
+      "path": "Tenement_FrontSideWindow",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WhiteBinder1",
+      "path": "WhiteBinder1",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlueBinder2",
+      "path": "BlueBinder2",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlackBinder3",
+      "path": "BlackBinder3",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_LunchCooler",
+      "path": "Hotel_LunchCooler",
+      "super": "LunchCooler",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_BirthdayCake",
+      "path": "Hospital_BirthdayCake",
+      "super": "BirthdayCake",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_DVDPlayer",
+      "path": "RedLibrary_DVDPlayer",
+      "super": "DVDPlayer",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_gascan_Empty",
+      "path": "repo_gascan_Empty",
+      "super": "GasCan",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlackBinder4",
+      "path": "BlackBinder4",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlueBinder4",
+      "path": "BlueBinder4",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_Microwave",
+      "path": "RedLibrary_Microwave",
+      "super": "MicrowaveOven",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Boombox",
+      "path": "Hotel_Boombox",
+      "super": "Boombox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_DVDRemote",
+      "path": "RedLibrary_DVDRemote",
+      "super": "RemoteControls",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WhiteBinder4",
+      "path": "WhiteBinder4",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_ConsoleController",
+      "path": "RedLibrary_ConsoleController",
+      "super": "ConsoleController",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_SodaCan3",
+      "path": "Office_SodaCan3",
+      "super": "SodaAndBeerCans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_TissueBox2",
+      "path": "Office_TissueBox2",
+      "super": "TissueBox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_FlatPanel",
+      "path": "Office_FlatPanel",
+      "super": "ComputerMonitor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Cereal2",
+      "path": "Conv_Cereal2",
+      "super": "Cereal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlackBinder1",
+      "path": "BlackBinder1",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlackBinder2",
+      "path": "BlackBinder2",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_SodaCan1",
+      "path": "Office_SodaCan1",
+      "super": "SodaAndBeerCans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_Clipboard",
+      "path": "Office_Clipboard",
+      "super": "Clipboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_SodaCan2",
+      "path": "Office_SodaCan2",
+      "super": "SodaAndBeerCans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_JunctionBox",
+      "path": "Hotel_JunctionBox",
+      "super": "JunctionBox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_HDTV",
+      "path": "RedLibrary_HDTV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_HotSauce",
+      "path": "FoodWall_HotSauce",
+      "super": "HotSauce",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlueBinder1",
+      "path": "BlueBinder1",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_CoffeeMug",
+      "path": "RedLibrary_CoffeeMug",
+      "super": "CoffeeMug",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_ShortPot",
+      "path": "Tenement_ShortPot",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_FryingPan",
+      "path": "Tenement_FryingPan",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_TissueBox1",
+      "path": "Office_TissueBox1",
+      "super": "TissueBox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Strainer",
+      "path": "FoodWall_Strainer",
+      "super": "FoodStrainer",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_SoySauce_RedCap",
+      "path": "FoodWall_SoySauce_RedCap",
+      "super": "SoySauce",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Spatula",
+      "path": "FoodWall_Spatula",
+      "super": "Spatula",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_TrafficCone",
+      "path": "Repo_TrafficCone",
+      "super": "TrafficCone",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HardcoverBook3",
+      "path": "HardcoverBook3",
+      "super": "Office_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HardcoverBook7",
+      "path": "HardcoverBook7",
+      "super": "Office_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_Keyboard",
+      "path": "Office_Keyboard",
+      "super": "Computer_Keyboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_Standard_Door",
+      "path": "RedLibrary_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_PipeBomb_Pipe",
+      "path": "Tenement_PipeBomb_Pipe",
+      "super": "PipeBomb",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_bucket",
+      "path": "repo_bucket",
+      "super": "bucket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Plank",
+      "path": "Silence_Plank",
+      "super": "Plank",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_CoffeeCan",
+      "path": "Silence_CoffeeCan",
+      "super": "SmallCans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_TouchTonePhone",
+      "path": "Repo_TouchTonePhone",
+      "super": "Telephone",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_CleanserBottle",
+      "path": "Hotel_CleanserBottle",
+      "super": "CleanserBottle",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "junk_spraypaint",
+      "path": "junk_spraypaint",
+      "super": "SprayPaint",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_FryingPan",
+      "path": "FoodWall_FryingPan",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_MilkJug",
+      "path": "Tenement_MilkJug",
+      "super": "MilkJug",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_GasCan_Plastic_Empty",
+      "path": "Tenement_GasCan_Plastic_Empty",
+      "super": "GasCan_Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_PaintTray",
+      "path": "Hotel_PaintTray",
+      "super": "PaintTray",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_PaintCan",
+      "path": "Hotel_PaintCan",
+      "super": "PaintCan",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_MeasuringCup",
+      "path": "Tenement_MeasuringCup",
+      "super": "MeasuringCup",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_PaintRoller_Short",
+      "path": "Hotel_PaintRoller_Short",
+      "super": "PaintRoller",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Hammer",
+      "path": "Hotel_Hammer",
+      "super": "Hammer",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Ladle",
+      "path": "Tenement_Ladle",
+      "super": "Ladle",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Plank",
+      "path": "Tenement_Plank",
+      "super": "Plank",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_Hacksaw",
+      "path": "Repo_Hacksaw",
+      "super": "HackSaw",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Pliers",
+      "path": "Tenement_Pliers",
+      "super": "Pliers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_5GallonBucket_Lid",
+      "path": "Tenement_5GallonBucket_Lid",
+      "super": "5GallonBucket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_5GallonBucket_Empty",
+      "path": "Tenement_5GallonBucket_Empty",
+      "super": "5GallonBucket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Arms_Standard_Door",
+      "path": "Arms_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_TapeMeasure",
+      "path": "Hotel_TapeMeasure",
+      "super": "TapeMeasure",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_FlowerVase",
+      "path": "Hotel_FlowerVase",
+      "super": "Ceramic_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Dustpan",
+      "path": "Hotel_Dustpan",
+      "super": "Dustpan",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_Clipboard",
+      "path": "Hospital_Clipboard",
+      "super": "Clipboard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_WhiskBroom",
+      "path": "FoodWall_WhiskBroom",
+      "super": "Brooms",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_SoySauce_GreenCap",
+      "path": "FoodWall_SoySauce_GreenCap",
+      "super": "SoySauce",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_fanbelt",
+      "path": "repo_fanbelt",
+      "super": "FanBelt",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_box_brakes",
+      "path": "repo_box_brakes",
+      "super": "AutoPartsBoxes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "dna_waterjug",
+      "path": "dna_waterjug",
+      "super": "WaterJug",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_CaulkTube",
+      "path": "Hotel_CaulkTube",
+      "super": "CaulkTube",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_MilkJug_Cut",
+      "path": "Tenement_MilkJug_Cut",
+      "super": "Containers_Plastic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_UtilityLight_Off",
+      "path": "Silence_UtilityLight_Off",
+      "super": "UtilityLight",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bullseye_Steak",
+      "path": "Bullseye_Steak",
+      "super": "Meat",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bullseye_Pitchfork",
+      "path": "Bullseye_Pitchfork",
+      "super": "Pitchfork",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_FoodTray",
+      "path": "FoodWall_FoodTray",
+      "super": "FoodTray",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_DisinfectantJar",
+      "path": "Barber_DisinfectantJar",
+      "super": "Glass",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_PotCover",
+      "path": "FoodWall_PotCover",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_AirDrill_WhiteTip",
+      "path": "Repo_AirDrill_WhiteTip",
+      "super": "Drill",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_AirDrill_BlackTip",
+      "path": "Repo_AirDrill_BlackTip",
+      "super": "Drill",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_BarBQChips",
+      "path": "Conv_BarBQChips",
+      "super": "PotatoChips",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_Sander",
+      "path": "Repo_Sander",
+      "super": "Sander",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_TirePressureGauge",
+      "path": "Repo_TirePressureGauge",
+      "super": "TirePressureGauge",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_PlateStack",
+      "path": "Silence_PlateStack",
+      "super": "Dishes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_MilkCartonRed",
+      "path": "Conv_MilkCartonRed",
+      "super": "MilkCarton",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_TVDinnerBox",
+      "path": "Silence_TVDinnerBox",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_FryingBasket_WithHandle",
+      "path": "FoodWall_FryingBasket_WithHandle",
+      "super": "FryingBasket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "dna_squeezebottle",
+      "path": "dna_squeezebottle",
+      "super": "SqueezeBottle",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_Clippers",
+      "path": "Repo_Clippers",
+      "super": "Clippers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_GiftBasket",
+      "path": "Hotel_GiftBasket",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Dish_WheatMotif",
+      "path": "Silence_Dish_WheatMotif",
+      "super": "Dishes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Dish_LightBlue",
+      "path": "Silence_Dish_LightBlue",
+      "super": "Dishes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_RX_Box",
+      "path": "Hospital_RX_Box",
+      "super": "Medical_Supplies",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_ShortPot",
+      "path": "FoodWall_ShortPot",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_Punch",
+      "path": "Repo_Punch",
+      "super": "Punch",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Drill",
+      "path": "Hotel_Drill",
+      "super": "Drill",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_BathCap3",
+      "path": "Hotel_BathCap3",
+      "super": "BathProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_BathBottle2",
+      "path": "Hotel_BathBottle2",
+      "super": "BathProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_BathBottle1",
+      "path": "Hotel_BathBottle1",
+      "super": "BathProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_ExtensionCord_Winder",
+      "path": "Barber_ExtensionCord_Winder",
+      "super": "ExtensionCord_Winder",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "dna_book1",
+      "path": "dna_book1",
+      "super": "DNA_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_CaulkGun_Full",
+      "path": "Hotel_CaulkGun_Full",
+      "super": "CaulkGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_PaintRoller_Long",
+      "path": "Hotel_PaintRoller_Long",
+      "super": "PaintRoller",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_CottageCheese_Empty",
+      "path": "FoodWall_CottageCheese_Empty",
+      "super": "CottageCheese",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_FryingBasket",
+      "path": "FoodWall_FryingBasket",
+      "super": "FryingBasket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "dna_microscope",
+      "path": "dna_microscope",
+      "super": "Microscope",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_StorageBinBlue",
+      "path": "DNA_StorageBinBlue",
+      "super": "StorageBin",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_BathBox1",
+      "path": "Hotel_BathBox1",
+      "super": "BathProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_Gauze",
+      "path": "Hospital_Gauze",
+      "super": "Medical_Supplies",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_MeasuringCup",
+      "path": "FoodWall_MeasuringCup",
+      "super": "MeasuringCup",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_KitchenBroom",
+      "path": "Conv_KitchenBroom",
+      "super": "Brooms",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Ladle",
+      "path": "FoodWall_Ladle",
+      "super": "Ladle",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_TV_Remote",
+      "path": "FoodWall_TV_Remote",
+      "super": "RemoteControls",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_BlackBinder1",
+      "path": "DNA_BlackBinder1",
+      "super": "dna_binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_BathBasket",
+      "path": "Barber_BathBasket",
+      "super": "WasteBasket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_BathBox2",
+      "path": "Hotel_BathBox2",
+      "super": "BathProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_BathCap2",
+      "path": "Hotel_BathCap2",
+      "super": "BathProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_ChannelList",
+      "path": "Hotel_ChannelList",
+      "super": "ChannelList",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_TallPot",
+      "path": "FoodWall_TallPot",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_BathBottle3",
+      "path": "Hotel_BathBottle3",
+      "super": "BathProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_BathCap1",
+      "path": "Hotel_BathCap1",
+      "super": "BathProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_ViceGripsLarge",
+      "path": "Repo_ViceGripsLarge",
+      "super": "ViceGrips",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_IceBucket",
+      "path": "Hotel_IceBucket",
+      "super": "IceBucket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_ViceGripsSmall",
+      "path": "Repo_ViceGripsSmall",
+      "super": "ViceGrips",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_Reagent",
+      "path": "DNA_Reagent",
+      "super": "Chemicals",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_Wrench",
+      "path": "Repo_Wrench",
+      "super": "Wrench",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Steamer",
+      "path": "FoodWall_Steamer",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Plank",
+      "path": "Hotel_Plank",
+      "super": "Plank",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_PlainWhite",
+      "path": "Tenement_PlainWhite",
+      "super": "Dishes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_PlainContainer",
+      "path": "FoodWall_PlainContainer",
+      "super": "PlainContainer",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Cov_CoffeeThermos",
+      "path": "Cov_CoffeeThermos",
+      "super": "CoffeeThermos",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_CableBox_On",
+      "path": "FoodWall_CableBox_On",
+      "super": "CableBox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_ChineseFoodStack",
+      "path": "FoodWall_ChineseFoodStack",
+      "super": "ChineseFoodBox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_PushBroom",
+      "path": "FoodWall_PushBroom",
+      "super": "Brooms",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_VeggieSoup",
+      "path": "Tenement_VeggieSoup",
+      "super": "SmallCans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_NapkinHolder",
+      "path": "FoodWall_NapkinHolder",
+      "super": "NapkinHolder",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_ShavingBrush",
+      "path": "Barber_ShavingBrush",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "conv_lettuce",
+      "path": "conv_lettuce",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_CaulkGun_Empty",
+      "path": "Hotel_CaulkGun_Empty",
+      "super": "CaulkGun",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_AutopsyScale_Cable",
+      "path": "Hospital_AutopsyScale_Cable",
+      "super": "AutopsyScale",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_AutopsyScale_Dial",
+      "path": "Hospital_AutopsyScale_Dial",
+      "super": "AutopsyScale",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_AutopsyScale_Pan",
+      "path": "Hospital_AutopsyScale_Pan",
+      "super": "AutopsyScale",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bullseye_FryingBasket",
+      "path": "Bullseye_FryingBasket",
+      "super": "FryingBaskets",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_HairTonic",
+      "path": "Barber_HairTonic",
+      "super": "HairTonic",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_box_filter",
+      "path": "repo_box_filter",
+      "super": "AutoPartsBoxes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_TeddyBear",
+      "path": "Hospital_TeddyBear",
+      "super": "TeddyBear",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Pumpkin",
+      "path": "Silence_Pumpkin",
+      "super": "Food_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Jack-o-lantern",
+      "path": "Silence_Jack-o-lantern",
+      "super": "Food_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_5GallonBucket_Closed",
+      "path": "Tenement_5GallonBucket_Closed",
+      "super": "5GallonBucket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Cereal1",
+      "path": "Conv_Cereal1",
+      "super": "Cereal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Captain_KnickKnack",
+      "path": "Silence_Captain_KnickKnack",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_CageLid",
+      "path": "Silence_CageLid",
+      "super": "Miscellaneous",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Crucifix",
+      "path": "Silence_Crucifix",
+      "super": "Silence_Misc",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_2LiterSoda3",
+      "path": "Conv_2LiterSoda3",
+      "super": "2LiterSoda",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bullseye_MeatLoin",
+      "path": "Bullseye_MeatLoin",
+      "super": "Meat",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Wok_Lid",
+      "path": "FoodWall_Wok_Lid",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Videotape",
+      "path": "Conv_Videotape",
+      "super": "VideoTape",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_CarBattery",
+      "path": "Repo_CarBattery",
+      "super": "CarBattery",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_SilverwareCup",
+      "path": "Tenement_SilverwareCup",
+      "super": "SilverwareCup",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_MeatCleaver",
+      "path": "FoodWall_MeatCleaver",
+      "super": "MeatCleaver",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_BigPliers",
+      "path": "Repo_BigPliers",
+      "super": "Pliers",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_CookingOil",
+      "path": "FoodWall_CookingOil",
+      "super": "CookingOil",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_PlainChips",
+      "path": "Conv_PlainChips",
+      "super": "PotatoChips",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_MilkCartonBlue",
+      "path": "Conv_MilkCartonBlue",
+      "super": "MilkCarton",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_FullMask",
+      "path": "Silence_FullMask",
+      "super": "Silence_PapierMache",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Leg_Right",
+      "path": "Silence_Leg_Right",
+      "super": "Silence_PapierMache",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Leg_left",
+      "path": "Silence_Leg_left",
+      "super": "Silence_PapierMache",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Shutter",
+      "path": "Silence_Shutter",
+      "super": "Silence_Misc",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Painting5",
+      "path": "Silence_Painting5",
+      "super": "Silence_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_HardHat",
+      "path": "Hotel_HardHat",
+      "super": "HardHat",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_LunchBox",
+      "path": "Hotel_LunchBox",
+      "super": "LunchBox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Dish_GoldTrim",
+      "path": "Silence_Dish_GoldTrim",
+      "super": "Dishes",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Ashtray_Butts",
+      "path": "Barber_Ashtray_Butts",
+      "super": "Ashtray",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Halfmask",
+      "path": "Silence_Halfmask",
+      "super": "Silence_PapierMache",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_TwineShort",
+      "path": "Silence_TwineShort",
+      "super": "HangingTwine",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Lawyers_Standard_Door",
+      "path": "Lawyers_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_Acid",
+      "path": "DNA_Acid",
+      "super": "Chemicals",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Wok",
+      "path": "FoodWall_Wok",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Door_Right_Top",
+      "path": "Tenement_Door_Right_Top",
+      "super": "Tenement_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Door_Left_Top",
+      "path": "Tenement_Door_Left_Top",
+      "super": "Tenement_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Door_Right_SmallOne",
+      "path": "Tenement_Door_Right_SmallOne",
+      "super": "Tenement_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Door_Right_Bottom",
+      "path": "Tenement_Door_Right_Bottom",
+      "super": "Tenement_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Door_Left_Bottom",
+      "path": "Tenement_Door_Left_Bottom",
+      "super": "Tenement_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Projector",
+      "path": "Tenement_Projector",
+      "super": "Projector",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_TV",
+      "path": "Hospital_TV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_CableBox_On",
+      "path": "Hotel_CableBox_On",
+      "super": "CableBox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_TV",
+      "path": "Conv_TV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_MilkJug",
+      "path": "Silence_MilkJug",
+      "super": "MilkJug",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Drill",
+      "path": "Tenement_Drill",
+      "super": "Drill",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Door_Left_TopTwo",
+      "path": "Tenement_Door_Left_TopTwo",
+      "super": "Tenement_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Door_Right_SmallTwo",
+      "path": "Tenement_Door_Right_SmallTwo",
+      "super": "Tenement_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Door_Right_TopTwo",
+      "path": "Tenement_Door_Right_TopTwo",
+      "super": "Tenement_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Spatula",
+      "path": "Tenement_Spatula",
+      "super": "Spatula",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_MeatCleaver",
+      "path": "Tenement_MeatCleaver",
+      "super": "MeatCleaver",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Standard_Door",
+      "path": "Tenement_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_TeddyBear_Balloon",
+      "path": "Hospital_TeddyBear_Balloon",
+      "super": "MylarBalloon",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_GetWell_Balloon",
+      "path": "Hospital_GetWell_Balloon",
+      "super": "MylarBalloon",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Abomb_CoffeePot",
+      "path": "Abomb_CoffeePot",
+      "super": "CoffeePot",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_HotChocolateMachine",
+      "path": "Conv_HotChocolateMachine",
+      "super": "HotChocolateMachine",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Window2",
+      "path": "FoodWall_Window2",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "barb_WindowPane1",
+      "path": "barb_WindowPane1",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Window1",
+      "path": "FoodWall_Window1",
+      "super": "Windows",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "arms_trashcan_full",
+      "path": "arms_trashcan_full",
+      "super": "TrashCan",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_55GallonDrum",
+      "path": "Tenement_55GallonDrum",
+      "super": "55GallonDrums",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_CoffeeCan",
+      "path": "Tenement_CoffeeCan",
+      "super": "SmallCans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Picture10",
+      "path": "Barber_Picture10",
+      "super": "Barber_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Art5",
+      "path": "FoodWall_Art5",
+      "super": "FoodWall_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Picture4",
+      "path": "Barber_Picture4",
+      "super": "Barber_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_TrashCan_Full",
+      "path": "Barber_TrashCan_Full",
+      "super": "TrashCan",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Picture9",
+      "path": "Barber_Picture9",
+      "super": "Barber_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Portrait",
+      "path": "Hotel_Portrait",
+      "super": "Hotel_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_SteamerCover",
+      "path": "FoodWall_SteamerCover",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Arms_DumpsterCover_Right",
+      "path": "Arms_DumpsterCover_Right",
+      "super": "DumpsterCover",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_UtilityLight_Off",
+      "path": "Tenement_UtilityLight_Off",
+      "super": "UtilityLight",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_TrashCan_Lid",
+      "path": "FoodWall_TrashCan_Lid",
+      "super": "TrashCan_Lid",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_TallPot",
+      "path": "Tenement_TallPot",
+      "super": "PotsAndPans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "arms_trashcan_empty",
+      "path": "arms_trashcan_empty",
+      "super": "TrashCan",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_PotteryPainting",
+      "path": "Hotel_PotteryPainting",
+      "super": "Hotel_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Picture2",
+      "path": "Barber_Picture2",
+      "super": "Barber_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_CableBox_Off",
+      "path": "Hotel_CableBox_Off",
+      "super": "CableBox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_BiohazardBin",
+      "path": "DNA_BiohazardBin",
+      "super": "StorageBin",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_PipeBomb_Fuse",
+      "path": "Tenement_PipeBomb_Fuse",
+      "super": "PipeBomb",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Junk_BeerCan1",
+      "path": "Junk_BeerCan1",
+      "super": "SodaAndBeerCans",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "dna_book2",
+      "path": "dna_book2",
+      "super": "DNA_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Art6",
+      "path": "FoodWall_Art6",
+      "super": "FoodWall_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "dna_book3",
+      "path": "dna_book3",
+      "super": "DNA_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Art2",
+      "path": "FoodWall_Art2",
+      "super": "FoodWall_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_BlackBinder2",
+      "path": "DNA_BlackBinder2",
+      "super": "dna_binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Art4",
+      "path": "FoodWall_Art4",
+      "super": "FoodWall_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_GasCan_Empty",
+      "path": "Conv_GasCan_Empty",
+      "super": "GasCan",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Landscape",
+      "path": "Hotel_Landscape",
+      "super": "Hotel_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Picture5",
+      "path": "Barber_Picture5",
+      "super": "Barber_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_TrashCan_Lid",
+      "path": "Barber_TrashCan_Lid",
+      "super": "TrashCan_Lid",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Picture3",
+      "path": "Barber_Picture3",
+      "super": "Barber_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Picture8",
+      "path": "Barber_Picture8",
+      "super": "Barber_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_creeper",
+      "path": "repo_creeper",
+      "super": "AutoRepair_Creeper",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_ClipperShip",
+      "path": "Hotel_ClipperShip",
+      "super": "Hotel_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_TrashCan_Empty",
+      "path": "Barber_TrashCan_Empty",
+      "super": "TrashCan",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Picture7",
+      "path": "Barber_Picture7",
+      "super": "Barber_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Training_Drum3",
+      "path": "Training_Drum3",
+      "super": "55GallonDrums",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_55GallonDrum",
+      "path": "FoodWall_55GallonDrum",
+      "super": "55GallonDrums",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Creeper",
+      "path": "Conv_Creeper",
+      "super": "AutoRepair_Creeper",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Picture6",
+      "path": "Barber_Picture6",
+      "super": "Barber_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Training_Drum2",
+      "path": "Training_Drum2",
+      "super": "55GallonDrums",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_55GallonDrum",
+      "path": "Conv_55GallonDrum",
+      "super": "55GallonDrums",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_StorageBinYellow",
+      "path": "DNA_StorageBinYellow",
+      "super": "StorageBin",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Picture1",
+      "path": "Barber_Picture1",
+      "super": "Barber_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Arms_55GallonDrum",
+      "path": "Arms_55GallonDrum",
+      "super": "55GallonDrums",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Arms_DumpsterCover_Left",
+      "path": "Arms_DumpsterCover_Left",
+      "super": "DumpsterCover",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_CottageCheese",
+      "path": "Tenement_CottageCheese",
+      "super": "CottageCheese",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_motoroil_white",
+      "path": "repo_motoroil_white",
+      "super": "MotorOil",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Art3",
+      "path": "FoodWall_Art3",
+      "super": "FoodWall_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PaperTargetSkeletalSystem",
+      "path": "PaperTargetSkeletalSystem",
+      "super": "Engine.HavokActor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_RedPop",
+      "path": "Conv_RedPop",
+      "super": "Signage",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_HallwayChandelier",
+      "path": "Jewelry_HallwayChandelier",
+      "super": "Chandelier",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Worklight",
+      "path": "Hotel_Worklight",
+      "super": "WorkLight",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Pulley",
+      "path": "Tenement_Pulley",
+      "super": "Pulley",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SniperDummy",
+      "path": "SniperDummy",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Painting2",
+      "path": "Silence_Painting2",
+      "super": "Silence_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Painting1",
+      "path": "Silence_Painting1",
+      "super": "Silence_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_SupplyCabinetDoor_Left",
+      "path": "Office_SupplyCabinetDoor_Left",
+      "super": "Doors_Cabinet",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_SupplyCabinetDoor_Right",
+      "path": "Office_SupplyCabinetDoor_Right",
+      "super": "Doors_Cabinet",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_VelvetRope_Stretched",
+      "path": "Jewelry_VelvetRope_Stretched",
+      "super": "VelvetRope",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Twine128",
+      "path": "Silence_Twine128",
+      "super": "HangingTwine",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Training_Chain",
+      "path": "Training_Chain",
+      "super": "HangingTwine",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Abomb_Cymbal",
+      "path": "Abomb_Cymbal",
+      "super": "Miscellaneous",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_SuitBag",
+      "path": "Hotel_SuitBag",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Cabbage",
+      "path": "FoodWall_Cabbage",
+      "super": "Other",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HardcoverBook8",
+      "path": "HardcoverBook8",
+      "super": "Office_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HardcoverBook4",
+      "path": "HardcoverBook4",
+      "super": "Office_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Soap",
+      "path": "Conv_Soap",
+      "super": "Soap",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HardcoverBook5",
+      "path": "HardcoverBook5",
+      "super": "Office_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HardcoverBook2",
+      "path": "HardcoverBook2",
+      "super": "Office_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Foodwall_CuttingBoard",
+      "path": "Foodwall_CuttingBoard",
+      "super": "CuttingBoard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HardcoverBook6",
+      "path": "HardcoverBook6",
+      "super": "Office_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HardcoverBook1",
+      "path": "HardcoverBook1",
+      "super": "Office_Books",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_Projector",
+      "path": "RedLibrary_Projector",
+      "super": "Projector",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Training_BulletBackstop",
+      "path": "Training_BulletBackstop",
+      "super": "Training",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Donuts",
+      "path": "Hotel_Donuts",
+      "super": "Donuts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "CrownVicWhite",
+      "path": "CrownVicWhite",
+      "super": "Cars",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_DumpsterCover_Left",
+      "path": "FoodWall_DumpsterCover_Left",
+      "super": "DumpsterCover",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_DumpsterCover_Right",
+      "path": "FoodWall_DumpsterCover_Right",
+      "super": "DumpsterCover",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PopUpTarget",
+      "path": "PopUpTarget",
+      "super": "Metal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_CordonPost",
+      "path": "Jewelry_CordonPost",
+      "super": "CordonPost",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_CameraBubble",
+      "path": "Jewelry_CameraBubble",
+      "super": "Glass",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_tv",
+      "path": "repo_tv",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_GlobeFixture",
+      "path": "Jewelry_GlobeFixture",
+      "super": "Glass",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_GlobeFixture_Wall",
+      "path": "Jewelry_GlobeFixture_Wall",
+      "super": "Glass",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BoobyTrap_Door_Bomb",
+      "path": "BoobyTrap_Door_Bomb",
+      "super": "SwatGame.BoobyTrap_Door",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Painting3",
+      "path": "Silence_Painting3",
+      "super": "Silence_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Door_Right_Bottom",
+      "path": "Door_Right_Bottom",
+      "super": "Silence_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Door_Right_Top",
+      "path": "Door_Right_Top",
+      "super": "Silence_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Door_Left_Top",
+      "path": "Door_Left_Top",
+      "super": "Silence_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_arm",
+      "path": "Silence_arm",
+      "super": "Silence_PapierMache",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Door_Left_Bottom",
+      "path": "Door_Left_Bottom",
+      "super": "Silence_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Painting4",
+      "path": "Silence_Painting4",
+      "super": "Silence_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_TV",
+      "path": "FoodWall_TV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_TimeClock",
+      "path": "Repo_TimeClock",
+      "super": "TimeClock",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_motoroil_blue",
+      "path": "repo_motoroil_blue",
+      "super": "MotorOil",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Ashtray_Full",
+      "path": "Conv_Ashtray_Full",
+      "super": "Ashtray",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_bathbasket",
+      "path": "repo_bathbasket",
+      "super": "WasteBasket",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_StorageBin",
+      "path": "Repo_StorageBin",
+      "super": "StorageBin",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_55GallonDrum",
+      "path": "Repo_55GallonDrum",
+      "super": "55GallonDrums",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_coffeepot",
+      "path": "repo_coffeepot",
+      "super": "CoffeePot",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BoobyTrap_Door_Alarm",
+      "path": "BoobyTrap_Door_Alarm",
+      "super": "SwatGame.BoobyTrap_Door",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_Barrel",
+      "path": "Repo_Barrel",
+      "super": "Barrel",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Training_Drum1",
+      "path": "Training_Drum1",
+      "super": "55GallonDrums",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNAObjectiveBriefcase",
+      "path": "DNAObjectiveBriefcase",
+      "super": "SwatGame.StaticEvidence",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Ashtray_NoButts",
+      "path": "Hotel_Ashtray_NoButts",
+      "super": "Ashtray",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Candy1",
+      "path": "Conv_Candy1",
+      "super": "Food_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Standard_Door",
+      "path": "Hotel_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_PipeBomb_Cap",
+      "path": "Tenement_PipeBomb_Cap",
+      "super": "PipeBomb",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_ICU_Monitor",
+      "path": "Hospital_ICU_Monitor",
+      "super": "ICU_Monitor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bomb",
+      "path": "Bomb",
+      "super": "SwatGame.BombBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "wall_badart",
+      "path": "wall_badart",
+      "super": "Wall_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_BoomBox",
+      "path": "Silence_BoomBox",
+      "super": "Boombox",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_DumpsterCover_Left",
+      "path": "Conv_DumpsterCover_Left",
+      "super": "DumpsterCover",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_DumpsterCover_Right",
+      "path": "Conv_DumpsterCover_Right",
+      "super": "DumpsterCover",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_CoffeePot",
+      "path": "Tenement_CoffeePot",
+      "super": "CoffeePot",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_CoffeePot",
+      "path": "Hospital_CoffeePot",
+      "super": "CoffeePot",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_CoffeePot",
+      "path": "Silence_CoffeePot",
+      "super": "CoffeePot",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_pylon",
+      "path": "repo_pylon",
+      "super": "ConstructionPylon",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_VelvetRope_Coiled",
+      "path": "Jewelry_VelvetRope_Coiled",
+      "super": "VelvetRope",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TV_Dinner",
+      "path": "TV_Dinner",
+      "super": "Food_Objects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_BlackBinder4",
+      "path": "DNA_BlackBinder4",
+      "super": "dna_binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_BlackBinder3",
+      "path": "DNA_BlackBinder3",
+      "super": "dna_binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DeployedWedge",
+      "path": "DeployedWedge",
+      "super": "SwatGame.DeployedWedgeBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DeployedC2Charge",
+      "path": "DeployedC2Charge",
+      "super": "SwatGame.DeployedC2ChargeBase",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PowerPlant_Standard_Door",
+      "path": "PowerPlant_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bullseye_Ribs",
+      "path": "Bullseye_Ribs",
+      "super": "Meat",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodwallObjectiveGun",
+      "path": "FoodwallObjectiveGun",
+      "super": "SwatGame.StaticEvidence",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Torso_Back",
+      "path": "Silence_Torso_Back",
+      "super": "Silence_PapierMache",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Silence_Torso_Front",
+      "path": "Silence_Torso_Front",
+      "super": "Silence_PapierMache",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Abomb_MixingBoard",
+      "path": "Abomb_MixingBoard",
+      "super": "MixingBoard",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_VideoCamera",
+      "path": "Tenement_VideoCamera",
+      "super": "VideoCamera",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Door_Left_SmallOne",
+      "path": "Tenement_Door_Left_SmallOne",
+      "super": "Tenement_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Tenement_Door_Left_SmallTwo",
+      "path": "Tenement_Door_Left_SmallTwo",
+      "super": "Tenement_CabinetDoors",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BoobyTrap_Bomb",
+      "path": "BoobyTrap_Bomb",
+      "super": "SwatGame.BoobyTrap_World",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_Poster1",
+      "path": "DNA_Poster1",
+      "super": "DNA_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_Poster2",
+      "path": "DNA_Poster2",
+      "super": "DNA_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_Poster3",
+      "path": "DNA_Poster3",
+      "super": "DNA_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_Poster4",
+      "path": "DNA_Poster4",
+      "super": "DNA_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_Poster5",
+      "path": "DNA_Poster5",
+      "super": "DNA_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Generic_MaleBrownCoat",
+      "path": "Generic_MaleBrownCoat",
+      "super": "Generic_DeadBody",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Generic_TerroristOne",
+      "path": "Generic_TerroristOne",
+      "super": "Generic_DeadBody",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_DoctorOne",
+      "path": "Hospital_DoctorOne",
+      "super": "Hospital_DeadBody",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_DoctorTwo",
+      "path": "Hospital_DoctorTwo",
+      "super": "Hospital_DeadBody",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_NurseOne",
+      "path": "Hospital_NurseOne",
+      "super": "Hospital_DeadBody",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_NurseTwo",
+      "path": "Hospital_NurseTwo",
+      "super": "Hospital_DeadBody",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_Exterior_DoubleDoor",
+      "path": "DNA_Exterior_DoubleDoor",
+      "super": "SwatGame.DoubleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_ErlenmeyerFlask",
+      "path": "DNA_ErlenmeyerFlask",
+      "super": "ScienceStuff",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "dna_beaker",
+      "path": "dna_beaker",
+      "super": "ScienceStuff",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Training_Button",
+      "path": "Training_Button",
+      "super": "UsableObjects",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrainingDummySkeletalSystem",
+      "path": "TrainingDummySkeletalSystem",
+      "super": "Engine.HavokActor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Donuts",
+      "path": "FoodWall_Donuts",
+      "super": "Donuts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Art1",
+      "path": "FoodWall_Art1",
+      "super": "FoodWall_WallHangings",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_PokerChip_Stack_White",
+      "path": "Barber_PokerChip_Stack_White",
+      "super": "PokerChips",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_PokerChip_Stack_Blue",
+      "path": "Barber_PokerChip_Stack_Blue",
+      "super": "PokerChips",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_PokerChip_Stack_Red",
+      "path": "Barber_PokerChip_Stack_Red",
+      "super": "PokerChips",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_TV",
+      "path": "Barber_TV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_CoffeePot",
+      "path": "Barber_CoffeePot",
+      "super": "CoffeePot",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Ashtray_NoButts",
+      "path": "Barber_Ashtray_NoButts",
+      "super": "Ashtray",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "WhiteBinder3",
+      "path": "WhiteBinder3",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_ToiletPaper",
+      "path": "Repo_ToiletPaper",
+      "super": "PaperProducts",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Soap",
+      "path": "Barber_Soap",
+      "super": "Soap",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_Standard_Door",
+      "path": "Barber_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_PardonSign",
+      "path": "Hotel_PardonSign",
+      "super": "Miscellaneous",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_CoatHanger",
+      "path": "Hotel_CoatHanger",
+      "super": "Wood",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_ExtensionCord_Winder",
+      "path": "Hotel_ExtensionCord_Winder",
+      "super": "ExtensionCord_Winder",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_TV",
+      "path": "Hotel_TV",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_StorageBin",
+      "path": "Hotel_StorageBin",
+      "super": "StorageBin",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_Ashtray_Butts",
+      "path": "Hotel_Ashtray_Butts",
+      "super": "Ashtray",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_trashcan_full",
+      "path": "repo_trashcan_full",
+      "super": "TrashCan",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "repo_soap",
+      "path": "repo_soap",
+      "super": "Soap",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_IVStand",
+      "path": "Hospital_IVStand",
+      "super": "IVStand",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_TV_Remote",
+      "path": "Hotel_TV_Remote",
+      "super": "RemoteControls",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_Standard_DoubleDoor",
+      "path": "Hospital_Standard_DoubleDoor",
+      "super": "SwatGame.DoubleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hospital_Standard_Door",
+      "path": "Hospital_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Training_Standard_Door",
+      "path": "Training_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrainingPaperTarget",
+      "path": "TrainingPaperTarget",
+      "super": "TrainingStuff",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_FireAlarm_Buzzer",
+      "path": "Hotel_FireAlarm_Buzzer",
+      "super": "FireAlarm_Buzzer",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "DNA_Standard_Door",
+      "path": "DNA_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "dna_Standard_DoubleDoor",
+      "path": "dna_Standard_DoubleDoor",
+      "super": "SwatGame.DoubleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPGoal_RedSmoke",
+      "path": "VIPGoal_RedSmoke",
+      "super": "VIPGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIP_Tower_Standard_DoubleDoor",
+      "path": "VIP_Tower_Standard_DoubleDoor",
+      "super": "SwatGame.DoubleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Repo_Standard_Door",
+      "path": "Repo_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Hotel_ExtinguisherBox",
+      "path": "Hotel_ExtinguisherBox",
+      "super": "Glass",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibrary_CoffeePOt",
+      "path": "RedLibrary_CoffeePOt",
+      "super": "CoffeePot",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_Standard_Door",
+      "path": "Jewelry_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_Standard_DoubleDoor",
+      "path": "Jewelry_Standard_DoubleDoor",
+      "super": "SwatGame.DoubleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Barber_CashStack10s",
+      "path": "Barber_CashStack10s",
+      "super": "Cash_Stack",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewlery_SecurityMonitor_CeilingMounted",
+      "path": "Jewlery_SecurityMonitor_CeilingMounted",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_DeskLamp",
+      "path": "Jewelry_DeskLamp",
+      "super": "LightFixtures",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_Microscope",
+      "path": "Jewelry_Microscope",
+      "super": "Microscope",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPGoal_Flare",
+      "path": "VIPGoal_Flare",
+      "super": "VIPGoal",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Jewelry_SecurityMonitor",
+      "path": "Jewelry_SecurityMonitor",
+      "super": "Television",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_CoffeePot",
+      "path": "Conv_CoffeePot",
+      "super": "CoffeePot",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_CoffeePot",
+      "path": "FoodWall_CoffeePot",
+      "super": "CoffeePot",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Office_ComputerMouse",
+      "path": "Office_ComputerMouse",
+      "super": "ComputerMouse",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BlueBinder3",
+      "path": "BlueBinder3",
+      "super": "Office_Binders",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BluePanel4",
+      "path": "BluePanel4",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedPanel4",
+      "path": "RedPanel4",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedPanel3",
+      "path": "RedPanel3",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedPanel2",
+      "path": "RedPanel2",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BluePanel11",
+      "path": "BluePanel11",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedPanel1",
+      "path": "RedPanel1",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BluePanel1",
+      "path": "BluePanel1",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bar0",
+      "path": "Bar0",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bar11",
+      "path": "Bar11",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bar2",
+      "path": "Bar2",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bar4",
+      "path": "Bar4",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bar3",
+      "path": "Bar3",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Bar1",
+      "path": "Bar1",
+      "super": "CourthouseMobile",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIP_Tower_Standard_Door",
+      "path": "VIP_Tower_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Conv_Standard_DoubleDoor",
+      "path": "Conv_Standard_DoubleDoor",
+      "super": "SwatGame.DoubleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PowerPlant_Standard_DoubleDoor",
+      "path": "PowerPlant_Standard_DoubleDoor",
+      "super": "SwatGame.DoubleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Convenience_Standard_Door",
+      "path": "Convenience_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodWall_Standard_Door",
+      "path": "FoodWall_Standard_Door",
+      "super": "SwatGame.SingleDoor",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "Classes\\SwatDesignerClasses.u"
+}

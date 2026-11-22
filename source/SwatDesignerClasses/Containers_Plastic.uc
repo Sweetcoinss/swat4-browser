@@ -1,0 +1,3 @@
+class Containers_Plastic extends Plastic
+	config
+	hidecategories(Karma,Force,LightColor,Lighting,Object,Sound);

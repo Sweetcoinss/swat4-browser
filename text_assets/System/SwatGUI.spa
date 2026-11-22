@@ -1,0 +1,277 @@
+[SwatGUIController]
+WaitingString=Esperando a los otros jugadores...
+VIPTimerText=Tiempo restante del VIP:
+RDTimerText=Bombas restantes: %1/%2
+ViewingFrom="Visualizando desde:"
+ViewingFromVIP="Vista desde el VIP:"
+MissionCompleted=¡Has [c=00ff00]COMPLETADO[\c] la misión!
+MissionFailed=¡Has [c=ff0000]FALLADO[\c] la misión!
+ObjectiveShown=¡Has recibido un nuevo objetivo!
+SwatWin=¡SWAT ha ganado la ronda!
+SuspectsWin=¡Los sospechosos han ganado la ronda!
+GameTied=¡La ronda ha acabado en empate!
+OneMinWarning=¡Queda 1 minuto!
+TenSecWarning=¡10 segundos!
+DisarmBomb=¡SWAT ha desactivado una bomba!
+SwatWinRD=¡SWAT ha desactivado todas las bombas!
+SuspectsWinRD=[c=ff0000]¡Los sospechosos han ganado la ronda!
+SwatRespawnEvent=Los refuerzos de SWAT han llegado.
+SuspectsRespawnEvent=Los refuerzos de sospechosos han llegado.
+BothTeamsRespawnEvent=Han llegado los refuerzos.
+VIPSafe=¡El VIP ha escapado! ¡SWAT gana!
+VIPRescued=¡SWAT ha liberado al VIP!
+VIPCaptured=¡Los sospechosos han capturado al VIP!
+YouAreVIP=¡Tú eres el VIP! Debes evitar ser capturado y escapar.
+WinSuspectsGoodKill=¡SWAT ha asesinado accidentalmente al VIP! Los sospechosos ganan la ronda.
+WinSuspectsBadKill=¡Los sospechosos han asesinado a un VIP! Los sospechosos ganan la ronda.
+WinSwatBadKill=¡Los sospechosos han asesinado al VIP demasiado pronto! SWAT gana la ronda.
+PreGameText=Tiempo hasta que comience la ronda:
+MidGameText=Tiempo restante de la ronda:
+PostGameText=Tiempo hasta la siguiente ronda:
+HelpStack=("Distribución del componente","  ","(Flecha arriba) - Mueve el control actual hacia arriba","(Flecha abajo) - Mueve el control actual hacia abajo","(Flecha izquierda) - Mueve el control actual a la izquierda","(Flecha derecha) - Mueve el control actual a la derecha","(-) - Disminuye el tamaño del control","(=) - Aumenta el tamaño del control","(TECLADO NÚM. -) - Hace más delgado el control","(TECLADO NÚM. +) - Hace más grueso el control","  ","Pantallas y conmutador de información","  ","(H) - Muestra este menú de ayuda rápida","(N) - Muestra una lista de todos los estilos de interfaz y fuentes disponibles","(O) - Muestra una lista de todas las páginas de la pila del servidor","(M) - Muestra la lista de miembros para el control actual","(B) - Muestra la lista de miembros para el control actual","(K) - Alterna las variables de configuración mostradas en la pantalla de miembros","(L) - Alterna los miembros de la interfaz mostrados en la pantalla de miembros","(G) - Activa/Desactiva la instantánea de la cuadrícula","  ","Acciones del componente","  ","(Ctrl + Ratón izquierdo) - Selecciona el componente bajo el ratón","(Ctrl + T) - Alterna los valores absoluto/escalado del control actual","(Ctrl + I) - Alterna los valores absolutos/escalados del control actual en la página actual","(Ctrl + Z) - Deshace la última operación del control actual","(Ctrl + A) - Rehace la última operación del control actual","(Ctrl + S) - Guarda la configuración del control actual","(Ctrl + P) - Guarda la configuración de todos los controles de la página actual","(Ctrl + E) - Muestra la ventana del editor de objetos en el control actual","(Ctrl + N) - Crea un nuevo componente para el multicomponente seleccionado o la página activa","
+DLG_OK=ACEPTAR
+DLG_Yes=SÍ
+DLG_Continue=CONTINUAR
+DLG_Retry=REINTENTAR
+DLG_Ignore=IGNORAR
+DLG_No=NO
+DLG_Abort=ABANDONAR
+DLG_Cancel=CANCELAR
+
+[SwatGUIPage]
+QuitPrompt=¿Salir a Windows?
+
+[SwatServerBrowserMenu]
+VersionFormatString=Versión: %1
+ModFormatString=Mod: %1
+ConnectPasswordQueryString=Introduce la contraseña del servidor seleccionado:
+
+[SwatServerSetupMenu]
+SelectedIndexColorString=[c=00ff00]
+BackButtonHelpString=Volver al menú principal.
+CancelButtonHelpString=Ignorar cambios y volver al menú anterior.
+QuitButtonHelpString=Salir del juego y volver a Windows.
+AcceptButtonHelpString=Aplicar la configuración actual y volver al menú anterior.
+StartButtonHelpString=Iniciar el servidor con la configuración actual.
+ReStartButtonHelpString=Reiniciar el servidor con la configuración actual.
+BackButtonString=PRINCIPAL
+CancelButtonString=CANCELAR
+QuitButtonString=SALIR
+AcceptButtonString=APLICAR
+StartButtonString=INICIAR EL SERVIDOR
+ReStartButtonString=REINICIAR SERVIDOR
+CannotUndercutCurrentPlayersFormatString=Imposible continuar. El número máximo de jugadores (%1) no puede ser menor que el número actual de jugadores (%2).  Aumenta el valor de Jugadores Máx y vuelve a intentarlo.
+LoadingMaplistString=Buscando mapas disponibles…
+HostCDKeyInvalidString=¡Clave de CD no válida!
+StartDedicatedServerQueryString=¿Salir del juego y crear un servidor dedicado con la configuración actual?
+CannotStartDedicatedServerString=No se puede iniciar un servidor dedicado. Ya hay un servidor dedicado de SWAT4 ejecutándose en este ordenador.
+StartServerQueryString=¿Iniciar el servidor?
+ReStartServerQueryString=Reiniciar el servidor con la configuración actual.
+LANString=LAN
+GAMESPYString=Internet
+IdealPlayerCountString=Jugadores recomendados: %1 - %2
+LevelAuthorString=Autor: %1
+LevelTitleString=Mapa: %1
+
+[SwatMissionLoadingMenu]
+LoadSplashString=Cargando...
+WaitForConnectionString=Conectando...
+LoadMapString=Cargando...
+DownloadString=Descargando…
+
+[SwatObjectivesPopupMenu]
+ContinueString=CONTINUAR
+ResumeString=CONTINUAR
+AbortString=ABANDONAR
+DebriefString=RESUMEN
+AbortQueryString=¿Seguro que quieres finalizar la misión?
+
+[SwatMPPage]
+BombsRemaining=Bombas restantes: %1/%2
+RoundsRemainingString=Ronda: %1/%2
+GameModeAndLevelString=Nivel: %2 Modo: %1
+LoadSplashString=Cargando...
+WaitForConnectionString=Conectando...
+LoadMapString=Cargando...
+DownloadString=Descargando...
+ConfirmAbortString=¿Desconectarse de partida actual? 
+WaitingForPlayersString=Esperando reconexión de jugadores...
+
+[SwatChatPanel]
+TeamChatMessage=[c=808080][b]%1[\b]: %2
+GlobalChatMessage=[c=00ff00][b]%1[\b]: %2
+NameChangeMessage=[c=ff00ff][b]%1[\b] ha cambiado su nombre a [b]%2[\b].
+KickMessage=[c=ff00ff][b]%1[\b] ha expulsado a [b]%2[\b].
+BanMessage=[c=ff00ff][b]%1[\b] HA EXCLUIDO a [b]%2[\b]!
+SwitchTeamsMessage=[c=00ffff][b]%1[\b] ha cambiado de equipo.
+SwatSuicideMessage=¡[c=0000ff][b]%1[\b] se ha suicidado!
+SuspectsSuicideMessage=¡[c=ff0000][b]%1[\b] se ha suicidado!
+SwatTeamKillMessage=¡[c=0000ff][b]%1[\b] ha traicionado a [b]%2[\b] con una %3!
+SuspectsTeamKillMessage=¡[c=ff0000][b]%1[\b] ha traicionado a [b]%2[\b] con una %3!
+SwatKillMessage=¡[c=0000ff][b]%1[\b] ha neutralizado a [b]%2[\b] con una %3!
+SuspectsKillMessage=¡[c=ff0000][b]%1[\b] ha asesinado a [b]%2[\b] con una %3!
+SwatArrestMessage=¡[c=0000ff][b]%1[\b] arrestado [b]%2[\b]!
+SuspectsArrestMessage=¡[c=ff0000][b]%1[\b] ha arrestado a [b]%2[\b]!
+ConnectedMessage=[c=ffff00][b]%1[\b] conectado al servidor.
+DisconnectedMessage=[c=ffff00][b]%1[\b] se ha desconectado del servidor.
+EquipNotAvailableString=[c=ffffff]No %1 disponible para equipar.
+SniperAlertedString=[c=ffffff]Pulsa %1 para activar la vista de francotirador.
+NewObjectiveString=[c=ffffff]Has recibido un nuevo objetivo.
+MissionCompletedString=[c=ffffff]¡Has [c=00ff00]COMPLETADO[c=ffffff] la misión!
+MissionFailedString=[c=ffffff]¡Has [c=ff0000]FALLADO[c=ffffff] la misión!
+SettingsUpdatedString=[c=ffff00][b]%1[\b] ha actualizado la configuración del servidor.
+DebugMessageString=[c=ffffff]DEBUG_MSG: %1
+PromptToDebriefMessage=[c=ffffff]Pulsa '[k=GUICloseMenu]' para proceder a interrogar.
+SomeoneString=alguien
+SlotNames[0]=No válido
+SlotNames[1]=Arma primaria
+SlotNames[2]=Arma de respaldo
+SlotNames[3]=Bengala deslumbrante
+SlotNames[4]=Granada de gas CS
+SlotNames[5]=Urticante
+SlotNames[6]=Aerosol
+SlotNames[7]=dispositivo para franquear
+SlotNames[8]=Juego de herramientas
+SlotNames[9]=Optiwand
+SlotNames[10]=Cuña
+SlotNames[11]=Esposas de plástico
+
+[SwatMPScoresPanel]
+VIPString=" (VIP)"
+TeamScoreFormatString=%1: %2 Rondas ganadas: %3
+StartGameString=COMENZAR LA PARTIDA
+AbortGameString=TERMINAR PARTIDA
+NextGameString=SIGUIENTE PARTIDA
+AdminLoginString=ADMINISTRADOR
+AdminPasswordQueryString=Introduce la contraseña del administrador para registrarte:
+
+[SwatObjectivesPanel]
+InProgressString=En progreso
+CompletedString=Completado
+FailedString=No completado
+
+[SwatLeadershipPanel]
+BonusFormatString=%1
+PenaltyFormatStringx=%1
+TotalString=Total
+RankingFormatString=Rango: %1
+NoPenaltiesDeducted=¡No se han deducido penalizaciones!
+MissionFailedRanking=¡Fracaso!
+DifficultyLabelString=Puntuación requerida: %1
+
+[SwatCOOPOfficerStatusPanel]
+IncapacitatedString=[c=ff0000][b]Incapacitado
+InjuredString=[c=ff0000][b]Herido
+HealthyString=Saludable
+NotAvailable=[c=ff00ff][b]No disponible
+NotReady=[c=FF0000]No preparado
+Ready=[c=00FF00]Preparado
+
+[SwatOfficerStatusPanel]
+IncapacitatedString=[c=ff0000][b]Incapacitado
+InjuredString=[c=ff0000][b]Herido
+HealthyString=Saludable
+NotAvailable=[c=ffffff][b]No disponible
+
+[SwatMissionSetupMenu]
+CampaignString=CAMPAÑA
+CustomString=PERSONALIZADO
+
+[SwatSPLoadoutPanel]
+ConfirmOverwrite=Ya existe un arma llamada '%1', ¿seguro que quieres sobrescribirla?
+ConfirmDelete=¿Eliminar arma '%1'?
+ConfirmApplyToAll=¿Seguro que quieres aplicar el arma seleccionada a todo tu equipo?
+OfficerInfo[0]=Una incorporación reciente desde Los Ángeles, el sargento es bueno bajo fuego y siempre eficiente. Con una nueva unidad para ordenar, tendrá que ganarse el respeto de su brigada en el trabajo.
+OfficerInfo[1]=Un veterano del cuerpo desde hace 30 años y de SWAT desde hace 25, el agente Reynolds es el miembro más experimentado de la unidad. Su experiencia le ha enseñado que mantener la calma es la clave para sobrevivir como agente de SWAT. Consciente del valor de su experiencia, está siempre dispuesto a dar consejos a la unidad.
+OfficerInfo[2]=El agente Girard es un chico del lugar que nació y creció en la zona metropolitana. Girard es miembro de SWAT desde hace 6 años y ha sido condecorado por su valentía en dos ocasiones.
+OfficerInfo[3]=Tras haber pasado sólo 2 años en las calles antes de pasar el riguroso curso de entrenamiento de SWAT, el agente Fields es uno de los agentes más jóvenes de la fuerza. Aunque un poco bocazas, ha demostrado ser un agente muy apto.
+OfficerInfo[4]=El agente Jackson cuenta con una larga y distinguida carrera en SWAT a sus espaldas. Además de ser un agente excelente, Jackson se enorgullece de ser un atleta. Su condición física es excelente y su presencia en cualquier operación resulta intimidante.
+OfficerVitals[0]=|Apodo: El jefe|Nº de placa: 3187|Años en servicio: 15
+OfficerVitals[1]=Agente Steven Reynolds|Apodo: El abuelo|Nº de placa: 3077|Años en servicio: 30
+OfficerVitals[2]=Agente Anthony Girard|Apodo: Subterráneo|Nº de placa: 3518|Años en servicio: 14
+OfficerVitals[3]=Agente Zachary Fields|Apodo: Hollywood|Nº de placa: 3975|Años en servicio: 6
+OfficerVitals[4]=Agente Allen Jackson|Apodo: Pitón|Nº de placa: 3248|Años en servicio: 18
+
+[SwatMissionSelectionPanel]
+DifficultyLabelString=Se necesita una puntuación de [b]%1[° para avanzar.
+
+[SwatMainMenu]
+TrainingFriendlyString=Entrenamiento
+PromptToGotoTrainingFirstString=SWAT (R) 4 requiere una táctica de equipo depurada y procedimientos para el cumplimiento de la ley. Es [b]fuertemente[\b] recomendable que juegues la misión de entrenamiento antes de intentar otros combates en SWAT. ¿Continuar de todos modos?
+ConfirmNoTrainingString=¿Estás seguro de que no quieres jugar a la misión de entrenamiento?
+
+[Swat4Credits]
+CreditLines=CREDITS
+[SwatConnectionFailureMenu]
+ConnectionFailed=Error al conectar al servidor.
+NetworkingFailed=Fallo en la conexión a la red.
+UrlFailed=Error: %1
+ConnectionTimeout=La conexión con el servidor ha caducado.
+RejectedByServer=Ha sido rechazada la conexión con el servidor.
+CDKeyFailed=La clave de autentificación del CD no es correcta.
+DemoLoadFailed=Mapa demo no válido: '%1'
+ConfigMD5ChecksumFailure=El archivo no es compatible con la versión del servidor: '%1'
+ConfigMD5ChecksumCountFailure=Conexión a servidor rechazada (número de archivos de configuración inesperado).
+PackageMD5ChecksumFailure=Conexión a servidor rechazada (contenido no válido).
+GenericFailure=Error al conectar al servidor.
+
+[SwatMissionAbortMenu]
+EndTheMissionConfirmation=¿Seguro que quieres finalizar la misión?
+
+[SwatVideoSettingsPanel]
+WarningTextVideoResolutionChange=El juego va a intentar cambiar la resolución de vídeo. Si esto falla, el juego volverá a la configuración anterior en 10 segundos. ¿Seguro que quieres cambiar la resolución de vídeo?
+ConfirmResetString=¿Seguro que quieres restablecer toda la configuración de vídeo a sus valores predeterminados? Puede tardar algunos minutos.
+
+[SwatKeyControlSettingsPanel]
+ReMappingQuery=Los accesos actuales para %1 son %2. Pulsa una tecla diferente para añadirla a la lista de accesos o pulsa la tecla de acceso actual para eliminarla de los accesos directos.
+ConfirmResetString=¿Seguro que quieres restablecer toda la configuración de los atajos del teclado a sus valores predeterminados? Puede tardar algunos minutos.
+
+[SwatGameControlSettingsPanel]
+GCIOptionS1P1String=Mantén pulsado [k=OpenGraphicCommandInterface | RightMouseAlias] para abrir el menú
+GCIOptionS1P2String=Haz clic en [k=Fire] para seleccionar
+GCIOptionS1P3String=Suelta [k=OpenGraphicCommandInterface | RightMouseAlias] para cancelar
+GCIOptionS2P1String=Mantén pulsado [k=OpenGraphicCommandInterface | RightMouseAlias] para abrir el menú
+GCIOptionS2P2String=Suelta [k=OpenGraphicCommandInterface | RightMouseAlias] para seleccionar
+GCIOptionS2P3String=Haz clic en [k=Fire] para cancelar
+GCIOptionS3P1String=Haz clic en [k=OpenGraphicCommandInterface | RightMouseAlias] para abrir el menú
+GCIOptionS3P2String=Haz clic en [k=Fire] para seleccionar
+GCIOptionS3P3String=Haz clic en [k=OpenGraphicCommandInterface | RightMouseAlias] para cancelar
+GCIOptionS4P1String=Haz clic en [k=OpenGraphicCommandInterface | RightMouseAlias] para abrir el menú
+GCIOptionS4P2String=Haz clic en [k=OpenGraphicCommandInterface | RightMouseAlias] para seleccionar
+GCIOptionS4P3String=Haz clic en [k=Fire] para cancelar
+ConfirmResetString=¿Seguro que quieres restablecer toda la configuración del juego a sus valores predeterminados?
+
+[SwatAudioSettingsPanel]
+ConfirmResetString=¿Seguro que quieres restablecer toda la configuración de audio a sus valores predeterminados?
+
+[SwatSettingsPanel]
+ConfirmResetString=¿Seguro que quieres restablecer esta configuración a sus valores predeterminados? Puede tardar algunos minutos.
+ConfirmationTextSettingsChange=¿Quieres conservar esta nueva configuración?
+
+[SwatGameSettingsMenu]
+MainMenuString=MENÚ PRINCIPAL
+BackString=ANTERIOR
+
+[SwatDebriefingMenu]
+MissionCompletedString=¡[c=ffffff]Misión [c=00ff00]Completada[c=ffffff]!
+MissionFailedString=¡[c=ffffff]Misión [c=ff0000]Fallida[c=ffffff]!
+MissionCompletedDifficultyReqFailedString=¡[c=ffffff]Misión [c=ff0000]Completada[c=ffffff]!
+ContinueMissionCompletedString=SIGUIENTE MISIÓN
+ContinueMissionFailedString=SELECCIONAR MISIÓN
+MainMenuString=MENÚ PRINCIPAL
+
+[CustomScenario_SelectionPanel]
+ConfirmDeleteString=¿Seguro que quieres eliminar el escenario %1 del paquete %2?
+
+[CustomScenarioPage]
+ConfirmationString=Hay cambios no guardados. ¿Seguro que quieres salir y perder los cambios?
+ConfirmOverwriteExistingScenarioString=Ya existe un escenario llamado '%1' en el paquete '%2'. ¿Estás seguro de que quieres reescribirlo?
+
+[SwatCampaignMenu]
+StringA=" no es un nombre de campaña válido."
+StringB="Campaña:"
+StringC="Una campaña con ese nombre "
+StringE=" ya existe. ¿Quieres sobrescribirla?"
+StringJ="¿Seguro que quieres eliminar la campaña?"
+StringK=Agente predeterminado
+

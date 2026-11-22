@@ -1,0 +1,154 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\Classes\\GUIanimations.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 141,
+  "imports": 56,
+  "exports": 30,
+  "classes": 15,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "SWATofficerSGbriefing",
+      "path": "SWATofficerSGbriefing",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATofficerM4A1",
+      "path": "SWATofficerM4A1",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATofficerSMGsilencedbriefing",
+      "path": "SWATofficerSMGsilencedbriefing",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GUIbeatCop",
+      "path": "GUIbeatCop",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATofficerLeadBriefing",
+      "path": "SWATofficerLeadBriefing",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATofficerM4A1briefing",
+      "path": "SWATofficerM4A1briefing",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATofficerSMGbriefing",
+      "path": "SWATofficerSMGbriefing",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATofficerBadGuy",
+      "path": "SWATofficerBadGuy",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATofficerSMG",
+      "path": "SWATofficerSMG",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GUIcar",
+      "path": "GUIcar",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GUIscope",
+      "path": "GUIscope",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATofficerSG",
+      "path": "SWATofficerSG",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "GUIcivilian",
+      "path": "GUIcivilian",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATofficerTOC",
+      "path": "SWATofficerTOC",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SWATofficerHG",
+      "path": "SWATofficerHG",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "Classes\\GUIanimations.u"
+}

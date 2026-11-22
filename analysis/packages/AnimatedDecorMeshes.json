@@ -1,0 +1,361 @@
+{
+  "path": "C:\\Users\\RDP.runnervmbpeip\\Downloads\\SWAT 4 Portable\\Content\\Classes\\AnimatedDecorMeshes.u",
+  "version": 129,
+  "license_mode": 27,
+  "package_flags": 1,
+  "names": 195,
+  "imports": 71,
+  "exports": 93,
+  "classes": 38,
+  "functions": 0,
+  "states": 0,
+  "properties": 0,
+  "enums": 0,
+  "structs": 0,
+  "consts": 0,
+  "class_list": [
+    {
+      "name": "JewelryAlarmLight",
+      "path": "JewelryAlarmLight",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TenementRedOne",
+      "path": "TenementRedOne",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HotelCementMixer",
+      "path": "HotelCementMixer",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ArmsShrub",
+      "path": "ArmsShrub",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FloatingDebrisB",
+      "path": "FloatingDebrisB",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FemaleReporter",
+      "path": "FemaleReporter",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FloatingDebrisA",
+      "path": "FloatingDebrisA",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PatrolOfficer",
+      "path": "PatrolOfficer",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "REPOredone",
+      "path": "REPOredone",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "VIPhelicopter",
+      "path": "VIPhelicopter",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HotelSafetyNet",
+      "path": "HotelSafetyNet",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Moths",
+      "path": "Moths",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FoodwallEtrain",
+      "path": "FoodwallEtrain",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HotelFan",
+      "path": "HotelFan",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Roaches",
+      "path": "Roaches",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Flies",
+      "path": "Flies",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "REPOredtwo",
+      "path": "REPOredtwo",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ArmsSubwayTrain",
+      "path": "ArmsSubwayTrain",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilenceTreeLeaves",
+      "path": "SilenceTreeLeaves",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilenceShrub",
+      "path": "SilenceShrub",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HotelHugeFan",
+      "path": "HotelHugeFan",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "RedLibraryElevatorDoors",
+      "path": "RedLibraryElevatorDoors",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "Crowd",
+      "path": "Crowd",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ConTreeLeaves",
+      "path": "ConTreeLeaves",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "SilenceBee",
+      "path": "SilenceBee",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "FloatingBarrels",
+      "path": "FloatingBarrels",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "REPOhelicopter",
+      "path": "REPOhelicopter",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TreeLeaves",
+      "path": "TreeLeaves",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "JewelryCamera",
+      "path": "JewelryCamera",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "ConvTrafficA",
+      "path": "ConvTrafficA",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "AbombStageLight",
+      "path": "AbombStageLight",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "BarberBarPull",
+      "path": "BarberBarPull",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "PoliceLights",
+      "path": "PoliceLights",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "HotelHelicopter",
+      "path": "HotelHelicopter",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrainingTargetSystem",
+      "path": "TrainingTargetSystem",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrainingDoorbar",
+      "path": "TrainingDoorbar",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrainingButton",
+      "path": "TrainingButton",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    },
+    {
+      "name": "TrainingDoorBarLong",
+      "path": "TrainingDoorBarLong",
+      "super": "RWOSupport.ReactiveAnimatedMesh",
+      "outer": "None",
+      "functions": [],
+      "states": [],
+      "properties": []
+    }
+  ],
+  "package": "Classes\\AnimatedDecorMeshes.u"
+}

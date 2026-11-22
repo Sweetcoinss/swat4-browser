@@ -1,0 +1,40 @@
+class MeshObject extends Object
+	abstract
+	native;
+
+enum EImpSpaceMode
+{
+	ISM_Sprite,                     // 0
+	ISM_Fixed,                      // 1
+	ISM_PivotVertical,              // 2
+	ISM_PivotHorizontal             // 3
+};
+
+enum EImpDrawMode
+{
+	IDM_Normal,                     // 0
+	IDM_Fading                      // 1
+};
+
+enum EImpLightMode
+{
+	ILM_Unlit,                      // 0
+	ILM_PseudoShaded,               // 1
+	ILM_Uniform                     // 2
+};
+
+enum EMeshSectionMethod
+{
+	MSM_SmoothOnly,                 // 0
+	MSM_RigidOnly,                  // 1
+	MSM_Mixed,                      // 2
+	MSM_SinglePiece,                // 3
+	MSM_ForcedRigid                 // 4
+};
+
+enum EAnimCompressMethod
+{
+	ACM_Raw,                        // 0
+	ACM_Classic,                    // 1
+	ACM_Quantized16bit              // 2
+};
