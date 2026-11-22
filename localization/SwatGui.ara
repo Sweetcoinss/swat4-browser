@@ -1,0 +1,244 @@
+# SWAT 4 — Arabic Localization (التعريب)
+# File: SwatGui.ara (Arabic)
+# Encoding: UTF-8 (for browser-based reimplementation)
+# 
+# This file contains Arabic translations of SWAT 4's UI strings.
+# Based on SwatGui.spa (Spanish) and SwatGui.int (English) localization files.
+# 
+# Format: Section/Key=TranslatedValue
+# %1, %2 = placeholders for dynamic values
+# [c=RRGGBB] = color codes
+# [b]...[\b] = bold
+# [k=KeyName] = key binding
+
+[SwatGUIController]
+WaitingString=في انتظار اللاعبين الآخرين...
+VIPTimerText=الوقت المتبقي للVIP:
+RDTimerText=القنابل المتبقية: %1/%2
+ViewingFrom="المشاهدة من:"
+ViewingFromVIP="المشاهدة من VIP:"
+MissionCompleted=لقد [c=00ff00]أكملت[\c] المهمة!
+MissionFailed=لقد [c=ff0000]فشلت[\c] في المهمة!
+ObjectiveShown=لقد تلقيت هدفاً جديداً!
+SwatWin=فاز SWAT بالجولة!
+SuspectsWin=فاز المشتبه بهم بالجولة!
+GameTied=انتهت الجولة بالتعادل!
+OneMinWarning=تبقى 1 دقيقة!
+TenSecWarning=10 ثوان!
+DisarmBomb=قام SWAT بتفكيك قنبلة!
+SwatWinRD=قام SWAT بتفكيك جميع القنابل!
+SuspectsWinRD=[c=ff0000]فاز المشتبه بهم بالجولة!
+SwatRespawnEvent=وصلت تعزيزات SWAT.
+SuspectsRespawnEvent=وصلت تعزيزات المشتبه بهم.
+BothTeamsRespawnEvent=وصلت التعزيزات.
+VIPSafe=لقد هرب VIP! فاز SWAT!
+VIPRescued=قام SWAT بتحرير VIP!
+VIPCaptured=قام المشتبه بهم باسر VIP!
+YouAreVIP=أنت VIP! يجب تجنب الأسر والهروب.
+WinSuspectsGoodKill=قام SWAT بقتل VIP عن طريق الخطأ! فاز المشتبه بهم!
+WinSuspectsBadKill=قام المشتبه بهم بقتل VIP! فاز المشتبه بهم!
+WinSwatBadKill=قام المشتبه بهم بقتل VIP مبكراً! فاز SWAT!
+PreGameText=الوقت حتى بدء الجولة:
+MidGameText=الوقت المتبقي في الجولة:
+PostGameText=الوقت حتى الجولة التالية:
+DLG_OK=موافق
+DLG_Yes=نعم
+DLG_Continue=متابعة
+DLG_Retry=إعادة المحاولة
+DLG_Ignore=تجاهل
+DLG_No=لا
+DLG_Abort=إلغاء
+DLG_Cancel=إلغاء
+
+[SwatGUIPage]
+QuitPrompt=الخروج إلى Windows؟
+
+[SwatServerBrowserMenu]
+VersionFormatString=الإصدار: %1
+ModFormatString=التعديل: %1
+ConnectPasswordQueryString=أدخل كلمة مرور الخادم المحدد:
+
+[SwatServerSetupMenu]
+BackButtonHelpString=العودة إلى القائمة الرئيسية.
+CancelButtonHelpString=تجاهل التغييرات والعودة.
+QuitButtonHelpString=الخروج من اللعبة والعودة إلى Windows.
+AcceptButtonHelpString=تطبيق الإعدادات الحالية والعودة.
+StartButtonHelpString=بدء الخادم بالإعدادات الحالية.
+ReStartButtonHelpString=إعادة تشغيل الخادم بالإعدادات الحالية.
+BackButtonString=الرئيسية
+CancelButtonString=إلغاء
+QuitButtonString=خروج
+AcceptButtonString=تطبيق
+StartButtonString=بدء الخادم
+ReStartButtonString=إعادة تشغيل الخادم
+LANString=LAN
+GAMESPYString=Internet
+IdealPlayerCountString=اللاعبون الموصى بهم: %1 - %2
+LevelAuthorString=المؤلف: %1
+LevelTitleString=الخريطة: %1
+
+[SwatMissionLoadingMenu]
+LoadSplashString=جاري التحميل...
+WaitForConnectionString=جاري الاتصال...
+LoadMapString=جاري تحميل الخريطة...
+DownloadString=جاري التنزيل...
+
+[SwatObjectivesPopupMenu]
+ContinueString=متابعة
+ResumeString=متابعة
+AbortString=إلغاء
+DebriefString=ملخص
+AbortQueryString=هل أنت متأكد من إنهاء المهمة؟
+
+[SwatMPPage]
+BombsRemaining=القنابل المتبقية: %1/%2
+RoundsRemainingString=الجولة: %1/%2
+GameModeAndLevelString=الخريطة: %2 الوضع: %1
+LoadSplashString=جاري التحميل...
+WaitForConnectionString=جاري الاتصال...
+LoadMapString=جاري تحميل الخريطة...
+DownloadString=جاري التنزيل...
+ConfirmAbortString=قطع الاتصال باللعبة الحالية؟
+WaitingForPlayersString=في انتظار إعادة اتصال اللاعبين...
+
+[SwatObjectivesPanel]
+InProgressString=قيد التنفيذ
+CompletedString=مكتمل
+FailedString=غير مكتمل
+
+[SwatLeadershipPanel]
+TotalString=المجموع
+RankingFormatString=الرتبة: %1
+NoPenaltiesDeducted=لم يتم خصم أي عقوبات!
+MissionFailedRanking=فشل!
+DifficultyLabelString=النقاط المطلوبة: %1
+
+[SwatCOOPOfficerStatusPanel]
+IncapacitatedString=[c=ff0000][b]معاق
+InjuredString=[c=ff0000][b]جريح
+HealthyString=سليم
+NotAvailable=[c=ff00ff][b]غير متوفر
+NotReady=[c=FF0000]غير جاهز
+Ready=[c=00FF00]جاهز
+
+[SwatOfficerStatusPanel]
+IncapacitatedString=[c=ff0000][b]معاق
+InjuredString=[c=ff0000][b]جريح
+HealthyString=سليم
+NotAvailable=[c=ffffff][b]غير متوفر
+
+[SwatMissionSetupMenu]
+CampaignString=حملة
+CustomString=مخصص
+
+[SwatMainMenu]
+TrainingFriendlyString=تدريب
+PromptToGotoTrainingFirstString=SWAT (R) 4 يتطلب تكتيك فريق مصقول وإجراءات لإنفاذ القانون. يُوصى [b]بشدة[\b] بأن تلعب مهمة التدريب قبل محاولة أي قتال آخر في SWAT. هل تريد المتابعة على أي حال؟
+ConfirmNoTrainingString=هل أنت متأكد من أنك لا تريد لعب مهمة التدريب؟
+
+[SwatDebriefingMenu]
+MissionCompletedString= mission [c=00ff00]مكتملة[c=ffffff]!
+MissionFailedString= mission [c=ff0000]فاشلة[c=ffffff]!
+ContinueMissionCompletedString=المهمة التالية
+ContinueMissionFailedString=اختيار المهمة
+MainMenuString=القائمة الرئيسية
+
+[SwatGameSettingsMenu]
+MainMenuString=القائمة الرئيسية
+BackString=رجوع
+
+[SwatConnectionFailureMenu]
+ConnectionFailed=فشل الاتصال بالخادم.
+NetworkingFailed=فشل الاتصال بالشبكة.
+UrlFailed=خطأ: %1
+ConnectionTimeout=انتهت مهلة الاتصال بالخادم.
+RejectedByServer=تم رفض الاتصال بالخادم.
+CDKeyFailed=مفتاح CD غير صحيح.
+DemoLoadFailed=خريطة demo غير صالحة: '%1'
+ConfigMD5ChecksumFailure=الملف غير متوافق مع إصدار الخادم: '%1'
+PackageMD5ChecksumFailure=تم رفض الاتصال (محتوى غير صالح).
+GenericFailure=فشل الاتصال بالخادم.
+
+[SwatMissionAbortMenu]
+EndTheMissionConfirmation=هل أنت متأكد من إنهاء المهمة؟
+
+[SwatVideoSettingsPanel]
+WarningTextVideoResolutionChange=اللعبة ستحاول تغيير دقة الفيديو. إذا فشل ذلك، ستعود اللعبة إلى الإعدادات السابقة خلال 10 ثوان. هل تريد تغيير دقة الفيديو؟
+ConfirmResetString=هل أنت متأكد من إعادة تعيين جميع إعدادات الفيديو إلى القيم الافتراضية؟ قد يستغرق الأمر بضع دقائق.
+
+[SwatKeyControlSettingsPanel]
+ConfirmResetString=هل أنت متأكد من إعادة تعيين جميع إعدادات اختصارات لوحة المفاتيح إلى القيم الافتراضية؟ قد يستغرق الأمر بضع دقائق.
+
+[SwatAudioSettingsPanel]
+ConfirmResetString=هل أنت متأكد من إعادة تعيين جميع إعدادات الصوت إلى القيم الافتراضية؟
+
+[SwatSettingsPanel]
+ConfirmResetString=هل أنت متأكد من إعادة تعيين هذه الإعدادات إلى الValues الافتراضية؟ قد يستغرق الأمر بضع دقائق.
+ConfirmationTextSettingsChange=هل تريد الاحتفاظ بهذا الإعداد الجديد؟
+
+[SwatObjectivesPanel]
+InProgressString=قيد التنفيذ
+CompletedString=مكتمل
+FailedString=غير مكتمل
+
+[SwatMissionSelectionPanel]
+DifficultyLabelString=تحتاج إلى [b]%1[? نقاط للتقدم.
+
+[SwatChatPanel]
+TeamChatMessage=[c=808080][b]%1[\b]: %2
+GlobalChatMessage=[c=00ff00][b]%1[\b]: %2
+ConnectedMessage=[c=ffff00][b]%1[\b] متصل بالخادم.
+DisconnectedMessage=[c=ffff00][b]%1[\b] قطع الاتصال بالخادم.
+NewObjectiveString=[c=ffffff]لقد تلقيت هدفاً جديداً.
+MissionCompletedString=[c=ffffff]لقد [c=00ff00]أكملت[c=ffffff] المهمة!
+MissionFailedString=[c=ffffff]لقد [c=ff0000]فشلت[c=ffffff] في المهمة!
+SettingsUpdatedString=[c=ffff00][b]%1[\b] حدّث إعدادات الخادم.
+SomeoneString=شخص ما
+SlotNames[0]=غير صالح
+SlotNames[1]=السلاح الأساسي
+SlotNames[2]=السلاح الاحتياطي
+SlotNames[3]=قنبلة ضوئية
+SlotNames[4]=قنبلة غاز CS
+SlotNames[5]=رذاذ فلفل
+SlotNames[6]=رذاذ
+SlotNames[7]=أداة كسر الأبواب
+SlotNames[8]=مجموعة أدوات
+SlotNames[9]=Optiwand
+SlotNames[10]=وتد
+SlotNames[11]=أصفاد بلاستيكية
+
+[SwatMPScoresPanel]
+VIPString=" (VIP)"
+StartGameString=بدء اللعبة
+AbortGameString=إنهاء اللعبة
+NextGameString=اللعبة التالية
+AdminLoginString=مسؤول
+
+[SwatCOOPOfficerStatusPanel]
+IncapacitatedString=[c=ff0000][b]معاق
+InjuredString=[c=ff0000][b]جريح
+HealthyString=سليم
+NotAvailable=[c=ff00ff][b]غير متوفر
+NotReady=[c=FF0000]غير جاهز
+Ready=[c=00FF00]جاهز
+
+[SwatOfficerStatusPanel]
+IncapacitatedString=[c=ff0000][b]معاق
+InjuredString=[c=ff0000][b]جريح
+HealthyString=سليم
+NotAvailable=[c=ffffff][b]غير متوفر
+
+[Core]
+Language=العربية
+LangId=1025
+SubLangId=1
+
+[General]
+Product=SWAT 4
+Engine=SWAT 4
+Copyright=حقوق الطبع والنشر 2005 Sierra Entertainment, Inc.
+True=صحيح
+False=خطأ
+None=لا شيء
+Yes=نعم
+No=لا
