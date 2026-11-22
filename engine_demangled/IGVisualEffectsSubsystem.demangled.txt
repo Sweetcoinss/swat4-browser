@@ -1,0 +1,28 @@
+AVisualEffectsSubsystem::AVisualEffectsSubsystem(class AVisualEffectsSubsystem const &)
+AVisualEffectsSubsystem::AVisualEffectsSubsystem(void)
+UVisualEffectSpecification::UVisualEffectSpecification(void)
+UVisualEffectSpecification::UVisualEffectSpecification(class UVisualEffectSpecification const &)
+virtual AVisualEffectsSubsystem::~AVisualEffectsSubsystem(void)
+virtual UVisualEffectSpecification::~UVisualEffectSpecification(void)
+static void * AVisualEffectsSubsystem::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * AVisualEffectsSubsystem::operator new(unsigned int,enum EInternal *)
+static void * UVisualEffectSpecification::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UVisualEffectSpecification::operator new(unsigned int,enum EInternal *)
+class AVisualEffectsSubsystem & AVisualEffectsSubsystem::operator=(class AVisualEffectsSubsystem const &)
+class UVisualEffectSpecification & UVisualEffectSpecification::operator=(class UVisualEffectSpecification const &)
+const AVisualEffectsSubsystem::`vftable'
+const UVisualEffectSpecification::`vftable'
+static void AVisualEffectsSubsystem::InternalConstructor(void *)
+static void UVisualEffectSpecification::InternalConstructor(void *)
+virtual void AVisualEffectsSubsystem::PrecacheEffectSpecification(class UEffectSpecification *)
+void AVisualEffectsSubsystem::PrecacheVisualEffect(class UClass *)
+static class UClass AVisualEffectsSubsystem::PrivateStaticClass
+static class UClass UVisualEffectSpecification::PrivateStaticClass
+static class UClass * AVisualEffectsSubsystem::StaticClass(void)
+static class UClass * UVisualEffectSpecification::StaticClass(void)
+void AVisualEffectsSubsystem::execPostLoaded(struct FFrame &,void * const)
+GPackage
+_DllMain@12
+autoclassAVisualEffectsSubsystem
+autoclassUVisualEffectSpecification
+intAVisualEffectsSubsystemexecPostLoaded

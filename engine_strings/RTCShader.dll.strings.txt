@@ -1,0 +1,554 @@
+# Strings extracted from RTCShader.dll (258048 bytes)
+# Total strings: 974, filtered: 551
+
+      
+             
+                                 H
+         (((((                  H
+         h((((                  H
+        h((((                  H
+ !"#$%
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ 0C0N0`0
+ K J  #
+! !(!!"#")""
+!! ##%%&&$$''++(**),,,//
+!This program cannot be run in DOS mode.
+#$%,-./
+%+7DP\
+%Thj=>H?@NA  B  C DPQRSE
+%s X%u: 
+'%s' : macro redefinition
+'%s' is not a valid instruction in this shader version
+'%s' is not a valid register name.  Registers must start with v_, r_, c_, b_, or i_ depending on the register type.
+'%s': ambiguous function call
+'%s': identifier represents a %s, not a %s
+'%s': loop control variable used outside for-loop scope conflicts with a previous declaration in the outer scope; most recent definition used
+(%u): 
+(0@0P0
+(6`+)-+,-
+(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8
+(null)
+)*+,-./
+)*+,-./}
+)={()<D
+)f;*u$
+)}NO))
+*+,-./
+++-+[-kn-)
+,(([)!
+,{O_<,><d
+- This application cannot run using the active version of the Microsoft .NET Runtime
+- floating point not loaded
+- not enough space for _onexit/atexit table
+- not enough space for arguments
+- not enough space for environment
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- not enough space for thread data
+- pure virtual function call
+- unable to initialize heap
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+./0123Kf567NnOU
+0 0,040@0L0T0
+0 0,080@0\0t0
+0 080|0
+0 3(3T5\5d5l5t5|5
+0!0,040:0E0J0U0a0g0w0
+0!0/050N0T0`0e0m0s0z0
+0!070@0K0S0q0}0
+0$0(0,0D0X0h0l0p0
+0(000<0H0P0\0h0p0
+0(070F0d0
+0-}+4-6|
+0<1H1P1\1h1p1
+1 121L1g1
+1"1&1*1.12161:1>1B1F1J1N1R1V1Z1^1b1f1j1n1r1v1z1~1
+1$10181H1T1\1h1t1|1
+123456789:;
+1:2G2W2d2O3
+1@3Y3f3s3\5
+2 2,242@2L2T2
+2 2,282@2
+2"2:2b2p2~2T3a3
+2$2,2D2\2p2|2
+2$22282=2C2Q2]2{2
+2(343<3H3T3\3
+203<3D3P3\3d3
+212N2f2}2
+24445677899::;;;;;
+3 3%313E3V3}3
+383M3S3\3c3
+3e4"7&7*7.72767:7>7I7_7k7s7{7
+4 4(444@4H4x4
+4 4,484D4P4\4h4t4
+4(444|4
+4,4E4\4s4
+4,4\4n4s4
+4O5e5}5
+5 5(545@5H5
+5(505<5H5P5\5h5p5|5
+5(5M5e5
+5(6@6G6O6T6X6\6
+5(9l?t?
+5)535@5\5c5i5n5
+5\6h6p6|6
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 6(60686@6@7H7P7X7`7h7p7x7
+6)6@6R6h6~6
+6L7T7\7d7l7t7|7
+7 7,747
+7(747<7
+7H8T8\8h8t8|8
+7P8\8d8p8|8
+8 8(80888@8H8P8X8`8h8p8x8
+8!8%8)8-8|8
+8&9-9;9E9^9j9v9}9
+8)81868<8@8F8J8P8T8Z8^8c8x8k9e;
+8)8A8}8
+8,:P:A>r>
+8J:Q:[:
+9 9&9,979<9H9Z9{9
+9 9(90989@9
+9 9(949@9H9T9`9h9t9
+9 9,989@9
+9!9.9@9H9P9X9d9n9u9{9
+9"9&9:9>9B9F9
+9$9A9):D:
+9+:8:E:Q:[:c:n:
+94:@:H:T:`:h:
+98:D:L:X:d:l:x:
+9<:H:P:\:h:p:|:
+9=:U:Z:
+9?:F:d:j:
+9T$8t j
+:":&:*:.:2:6:::>:B:F:J:N:R:V:Z:^:b:f:j:n:r:v:z:~:
+:$:.:6:<:E:L:Q:Z:_:
+:(:E:a:
+:)(]=)
+:):0:4:8:<:@:D:H:L:
+:/:4:?:F:Q:V:a:
+:55f%%f
+:6;M;k;
+:6=L=h=
+::G~@:
+:;<)>?
+:;<,>?:;
+:;<=>?%
+:M:]:i:p:
+:h"?bC
+:v:z:~:
+; ;$;(;
+; ;,;4;
+; <,<4<@<L<T<`<l<t<
+;)u$WUj
+;,,(,,+,,DE,c,=,?,,,,def
+;0u\V3
+;5<u<}<
+;E v"P
+;F(r(8_
+;P<T<X<\<`<d<h<l<p<t<x<|<
+<#<'<+</<3<7<;<?<C<G<K<O<S<W<[<_<c<g<k<o<s<w<{<
+<(<0<<<H<P<
+<(<4<<<H<T<\<h<t<|<
+<P=e=w=}=
+<program name unknown>
+= =$=<=@=D=H=X=h=
+= =p=|=
+= >U>;?
+=&=1=C=N=`=k=}=
+=)>7>E>_?
+=.=4=G=K=O=S=W=[=_=c=g=k=o=s=w={=
+=H=X=\=d=
+> >(>4>@>H>T>`>h>t>
+> >,>8>@>
+>#>'>+>/>3>7>;>
+>$>0><>D>P>\>d>
+>(>4><>
+>(>8>H>X>
+>0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?
+>?:)<)>?:<<;>?:
+>?:)<:>?:)<
+>P?\?d?p?|?
+? ?4?D?H?L?d?h?l?
+?\?h?p?|?
+?f;:tX
+?g)([|X>=
+A ;B u
+A buffer overrun has been detected which has corrupted the program's
+A security error of unknown cause has been detected which has
+Added shader %s
+Argentina
+Australia
+AuthenticAMD
+Ax#?uN}*
+BINORMAL
+BLENDINDICES
+BLENDWEIGHT
+Buffer overrun detected!
+C PjPVj
+C/PjSVj
+C\uX9CDuS
+CloseHandle
+Colombia
+Constant variable '%s' bound to register greater than 8191 (%d requested)
+CorExitProcess
+Costa Rica
+CreateFileA
+CreateFileMappingA
+CreateFileW
+D3DCOLORtoUBYTE4
+D3DX: (WARN) An allocation of zero bytes should return a unique non-null pointer to at
+D3DX: (WARN) D3DX relies upon this behavior.
+D3DX: (WARN) Overloaded ::new and ::delete operators do not conform to C++ standards:
+D3DX: (WARN) least zero bytes. Deletion of a null pointer should quietly do nothing.
+D3DX_VERSION
+DIRECT3D
+DIRECT3D_VERSION
+DOMAIN error
+December
+DeleteCriticalSection
+DeleteObject
+Direct3DCreate9
+Direct3DShaderValidatorCreate9
+Dominican Republic
+EnterCriticalSection
+EnumSystemLocalesA
+ExitProcess
+E{!}ux
+F(^][d
+FRAGMENT
+FWWW\]G
+February
+FindClose
+FindFirstFileW
+FindNextFileW
+FlsAlloc
+FlsGetValue
+FlsSetValue
+FlushFileBuffers
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+GAIsProcessorFeaturePresent
+GetActiveWindow
+GetCPInfo
+GetCommandLineA
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetEnvironmentStrings
+GetEnvironmentStringsW
+GetFileSize
+GetFileType
+GetFullPathNameA
+GetLastActivePopup
+GetLastError
+GetLocaleInfoA
+GetLocaleInfoW
+GetModuleFileNameA
+GetModuleHandleA
+GetOEMCP
+GetProcAddress
+GetProcessWindowStation
+GetStartupInfoA
+GetStdHandle
+GetStringTypeA
+GetStringTypeW
+GetSystemInfo
+GetSystemTimeAsFileTime
+GetTickCount
+GetUserDefaultLCID
+GetUserObjectInformationA
+GetVersionExA
+Guatemala
+HH:mm:ss
+HHt Ht
+HHt`HHt\
+HHtjHHtF
+HeapAlloc
+HeapCreate
+HeapDestroy
+HeapFree
+HeapReAlloc
+HeapSize
+Icelandic
+InitializeCriticalSection
+InitializeCriticalSectionAndSpinCount
+InterlockedCompareExchange
+InterlockedExchange
+Invalid input register '%s' specified
+Invalid pixel shader input register '%s' specified
+IsBadCodePtr
+IsBadReadPtr
+IsBadWritePtr
+IsValidCodePage
+IsValidLocale
+JanFebMarAprMayJunJulAugSepOctNovDec
+KERNEL32
+KKK\\\\]]p
+LCMapStringA
+LCMapStringW
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LeaveCriticalSection
+LoadLibraryA
+Luxembourg
+MM/dd/yy
+MapViewOfFile
+Matrices cannot be specified in temp registers with the fragment linker
+MessageBoxA
+Microsoft (R) D3DX9 Shader Assembler 4.09.00.1126
+Microsoft Visual C++ Runtime Library
+MultiByteToWideChar
+November
+OutputDebugStringA
+POSITION
+POSITIONT
+POSITIONT 
+PPPPPPPP
+Paraguay
+Please contact the application's support team for more information.
+Program: 
+QueryDX9Support
+QueryPerformanceCounter
+RaiseException
+ReadFile
+RtlUnwind
+Runtime Error!
+SING error
+SPECULAR
+SVWj ^
+Sampler variable '%s' does not specify the sampler type.  Explicit sampler types required for asm fragments.
+Saturday
+September
+SetEndOfFile
+SetFilePointer
+SetHandleCount
+SetLastError
+SetStdHandle
+SetUnhandledExceptionFilter
+South Africa
+Spanish - Modern Sort
+Spanish - Traditional Sort
+SunMonTueWedThuFriSat
+Switzerland
+TESSFACTOR
+TEXCOORD
+TLOSS error
+TerminateProcess
+This application has requested the Runtime to terminate it in an unusual way.
+Thursday
+TlsAlloc
+TlsGetValue
+TlsSetValue
+UV.-;.,>,(),+,,.,@ABC,()G+,,,]+
+Unable to find shader file 
+UnhandledExceptionFilter
+Unknown Error
+Unknown exception
+Unknown security failure detected!
+UnmapViewOfFile
+Updated shader %s
+VC20XC00U
+Venezuela
+VirtualAlloc
+VirtualFree
+VirtualProtect
+VirtualQuery
+Wednesday
+WideCharToMultiByte
+WriteFile
+Yt:SVW
+[)~<,D{)
+\$4UVWS
+]):;,)(
+]////////X]
+]:;<=>?[
+]vQ<)8
+_[{:;def?
+__FILE__
+__LINE__
+_nextafter
+` !*+,JKY
+addressing operations are not allowed on input registers '%s'
+addressing operations not allowed on temporary registers '%s'
+american
+american english
+at)It;
+australian
+bad allocation
+binormal
+blendindices
+blendweight
+boolean constant register '%s' must be defined as a variable of type bool only
+call, callnz, label, and ret instructions are not allowed in assembly fragments
+canadian
+centroid
+character continues past end of file
+column_major
+comment continues past end of file
+complement cannot be used with other modifiers
+complement is not supported in this shader version
+constant register '%s' must be defined as a variable '%s'
+constant register address out of bounds on constant '%s', size %d, offset %d
+continue execution and must now be terminated.
+corrupted the program's internal state.  The program cannot safely
+dddd, MMMM dd, yyyy
+debug info exceeds maximum comment size; no debug info emitted
+decimal value truncated to 32bits
+determinant
+distance
+division by zero in preprocessor expression
+duplicate macro parameter '%s'
+e0i0m0q0u0y0}0
+end of file
+end of line
+english-south africa
+english-trinidad y tobago
+entrypoint
+error X%u: 
+error: %s
+faceforward
+failed to open source file: '%s'
+float '%g'
+float '%gf'
+float '%gh'
+float '%gl'
+fragment info exceeds maximum comment size
+function
+functional defines in preprocessor expressions not yet implemented
+gi-$ lmo
+great britain
+hex value truncated to 32bits
+include interface required to support #include from resource or memory
+instruction coissue is not supported in this shader version
+instruction predication is not supported in this shader version
+integer '%dl'
+integer '%u'
+integer '%uul'
+integer constant register '%s' must be defined as a variable of type int3 or int4 only
+internal error: instruction size mismatch
+internal error: out of memory
+internal error: production failed
+internal error: stack underflow
+internal error: unknown node
+internal state.  The program cannot safely continue execution and must
+invalid complement expression
+invalid instruction modifiers '%s'
+invalid map/set<T> iterator
+invalid mask '%s'
+invalid or unsupported integer constant expression
+invalid preprocessor command '%s'
+invalid register '%s'
+invalid register '%s[%u]'
+invalid register '%s[...]'
+invalid register, input, or constant name '%s'
+invalid string position
+invalid swizzle '%s'
+isfinite
+l$ tD;
+list<T> too long
+lstrcmpiA
+map/set<T> too long
+nX]uHvMwOx}~
+negate and divide modifiers cannot be combined
+normalize
+norwegian
+not cannot be used with other modifiers
+not enough actual parameters for macro '%s'
+now be terminated.
+octal value truncated to 32bits
+only a0.x is allowed as a relative address register in vs_1_1
+only one address register reference allowed in a relative address expression
+only one address register reference is allowed in a relative address expression
+only vs_1_1, vs_2_0, vs_2_x, vs_2_sw, ps_2_0, ps_2_x, and ps_2_sw are supported for assembly fragments
+pack_matrix
+pixelshader
+position
+positiont
+pr china
+predicates are not supported in this shader version
+ps_1_0 is no longer supported; using ps_1_1
+rAssembleShader Succesfull
+relative addressing of destination parameters is not supported in this shader version
+relative addressing of predicates is not supported in this shader version
+row_major
+runtime error 
+sXt(WWh
+saturate
+scalar registers cannot be masked
+scalar registers cannot be swizzled
+shader version expected
+smoothstep
+source modifiers are not allowed on destination parameters
+source modifiers are not allowed on predicates
+source modifiers incompatible with SUB instruction
+south africa
+south korea
+spanish-costa rica
+spanish-dominican republic
+spanish-el salvador
+spanish-puerto rico
+string constant
+string continues past end of file
+string continues past end of line
+string too long
+syntax error
+syntax error : unexpected %s
+t%<.u(
+t.;t$$t(
+t2<\u'
+t2WWVPVSW
+techinque
+temporary and constant registers are not allowed in assembly fragments
+tessfactor
+tex1Dbias
+tex1Dproj
+tex2Dbias
+tex2Dproj
+tex3Dbias
+tex3Dproj
+texCUBEbias
+texCUBEproj
+texcoord
+texdepth
+texdp3tex
+texm3x2depth
+texm3x2pad
+texm3x2tex
+texm3x3pad
+texm3x3spec
+texm3x3tex
+texm3x3vspec
+texreg2ar
+texreg2gb
+texreg2rgb
+token '%s'
+too many nested #includes
+transpose
+trinidad & tobago
+u'9FDu h
+u'9Y u"
+undeclared identifier '%s'
+unexpected #elif
+unexpected #elif following #else
+unexpected #else
+unexpected #else following #else
+unexpected #endif
+unexpected end of file
+unexpected end of file in macro expansion
+unexpected tokens following preprocessor directive
+unrecognized shader version
+variable
+version token
+vertexshader
+vs_1_0 is no longer supported; using vs_1_1
+yacc stack overflow
+|)P!?Ua0
+|{"%^_
+}:;<=>?%
+}:;<=>?[

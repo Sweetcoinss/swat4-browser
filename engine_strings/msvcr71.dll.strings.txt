@@ -1,0 +1,1039 @@
+# Strings extracted from msvcr71.dll (348160 bytes)
+# Total strings: 1796, filtered: 1036
+
+                                 H
+         (((((                  H
+         h((((                  H
+        h((((                  H
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ ,4|(,4|0,4|8,4|@,4|H,4|P,4|c,4|
+ AABBf
+ BBFFOt
+ BBFFf
+ Base Class Array'
+ Base Class Descriptor at (
+ C Runtime Library
+ Class Hierarchy Descriptor'
+ Microsoft Corporation.  All rights reserved.
+ Type Descriptor'
+ Visual Studio .NET
+ delete
+ delete[]
+ new[]
+ throw(
+ volatile
+!"#$%&'()*+,-./012456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+!This program cannot be run in DOS mode.
+"B <1=
+% w8|f
+%(w8|f
+(%P,8|f
+(%P58|f
+(-P&8|f
+(-p,8|f
+(-p58|f
+(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+(5`,8|f
+(5`58|f
+(Press Retry to debug the application - JIT must be enabled)
+(null)
+(t-HtQ
+)4|%*4|H*4|#
+,/4|U/4|x/4|#
+- This application cannot run using the active version of the Microsoft .NET Runtime
+- floating point not loaded
+- not enough space for _onexit/atexit table
+- not enough space for arguments
+- not enough space for environment
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- not enough space for thread data
+- pure virtual function call
+- unable to initialize heap
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+.;1s(N
+/1<1H2
+0 0 1$1(1,1014181,4`4d4
+0 020q0(151E1R1=2
+0"0(0.040:0@0F0L0R0X0^0d0j0r0x0
+0$0(0.02070w0
+0'020L0U0\0j0{0
+0(080H0`0p0
+0)1014181<1@1D1H1L1
+0*000\0w0
+0D0T0h0}0
+0Y0`0}0
+0q3/4?4V4p4
+0u2::H:\:
+1 1$1(1,1014181<1@1D1H1L1(5,5054585
+1 1(10181@1H1P1X1`1h1p1x1
+1 101@1P1`1p1
+1 2*2`2
+1 2+2=2H2Z2e2w2
+1"2)2.2x2
+1$1(1,141X1\1`1h1
+113^3k356N6Y6`6f6n6}6
+1?1N1\1
+1L1W1]1g1}1
+2 2(20282<2@2H2P2X2\2d2x2
+2 2,2U2b2t2
+2 202@2P2`2p2
+2$3(34383@3D3L3P3\3`3p3|3
+2)23273B3L3V3e3z3
+2)2W2g2
+2B384Z4c4/5C5L5
+2`3 404
+2c7|:c7|Bc7|Jc7|Rc7|Zc7|bc7|jc7|
+3 3(30383@3H3P3X3`3h3p3x3
+3 303@3L3P3\3`3p3
+3)3/3H3N3
+3*4:4B4M4W4_4j4
+3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3X6\6
+3H3c3{3
+3R4w4}4
+4 4$4(4,4044484<4@4u4
+4 4(40484@4H4P4X4`4h4p4x4
+4!414B4{4
+4:5V5x5
+4C5G5K5O5S5W5[5_5c5g5k5o5s5w5{5
+4N4^4p4{4
+4_7c7g7k7o7s7w7{7
+4|k 4|a
+5 525Q5
+5%5D5Q5\5i5
+5/5<5!656?6#787E7!858?8
+5h8x8$9(989
+5| ?? 
+5|Bad dynamic_cast!
+6 6(6C6
+6&6,6:6@6H6i6o6z6
+6(616r6
+6)767@7M7V7u7b8
+6/7?7I7U7_7g7r7
+6| /c 
+7 7&7q7
+7 797R7
+7$858=8{8
+7(7Z7c7~7
+71777N7f8{9
+7N8;9K9\9d9t9
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8 9X9`9r9
+8$8)8J8
+8$9/9d;};
+8&8-858=8G8P8\8h8u8|8
+82888>8V8\8b8p8{8
+83:@:\:m:t:
+8| Complete Object Locator'
+8|(+7|
+8|;A t
+8|Illegal byte sequence
+8|Wu)95,
+8|WuO95(
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9$94989
+9 909@9P9
+9 9Z9a9g9
+9!9\9f9
+9!:D:a:p:t:x:|:
+9(9-999U9^9t9
+9)<6<A<N<
+90:?:W:
+93:F:b:l:
+94:8:<:@:D:H:L:P:[:|:
+97:@:G:L:T:
+9<:[:l:
+9B9\9c9l9t9
+9D:V:|:
+9O:\:b:h:
+9\;`;p;
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+:":6:o:
+:%;0;I;Q;
+:&;A;t<
+:(:5:D:L:[:l:r:
+:(:8:H:X:h:x:
+:0:6:Y:r:
+:;:U<d<o<
+:<:J:\:v:
+:<;H;`;h;
+:?:^:|:
+:D<O<U<Z<b<
+:D>H>X>h>x>
+:G:L:^:e:l:s:
+:H;Q;i;p;x;|;
+:I:g:s:
+:h"?bC
+:u#f9tx
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+;!;9;E;\;t;
+;";&;*;.;2;6;:;>;B;F;J;N;R;V;Z;^;b;f;j;n;r;v;z;~;
+;$;*;/;7;
+;);D;j;
+;)</<4<E<
+;/;A;S;[;c;k;z;
+;4<B<T<(=;=M=
+;F(r(8_
+;T^h<U_i=V`j>Wak?Xbl@YcmAZdnB[eoC\fpD]gq
+<(<4<@<L<P<X<\<h<t<x<
+<D<K<\<
+<program name unknown>
+=(=\=`=p=
+=)===[=
+=*>:>F>X>h>t>h?
+=:>e>k>y>
+=N=R=V=Z=^=b=f=j=n={=
+>(>0>4><>@>L>P>\>`>p>x>|>
+>4>F>R>b>{>
+>8>>>_>e>t>{>
+>:u>FV
+>L?P?\?`?|?
+>M>v>}>
+? ?$?(?Q?t?
+? ?0?@?P?x?
+?$?b?u?{?
+?Dj0Q:W$=
+?JIE]0\
+?g)([|X>=
+A buffer overrun has been detected which has corrupted the program's
+A security error of unknown cause has been detected which has
+Access violation - no RTTI data!
+Arg list too long
+Argentina
+Assertion failed!
+Assertion failed: %s, file %s, line %d
+Attempted a typeid of NULL pointer!
+Australia
+Ax#?uN}*
+B 02CV
+Bad address
+Bad file descriptor
+Bad read pointer - no RTTI data!
+Broken pipe
+Buffer overrun detected!
+C =02CVu
+C PjPVj
+C/PjSVj
+CloseHandle
+Colombia
+CompanyName
+CompareStringA
+CompareStringW
+CorExitProcess
+Costa Rica
+Cp'n/P%
+Cp/n/P+
+CreateDirectoryA
+CreateDirectoryW
+CreateFileA
+CreateFileW
+CreatePipe
+CreateProcessA
+CreateProcessW
+CreateThread
+DOMAIN error
+December
+DeleteCriticalSection
+DeleteFileA
+DeleteFileW
+Directory not empty
+Domain error
+Dominican Republic
+DuplicateHandle
+E SSSS
+E VVVVW
+EnterCriticalSection
+EnumSystemLocalesA
+Ep/n7P+
+Exec format error
+ExitProcess
+ExitThread
+Expression: 
+February
+File exists
+File too large
+File: 
+FileDescription
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+FileVersion
+Filename too long
+FindClose
+FindFirstFileA
+FindFirstFileW
+FindNextFileA
+FindNextFileW
+FlsAlloc
+FlsGetValue
+FlsSetValue
+FlushFileBuffers
+For information on how your program can cause an assertion
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+FreeLibrary
+Function not implemented
+G4|(G4|@G4|TG4|tG4|yG4|
+GetActiveWindow
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+GetConsoleCP
+GetConsoleMode
+GetConsoleOutputCP
+GetCurrentDirectoryA
+GetCurrentDirectoryW
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThread
+GetCurrentThreadId
+GetDateFormatA
+GetDiskFreeSpaceA
+GetDriveTypeA
+GetDriveTypeW
+GetEnvironmentStrings
+GetEnvironmentStringsW
+GetEnvironmentVariableA
+GetExitCodeProcess
+GetFileAttributesA
+GetFileAttributesW
+GetFileInformationByHandle
+GetFileType
+GetFullPathNameA
+GetFullPathNameW
+GetLastActivePopup
+GetLastError
+GetLocalTime
+GetLocaleInfoA
+GetLocaleInfoW
+GetLogicalDrives
+GetModuleFileNameA
+GetModuleFileNameW
+GetModuleHandleA
+GetNumberOfConsoleInputEvents
+GetOEMCP
+GetProcAddress
+GetStartupInfoA
+GetStdHandle
+GetStringTypeA
+GetStringTypeW
+GetSystemInfo
+GetSystemTimeAsFileTime
+GetTickCount
+GetTimeFormatA
+GetTimeZoneInformation
+GetUserDefaultLCID
+GetUserObjectInformationA
+GetVersionExA
+Guatemala
+H4|7H4|<H4|\H4|pH4|
+HH:mm:ss
+HHt`HHt\
+HHtjHHtF
+HYYt0Ht Ht
+HYYtJHt9H
+HeapAlloc
+HeapCompact
+HeapCreate
+HeapDestroy
+HeapFree
+HeapReAlloc
+HeapSize
+HeapValidate
+HeapWalk
+Ht0Ht Ht
+H{5|L{5|
+Icelandic
+Improper link
+Inappropriate I/O control operation
+InitializeCriticalSection
+Input/output error
+InterlockedExchange
+InternalName
+Interrupted function call
+Invalid argument
+Invalid seek
+Ip/n5P+
+Is a directory
+IsBadCodePtr
+IsBadReadPtr
+IsBadWritePtr
+IsDBCSLeadByteEx
+IsValidCodePage
+IsValidLocale
+J4|#J4|(J4|HJ4|\J4|tJ4|
+JanFebMarAprMayJunJulAugSepOctNovDec
+JtnJtVJu
+KERNEL32
+LCMapStringA
+LCMapStringW
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LeaveCriticalSection
+LegalCopyright
+Line: 
+LoadLibraryA
+LocalFileTimeToFileTime
+LockFile
+Luxembourg
+MM/dd/yy
+MessageBoxA
+Microsoft
+Microsoft Corporation
+Microsoft Visual C++ Runtime Library
+MoveFileA
+MoveFileW
+MultiByteToWideChar
+No child processes
+No error
+No locks available
+No space left on device
+No such device
+No such device or address
+No such file or directory
+No such process
+Not a directory
+Not enough space
+November
+Nt@Nt NuM
+Op/n1P+
+Operation not permitted
+OriginalFilename
+PPPPPPPP
+Paraguay
+PeekConsoleInputA
+PeekNamedPipe
+Permission denied
+Please contact the application's support team for more information.
+ProductName
+ProductVersion
+Program: 
+QueryPerformanceCounter
+RaiseException
+Read-only file system
+ReadConsoleA
+ReadConsoleInputA
+ReadConsoleInputW
+ReadConsoleW
+ReadFile
+RemoveDirectoryA
+RemoveDirectoryW
+Resource deadlock avoided
+Resource device
+Resource temporarily unavailable
+Result too large
+ResumeThread
+RtlUnwind
+Runtime Error!
+SING error
+SVWj ^
+Saturday
+September
+SetConsoleCtrlHandler
+SetConsoleMode
+SetCurrentDirectoryA
+SetCurrentDirectoryW
+SetEndOfFile
+SetEnvironmentVariableA
+SetEnvironmentVariableW
+SetErrorMode
+SetFileAttributesA
+SetFileAttributesW
+SetFilePointer
+SetFileTime
+SetHandleCount
+SetLastError
+SetLocalTime
+SetStdHandle
+SetUnhandledExceptionFilter
+South Africa
+Spanish - Modern Sort
+Spanish - Traditional Sort
+StringFileInfo
+Switzerland
+SystemTimeToFileTime
+T% %8|f
+T0X0\0l0p0
+TLOSS error
+TerminateProcess
+This application has requested the Runtime to terminate it in an unusual way.
+Thursday
+TlsAlloc
+TlsGetValue
+TlsSetValue
+Too many links
+Too many open files
+Too many open files in system
+Translation
+UnhandledExceptionFilter
+Unknown error
+Unknown exception
+Unknown security failure detected!
+UnlockFile
+U}6|Y}6|
+VS_VERSION_INFO
+VVVVVUWUUj
+VarFileInfo
+Venezuela
+VirtualAlloc
+VirtualFree
+VirtualProtect
+VirtualQuery
+WQt)9E
+WaitForSingleObject
+Wednesday
+WideCharToMultiByte
+WriteConsoleA
+WriteConsoleW
+WriteFile
+X- &8|f
+X1A2K2(6-6
+XtgHHt\
+Y:/(A6>
+YYt}h<
+Yt:SVW
+[thunk]:
+\4|3W4|3W4|]W4|3W4|
+\4|5W4|
+]vQ<)8
+_CIatan2
+_CIlog10
+_CRT_RTC_INIT
+_CxxThrowException
+_EH_prolog
+_Getdays
+_Getmonths
+_Gettnames
+_Strftime
+_XcptFilter
+__CppXcptFilter
+__CxxCallUnwindDtor
+__CxxCallUnwindVecDtor
+__CxxDetectRethrow
+__CxxExceptionFilter
+__CxxFrameHandler
+__CxxLongjmpUnwind
+__CxxQueryExceptionSize
+__CxxRegisterExceptionObject
+__CxxUnregisterExceptionObject
+__DestructExceptionObject
+__GLOBAL_HEAP_SELECTED
+__RTCastToVoid
+__RTDynamicCast
+__RTtypeid
+__STRINGTOLD
+___lc_codepage_func
+___lc_collate_cp_func
+___lc_handle_func
+___mb_cur_max_func
+___setlc_active_func
+___unguarded_readlc_active_add_func
+__badioinfo
+__based(
+__box 
+__buffer_overrun
+__clrcall
+__crtCompareStringA
+__crtCompareStringW
+__crtGetLocaleInfoW
+__crtGetStringTypeW
+__crtLCMapStringA
+__crtLCMapStringW
+__dllonexit
+__doserrno
+__fastcall
+__fpecode
+__getmainargs
+__initenv
+__int128
+__iob_func
+__isascii
+__iscsym
+__iscsymf
+__lc_clike
+__lc_codepage
+__lc_collate_cp
+__lc_handle
+__lconv_init
+__mb_cur_max
+__p___argc
+__p___argv
+__p___initenv
+__p___mb_cur_max
+__p___wargv
+__p___winitenv
+__p__acmdln
+__p__amblksiz
+__p__commode
+__p__daylight
+__p__dstbias
+__p__environ
+__p__fileinfo
+__p__fmode
+__p__iob
+__p__mbcasemap
+__p__mbctype
+__p__osver
+__p__pctype
+__p__pgmptr
+__p__pwctype
+__p__timezone
+__p__tzname
+__p__wcmdln
+__p__wenviron
+__p__winmajor
+__p__winminor
+__p__winver
+__p__wpgmptr
+__pascal
+__pctype_func
+__pin 
+__pioinfo
+__pwctype_func
+__pxcptinfoptrs
+__restrict
+__security_error_handler
+__set_app_type
+__set_buffer_overrun_handler
+__setlc_active
+__setusermatherr
+__stdcall
+__thiscall
+__threadhandle
+__threadid
+__toascii
+__unDName
+__unDNameEx
+__unaligned
+__uncaught_exception
+__unguarded_readlc_active
+__w64 
+__wcserror
+__wgetmainargs
+__winitenv
+_abnormal_termination
+_adj_fdiv_m16i
+_adj_fdiv_m32
+_adj_fdiv_m32i
+_adj_fdiv_m64
+_adj_fdiv_r
+_adj_fdivr_m16i
+_adj_fdivr_m32
+_adj_fdivr_m32i
+_adj_fdivr_m64
+_adj_fpatan
+_adj_fprem
+_adj_fprem1
+_adj_fptan
+_adjust_fdiv
+_aexit_rtn
+_aligned_free
+_aligned_malloc
+_aligned_offset_malloc
+_aligned_offset_realloc
+_aligned_realloc
+_amsg_exit
+_atoldbl
+_beginthread
+_beginthreadex
+_callnewh
+_chdrive
+_chgsign
+_clearfp
+_commode
+_control87
+_controlfp
+_copysign
+_cprintf
+_ctime64
+_cwprintf
+_cwscanf
+_daylight
+_dstbias
+_endthread
+_endthreadex
+_environ
+_except_handler2
+_except_handler3
+_execlpe
+_execvpe
+_fcloseall
+_fgetchar
+_fgetwchar
+_fileinfo
+_filelength
+_filelengthi64
+_findclose
+_findfirst
+_findfirst64
+_findfirsti64
+_findnext
+_findnext64
+_findnexti64
+_flushall
+_fpclass
+_fpieee_flt
+_fpreset
+_fputchar
+_fputwchar
+_fstat64
+_fstati64
+_ftime64
+_fullpath
+_futime64
+_get_heap_handle
+_get_osfhandle
+_get_sbh_threshold
+_getdcwd
+_getdiskfree
+_getdllprocaddr
+_getdrive
+_getdrives
+_getmaxstdio
+_getmbcp
+_getsystime
+_getwche
+_global_unwind2
+_gmtime64
+_heapadd
+_heapchk
+_heapmin
+_heapset
+_heapused
+_heapwalk
+_initterm
+_isctype
+_ismbbalnum
+_ismbbalpha
+_ismbbgraph
+_ismbbkalnum
+_ismbbkana
+_ismbbkprint
+_ismbbkpunct
+_ismbblead
+_ismbbprint
+_ismbbpunct
+_ismbbtrail
+_ismbcalnum
+_ismbcalpha
+_ismbcdigit
+_ismbcgraph
+_ismbchira
+_ismbckata
+_ismbcl0
+_ismbcl1
+_ismbcl2
+_ismbclegal
+_ismbclower
+_ismbcprint
+_ismbcpunct
+_ismbcspace
+_ismbcsymbol
+_ismbcupper
+_ismbslead
+_ismbstrail
+_loaddll
+_local_unwind2
+_localtime64
+_locking
+_longjmpex
+_lsearch
+_lseeki64
+_makepath
+_mbbtombc
+_mbbtype
+_mbcasemap
+_mbcjistojms
+_mbcjmstojis
+_mbctohira
+_mbctokata
+_mbctolower
+_mbctombb
+_mbctoupper
+_mbctype
+_mbsbtype
+_mbscoll
+_mbscspn
+_mbsicmp
+_mbsicoll
+_mbsnbcat
+_mbsnbcmp
+_mbsnbcnt
+_mbsnbcoll
+_mbsnbcpy
+_mbsnbicmp
+_mbsnbicoll
+_mbsnbset
+_mbsncat
+_mbsnccnt
+_mbsncmp
+_mbsncoll
+_mbsncpy
+_mbsnextc
+_mbsnicmp
+_mbsnicoll
+_mbsninc
+_mbsnset
+_mbspbrk
+_mbsrchr
+_mbsspnp
+_mbstrlen
+_memccpy
+_memicmp
+_mktime64
+_nextafter
+_open_osfhandle
+_osplatform
+_purecall
+_pwctype
+_resetstkoflw
+_safe_fdiv
+_safe_fdivr
+_safe_fprem
+_safe_fprem1
+_scprintf
+_scwprintf
+_searchenv
+_seh_longjmp_unwind
+_set_SSE2_enable
+_set_error_mode
+_set_purecall_handler
+_set_sbh_threshold
+_set_security_error_handler
+_seterrormode
+_setjmp3
+_setmaxstdio
+_setmbcp
+_setmode
+_setsystime
+_snprintf
+_snscanf
+_snwprintf
+_snwscanf
+_spawnle
+_spawnlp
+_spawnlpe
+_spawnve
+_spawnvp
+_spawnvpe
+_splitpath
+_stati64
+_statusfp
+_strcmpi
+_strdate
+_strerror
+_stricmp
+_stricoll
+_strncoll
+_strnicmp
+_strnicoll
+_strnset
+_strtime
+_strtoi64
+_strtoui64
+_sys_errlist
+_sys_nerr
+_telli64
+_tempnam
+_timezone
+_tolower
+_toupper
+_ui64toa
+_ui64tow
+_ungetch
+_ungetwch
+_unloaddll
+_utime64
+_vscprintf
+_vscwprintf
+_vsnprintf
+_vsnwprintf
+_waccess
+_wasctime
+_wcserror
+_wcsicmp
+_wcsicoll
+_wcsncoll
+_wcsnicmp
+_wcsnicoll
+_wcsnset
+_wcstoi64
+_wcstoui64
+_wctime64
+_wenviron
+_wexecle
+_wexeclp
+_wexeclpe
+_wexecve
+_wexecvp
+_wexecvpe
+_wfdopen
+_wfindfirst
+_wfindfirst64
+_wfindfirsti64
+_wfindnext
+_wfindnext64
+_wfindnexti64
+_wfreopen
+_wfsopen
+_wfullpath
+_wgetcwd
+_wgetdcwd
+_wgetenv
+_winmajor
+_winminor
+_wmakepath
+_wmktemp
+_wperror
+_wpgmptr
+_wputenv
+_wremove
+_wrename
+_wsearchenv
+_wsetlocale
+_wspawnl
+_wspawnle
+_wspawnlp
+_wspawnlpe
+_wspawnv
+_wspawnve
+_wspawnvp
+_wspawnvpe
+_wsplitpath
+_wstat64
+_wstati64
+_wstrdate
+_wstrtime
+_wsystem
+_wtempnam
+_wtmpnam
+_wunlink
+_wutime64
+`adjustor{
+`anonymous namespace'
+`copy constructor closure'
+`default constructor closure'
+`eh vector constructor iterator'
+`eh vector copy constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`eh vector vbase copy constructor iterator'
+`local static destructor helper'
+`local static guard'
+`local vftable constructor closure'
+`local vftable'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`scalar deleting destructor'
+`template static data member constructor helper'
+`template static data member destructor helper'
+`udt returning'
+`unknown ecsu'
+`vbase destructor'
+`vector constructor iterator'
+`vector deleting destructor'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`vtordisp{
+american
+american english
+australian
+bad cast
+bad typeid
+canadian
+class 
+clearerr
+coclass 
+cointerface 
+const 
+continue execution and must now be terminated.
+corrupted the program's internal state.  The program cannot safely
+dddd, MMMM dd, yyyy
+difftime
+e7|!f7|)f7|1f7|9f7|Af7|If7|Qf7|Yf7|
+english-south africa
+english-trinidad y tobago
+f7|/g7|wg7|
+failure, see the Visual C++ documentation on asserts
+fwprintf
+g7|\g7|
+getwchar
+great britain
+i^^?(>
+internal state.  The program cannot safely continue execution and must
+is_wctype
+isleadbyte
+iswalnum
+iswalpha
+iswascii
+iswcntrl
+iswctype
+iswdigit
+iswgraph
+iswlower
+iswprint
+iswpunct
+iswspace
+iswupper
+iswxdigit
+isxdigit
+j Y+L$
+localeconv
+localtime
+mbstowcs
+new_p == 0
+norwegian
+now be terminated.
+operator
+pr china
+private: 
+protected: 
+public: 
+putwchar
+setlocale
+short 
+signed 
+south africa
+south korea
+spanish-costa rica
+spanish-dominican republic
+spanish-el salvador
+spanish-puerto rico
+static 
+strerror
+strftime
+struct 
+swprintf
+t%<.u(
+t+Ht Ht
+t.;t$$t(
+t/VVSPj
+t2WWVPVSW
+t3<@t)<Zt
+tCIt/It$It
+tKOt=Ot(Ot
+towlower
+towupper
+trinidad & tobago
+union 
+unsigned 
+v4|runtime error 
+vfprintf
+vfwprintf
+virtual 
+volatile 
+vsprintf
+vswprintf
+vwprintf
+wcsftime
+wcstombs
+{flat}
+|)P!?Ua0
+}*9X ~%

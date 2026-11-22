@@ -1,0 +1,1057 @@
+# Strings extracted from UnrealEdPerforce.dll (389120 bytes)
+# Total strings: 1716, filtered: 1054
+
+                                 H
+            ^C              Quit the resolve operation.
+            a               Keep autoselected file.
+            ae              Keep merged and edited file.
+            am              Keep merged file.
+            at              Keep only changes to their file.
+            ay              Keep only changes to your file.
+            d               Diff their file against yours->
+            d               Diff your file against merged file.
+            dm              See merged changes.
+            dt              See their changes alone.
+            dy              See your changes alone.
+            e               Edit merged file (read/write).
+            et              Edit their file (read only).
+            et              Edit their file (read/write).
+            ey              Edit your file (read/write).
+            h               Print this help message.
+            m               Run '$P4MERGE base theirs yours merged'.
+            s               Skip this file.
+         (((((                  H
+         h((((                  H
+        h((((                  H
+    Accept:
+    Diff:
+    Edit:
+    Misc:
+  !!""##$$%%&&''(())**++,,--..//00112233445566778899::;;<<==>>??@@AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQRRSSTTUUVVWWXXYYZZ[[\\]]^^__``aabbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzz{{||}}~~
+  8e%2x
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ &   ! 
+ - using 
+ -> U+%04x -> %s
+ AABBf
+ W-7"W.7#W/7$W07%W17&W
+ a@t!a
+ b+?!b
+ deflate 1.0.4 Copyright 1995-1996 Jean-loup Gailly 
+ file can't be added.
+ gtB"guB&g
+ instead of 
+ jzD!j
+ p0I#p1I&p
+ u$M!u%M#u
+ |hR!|
+ ~FT!~
+!This program cannot be run in DOS mode.
+#N'0$N(0&N
+#QY2'QZ2(Q[2*Q
+#\m:$\
+#]G;$]H;&]I;']J;)]
+#{vQ%{
+#}VS&}WS*}XS+}
+$S3t%S)4'S*4(S+4)S,4*S
+$j{D(j|D)j
+%$%a%b%V%U%c%Q%W%]%\%[%
+%04x -> %04x
+%04x -> %04x -> %04x
+%04x -> %04x -> unknown
+%04x -> U+%04x
+%04x -> U+%04x -> %04x
+%04x -> U+%04x -> unknown
+%[7:*[
+%handle%: deleted handled!
+%handle%: no such handle!
+%handle%: too many handles!
+%host%: host unknown.
+%operation%: %arg%: %errmsg%
+%operation%: %arg%: unknown errno %errno%
+%operation%: %arg%: unknown network error %errno%
+%s %s:
+%s -> U+%04x
+%s -> U+%04x -> unknown
+%service%: service unknown.
+%type% - can't edit this type of file!
+&X'8'X(8*X
+&\n:(\
+&eCA)eDA*e
+&lMF'lNF(lOF,lPF.lQF3lRF4l
+&m3G'm4G(m5G)m
+&oJH)oKH*oLH+o
+&t+L(t,L)t-L*t.L+t/L,t0L-t1L.t2L/t3L0t4L1t5L2t
+'PY1(P
+'Th4(Ti4)T
+'ZV9(ZW9)Z
+'b.?)b/?*b
+'hOC(hNC)h
+'nkG)n
+'s/K(s0K)s
+'u'M(u
+'yEP)yFP*y
+'{wQ({
+'~GT(~HT+~
+(... files differ ...)
+(0G0Z0
+(N)0*N
+(R93)R
+(VWj%U
+(Yk8)Y
+(^.<+^
+(_h<)_
+(kiE+kjE,kkE/klE2k
+(null)
+(pMt,p
+(wfN)w
+(|kR*|
+)W27*W37,W47-W
+)\o:+\p:,\q:-\
+)cd?*ce?+c
+)dR@*dS@,d
+)f'B*f(B+f)B,f*B-f
+)u(M*u)M+u
+)vxM-vyM0v
+){xQ*{yQ+{zQ,{
+*** %d,%d ****%s
+*ZX9-ZY9/Z
++S-4,S.4-S/4/S
++qlI-qmI/qnI0qoI1qpI6q
+, assuming 
+,Q\2-Q]2/Q^21Q_22Q
+,V46/V
+,hPC-hQC/hRC0hSC1hTC2h
+- This application cannot run using the active version of the Microsoft .NET Runtime
+- floating point not loaded
+- not enough space for _onexit/atexit table
+- not enough space for arguments
+- not enough space for environment
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- not enough space for thread data
+- pure virtual function call
+- unable to initialize heap
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+--- %d,%d ----%s
+-X)8/X
+-[8:0[
+-`[=/`
+-cf?/c
+-oSH/oMH0oNH1o
+-wgN.whN/wiN4wjN5wkN6wlN7w
+-yGP0yTt1yHP4yIP5yJP:y
+-{{Q.{|Q/{}Q0{~Q1{!R3{
+-}YS.}
+... ... 
+... files identical ...
+.N+0/N,00N-01N
+.O]0/O
+.PZ10P[12P\13P]15P^16P
+.W57/W670W
+.\r:0\s:1\
+.^-</^
+._k</_
+.eEA/e
+.f+B/f
+.m7G/m8G1m9G2m
+/Tk41Tl44Tm45Tn46T
+/Yl80Ym81Y
+/dT@0dU@4d
+/p2I0p
+/rIJ0r
+/u*M0u
+/z8Q0z9Q1z
+/~KT1~
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0$0(0,0004080<0@0T0X0\0`0d0h0l0p0t0x0
+0$0(0,000<0H0
+0,101@1L1P1\1`1h1l1t1x1
+0/292G2O2Z2d2l2w2
+0j}D2j~D4j!E5j
+1 1$1(1,1014181<1
+1 1>1d1p1
+1)1S1_1e1
+1/151@1M1d1p1
+1:1G1|1
+1R:32R;33R
+1}ZS2}
+2 2B2o2
+2 3k3=4
+2%272E2Q2}2
+2)3.3E3]3g3q3
+2*2/2u2
+222n2{2o3
+2\t:5\u:6\v:8\
+2^/<3^
+2vzM3v{M4v
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 313b3|3
+3#3)30363>3D3K3P3U3Z3_3e3i3n3s3y3
+364I4{4
+3F3R3]3n3(4@4G4O4T4X4\4
+3`\=5`]=:`
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4K4s4
+4"4(4I4O4^4e4l4u4
+4"5(5.545:5@5F5L5R5X5^5d5j5p5v5|5
+4(5/5@5n5x5
+4(525h5
+4@5D5H5L5P5T5X5\5`5d5h5l5
+4[2:6[
+4z:Q5z;Q7z
+4{"R5{
+5 5(505
+5"5/595F5O5X5d5
+5%5O5\5
+5(545;5E5M5X5a5w5
+5(585D5P5`5p5
+5.5\5j5
+5cg?6ch?9ci?:c
+5v|M8v}M9v~M:v!N;v
+5x[O7x\O:x
+6$6,646<6D6L6T6\6d6l6t6|6
+6(646@6L6X6h6x6
+6(6@6X6p6t6
+6(757l7w7
+6)767Y7q7
+6=7a8g8n8{8
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 717;7C7s7}7
+7 8+8Q8V8b8
+7(848^8
+78:B:M:
+7W8`8r8{8
+7f0B9f/B;fBt<f
+7~8$9(9,909
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8 8$8(8,8084888<8@8D8H8L8P8X8\8`8d8h8l8p8t8x8|8
+8 8'858I8]8o8
+8"949):{:
+8$8(888@8D8L8P8`8l8
+8&8 9v9
+888n8}8
+8:t'j:P
+8Qc29Qd2:Q
+8[9:>[
+8\$4u+
+8rKJ9rLJ:r
+8z<Q9z=Q:z>Q;z
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9d9h9l9p9t9x9|9
+9 909H9Y9r9
+9!:0:v:
+9(989j97:F:U:
+9)949A9^9i9
+9+:L:l:
+9F:`:i:H;`;g;o;t;x;|;
+9K9{9G:
+9Oc0:O
+9V96;V:6<V;6=V<6?V=6@V>6AV?6BV
+9X+8:X
+9\$ ttW
+9m:G;m
+9nnG:n
+9t6L:t
+9u,M:u
+9wmN:w
+9|qR:|rR=|
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:p:t:x:|:
+:$:,:4:<:D:L:T:\:d:l:t:|:
+:$:<:i:u:
+:$:H:R:
+:%:,:6:<:D:L:R:_:f:n:~:
+:(:,:4:$<,<4<<<D<L<T<\<d<l<t<|<
+:,>4><>D>L>T>\>d>l?p?t?x?|?
+:0:4:8:L:\:`:d:|:
+:0;4;8;<;@;D;H;L;P;
+:A;M;[;k;{;
+:M:R:_:p:u:
+:eGA;e
+:lUF;lVF>l
+:s5K;s6K=s7K>s
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+;(;/;_;h;
+;*;3;@;K;];p;{;
+;/;E;T;j;y;
+;3<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+;5<F<T<Z<}<
+;>;O;{;
+;T$(wq
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+< <%<+<9<E<c<t<z<
+< <*<2<<<B<\<
+<"<U<b<u</=F=|=
+<(<0<<<T<`<x<
+<)<;<M<b<
+</font>
+</font><font color=blue>
+<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+<:<L<Q<u<
+<<< Dispatch(%d) %d/%d %d/%d %d
+<D<H<L<P<T<X<\<`<d<h<
+<V<\<`<d<h<
+<\u8</t
+<font color=red>
+<program name unknown>
+<}[S=}\S>}]S?}
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+=#=*=/=
+=$=,=4=<=D=L=T=\=d=l=t=|=
+==== BOTH 
+==== THEIRS 
+==== YOURS 
+=W97>W:7?W;7@W
+=\>`>d>h>l>p>t>x>|>
+=u-M>u.M?u/M@u0MCu1MDu
+={#R?{$R@{%RA{&RE{
+> >I>U>
+>8><>@>D>H>L>P>T>X>\>`>d>h>l>
+>:u>FV
+>>> Dispatch(%d) %d/%d %d/%d %d
+>>>> ORIGINAL 
+? ?$?(?,?
+? ?*?6?@?H?S?~?
+?)?L?o?
+?-?2?D?H?L?P?T?X?\?
+@@ -%d,%d +%d,%d @@%s
+@N/0AN00BN
+@}^SA}_SB}
+A buffer overrun has been detected which has corrupted the program's
+A security error of unknown cause has been detected which has
+A[::C[
+Accept (at/ay) Edit (et/ey) Skip (s) Help (?): 
+Accept(a) Edit(e) Diff(d) Merge (m) Skip(s) Help(?) [%mergeDefault%]: 
+AppleSingle/Double corrupted.
+AqrIEqsIFqtIGquIIq
+ArMJBrNJCrOJErPJFr
+Bad AppleSingle/Double header.
+BiBDEiCDIiDDJi
+Buffer overrun detected!
+BwpNEwqNFwrNGw
+COMPUTERNAME
+CTo4DTp4FT
+Can't clobber writable file %file%
+Can't connect an existing connection!
+Can't make outbound connection via stdio.
+Can't save in config if P4CONFIG not set.
+Can't set registry on UNIX.
+CloseHandle
+CompareStringA
+CompareStringW
+Connect to server failed; check $P4PORT.
+Connection attempt on unopened rpc!
+CorExitProcess
+Could not create command to send to ToolServer.
+Could not find application.
+Could not send command to ToolServer.
+Could not start ToolServer.
+Could not start another ToolServer.  Tool is running under ToolServer.
+Cp7IDp8IHp9IIp:IJp;IKp<ILp
+CreateDirectoryA
+CreateDirectoryW
+CreateFileA
+CreateFileW
+CreateMutexA
+CreatePipe
+CreateProcess
+CreateProcessA
+Ct8LDt9LFt:LGt;LKt<LMt=LQt>LRt?LUt
+Cv&NDv'NEv(NFv
+D$ FC;
+D$ RPV
+D$ _]=X
+D$(8D*
+D$(UVP
+DOMAIN error
+DZ[9EZ\9FZ
+December
+Deflate failed!
+DeflateEnd failed!
+DeflateInit failed!
+DeleteCriticalSection
+DeleteFileA
+DeleteFileW
+DhXCEhYCFh
+Diff chunks: %chunks% between yours and theirs (no common base)
+Diff chunks: %yours% yours + %theirs% theirs + %both% both + %conflicting% conflicting
+DnqGEnrGHnsGIntGJn
+Don't know how to translate paths for OS '%arg%'!
+DyNPEyOPFyPPGy
+E SSSS
+EDITOR_SIGNATURE must be 4 characters exactly.
+EOF reading terminal.
+EPb1FPc1GP
+Ef2BFf3BIf
+EnterCriticalSection
+ExitProcess
+Fatal client error; disconnecting.
+February
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+FindClose
+FindFirstFileA
+FindFirstFileW
+FindNextFileA
+FlsAlloc
+FlsGetValue
+FlsSetValue
+FlushFileBuffers
+FormatMessageA
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+G _^][
+GUW5IUX5JUY5LU
+GetActiveWindow
+GetCPInfo
+GetCommandLineA
+GetComputerNameA
+GetConsoleMode
+GetCurrentDirectoryA
+GetCurrentDirectoryW
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetDriveTypeA
+GetDriveTypeW
+GetEnvironmentStrings
+GetEnvironmentStringsW
+GetExitCodeProcess
+GetFileAttributesA
+GetFileAttributesW
+GetFileType
+GetFullPathNameA
+GetFullPathNameW
+GetLastActivePopup
+GetLastError
+GetLocaleInfoA
+GetModuleFileNameA
+GetModuleHandleA
+GetOEMCP
+GetProcAddress
+GetProcessWindowStation
+GetStartupInfoA
+GetStdHandle
+GetStringTypeA
+GetStringTypeW
+GetSystemInfo
+GetSystemTimeAsFileTime
+GetTickCount
+GetTimeZoneInformation
+GetUserNameA
+GetUserObjectInformationA
+GetVersionExA
+GgyBHgzBIg
+Gu2MHu3MIu
+Gx_OHx`OLxaONxbORxcO\xdO]x
+GzAQHzBQIz
+Gzip magic header wrong!
+G{'RH{
+G}`SH}aSK}
+HH:mm:ss
+HHt`HHt\
+HHtjHHtF
+HOh0IOi0KOj0LOk0MO
+HeapAlloc
+HeapCreate
+HeapDestroy
+HeapFree
+HeapReAlloc
+HeapSize
+Hit return to continue...
+Ij(EJj)EKj
+Inflate failed!
+InflateInit failed!
+InitializeCriticalSection
+InitializeCriticalSectionAndSpinCount
+InterlockedExchange
+Internal function '%function%' unregistered!
+Invalid date '%date%'.
+Invalid option: -%option%.
+IsBadCodePtr
+IsBadReadPtr
+IsBadWritePtr
+Iv)NJv#NKv*NLv
+JPd1LPe1NPf1OP
+JanFebMarAprMayJunJulAugSepOctNovDec
+JlXFKlYFMlZFNl
+JqvIKqwILq
+JwsNMwtNNwuNOwvNRwwNVwxNWwyNZw
+JyQPKyRPOySPPy
+KS84LS74MS
+K[;:L[<:P[
+L$ PQW
+L$ Ph8
+L$ ^[d
+L$(SUV
+LCMapStringA
+LCMapStringW
+LX.8MX/8OX08PX18QX
+LeaveCriticalSection
+Lf5BNf7BOf
+Lg{BNg
+Listen %address% failed.
+LoadLibraryA
+LocalFileTimeToFileTime
+LockFileEx
+MM/dd/yy
+MessageBoxA
+Microsoft Visual C++ Runtime Library
+Missing AppleSingle/Double handler.
+Missing/wrong number of arguments.
+MoveFileA
+MoveFileW
+MultiByteToWideChar
+Must resolve manually.
+M}bSN}
+N'0#N(0$N)0(N*0+N+0.N,0/N-00N.05N/0@N00AN10DN20GN30QN40ZN50\N60cN70hN80iN90tN:0uN;0yN<0
+NO_ERROR
+NetBuffer flush
+NetBuffer rcv %d: 
+NetBuffer recv compressing
+NetBuffer send compressing
+NetBuffer snd %d: 
+NetStdioTransport recv %d bytes
+NetStdioTransport send %d bytes
+NetTcpEndPoint %s listening
+NetTcpEndpoint accept on %d
+NetTcpEndpoint connect on %d
+NetTcpTransport %s closing %s
+NetTcpTransport %s connected to %s
+NetTcpTransport lastRead=%d
+NetTcpTransport recv %d bytes
+NetTcpTransport send %d bytes
+Nj*EPj+EQj,ERj-EUj.EVj/EXj
+No Translation for parameter '%arg%' value '%value%'!
+No merge program specified with $P4MERGE or $MERGE.
+Non-text file merge.
+November
+NrQJOrRJPrSJRr
+N{(RO{
+O]0.O^01O_0`O`03Oa05Ob07Oc09Od0;Oe0>Of0@Og0BOh0HOi0IOj0KOk0LOl0ROm0TOn0VOo0XOp0_Oq0cOr0jOs0lOt0nOu0qOv0wOw0xOx0yOy0zOz0}O{0~O|0
+OdZ@Qd[@Rd\@Sd]@Td^@Xd
+OnvGQnwGRnxGSnyGTnzGVn
+OoTHQoUHRoVHSoWHTo
+Open %s for add?
+Open %s for edit?
+Operation '%operation%' failed.
+Option: -%option% needs argument.
+Out of memory
+P4CHARSET
+P4CLIENT
+P4CONFIG
+P4EDITOR
+P4FTPCHANGE
+P4FTPDEBUG
+P4FTPLOG
+P4FTPOPTIONS
+P4FTPPORT
+P4FTPPREFIX
+P4FTPSYSLOG
+P4FTPTEMPLATE
+P4JOURNAL
+P4LANGUAGE
+P4PASSWD
+P4PCACHE
+P4TARGET
+PPPPPPPP
+PU[5QU\5SU
+PX1"PY1'PZ1.P[10P\12P]13P^15P_1@P`1APa1BPb1EPc1FPd1JPe1LPf1NPg1QPh1RPi1SPj1WPk1YPl1_Pm1`Pn1bPo1cPp1fPq1gPr1jPs1mPt1pPu1qPv1;Pw1
+Partial character in translation
+Partner exited unexpectedly.
+Pb8?Qb9?Rb:?Sb
+Perforce
+Perforce Error
+Perforce Question
+Please contact the application's support team for more information.
+PqxIRqyIUq
+Premature end of AppleSingle/Double data.
+Program: 
+Ps:KRs;KVs<KWs
+QPg1RPh1SPi1UP
+QY2#QZ2'Q[2(Q\2,Q]2-Q^2/Q_21Q`23Qa24Qb25Qc28Qd29Qe2BQf2JQg2OQh2SQi2UQj2WQk2XQl2_Qm2dQn2fQo2~Qp2
+QueryPerformanceCounter
+Q}cSS}dSV}
+R83"R93(R:31R;32R<35R=3<R>3ER?3IR@3URA3WRB3XRC3ZRD3\RE3_RF3`RG3aRH3fRI3nRJ3wRK3xRL3yRM3
+RYt8SYu8TY
+R[=:T[
+RaiseException
+ReNATeOAUe
+ReadFile
+RegCloseKey
+RegCreateKeyExA
+RegDeleteValueA
+RegQueryValueExA
+RegSetValueExA
+ReleaseMutex
+RemoveDirectoryA
+RemoveDirectoryW
+Required parameter '%arg%' not set!
+Required positional parameter missing!
+Resource fork for %file% from server is empty.
+Rl\FTl]FUl
+Rpc buffer too big to send!
+Rpc dispatch %s
+Rpc flush %d bytes
+Rpc invoking %s
+RpcRecvBuffer %s = %s
+RpcSendBuffer %s = %s
+RpcTransport: partial message read
+RpcTransport: partner is not a Perforce client/server.
+RtlUnwind
+Runtime Error!
+S)4%S*4'S+4(S,4)S-4+S.4,S/4-S040S142S245S34<S44=S54>S64BS74LS84KS94YS:4[S;4aS<4cS=4eS>4lS?4mS@4rSA4ySB4~SC4
+SING error
+S]<tU]T;Y]V;\]
+Saturday
+September
+SetConsoleCtrlHandler
+SetConsoleMode
+SetEndOfFile
+SetEnvironmentVariableA
+SetFileAttributesA
+SetFileAttributesW
+SetFilePointer
+SetFileTime
+SetHandleCount
+SetHandleInformation
+SetLastError
+SetStdHandle
+SetUnhandledExceptionFilter
+SrTJUrUJVrVJXr
+SunMonTueWedThuFriSat
+SystemTimeToFileTime
+T$ PQR
+T$,QRVVj(j
+TCP connect to %host% failed.
+TCP connection accept failed.
+TCP listen on %service% failed.
+TCP receive failed.
+TCP send failed.
+TLOSS error
+TerminateProcess
+Tg4!Th4'Ti4(Tj4*Tk4/Tl41Tm44Tn45To4CTp4DTq4GTr4MTs4OTt4^Tu4bTv4dTw4fTx4gTy4iTz4kT{4mT|4nT}4tT~4
+Tg|BUg}BVg
+The autoselected 'accept' option is shown in []'s on the prompt.
+The file %s is out of date, get the latest changes?
+The file is already %s. Can't edit exclusive file.
+There are still change markers: confirm accept (y/n)? 
+This application has requested the Runtime to terminate it in an unusual way.
+This overrides your changes: confirm accept (y/n)? 
+Three-way merge options:
+Thursday
+TlsAlloc
+TlsGetValue
+TlsSetValue
+Too many options on command!
+Translation of file content failed
+Two-way merge options:
+U+%04x -> %04x
+U+%04x -> %04x -> U+%04x
+U+%04x -> %04x -> unknown
+U+%04x -> %s
+U+%04x -> %s -> U+%04x
+U+%04x -> %s -> unknown
+UN5*UO5+UP52UQ55UR56US5;UT5<UU5=UV5AUW5GUX5IUY5JUZ5MU[5PU\5QU]5XU^5ZU_5[U`5^Ua5`Ub5aUc5dUd5fUe5
+UQi2WQj2XQk2ZQ
+USERNAME
+Uh\CWh]CXh^CYh
+Unable to read AppleDouble Data.
+Unable to read AppleDouble Header.
+Unable to write AppleDouble Header.
+Unexpected arguments.
+UnhandledExceptionFilter
+Unknown exception
+Unknown flag.  Try ? for help.
+Unknown security failure detected!
+UnlockFileEx
+Usage: %text%
+Use 'ae' to indicate original edits: confirm accept merge (y/n)? 
+UzDQVzEQWz
+U{)RV{
+V(PQRh
+V46,V560V663V765V867V969V:6;V;6<V<6=V=6?V>6@V?6AV@6CVA6DVB6FVC6IVD6KVE6MVF6OVG6TVH6^VI6`VJ6aVK6bVL6cVM6fVN6iVO6mVP6oVQ6qVR6rVS6uVT6
+VC20XC00U
+VVVVVUWUUj
+V[>:W[
+VarArray extend %d
+VirtualAlloc
+VirtualFree
+VirtualProtect
+VirtualQuery
+VkuEXkvEYk
+W(9W$u
+W-7 W.7"W/7#W07$W17%W27)W37*W47,W57.W67/W773W874W97=W:7>W;7?W<7EW=7FW>7LW?7MW@7RWA7bWB7eWC7gWD7hWE7kWF7mWG7nWH7oWI7pWJ7qWK7sWL7tWM7uWN7wWO7yWP7zWQ7{WR7|WS7~WT7
+WPj1YPk1ZP
+WSAEACCES
+WSAEADDRINUSE
+WSAEADDRNOTAVAIL
+WSAEAFNOSUPPORT
+WSAEALREADY
+WSAEBADF
+WSAECANCELLED
+WSAECONNABORTED
+WSAECONNREFUSED
+WSAECONNRESET
+WSAEDESTADDRREQ
+WSAEDISCON
+WSAEDQUOT
+WSAEFAULT
+WSAEHOSTDOWN
+WSAEHOSTUNREACH
+WSAEINPROGRESS
+WSAEINTR
+WSAEINVAL
+WSAEINVALIDPROCTABLE
+WSAEINVALIDPROVIDER
+WSAEISCONN
+WSAELOOP
+WSAEMFILE
+WSAEMSGSIZE
+WSAENAMETOOLONG
+WSAENETDOWN
+WSAENETRESET
+WSAENETUNREACH
+WSAENOBUFS
+WSAENOMORE
+WSAENOPROTOOPT
+WSAENOTCONN
+WSAENOTEMPTY
+WSAENOTSOCK
+WSAEOPNOTSUPP
+WSAEPFNOSUPPORT
+WSAEPROCLIM
+WSAEPROTONOSUPPORT
+WSAEPROTOTYPE
+WSAEPROVIDERFAILEDINIT
+WSAEREFUSED
+WSAEREMOTE
+WSAESHUTDOWN
+WSAESOCKTNOSUPPORT
+WSAESTALE
+WSAETIMEDOUT
+WSAETOOMANYREFS
+WSAEUSERS
+WSAEWOULDBLOCK
+WSAHOST_NOT_FOUND
+WSANOTINITIALISED
+WSANO_DATA
+WSANO_RECOVERY
+WSASERVICE_NOT_FOUND
+WSASYSCALLFAILURE
+WSASYSNOTREADY
+WSAStartup failure
+WSATRY_AGAIN
+WSATYPE_NOT_FOUND
+WSAVERNOTSUPPORTED
+WSA_E_CANCELLED
+WSA_E_NO_MORE
+WaitForSingleObject
+Warning: environment variable hides registry definition of %name%.
+Wednesday
+Wf8BXf9BYf:B[f;B\f<B]f
+WideCharToMultiByte
+Wn{GXn
+WriteFile
+W}eSY}fSZ}gS[}
+X%8 X&8!X
+X&8 X'8&X(8'X)8-X*82X+89X,8?X-8IX.8LX/8MX08OX18PX28UX38_X48aX58dX68gX78hX88xX98|X:8
+XU]5ZU^5[U_5\U
+X^7<[^8<\^9<^^:<_^
+Xcv?[cw?\c
+Y\w:Z\x:\\y:^\
+Yh8!Yi8#Yj8$Yk8(Yl8/Ym80Yn83Yo85Yp86Yq8?Yr8CYs8FYt8RYu8SYv8YYw8[Yx8]Yy8^Yz8_Y{8aY|8cY}8kY~8mY!9oY"9rY#9uY$9vY%9yY&9{Y'9|Y(9
+Yv,N\v
+YzFQ\zGQ]zHQ_zIQ`zJQaz
+Y|yRZ|zR[|{R\||R]|}R^|~R_|
+ZN40\N50]N
+ZT9#ZU9$ZV9'ZW9(ZX9*ZY9-ZZ90Z[9DZ\9EZ]9GZ^9HZ_9LZ`9PZa9UZb9^Zc9cZd9eZe9gZf9mZg9wZh9zZi9{Zj9~Zk9
+Zd_@[d`@\da@]db@_dc@`dd@ade@cdf@gd
+Zq{I\q|I^q}I`q~Ibq
+[2:4[3:
+[5:![6:"[
+[6:![7:%[8:-[9:8[::A[;:K[<:L[=:R[>:V[?:^[@:h[A:n[B:o[C:|[D:}[E:~[F:
+[S:4\S
+[_z<\_
+[h_C\h
+[iGD\i
+[l_F\l`F]l
+[yWP\yXP]y
+\<tS]=t
+\RD3^R
+\b>?^b
+\m:#\n:&\o:)\p:+\q:,\r:.\s:0\t:2\u:5\v:6\w:Y\x:Z\y:\\z:b\{:c\|:g\}:h\~:i\!;m\";p\#;t\$;u\%;z\&;{\';|\(;}\);
+\n|G]n}G^n~G_n
+\rXJ]r
+\t=9\$
+\wzN^w{N_w|N`w}Naw
+\}hS]}iS^}
+]F;+]G;#]H;$]I;&]J;']K;1]L;4]M;9]N;=]O;?]P;B]Q;C]R;F]S;H]T;U]U;Q]V;Y]W;J]X;_]Y;`]Z;a][;b]\;d]];j]^;m]_;p]`;y]a;z]b;~]c;
+]o[H^o\H_o
+^+< ^,<%^
+^,< ^-<.^.<(^/<2^0<5^1<>^2<K^3<P^4<I^5<Q^6<V^7<X^8<[^9<\^:<^^;<h^<<j^=<k^><l^?<m^@<n^A<p^B<
+^[?:_[
+_X38aX48bX
+_]X;`]Y;a]Z;b][;d]\;i]
+_d<!_e<"_f<#_g<$_h<(_i<+_j<,_k<._l<0_m<4_n<6_o<;_p<=_q<?_r<@_s<D_t<E_u<G_v<M_w<P_x<T_y<X_z<[_{<`_|<c_}<d_~<g_!=o_"=r_#=t_$=u_%=x_&=z_'=}_(=~_)=
+`@t aAtNeBt;fCtefDt
+`Z=$`[=-`\=3`]=5`^=@`_=G``=H`a=I`b=L`c=Q`d=T`e=V`f=W`g=]`h=a`i=g`j=q`k=~`l=
+`_{<a_
+`{*Rd{+Re{
+a%d %d%s
+aF>"aG>*aH>+aI>0aJ>1aK>5aL>6aM>7aN>9aO>AaP>EaQ>FaR>IaS>^aT>`aU>laV>raW>xaX>{aY>|aZ>
+aY{8bY
+action 
+actionOwner
+add %d chunks %d lines
+anyError handle %s = %d
+asBinary
+au:Mbu
+b+? b,?"b-?#b.?'b/?)b0?+b1?9b2?=b3?Bb4?Cb5?Db6?Fb7?Lb8?Pb9?Qb:?Rb;?Tb<?Vb=?Zb>?\b??db@?mbA?obB?sbC?zbD?}bE?
+bTu4dTv4fTw4gTx4hT
+b\z:c\{:d\
+baseDepotRec
+baseName
+branches
+buffer error
+cN60hN70iN80qN
+cZc9eZd9fZ
+c_|<d_}<f_
+can't create directory for %file%
+can't edit exclusive file already opened
+cd?)ce?*cf?-cg?5ch?6ci?9cj?<ck?Acl?Bcm?Ccn?Dco?Fcp?Jcq?Kcr?Ncs?Rct?Scu?Tcv?Xcw?[cx?ecy?fcz?lc{?mc|?qc}?tc~?uc!@xc"@|c#@}c$@
+changeNo
+changed %d chunks %d / %d lines
+ciHDdiIDeiJDfiKDhiLDiiMDji
+clientFile
+compress1
+compress2
+continue execution and must now be terminated.
+corrupted the program's internal state.  The program cannot safely
+counters
+create key
+d%d %d%s
+dM@ dN@"dO@$dP@%dQ@&d
+dN@ dO@"dP@$dQ@%dR@)dS@*dT@/dU@0dV@5dW@=dX@?dY@KdZ@Od[@Qd\@Rd]@Sd^@Td_@Zd`@[da@\db@]dc@_dd@`de@adf@cdg@mdh@sdi@tdj@{dk@}dl@
+dUc5fUd5{U
+dX58gX68hX78iX
+data error
+dddd, MMMM dd, yyyy
+delete key
+deleted %d chunks %d lines
+depotFile
+depotRec
+describe
+diffFlags
+directory
+dpBIepCIkp
+dv.Nev/Ngv
+e"d" #!#
+eBA"eCA&eDA)eEA.eFA1eGA:eHA<eIA=eJACeKAGeLAIeMAPeNAReOATePA_eQA`eRAgeSAkeTAzeUA}eVA
+endFromRev
+endToRev
+errorHandler
+ezKQgzLQiz
+e}jSf}
+f"B!f#B"f$B#f%B$f&B&f'B)f(B*f)B+f*B,f+B.f,B0f-B1f.B3f/B9f0B7f1B@f2BEf3BFf4BJf5BLf6BQf7BNf8BWf9BXf:BYf;B[f<B\f=B`f>Baf?B
+fGBwfHBxfIByfJB{fKB
+fPp1gPq1jPr1lP
+file error
+fileSize
+finish handle %s
+fixStatus
+forceType
+fromFile
+fsBKgsCKhs
+ftCLgtDLhtELit
+funcHandler
+f{,Rg{
+gWC7hWD7iW
+g\|:h\}:i\~:l\
+geRAkeSAle
+get handle %s
+gj2Ejj3EkjItqj4Erj
+gtB guB"gvB3gwB>gxBEgyBGgzBHg{BLg|BTg}BUg~B]g!Cfg"Clg#Cng$Ctg%Cvg&C{g'C
+g}kSh}
+hNC(hOC'hPC,hQC-hRC/hSC0hTC1hUC3hVC;hWC?hXCDhYCEhZCJh[CLh\CUh]CWh^CXh_C[h`CkhaCnhbCohcCphdCqheCrhfCuhgCyhhCzhiC{hjC|hkC
+h[@:i[
+headAction
+headChange
+headTime
+headType
+hr\Jir
+i=D1i>D3i?D5i@D8iAD;iBDBiCDEiDDIiEDNiFDWiGD[iHDciIDdiJDeiKDfiLDhiMDiiNDliODpiPDqiQDriRDziSD{iTD
+incompatible version
+incomplete dynamic bit lengths tree
+incomplete literal/length tree
+incorrect data check
+incorrect header check
+insufficient memory
+integRec
+integrate
+integrated
+internal state.  The program cannot safely continue execution and must
+invalid bit length repeat
+invalid block type
+invalid distance code
+invalid literal/length code
+invalid stored block lengths
+invalid string position
+invalid window size
+i{-Rj{.Rl{
+jOr0lOs0nOt0oO
+jzD j{D$j|D(j}D0j~D2j!E4j"E7j#E;j$E>j%E?j&EEj'EFj(EIj)EJj*ENj+EPj,EQj-ERj.EUj/EVj0E[j1Edj2Egj3Ejj4Eqj5Esj6E~j7E
+j}lSn}
+kTz4mT{4nT|4pT
+kWE7mWF7nWG7oWH7pWI7qWJ7sWK7tWL7uWM7wWN7yWO7zWP7{WQ7|WR7~WS7
+kY}8lY
+khE$kiE(kjE+kkE,klE/kmE5knE6koE;kpE?kqEFkrEJksEMktERkuEVkvEXkwE]kxE`kyEgkzEkk{Enk|Epk}Euk~E}k!F~k"F
+kkzEnk{Eok
+klaFmlbFolcFpl
+ksEKlsFKnsGKosHKps
+ktFLmtGLntHLot
+l$ VurW3
+lMF&lNF'lOF(lPF,lQF.lRF3lSF5lTF6lUF:lVF;lWF?lXFJlYFKlZFMl[FOl\FRl]FTl^FYl_F[l`F\laFklbFmlcFoldFtleFvlfFxlgFylhF{liF
+labelsync
+language
+lcz?mc{?nc
+leaveOpen
+lpDInpEIop
+lw$Opw%Orw&Osw'Otw(Oyw
+m3G&m4G'm5G(m6Ggl7G.m8G/m9G1m:G9m;G<m<G?m=GWm>G^m?G_m@GamAGemBGgmCGomDGpmEG|mFG
+mMt(pNt
+mPs1pPt1qPu1rP
+mVO6oVP6qVQ6rVR6tV
+mZf9wZg9zZh9{Zi9~Zj9
+m\!;n\
+maxResults
+maxScanRows
+mergeAuto
+mergeConfirm
+mergeDecline
+mergeHow
+mergePerms
+mv0Nnv1Nov2Npv
+m{/Rn{
+m|%Sn|&Sp|'Sr|(Ss|
+n[A:o[B:p[
+need dictionary
+njG"nkG'nlG2nmG6nnG9noG;npG<nqGDnrGEnsGHntGInuGKnvGOnwGQnxGRnyGSnzGTn{GWn|G\n}G]n~G^n!Hbn"Hcn#Hhn$Hsn%H{n&H}n'H
+noclobber
+now be terminated.
+n~[To~\Tp~
+oJH&oKH)oLH*oMH/oNH0oOH3oPH6oQH;oRH<oSH-oTHOoUHQoVHRoWHSoXHWoYHYoZHZo[H]o\H^o]Hao^Hbo_Hho`HloaH}obH~ocH
+obliterate
+omCGpmDGtm
+open for read
+open for write
+opened by
+otherAction
+otherLock
+otherOpen
+out of memory!
+oversubscribed dynamic bit lengths tree
+oversubscribed literal/length tree
+o{0Rp{
+p!ssq!tsr!uss!vst!wsu!xsv!ysw!zsx!{sy!|s
+p0I p1I#p2I/p3I4p4I7p5I9p6I<p7ICp8IDp9IHp:IIp;IJp<IKp=ITp>IUp?I]p@I^pAINpBIdpCIepDIlpEInpFIupGIvpHI~pII
+p\";q\
+perforce:1666
+piODqiPDriQDsi
+protocol
+p}mSq}
+qjI qkI!q
+qkI qlI+qmI-qnI/qoI0qpI1qqI8qrIAqsIEqtIFquIGqvIJqwIKqxIPqyIRqzIWq{IZq|I\q}I^q~I`q!Jhq"Jyq#J
+qtILrtJLst
+rFJ$rGJ(r
+rGJ$rHJ+rIJ/rJJ4rKJ8rLJ9rMJArNJBrOJCrPJErQJNrRJOrSJPrTJSrUJUrVJVrWJZrXJ\rYJ^rZJ`r[Jcr\Jhr]Jkr^Jnr_Jor`JqraJwrbJxrcJ{rdJ|reJ
+registry
+release2
+resolved
+resource
+runtime error 
+ry\Pwy
+r{1Rs{2Rt{
+s-K"s.K$s/K's0K(s1K,s2K1s3K2s4K5s5K:s6K;s7K=s8KCs9KMs:KPs;KRs<KVs=KXs>K]s?K^s@K_sAK`sBKfsCKgsDKisEKksFKlsGKnsHKosIKqsJKwsKKysLK|sMK
+set handle %s
+set key
+software\perforce\environment
+specstring
+ssp!tsq!usr!vss!wst!xsu!ysv!zsw!{sx!|sy!}s`!~sa!!tb!"tc!#td!$te!%tf!&tg!'th!(ti!)t
+startFromRev
+startToRev
+stream end
+stream error
+string too long
+t$4j:V
+t*L$t+L&t,L(t-L)t.L*t/L+t0L,t1L-t2L.t3L/t4L0t5L1t6L9t7L@t8LCt9LDt:LFt;LGt<LKt=LMt>LQt?LRt@LWtAL]tBLbtCLftDLgtELhtFLktGLmtHLntILqtJLrtKL
+t.;t$$t(
+t2WWVPVSW
+tN90uN:0yN;0~N
+tT}4uT
+tZ9H tU9H$tP
+t\#;u\$;v\
+tc}?uc~?vc
+theirName
+tldFvleFxlfFylgFzl
+too many length or distance symbols
+triggers
+truncate
+u$M u%M!u&M$u'M'u(M)u)M*u*M/u+M6u,M9u-M=u.M>u/M?u0M@u1MCu2MGu3MHu4MNu5MPu6MRu7MWu8M^u9M_u:Mau;Mou<Mqu=Myu>Mzu?M{u@M|uAM}uBM~uCM
+uk}Exk
+unknown compression method
+unreadable
+unresolved
+upFIvpGIxp
+vuM#vvM%vwM&vxM)vyM-vzM2v{M3v|M5v}M8v~M9v!N:v"N<v#NJv$N@v%NAv&NCv'NDv(NEv)NIv*NKv+NUv,NYv-N_v.Ndv/Nev0Nmv1Nnv2Nov3Nqv4Ntv5N
+w5;l$ s/3
+wOv0xOw0yOx0zOy0{O
+wRJ3xRK3yRL3}R
+weN"wfN(wgN-whN.wiN/wjN4wkN5wlN6wmN9wnN=woN>wpNBwqNEwrNFwsNJwtNMwuNNwvNOwwNRwxNVwyNWwzN\w{N^w|N_w}N`w~Nbw!Odw"Ogw#Ojw$Olw%Opw&Orw'Osw(Otw)Ozw*O}w+O
+wfGBxfHByfIBzf
+wraJxrbJyr
+w{3Rz{
+xUO!xVO"xWO#xXO-xYO.xZO0x[O5x\O7x]OCx^ODx_OGx`OHxaOLxbONxcORxdO\xeO^xfO`xgOaxhOcxiOdxjOhxkOjxlOnxmOzxnO~xoO
+xaW>{aX>|aY>~a
+xunicode
+x}nSy}
+yBP yCP%yDP&y
+yCP yDP%yEP'yFP)yGP-yHP1yIP4yJP5yKP;yLP=yMP?yNPDyOPEyPPFyQPJyRPKySPOyTPQyUPTyVPXyWP[yXP\yYPgyZPiy[Pky\Pry]Pyy^P{y_P|y`P~yaP
+ySA4{S
+yY%9{Y&9|Y'9}Y
+yhgCzhhC{hiC|hjC~h
+yourName
+yq"J}q
+yu=Mzu>M{u?M|u@M}uAM~uBM
+y|)S||*S}|+S~|
+z4Q!z5Q'z6Q+z7Q-z8Q/z9Q0z:Q4z;Q5z<Q8z=Q9z>Q:z?QDz@QEzAQGzBQHzCQLzDQUzEQVzFQYzGQ\zHQ]zIQ_zJQ`zKQezLQgzMQjzNQmzOQuzPQxzQQ~zRQ
+z\%;{\&;|\';}\(;
+zeTA}eUA
+ziRD{iSD|i
+zw)O}w*O~w
+z}oS{}pS}}
+{dj@}dk@
+{fJB|fLB~fCB
+{g&C|g
+{lhF}l
+{n%H}n&H~n
+{rcJ|rdJ}r
+{vQ#{wQ'{xQ){yQ*{zQ+{{Q-{|Q.{}Q/{~Q0{!R1{"R4{#R={$R?{%R@{&RA{'RG{(RN{)RU{*R`{+Rd{,Rf{-Ri{.Rj{/Rm{0Ro{1Rr{2Rs{3Rw{4R
+{y^P|y_P~y`P
+|$ WUSV
+|$(PQUWR
+|:;Ap}5
+|[C:}[D:~[E:
+|c"@}c#@
+|hR |iR%|jR&|kR(|lR,|mR1|nR3|oR4|pR6|qR9|rR:|sRF|tRJ|uRU|vRQ|wRR|xRS|yRY|zRZ|{R[||R\|}R]|~R^|!Sa|"Sc|#Sg|$Si|%Sm|&Sn|'Sp|(Sr|)Sy|*S||+S}|,S
+}Oz0~O{0
+}VS#}WS&}XS*}YS-}ZS1}[S<}\S=}]S>}^S@}_SA}`SG}aSH}bSM}cSQ}dSS}eSW}fSY}gSZ}hS\}iS]}jSe}kSg}lSj}mSp}nSx}oSz}pS{}qS
+}_'=~_(=
+}bD?~b
+}k~E~k!F
+}oaH~obH
+~(9~$u
+~FT ~GT'~HT(~IT,~JT-~KT/~LT3~MT6~NT?~OTD~PTE~QTG~RTN~STP~TTR~UTX~VT_~WTa~XTb~YTe~ZTk~[Tn~\To~]Ts~^Tx~_T~~`T
+~VarArray %d/%d

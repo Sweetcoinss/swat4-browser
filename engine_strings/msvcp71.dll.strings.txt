@@ -1,0 +1,340 @@
+# Strings extracted from msvcp71.dll (499712 bytes)
+# Total strings: 3617, filtered: 337
+
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ 2b4o4
+ C++ Runtime Library
+ Microsoft Corporation.  All rights reserved.
+ Visual Studio .NET
+!<|% <|
+!This program cannot be run in DOS mode.
+#=|\#=|
+#=|bad cast
+$0.080J0\0n0
+(7A|p&=|@
+(=|P'=|
+(@A|</=|8
+(GA|L7=|
+)<|F(<|
+)=|$+vx
++v$x+v$xv$+xv+$xv$+x+$vx+$vx$v+x+$vx$+vx+v $+v $v $+v+ $v $++$ v+$ v$ v++$ v$ +v
+.2p4}4
+/=|d/=|
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0(0.020;0A0^0e0~0
+0$0H0L0P0T0X0\0d0
+0(0,0004080<0@0D0H0L0\0`0d0h0l0p0t0x0|0
+0(00080@0H0X0d0l0|0
+0,0;0J0Z0c0v0{0
+080H0T0\0l0t0
+0=|4(=|L$=|
+0@0P0\0d0t0|0
+1 1$1(1,1014181<1@1D1L1p1t1x1|1
+1 202<2D2T2\2
+1$1,141P1\1t1
+1(1L1\1h1p1
+1(21262J2w2
+1014181<1@1D1H1L1P1T1X1\1`1d1t1x1|1
+1:|!1:|:1:|
+1A3r3(5
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2l2p2t2x2|2
+2 2,242D2L2p2
+2 202T2`2x2
+2 282W2f2
+2(2,20242D2H2L2P2`2d2h2l2|2
+2(2S2s2
+2,252H2M2\2k2
+233Q3\3
+2:|*2:|C2:|
+3 3$3(3,3034383H3L3P3T3X3\3`3d3h3l3p3t3x3
+3 3$3(3,303@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3(30383D3\3d3l3x3
+3 3(383D3L3\3d3
+3$3H3L3P3T3\3
+3)3C3]3w3
+363?3r3{3
+383H3T3\3l3
+3:3F3v3~3
+4 4$4(4,4044484<4@4D4H4L4P4`4d4h4l4p4t4x4|4
+4 4%494
+4$4(4,4044484<4@4D4H4L4P4T4X4\4`4p4t4|4
+4(4H4`4x4
+4.;:;C;L;X;d;m;v;
+4;4P4}4
+4=|4(=|L$=|
+4?5\5h5
+4_4{4m5
+4r4x405}5
+5 5$5(505T5X5\5`5d5h5l5p5t5x5|5
+5 5$54585<5@5P5T5`5d5t5x5|5
+5 5$585<5P5T5X5l5p5
+5 5,545D5h5t5
+5(6X6h6x6
+5/5A5p5~5
+5/5I5c5}5
+5=|bad locale name
+6 6$6(686<6P6T6X6h6l6
+6 6D6T6`6h6x6
+6 7-747z7
+6$6(6,606@6D6H6L6\6`6d6h6x6|6
+6&6,6N6W6]6t6}6
+6&6/6b6k6p6
+6(686D6L6\6d6
+6(6@6H6P6X6d6|6
+6(767}7
+6)616C6{6
+6:|%8:|
+6:|57:|
+6:|hw:|
+6=|bad allocation
+6=|invalid string position
+7 7$7(7,7074787<7L7P7T7X7h7l7p7t7
+7 7$7(7,7074787H7L70848D8H8X9\9l9p9t9x9
+7 7$7(7,747X7\7`7d7h7l7t7
+7 7(70787D7\7h7
+7 7(787@7d7t7
+7!8J8P8Y8_8e8k8q8w8}8
+7$7*7.777>7F7L7P7Y7`7k7r7}7
+7(747<7L7T7x7
+7(7H7t7
+7/8=8u8
+7=|ios_base::eofbit set
+7=|t7=|4(=|L$=|
+7G8T8\8
+8 8)80888@8Q8`8j8y8
+8!8_8{8
+8$8(888P8\8t8|8
+848X8\8`8d8h8l8p8t8x8|8
+888H8T8\8l8t8
+889L9\9h9p9
+8A|L(=|
+8C9~9#:`:
+8F94:?:F:Z;e;l;S<
+9 9(9L9\9h9p9
+9 9D9T9`9h9x9
+9 :,:D:L:X:p:x:
+9 :0:<:D:T:x:
+9 ;';)</<6<D<J<Q<
+9":-:4:}:?;
+9(9,9094989<9@9D9H9L9T9x9|9
+9(989H9X9`9d9h9x9|9
+9(9@9H9P9X9`9h9p9x9
+9;:S=`=
+9@:M:U:
+9A|l)=|
+: :2:G:Y:k:}:
+: ;0;<;D;T;\;
+:#:3:h:
+:#:@:Z:c:
+:$:0:8:H:|:
+:$:H:L:P:X:|:
+:%:,:R:o:
+:&:0:9:=:B:L:V:`:i:m:r:|:
+:':3:?:M:Y:e:q:}:
+:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:p:t:x:|:
+:(:0:@:H:l:|:
+:(:4:<:L:T:x:
+:(;B;\;~;
+:.;5;=;H;Q;W;d;
+:/:Z:a:
+::|G<:|
+:<;y;,<i<
+:><[<g<
+:?:S:m:
+:A|<*=|
+:A|p*=|
+:Jan:January:Feb:February:Mar:March:Apr:April:May:May:Jun:June:Jul:July:Aug:August:Sep:September:Oct:October:Nov:November:Dec:December
+:L:i:u:
+:|"::|
+:|#n<|
+:|5|:|9|:|
+:|:v<|
+:|Mp<|
+:|Uw:|
+:|hw:|
+:|hw:|u
+:|rt<|
+:|wl<|,k<|
+:|z}:|
+; ;$;,;P;T;X;\;d;
+; ;&;+;1;<;E;J;\;x;};
+; ;*;4;>;G;K;P;Z;d;n;w;{;
+; ;0;4;8;<;L;P;T;X;h;l;p;t;
+;(;-;>;T;x;};
+;(;4;L;T;`;x;
+;);5;A;M;[;E<
+;8;H;T;\;l;t;
+;:|i::|
+< <$<(<,<<<@<
+< <(<8<\<l<x<
+< <(<L<\<l<x<
+< t9<$t0<+t'<vu3
+< t;<$t2<+t)<vu3
+<(<,<0<4<<<`<d<h<p<
+</<I<R<
+<0<<<T<\<h<
+<:|r;:|L::|
+<:|{::|
+<|"/:|1/:|J/:|M
+<|+0:|:0:|I0:|X0:|q0:|u
+<|R1:|a1:|z1:|
+<|b/:|q/:|
+<|hw:|
+<|j2:|[2:|
+= =(=4=L=X=p=|=
+= =8=D=\=d=p=
+=#=+=8=@=Q=V=m=}=
+=-=G=a={=
+=8=H=T=\=l=t=
+=A|\-=|P
+=X=\=`=d=h=l=p=
+=|"x:|
+=|"x:|Iw:|
+=|C}<|
+=|\|<|
+=|u{<|
+=|wC:|l9:|X9:|
+=|x8=| 
+=|}4;|
+> >,>4>D>h>x>
+> >0>4>8><>@>D>H>X>\>`>d>h>l>p>t>x>|>
+> >D>H>L>T>x>|>
+> ?0?<?D?T?\?
+>(>@>L>d>l>x>
+>8>A>t>}>
+?$?(?,?0?4?8?H?L?P?T?X?\?l?p?t?x?|?
+?$?H?L?P?T?X?\?d?
+?%?,?2?:?D?O?V?a?i?x?
+?(?4?<?L?T?x?
+?(?4?<?L?p?|?
+?(?8?D?L?x?
+?(?@?L?d?l?t?
+?W?t?{?
+@A||/=|T
+A 98t0
+A 98t4
+CompanyName
+DA| 3=|(
+DeleteCriticalSection
+DisableThreadLibraryCalls
+EA| 4=|
+EnterCriticalSection
+ExitProcess
+FileDescription
+FileVersion
+GetCurrentProcessId
+GetCurrentThreadId
+GetLocaleInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+H.=| .=|
+I:|hw:|qw:|
+InitializeCriticalSection
+InterlockedDecrement
+InterlockedIncrement
+InternalName
+J:|,K:|VK:|
+J:|BJ:|
+L/=|$/=|L$=|
+LeaveCriticalSection
+LegalCopyright
+Microsoft
+Microsoft Corporation
+MultiByteToWideChar
+OriginalFilename
+ProductName
+ProductVersion
+QueryPerformanceCounter
+StringFileInfo
+Translation
+VS_VERSION_INFO
+VarFileInfo
+Vt%h${<|
+Vt%h7{<|
+Vt%hJ{<|
+WideCharToMultiByte
+YYu}9E
+\(=|4(=|L$=|
+\7=|47=|
+\;A||+=|-
+\QA|u3h
+_CxxThrowException
+_FDenorm
+_FDscale
+_Getcoll
+_Getctype
+_Getdays
+_Getmonths
+_Gettnames
+_Getwctype
+_Getwctypes
+_Hugeval
+_LDenorm
+_LDscale
+_Mbrtowc
+_Strcoll
+_Strftime
+_Strxfrm
+_Tolower
+_Toupper
+_Towlower
+_Towupper
+_Wcrtomb
+_Wcscoll
+_Wcsxfrm
+__CppXcptFilter
+__CxxFrameHandler
+__Wcrtomb_lk
+___lc_codepage_func
+___lc_collate_cp_func
+___lc_handle_func
+___mb_cur_max_func
+___setlc_active_func
+___unguarded_readlc_active_add_func
+__crtCompareStringA
+__crtCompareStringW
+__crtGetStringTypeW
+__crtLCMapStringA
+__crtLCMapStringW
+__dllonexit
+__iob_func
+__pctype_func
+__security_error_handler
+__uncaught_exception
+_adjust_fdiv
+_callnewh
+_except_handler3
+_initterm
+_local_unwind2
+_strtoi64
+_strtoui64
+a:|*j:|
+a:|hw:|
+b:|BJ:|
+ios_base::badbit set
+ios_base::failbit set
+localeconv
+mbsrtowcs
+setlocale
+string too long
+t$Wh+::|
+t$WhC(:|
+t$WhQ;:|
+t$Wh_?:|
+t$Whmx:|
+t$Wh{$:|
+t$Wh}#:|
+towctrans
+towlower
+towupper
+u SWPV
+u VWPS
+wcsrtombs
+x4A|,$=|:Sun:Sunday:Mon:Monday:Tue:Tuesday:Wed:Wednesday:Thu:Thursday:Fri:Friday:Sat:Saturday
+x=A|(-=|
+z:|hw:|
+{:|Dz:|
+{:|Dz:|,
+{:|Dz:|c/<|^.<|`
+{:|hw:|?z:|
+|)=|T)=|

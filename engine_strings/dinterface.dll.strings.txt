@@ -1,0 +1,4828 @@
+# Strings extracted from dinterface.dll (1378816 bytes)
+# Total strings: 6439, filtered: 4825
+
+   dbskip()
+  __fastcall T();
+  __fastcall ~T();
+  break;
+  case : ;
+  constructor Create; override;
+  default: ;
+  destructor Destroy; override;
+  variable.Free;
+ - Dock zone has no control%List does not allow duplicates ($0%x)
+ - Dock zone not found
+ 0=0x0T1
+ 0N0s0
+ Cannot alloc memory for buffer!!
+ ElTree Item index out of bounds.
+ Text attributes: 
+ Too many tab stops - maximum of 
+ Use defaults for: 
+ \{bmc 
+ at Line:%d, Char:%d. 
+ in data
+!'%s' is not a valid integer value('%s' is not a valid floating point value
+!Printer is not currently printing
+"%s" and "%s"
+"Printing pages:    calculation ...
+$*@@@*$@@@$ *@@* $@@($*)@-$*@@$-*@@$*-@@(*$)@-*$@@*-$@@*$-@@-* $@-$ *@* $-@$ *-@$ -*@*- $@($ *)(* $)U
+%.10d %.10d
+%040}0
+%d replacements have been made
+%s (%s)
+%s (%s, line %d)
+%s expected
+%s is invalid mask at (%d)
+%s on %s@GroupIndex cannot be less than a previous menu item's GroupIndex5Cannot create form. No MDI forms are currently active*A control cannot have itself as its parent
+%s on line %d
+%s property out of range
+%s: DFM file saved by different version of TSyntaxMemoParser.
+&Auto indent mode
+&Case sensitive
+&Clear All Breakpoints
+&Color:
+&Cursor beyond EOL
+&Double click line
+&Element:
+&Enter new line number:
+&Entire scope
+&File '%s' cannot be opened for reading*Replace this occurence of '%s' with '%s' ?
+&Force cut and copy enabled
+&Foreground color:
+&From cursor
+&Group undo
+&Keep trailing blanks
+&Keymapping:
+&Line numbers
+&Overwrite cursor as block
+&Persistent blocks
+&Position:
+&Print selected block
+&Prompt on replace
+&Regular expressions
+&Remove Breakpoint
+&Replace with:
+&Selected text
+&Selection beyond EOL
+&Size:
+&Style:
+&Syntax print
+&Tab stops:
+&Text to find
+&Text to find:
+&Use mono font
+&Use tab character
+&Whole words
+&Whole words only
+&Width:
+&Wrap lines
+' expected
+'%s' is not a valid date
+'%s' is not a valid time!'%s' is not a valid date and time
+''%s'' expected
+'(' expected
+')' expected
+',' expected
+'=' expected
+'[' expected
+']' expected
+(0:0b0i0
+(ShlObj
+(c) 1997 - 99 David Brock
+..\%p\classes\%c.uc
+..\Help\DebuggerLogo.bmp
+.\UDebugger.ini
+/{}+-*():=,;><$.#[]^@&~|%'
+0 0$0(0,0004080<0@0D0H0L0P0T0X0
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0$0(0,040L0]0a0t0
+0 0$0(0B0F0J0e0i0m0
+0 0'080?0P0W0i0x0
+0 0(0,0004080<0@0D0H0X0x0
+0 0/090K0f0r0
+0 010;0L0V0g0q0
+0 0@0i0
+0!0/040B0G0U0Z0h0m0{0
+0"0*020:0B0J0R0Z0b0j0r0z0
+0"1&1*1.12161:1>1B1F1J1
+0$0(0,0 1$1(1,1
+0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0$040<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0%0)0?0e0q0
+0%060<0M0S0d0j0{0
+0&0G0Y0e0{0
+0(0,0<0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0(020=0G0R0\0g0q0|0
+0(040M0Q0U0Y0n0v0z0
+0(0<0T0l0
+0(0>0T0j0
+0)010L0P0T0p0t0x0
+0+030S0[0{0
+0,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+0.02060:0N0R0V0m0q0u0
+0/030B0F0J0g0o0
+0/0T0y0
+0/1]1w1
+02060:0>0T0w0
+03330(
+05090=0\0d0
+060:0>0B0F0J0N0R0V0Z0^0b0t0
+0:0R0j0|0
+0=0Y0p0:1o1
+0@0J0\0
+1 1$1(1,10141
+1 1$1(1,1014181<1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1~1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1l1z1~1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1`1d1
+1 1$1(1,1014181<1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1$1(1,1014181<1J1p1t1x1|1
+1 1$1(1,1014181D1Q1d1
+1 1$1(1,1014181F1`1t1x1
+1 1$1(1,1@1U1Y1l1
+1 1$1,1@1U1Y1l1
+1 1$10141<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 131;1W1_1w1
+1 1K1j1
+1 2:2d2m2}2
+1!1)1-1F1R1k1w1
+1"1&1*1.12161:1>1B1F1J1N1f1t1x1
+1"1&1*1.12161L1`1d1u1}1
+1"1(171;1P1\1p1x1|1
+1"1*121:1B1J1R1Z1b1j1r1z1
+1"2)323@3
+1#1(1D1H1P1T1X1\1`1d1h1l1p1t1|1
+1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1$1(1,1G1O1i1q1u1
+1$1(1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1$1-1r1{1
+1$10141<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1%1)1:1B1\1l1|1
+1&2:2n2
+1'141L1Q1^1k1p1}1
+1(1:1@1`1h1l1p1t1x1|1
+1(1H1P1T1X1\1`1d1h1l1p1t1x1|1
+1(1M1r1
+1.121F1N1s1{1
+1/161G1K1O1S1W1
+151A1:3
+1:2O2f2
+1H1M1}1
+1L2\2h2l2t2x2|2
+1S2"3)5j5[6
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2t2
+2 2$2(2,2024282<2@2D2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2$2(2,2024282<2@2N2V2^2f2n2v2
+2 2$2(2,20242B2P2T2d2s2w2
+2 2$2(2,202>2P2T2X2\2t2
+2 2$2(2,282H2T2X2`2d2h2l2p2t2x2|2
+2 2$2(2B2J2R2Z2b2j2r2z2
+2 2$2024282<2@2D2H2L2P2T2X2\2d2l2p2x2|2
+2 2$262@2J2O2V2`2j2o2
+2 2,20242H2\2`2o2w2
+2 242<2@2D2H2L2P2T2X2\2j2
+2!2%2)2-2125292=2A2E2I2
+2!2,262A2K2R2\2c2m2t2~2
+2!3)3B3J3d3l3
+2""#33:DC8
+2""333:"C8
+2"2(2.242C2T2
+2"2*222:2B2J2R2Z2b2j2r2z2
+2#2'2+2/232
+2#4/4<4N4T4d4h4l4p4t4|4
+2$202<2@2Q2Y2s2{2
+2%3/3o3{3
+2'2/2Y2v2
+2(252`2
+2(282H2P2T2X2\2`2d2h2l2p2t2x2|2
+2(3/4A4`4
+2(303:3J3R3g3s3
+2)2/2J2e2v2|2
+2+2U2n2}2
+2,2H2\2z2
+2/23272S2x2
+2/2w2o3{324
+2/3?3]3
+202=2O2\2n2{2
+242@2D2T2\2`2d2h2l2p2t2x2|2
+282@2D2H2L2P2T2X2\2`2t2
+292A2\2d2!3/3T4
+2K2P2}2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3$3(3,3034383B3F3\3q3u3
+3 3$3(3,303D3
+3 3$3(3,3<3M3Q3b3j3
+3 3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3(30383@3H3P3l3p3t3
+3 3,3034383<3@3D3H3L3P3T3X3\3d3h3l3p3t3x3|3
+3 303@3H3L3P3T3X3\3`3d3h3l3p3t3
+3 373N3X3i3s3
+3 3J3W3r3
+3!3/3R3
+3!383@3D3[3c3{3
+3"3*323:3B3J3R3Z3b3j3r3z3
+3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3$3,343<3D3L3T3\3d3l3t3|3
+3$3D3L3P3T3X3\3`3d3h3l3|3
+3%4-4M4U4u4}4
+3(3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3
+3(34383H3P3T3X3\3`3d3h3l3p3t3x3|3
+3(353E3U3c3s3
+3(3C3a3}3
+3)484c4
+3)4R5b5
+3*42484D4L4o4{4
+3,3:3>3O3W3n3v3
+3-3<3X3e3r3?4K4W4c4o4{4
+3/373N3V3Z3m3q3u3
+303H3T3\3s3
+333037303ws07ww03330(
+3333333:3333333383
+333333:"33333338
+333333:"C3333338
+33333:"$3333338
+3333:"$
+3333:"$3333338
+3:"""""
+3:3Q3l3
+3X4!6:6
+4 4$4(4,4044484
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4z4
+4 4$4(4,4044484<4@4D4H4L4`4l4p4|4
+4 4$4(4,4044484<4@4D4H4T4X4\4p4
+4 4$4(4,4044484F4N4V4
+4 4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4(4,4044484<4@4D4H4L4P4T4X4\4`4d4r4
+4 404@4H4L4P4T4X4\4`4d4h4l4p4t4
+4 404@4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 494h4
+4 4@4D4H4b4j4
+4 4A4j4r4
+4 505<5@5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+4"4(4H4P4T4X4\4`4d4h4l4p4t4x4|4
+4"4*424:4B4J4R4Z4b4j4r4z4
+4#4'4+4/43474;4?4C4G4K4O4S4W4g5M6_6q6
+4#5'5+5/53575;5s5
+4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4$4,444<4D4L4T4\4d4l4t4|4
+4$5(5,5C5G5K5b5j5
+4%4)4<4L4\4d4h4l4p4t4x4|4
+4'4/4L4T4q4
+4(484H4X4h4x4
+4(494=4P4e4
+4(494F4h4u4
+4(4L4p4
+4)4D4_4
+4)4L4s4J5]5q5}5
+4)5E5E6r6x6
+4,4:4J4Z4h4x4
+4,4L4T4X4\4`4d4h4l4p4t4
+4-4P4\4r4
+4.444D4H4L4P4T4\4`4d4h4l4p4t4x4|4
+4.5<5}5
+4/474X4`4|4
+4/5A5`5
+4044484<4@4D4\4r4v4
+40484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+404<4@4P4X4\4`4d4h4l4p4t4x4|4
+434W4{4
+4:4B4a4i4
+4:4]4i4
+4L5R5}5
+4k4s4{4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5r5
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5b5v8
+5 5$5(5,5054585<5@5D5H5L5`5
+5 5$5(5,5054585<5@5D5P5]5a5r5z5
+5 5$5(5,5054585<5J5R5h5y5}5
+5 5$5(5,5054585<5J5R5l5|5
+5 5$5(5,5054585<5J5\5j5n5
+5 5$5(5,505H5T5h5p5t5x5|5
+5 5$5(5,505H5^5b5t5
+5 5$5(5,505L5l5t5x5|5
+5 5$5(5,5@5`5h5l5p5t5x5|5
+5 5$5(505@5P5T5h5
+5 5$5x5|5
+5 5(50585@5H5P5X5`5h5p5x5
+5 5,585<5M5U5m5u5
+5 505@5N5^5n5|5
+5 53575I5Q5
+5 5B5Q5
+5 6I647/:
+5"5*525:5B5J5R5Z5b5j5r5z5
+5$5(5,5I5Q5i5q5
+5$5(5u5
+5$5,545<5D5L5T5\5d5l5t5|5
+5&525:5B5J5R5Z5b5j5r5z5
+5&6L6}6
+5(585H5X5h5x5
+5(5:5D5N5T5d5h5l5t5|5
+5)5-5<5L5\5d5h5l5p5t5x5|5
+5)565<5G5V5
+5*505K5\5b5s5y5
+5*5:5E5K5S5X5
+5*=.=2=6=:=>=B=F=J=
+5.5:5B5T5{5
+5/5T5x5
+525D5\5
+535D5\5
+5:5B5F5Z5b5f5z5
+5<6L6X6\6d6h6l6p6t6x6|6
+5\5h5|5
+5_5+676D6V6\6l6p6t6|6
+5c:o:v:
+5j6}7(:)<7<I<^<
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 6$6(6,6064686<6@6D6H6L6P6T6h6x6
+6 6$6(6,6064686<6@6T6t6|6
+6 6$6(6,60646B6T6c6g6x6
+6 6$6(666L6_6c6t6
+6 6$6(6<6V6t6
+6 6$676?6]6e6
+6 6(6E6Q6h6p6
+6 6.6D6V6Z6p6
+6 62666H6
+6 7(7D7L7i7
+6 777C7P7b7h7x7|7
+6!6T6}6
+6"6&6*6.62666:6>6B6F6J6N6
+6"6*626:6B6J6R6Z6b6j6r6z6
+6#6'6+6/636G6
+6$6,646<6D6L6T6\6d6l6t6|6
+6$666<6H6L6P6T6\6d6h6l6p6t6x6|6
+6$6D6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6&636A6J6W6e6n6{6
+6(676;6L6T6l6
+6(686H6X6h6x6
+6(6J6r6
+6(787D7H7P7T7X7\7`7d7h7l7p7t7x7|7
+6)616R6Z6v6~6
+6)616T6\6}6
+6+:F:m:u:f<
+6/6;6Q6z6
+6/7;7C7K7W7_7j7p7z7
+646D6P6T6\6`6d6h6l6p6t6x6|6
+647@7D7P7T7\7`7d7h7l7p7t7x7|7
+6<6D6\6d6h6~6
+6P8\8g8L;d<
+6i7m7q7u7y7}7
+7 7$7(7,707
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7r7z7
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7j7
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7t7x7|7
+7 7$7(7,7074787<7@7D7H7L7P7T7b7j7N8R8V8Z8^8b8f8j8n8r8v8z8~8
+7 7$7(7,7074787<7@7D7H7L7b7f7j7n7r7v7z7~7
+7 7$7(7,7074787<7@7L7P7T7h7z7~7
+7 7$787M7Q7`7
+7 7$7;7?7C7^7f7
+7 7.727C7G7K7c7k7o7
+7 70787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 8@8H8L8P8T8X8\8`8d8h8x8
+7"7*727:7B7J7R7Z7b7j7r7z7
+7$7(7<7D7e7m7
+7$7,747<7D7L7T7\7d7l7t7|7
+7$7/7A7R7_7e7j7p7u7{7
+7$767<7L7P7T7\7d7h7l7p7t7x7|7
+7%7/757=7^7f7w7
+7':b?t?
+7(7-777<7
+7(7.7?7E7V7\7w7
+7(7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7(7074787<7@7D7H7L7P7d7p7
+7(7074787<7@7D7H7L7P7h7
+7(787H7X7`7d7h7l7p7t7x7|7
+7(787H7X7h7x7
+7)717M7U7x7
+7)8b8x8
+7*707K7f7w7}7
+7*7:7H7Z7g7y7
+7,74787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7,74787<7@7D7H7L7P7T7X7\7`7d7x7
+7,7:7>7P7\7`7l7p7x7|7
+7/777;7T7\7x7
+7/7?7f7
+727W7{7
+747<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7
+74888@8D8L8P8X8\8d8h8p8t8|8
+758/;|;(<r<
+777?7C7Y7e7{7
+7:7I7X7g7
+7:7W7p7
+7<:M:U:a:q:
+7D7\7n7
+7Invalid input value.  Use escape key to abandon changes
+8 8$8(8
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8~8
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8j8
+8 8$8(8,8084888<8@8D8H8L8P8T8X8f8
+8 8$8(8,8084888<8@8D8H8L8P8T8\8`8h8l8t8x8
+8 8$8(8,8084888<8@8D8H8L8P8X8p8
+8 8$8(8,8084888<8@8D8X8x8
+8 8$8(8,8084888<8@8P8\8`8p8x8|8
+8 8$8(8,8084888F8
+8 8$8(8,8084888P8p8x8|8
+8 8$8(868>8F8N8V8^8f8n8
+8 8(8G8O8m8q8u8
+8 8*848>8C8M8R8\8a8k8p8z8
+8 8@8H8L8P8T8X8\8`8d8h8x8
+8 8@8b8[9
+8 8k8~8
+8 9F9j9
+8 9H9{9
+8 9I9a9
+8"8&8*8.82868:8>8B8T8g8k8z8
+8"8*828:8B8J8R8Z8b8j8r8z8
+8"9:9I9]9d9
+8$8(8084888<8@8D8H8L8P8X8h8
+8$8)888=8L8Q8`8e8t8y8
+8$8,848<8D8L8T8\8d8l8t8|8
+8$8D8L8P8T8X8\8`8d8h8l8
+8(808L8T8X8o8s8w8
+8(888H8X8h8x8
+8(8I8Q8h8p8
+8)8/8@8F8W8]8n8t8
+8)8u8}8
+8*:B:G:S:v:
+8/8B8R8_8f8n8{8
+809?9`:
+818\8h8l8x8|8
+889P9!:(:
+8:9G9Q9(:,:0:4:8:<:@:D:H:u;
+8;8C8G8Z8{8
+8;:";&;*;.;2;6;:;>;B;F;J;N;R;V;
+8b9A:H:
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9x9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9p9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9b9f9x9
+9 9$9(9,9094989<9@9D9H9\9l9|9
+9 9$9(9,90949<9T9j9n9
+9 9$9(9,90949H9\9`9t9
+9 9$9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9$95999d9x9
+9 9$989J9N9_9g9
+9 9(9,94989@9D9L9P9X9\9d9h9p9t9|9
+9 9(9A9M9g9k9o9s9
+9 :D:f:
+9 :D:h:
+9!9(9<9@9`9i9
+9!9)9-9C9f9r9
+9!9)9J9R9n9
+9"9&9*9.92969:9>9B9F9J9N9R9V9Z9^9b9f9j9n9r9v9z9~9
+9"9&9*9.92969:9>9B9F9J9N9R9V9Z9^9b9f9x9
+9"9*929:9B9c:h:t:
+9#9)9.94999?9D9J9W9u9~9
+9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9$9,949<9D9L9T9\9d9l9t9|9
+9$9/9=9H9S9^9f9o9z9
+9$9D9L9P9T9X9\9`9d9h9l9
+9&:4:P:v:
+9'9+9/9H9n9
+9(9-9<9A9P9U9d9i9x9}9
+9(9094989<9@9D9H9L9P9^9
+9(94989H9P9T9X9\9`9d9h9l9p9t9x9|9
+9(989D9H9P9T9X9\9`9d9h9l9p9t9x9|9
+9(989H9X9h9x9
+9):0:K:O:S:W:[:_:
+9*:;:B:T:
+9+9C9\9v9
+9,989<9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9/979E9W9g9p9
+9/979O9W9s9w9{9
+9/999J9T9e9o9
+90989<9@9D9H9L9P9T9X9\9`9d9
+909P9X9\9`9d9h9l9p9t9x9E:L:
+919 :4:k:
+939;9Y9a9}9
+949D9P9T9\9`9d9h9l9p9t9x9|9
+98:H:X:`:d:h:l:p:t:x:|:
+9F:U:e:v:
+9L:\:s:
+9U:k:u:
+9V9g9}9
+9V:f:y:
+9`:i<p<
+9r9B:t:
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:z:
+: :$:(:,:0:4:8:<:N:R:V:Z:^:b:|:
+: :$:(:,:0:4:\:`:d:h:l:p:t:x:|:
+: :$:(:,:8:E:I:Z:^:b:{:
+: :$:(:,:<:@:D:H:L:`:s:w:
+: :$:0:=:A:P:X:x:
+: :$:d:h:l:p:t:x:|:
+: :%:*:_:k:r:
+: :(:0:8:@:H:P:X:`:h:p:x:
+: :(:B:F:J:e:m:
+: :2:@:`:h:l:p:t:x:|:
+: :6:B:Y:]:a:e:{:
+: :B:j:
+:!:%:6:B:\:l:x:|:
+:!:2:<:M:W:v:
+:!;T;[;q;u;y;};
+:":,:=:G:X:b:s:}:
+:";Y;v;
+:"C333
+:#:':+:/:
+:#:*:4:?:Q:b:h:
+:#:/:<:N:T:t:|:
+:#:9:A:E:Y:
+:#:F:k:
+:#;:;X;t;
+:#;H;q;
+:$:(:0:4:
+:$:,:G:S:j:
+:$:D:L:P:T:X:\:`:d:h:l:
+:$;?;b;
+:$;b;q;
+:%:1:;:@:I:
+:&:,:X:e:u:
+:':::Q:f:
+:';6;F;
+:(:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:
+:(:0:4:8:<:@:D:H:L:P:d:p:
+:(:8:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+:(:8:D:H:P:T:X:\:`:d:h:l:p:t:x:|:
+:):/:@:F:W:]:n:t:
+:):5:B:H:U:Z:t:
+:):::@:E:O:Z:g:/<{<
+:);4;G;^;n;{;
+:*"*"$3338
+:*3:"$3338
+:*:2:L:T:s:{:
+:*:3:A:T:q:
+:+:/:3:W:_:{:
+:+:3:L:T:r:z:
+:+:3:T:\:w:
+:,:8:<:H:L:T:X:\:`:d:h:l:p:t:x:|:
+:,;3;E;I;M;Q;U;Y;
+:,;B;N;
+:-:2:7:Y:g:o:t:
+:.;C;X;:<N<
+:/:7:;:O:W:u:
+:/:;:H:Z:`:z:
+:/;];<<
+:/<T<d<
+:1:@:D:`:h:l:p:t:x:|:
+:33:"$
+:4:J:N:_:g:~:
+:4;P;h;
+:5:9:=:S:W:[:q:y:
+:8:@:D:Z:
+:9:T:o:
+:;:C:S:
+:@:[:}:
+:DC33:""$8
+:G<S<`<r<
+:J;V;l;
+:P:h:l:|:
+:Q;c;m;y;
+:S;_;l;~;
+:Y;o;{;
+:mm:ss
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;j;r;
+; ;$;(;,;0;4;8;P;h;l;
+; ;$;(;,;0;@;O;S;d;};
+; ;$;(;,;4;H;];a;t;
+; ;$;4;D;T;\;`;d;h;l;p;t;x;|;
+; ;(;0;8;@;H;P;X;`;h;p;x;
+; ;,;8;L;T;X;\;`;d;h;l;p;t;x;|;
+; ;0;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; ;4;F;J;\;l;|;
+; ;4;I;M;`;p;
+;!;%;);-;1;5;9;=;A;
+;!;';8;>;O;U;f;l;};
+;!;);3;7;=;A;G;K;c;h;r;w;
+;!;/;;;J;V;b;
+;!;1;P;T;X;\;`;d;h;l;p;t;x;|;
+;";4;D;T;\;`;d;h;l;p;t;x;|;
+;#<N<U<o<s<w<{<
+;';+;/;J;R;l;
+;(;0;G;O;S;j;n;r;
+;(;0;K;S;n;v;z;
+;(;8;D;H;P;T;X;\;`;d;h;l;p;t;x;|;
+;(;K;n;z;
+;(;L;p;
+;(<D<m<
+;);1;K;p;
+;,;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+;/;@;P;^;
+;/=D=\=j=~=%>E>v>
+;0;:;@;N;T;\;n;z;
+;<={=8>
+;E<N<\<
+;\;w;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<|<
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<d<t<x<
+< <$<(<,<0<4<8<<<@<D<L<`<s<w<
+< <$<(<,<0<4<8<P<f<j<y<
+< <$<(<,<0<4<@<L<P<a<i<
+< <$<4<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<
+< <&<.<3<><q<
+< <(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+< <;<L<R<m<~<
+< Back
+<!<(<8<H<P<T<X<\<`<d<h<l<p<t<x<|<
+<#<9<A<Y<a<{<
+<#t&<0t%<.t,<,t3<'t5<"t1<Et:<et6<;tF
+<$<*<=<C<V<\<o<
+<$<,<4<<<D<L<T<\<d<l<t<|<
+<$=)=P=X=g=
+<%=H=W=f=}=
+<&<0<A<K<\<f<w<
+<'</<L<T<u<}<
+<'t$<"t 
+<(<.<6<@<W<b<
+<(=4=H=P=T=X=\=`=d=h=l=p=~=
+<)<O<u<
+<)=P=#>
+</<'=f=V>
+</<7<U<Y<]<a<w<{<
+</<8<D<X<`<d<h<l<p<t<x<|<
+<0<P<X<\<`<d<h<l<p<t<x<
+<0H0L0X0\0d0h0l0p0t0x0|0
+<4=D=P=T=\=`=d=h=l=p=t=x=|=
+<5=E=\=
+<<<D<H<L<P<T<X<\<`<d<1=
+<<<Y<^<x<}<
+<Custom language>
+<Et$<et <;tS
+<TSyntaxMemo>:
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=f=n=v=~=
+= =$=(=,=<=\=d=h=l=p=t=x=|=
+= =$=(=0=@=Q=U=h=x=
+= =$=(=@=W=[=l=|=
+= =$=(=a=n>
+= =(=,=B=N=d=
+= =*=.=<=H=L=]=e=}=
+= =,=B=k=
+= =5=9=H=P=l=t=
+= =8=v=
+= =@=H=L=P=T=X=\=`=d=h=l=p=t=
+="=*=2=:=B=J=R=Z=b=
+=">)>@>
+=$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+=$=,=4=<=D=L=T=\=d=l=t=|=
+=$=D=L=P=T=X=\=`=d=h=l=p=t=x=|=
+=%=*=5=:=E=J=U=Z=e=
+=&=:=L=^=p=
+='=n={=
+=(=,=0=R=V=Z=z=~=
+=(=.=A=G=Z=`=s=y=
+=(>U>~>
+=)=:=D=c=
+=+>;>R>:?W?
+=,=<=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+=-=5=P=\=s={=
+=.=2=6=Q=Y=s=w={=
+=/=3=\=h=l=|=
+=/=7=;=O=u=
+=0=4=8=\=
+=2=:=D=P=Z=a=k=r=|=
+=4=D=P=T=\=`=d=h=l=p=t=x=|=
+=4>D>P>T>\>`>d>h>l>p>t>x>|>
+=\=n=t=0>S?
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>l>|>
+> >$>(>,>0>4>8><>@>D>H>n>r>v>z>~>
+> >$>(>,>0>4>8><>X>\>`>d>h>l>p>t>x>|>
+> >$>(>,>0>4>H>h>p>t>x>|>
+> >$>(>,>:>T>i>m>|>
+> >0>@>D>X>d>h>x>
+> >1>9>^>f>
+> >5>E>
+> >8>O>S>d>t>
+> ?A?e?
+>">*>2>:>B>J>R>Z>b>j>r>z>
+>#>'>+>/>3>7>;>?>+?
+>#>9>A>\>
+>&>D>I>R>X>m>{>
+>(>8>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+>(>H>P>T>X>\>`>d>h>l>p>t>x>|>
+>)>1>5>H>q>y>
+>)>J>N>p>x>
+>)>N>q>}>
+>*>M>Y>o>w>{>
+>,>4>8>K>S>W>o>w>{>
+>,>6>G>Q>b>l>}>
+>,>8><>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+>,>L>T>X>\>`>d>h>l>p>t>
+>0>Y>{>
+>2>6>:>W>[>_>
+>8><>@>D>H>L>P>T>X>\>`>d>h>
+>8>@>D>H>L>P>T>X>\>`>
+>P?\?`?l?p?x?|?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?x?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?p?
+? ?$?(?,?0?4?8?<?@?\?|?
+? ?$?(?,?0?4?8?<?H?h?p?t?x?|?
+? ?$?(?,?0?4?B?X?h?l?
+? ?$?(?8?X?`?d?h?l?p?t?x?|?
+? ?(?0?8?@?H?p?t?x?|?
+? ?0?<?@?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+? ?0?@?D?g?
+? ?2?6?H?T?X?h?p?t?x?|?
+?"?*?2?:?B?J?R?Z?b?j?r?z?
+?$?(?,?0?4?8?<?@?D?T?t?|?
+?%?)?-?I?Q?p?
+?%?6?<?M?S?d?j?{?
+?(?,?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+?(?9???P?V?g?m?~?
+?(?:?J?R?\?h?l?|?
+?(?;?P?_?v?
+?(?=?A?P?X?r?z?
+?(?P?s?
+?)?.?Y?^?
+?*?/?=?F?K?P?^?g?l?q?
+?*?D?\?m?y?
+?,?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+?/?3?K?[?
+?1?9?=?T?X?\?z?
+?2?:?>?U?]?w?
+?8?@?D?H?L?P?T?X?\?`?
+?:?B?k?s?
+@ ;B } 
+@3:F3v
+A Win32 API function failed
+A class named %s already exists
+ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+ACCELERATOR
+ACollapsed
+ALTER 
+ANICURSOR
+ANSI_CHARSET
+ARABIC_CHARSET
+ASCENDING
+AboutComponent
+Abstract Error?Access violation at address %p in module '%s'. %s of address %p
+Accepted
+Act key(s)
+ActKeysLabel
+ActionTYD
+ActivateKeyboardLayout
+ActiveBorderType
+ActiveControl
+ActiveFilterColor
+ActiveFlat
+ActivePage
+ActiveParser
+ActnList
+ActorList1
+Actors Only...
+ActorsOnly
+ActorsOnlyClick
+Add Watch
+Add Watch...
+AddAWatch
+AddBreakpoint
+AddBreakpoint1
+AddBreakpoint1Click
+AddBreakpoint1p
+AddButton
+AddButtonClick
+AddClassToHierarchy
+AddLineToLog
+AddWatch
+AddWatch1
+AddWatch1Click
+AddWatch2
+AddWatch3
+AddWatchDlg
+AddtoWatchList1
+AddtoWatchList1Click
+AdjustWindowRectEx
+Align\
+Alignment
+AlignmentHgH
+Alignmentd
+Alignmentl
+AllocByh
+AllowAllUp
+AllowChange
+AllowCheck
+AllowClickHgH
+AllowCollapse
+AllowDrag
+AllowEdit
+AllowExpansion
+AllowGrayed
+AllowPopup
+AllowUndol
+AltDisablingArrows
+AlwaysKeepFocus
+AlwaysKeepSelection
+Ancestor for '%s' not found
+AnchorspeD
+Apartment
+Application Error1Format '%s' invalid or incompatible with argument
+Are you sure you wish to end the debugging session
+Array index out of bounds
+ArrowColor
+ArrowHotTrackColor
+ArrowHotTrackColorh
+AskParent
+Assembler
+Assertion failed
+Attribute
+Auto Correct
+Auto correct
+Auto indent
+AutoCollapse
+AutoCorrectPage
+AutoExpand
+AutoHidel
+AutoHint
+AutoHotkeys
+AutoIndentBox
+AutoIndentChk
+AutoLineHeight
+AutoLineReduction
+AutoLookup
+AutoMerge
+AutoPopup
+AutoReplActBox
+AutoReplActBoxExit
+AutoReplBox
+AutoReplBoxClick
+AutoReplBoxDrawItem
+AutoReplBoxMeasureItem
+AutoReplButton1
+AutoReplButton1Click
+AutoReplButton2
+AutoReplButton2Click
+AutoResizeColumns
+AutoScroll
+AutoSelect
+AutoSize
+AutoSizeDXD
+AutoSize\
+AutoSizepeD
+AutoSnap
+B Vh|<E
+BALTIC_CHARSET
+BASE_NAME
+BBCANCEL
+BBIGNORE
+BDiagonal
+BIGBOOKMARK
+BIGBOOKMARK0
+BIGBOOKMARK1
+BIGBOOKMARK2
+BIGBOOKMARK3
+BIGBOOKMARK4
+BIGBOOKMARK5
+BIGBOOKMARK6
+BIGBOOKMARK7
+BIGBOOKMARK8
+BIGBOOKMARK9
+Ba&ckground color:
+BackButton
+BackButtonClick
+BackColor
+BackColorBtn
+BackColorBtnClick
+BackColorChange
+BackColorLbl
+BackDirection
+BackDirectionClick
+BackFileName
+BackUnindentChk
+Background
+Background as default
+BackgroundLaL
+Backspace &unindents
+Backward
+Bad do/undo stack state
+Bad font style specifier
+Bad key specifier
+Bad transaction log entry
+BandBorderStylehEF
+BandspeD
+BarColor
+BarColorl
+BarOffset
+BarStyle
+BarStyleVerticalLines\
+BeginDeferWindowPos
+BeginPaint
+BeginUpdateResourceA
+BevelInner
+BevelKind
+BevelOuter
+BevelWidth
+BeyondEolChk
+BiDiMode
+BiDiMode4
+BiDiModeDXD
+BiDiModeTYD
+BiDiMode\
+BiDiMode\RF
+BiDiModepeD
+Bitmap image is not valid
+Bitmap\
+Bits index out of range
+BkColorl
+BkgndOption
+BlendBackground
+BlendColor
+Block Indent step size
+Block cursor for Overwrite
+Block i&ndent:
+Block indent step size
+BlockCursorBox
+BlockDelimiters
+BlockIndent
+BlockIndentEdit
+BlockIndentEdit 
+BlockIndentLbl
+BlockIndentl
+BlockOption
+BoldFont
+BookMark
+Bookmark
+Bookmark %d not found
+Bookmark index range error
+Bookmark0
+Bookmark1
+Bookmark2
+Bookmark3
+Bookmark4
+Bookmark5
+Bookmark6
+Bookmark7
+Bookmark8
+Bookmark9
+BookmarkIndex
+Boolean 
+Boolean8
+BorderIcons
+BorderStyle
+BorderStyleDXD
+BorderStyleTYD
+BorderStyle\
+BorderStylel
+BorderStylepeD
+BorderWidth
+BorderWidthDXD
+BorderWidth\
+BorderWidthl
+Break on 'Access None'
+Break on Access None
+Break1Click
+BreakPoint
+BreakonAccessNone1
+BreakonAccessNone1Click
+BreakonAccessNone2
+BreakonAccessNone28
+Breakpoints
+Breakpoints1
+Breakpoints1P
+BreaksWidth0
+BreaksWidth1
+BringWindowToTop
+BrushStyle
+BuildHierarchy
+ButtonHeightl
+ButtonPanel
+ButtonSize
+ButtonWidthDXD
+C ;C$s
+C _^[Y]
+C$:F$ts
+C&olor:
+C++ Builder
+C++ Exception
+C++Builder\1.0
+C++Builder\3.0
+C++Builder\4.0
+C++Builder\5.0
+C3333333
+CHARACTER
+CHECK_DARK
+CHECK_LIGHT
+CHINESEBIG5_CHARSET
+COMBOBOX
+COMMITTED
+COMPUTED
+CONDITIONAL
+CONSTRAINT
+CONTAINING
+C\;Cht
+CalAlignment
+CalColorsTYD
+Call Stack
+Call to GetIdentifier on Empty String
+Call to GetString on Empty String
+CallHelp
+CallNextHookEx
+CallStack
+CallStackAdd
+CallStackClear
+CallWindowProcA
+Can't create temporary filename
+Can't delete file %S
+Can't insert duplicate item
+Can't map file
+Can't open file for writing
+Can't perform MapViewOfFile
+Can't rename file %s to file %s
+CanClose
+CanProcess
+CancelBut
+CancelButton
+CancelButtonClick
+CancelDXD
+Cannot assign a %s to %s
+Cannot assign a %s to a %s
+Cannot create file %s
+Cannot drag a form
+Cannot hide an MDI Child Form)Cannot change Visible in OnShow or OnHide"Cannot make a visible window modal
+Cannot open clipboard
+Cannot open file %s
+Canvas does not allow drawing
+Caption(
+CaptionTYD
+Captionl
+Cardinal
+CaseSens
+CaseSensD
+CaseSensitive
+Category
+CellType
+CenterTYD
+CenteronBreakpoint1Click
+ChangeColorsOnScroll
+ChangeDelay
+ChangeStateImage
+CharCase
+CharLowerA
+CharLowerBuffA
+CharNextA
+CharToOemA
+CharUpperBuffA
+Character range error
+CheckBoxEnabled
+CheckBoxGlyph
+CheckBoxState
+CheckBoxType
+CheckMenuItem
+Chinese Big5
+ChooseColorA
+Class %s not found
+Clear All Breakpoints
+Clear Watches
+Clear all Watches
+ClearAWatch
+ClearAllBreakpoints1
+ClearAllBreakpoints1t
+ClearAllBreakpoints2
+ClearAllBreakpoints2Click
+ClearHierarchy
+ClearKey1Button
+ClearKey1ButtonClick
+ClearKey2Button
+ClearKey2ButtonClick
+ClearWatch
+ClearWatches1
+ClearallWatches1
+ClearallWatches1Click
+ClickSelect
+ClientHeight
+ClientHeightl
+ClientToScreen
+ClientWidth
+ClipCopyFormats
+ClipboardType
+CloseBtn
+CloseBtnClick
+CloseClipboard
+CloseHandle
+ClosePrinter
+CoAddRefServerProcess
+CoCreateGuid
+CoCreateInstanceEx
+CoInitialize
+CoInitializeEx
+CoReleaseServerProcess
+CoResumeClassObjects
+CoSuspendClassObjects
+CoTaskMemFree
+CoUninitialize
+Code Templates
+Code template
+Code templates
+CodeEdit\
+CodeEdit\MemoSource\
+CodeTemplateButton1
+CodeTemplateButton1Click
+CodeTemplateButton2
+CodeTemplateButton2Click
+CodeTemplates
+Color &SpeedSetting:
+Color S&peedSetting:
+Color scheme (*.rgb)|*.RGB
+Color:
+ColorData
+ColorDialog1
+ColorDropSelected
+ColorFrame
+ColorGutterLbl
+ColorLbl
+ColorRect
+ColorSchema
+ColorSelected
+ColorTYD
+ColorUnfocusedSelected
+Color\
+ColorsOptForm
+ColumnSize
+ColumnText
+ColumnsTYD
+ComCtrls
+ComCtrls 
+ComCtrls(
+ComCtrls1
+ComCtrls2
+CombineRgn
+ComboBox1
+ComboBox1Change
+Combobox
+CommandDescListBox
+CommandDescListBoxClick
+CommandKeysListBox
+CommandKeysListBoxClick
+CommandKeysListBoxExit
+Commands
+CommandsLabel
+Commctrl
+CompareStringA
+Component
+CompressorKH : no memory for HASH table
+Constraints
+ConstraintsTXD
+Constraints\`D
+Constraintsl
+Continue
+Continue1
+Continue1Click
+Continue1T
+Continue2
+Continue2 
+Control-C hit
+Controls
+CoolBar1
+CoolBar1Resize
+Copy to clipboard
+CopyEnhMetaFileA
+CopyMode
+Courier New
+CreateBitmap
+CreateBrushIndirect
+CreateCaret
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreateDCA
+CreateDIBSection
+CreateDIBitmap
+CreateEventA
+CreateFileA
+CreateFileMappingA
+CreateFontIndirectA
+CreateHalftonePalette
+CreateICA
+CreateIcon
+CreateMenu
+CreatePalette
+CreatePen
+CreatePenIndirect
+CreatePopupMenu
+CreateRectRgn
+CreateSolidBrush
+CreateThread
+CreateWindowExA
+Ctl3DTYD
+Ctl3D\
+Currency
+Current language style
+Cursor beyond &EOF
+Cursor beyond EOL
+Cursor left
+Cursor right
+CursorAfterEOLBox
+CursorEofChk
+CursorX}L
+CustomCheckboxes
+CustomColor
+CustomColors
+CustomPlusMinus
+Cut to clipboard
+CutCopyEnabledChk
+D&isable dragging
+DATABASE
+DCColorCombo
+DCDIRECTORYEDIT
+DCEDIT_DOTS
+DCEDIT_DROPDOWN
+DCFILENAMEEDIT
+DEFAULT_CHARSET
+DESCENDING
+DISTINCT
+DLGINCLUDE
+DLGTEMPLATE
+Date exceeds maximum of %s
+Date in header
+DateAndTime
+DateFormat
+DateMode
+DblClickEdit
+DebugWindowState
+December
+DefCheckBox
+DefFrameProcA
+DefMDIChildProcA
+DefTabStopLabel
+DefWindowProcA
+Default Tab stop
+Default.There is no default printer currently selected
+DefaultAttr
+DefaultDraw
+DefaultMonitor
+Defaults
+DeferWindowPos
+DeftabBox
+DeftabBoxExit
+Delete character at cursor
+Delete character before caret
+Delete current line
+Delete next word
+Delete previous word
+DeleteButton
+DeleteButtonClick
+DeleteCriticalSection
+DeleteDC
+DeleteEnhMetaFile
+DeleteFileA
+DeleteMenu
+DeleteObject
+Delimeters
+Delimeters\
+Delimetersl
+Delimiters
+DelimitersArePartOfBlock
+Delphi 2.0
+Delphi 3
+Delphi 4
+Delphi 5
+Delphi 6
+Delphi Component
+Delphi Picture
+Delphi\2.0
+Delphi\3.0
+Delphi\4.0
+Delphi\5.0
+Delphi\6.0
+DescLabel
+Description
+Description\
+DeselectChildrenOnCollapse
+DestroyCaret
+DestroyCursor
+DestroyIcon
+DestroyMenu
+DestroyWindow
+DiagCross
+Direction
+DirectionGroup
+DirectionGroupL
+DisDragChk
+Disable dra&gging
+DisabledColor
+DisabledImages
+Disk full
+DispWrapBox
+DispatchMessageA
+DisplayNames
+DisplayNames\
+DisplayOptForm
+DivLinesColor
+Division by zero
+DoChange
+DoInplaceEdit
+DoShowHint
+DockClient
+DockOrientation
+DockSite
+Docked control must have a name%Error removing control from dock tree
+Document end
+Document start
+DocumentPropertiesA
+DoubleBuffered
+Down one line
+Down one page
+DragAllowed nI
+DragCursor
+DragExpandDelayhmI
+DragImageMode
+DragKind
+DragMode
+DragModel
+DragObject
+DragRectAcceptColor
+DragRectDenyColor
+DragTrgDrawMode
+DragTypel
+DraggableSections
+Draw &Special Symbols
+DrawArrowFrames
+DrawBars
+DrawEdge
+DrawFocusRect
+DrawFrameControl
+DrawFrames
+DrawIcon
+DrawIconEx
+DrawMenuBar
+DrawState
+DrawTextA
+DrawingStylel
+DreamBorderStyle
+DropDownCount
+DropOnClick
+DropdownMenu
+Duplicate %%effect entry
+Duplicate entry in %%word table#Single character specifier expected(Maximum of 4 character specifier allowed
+Duplicate key sequence definition for
+Duplicate keyword - '%s'"Cannot write to a read-only stream,=Illegal default tab stop value, must be > 0
+EASTEUROPE_CHARSET
+EAbstractError
+EAccessViolation
+EActnList
+EAmbigiousKeyPair
+EAssertionFailed
+EBitsError
+EClassNotFound
+ECommonCalendarError
+EComponentError\
+ECompressorKHCompressor
+EControlC
+EConvertError
+EDBEditError
+EDateTimeError
+EDivByZero
+EElError
+EElListError
+EElStackError
+EElTreeError
+EExternal
+EExternalException
+EFCreateError
+EFOpenError0
+EFilerError
+EHeapException
+EInOutError
+EIntError
+EIntOverflow
+EIntfCastError
+EInvalidCast
+EInvalidGraphicOperation
+EInvalidGraphicd
+EInvalidOp
+EInvalidOperation
+EInvalidPointer
+EKeyControllerException
+ELHEADERASCBMP
+ELHEADERDESCBMP
+ELHEADERLEFTBMP
+ELHEADERPOINTBMP
+ELHEADERRIGHTBMP
+EListError
+EMathError
+EMenuError
+ENTRY_POINT
+EOFString(
+EOFStringBinary
+EOLString
+EOLStringBinary
+EOleError
+EOleException
+EOleSysError
+EOutOfMemory
+EOutOfResources
+EOverflow
+EParserError
+EPrinter
+EPrivilege
+EPropertyConvertError
+ERangeErrord
+EReadError
+ERegistryException
+EResNotFound
+ESafecallException
+EStackOverflow
+EStreamError
+EStringListError
+ESyntaxMemoD
+ETreeNTError
+EUnderflow
+EVariantError
+EWin32Error
+EWriteError8
+EXCEPTION
+EXTERNAL
+EZeroDivide
+East Europe
+EdConsts
+EdFindDlg
+EdLineNosBox
+EdgeBorders
+EdgeInner
+EdgeOuter
+Edit1Change
+EditButton
+EditButtonClick
+EditFontLbl
+EditGutterGroup
+EditHistory\
+EditMarginGroup
+EditMask
+EditOptGroup
+Editable
+Editor &font:
+Editor Color
+Editor Options
+Editor co&lor:
+Editor gutter:
+Editor margin:
+Editor options
+Editor options:
+EditorColorEd
+EditorColorEd0
+EditorColorEdChange
+EditorColorLbl
+EditorCommand
+EditorFindPage
+EditorGotoLine
+EditorLoadClass
+EditorLoadTextBuffer
+EditorMouseDown
+EditorOptForm
+EditorReplacePage
+ElContBase
+ElHeader
+ElHeader7
+ElHintWnd
+ElScrollBar
+ElStack is empty.
+ElTree Item not specified.'Can't move Item to one of its subitems.
+ElTree item not specified'Can't move Item to one of its subitems.
+ElementLabel
+ElementLbl
+Elements
+ElementsClick
+ElhsOwnerDraw
+ElhsPictureOnly
+ElhsText
+Emphasis
+EmptyClipboard
+EnableMenuItem
+EnableScrollBar
+EnableWindow
+EndDeferWindowPos
+EndPaint
+EndScroll
+EndUpdateResourceA
+Enhanced Metafiles
+EnterCriticalSection
+Entire scope
+EnumCalendarInfoA
+EnumClipboardFormats
+EnumDisplayMonitors
+EnumFontFamiliesExA
+EnumPrintersA
+EnumThreadWindows
+EnumWindows
+EqualRect
+Error code : %d
+Error creating variant array
+Error creating window class+Cannot focus a disabled or invisible window!Control '%s' has no parent window
+Error line
+Error reading %s%s%s: %s
+Error updating resource
+Error:
+Error: Request to open a Class/Package that does not exist [
+ExBtnClick
+Exception in safecall method
+ExcludeClipRect
+Execution1
+Execution1L
+ExitProcess
+ExitThread
+ExpandOnDblClick
+ExpandOnDragOver
+Expandable
+Expanded
+Expanded4jH
+Expected version was %d read version was %d#Range error, value outwith %d .. %d+Token value %d re-specified in ContextState
+Explicit
+Expression expected
+Expression not found
+ExtCtrls
+ExtCtrls6
+ExtTextOutA
+ExtendedSelect
+External exception %x
+F                                                                
+F ;C t
+F(Z_^[
+FDiagonal
+FIDirective
+FIDirectivel
+FIFloatNum
+FIFloatNuml
+FIHexNum
+FIHexNuml
+FIIdentifier
+FIIntNum
+FIIntNuml
+FISymbol
+FISymboll
+FPUMaskValue
+FTP://
+FUNCTION
+Failed to get data for '%s'/Menu '%s' is already being used by another form
+Failed to set data for '%s'
+Fatal:
+February
+FieldName
+FieldType
+File &masks:
+File To Print:
+File access denied
+File not found
+FileCaseSense
+FileEditStyle
+FileFindPage
+FileMask
+FileNamBox
+FileName
+FileRegExp
+FileSearchText
+FileTimeToDosDateTime
+FileTimeToLocalFileTime
+FileWholeWords
+FillRect
+FilterColorpoD
+FilterEnabled
+FilterIndex
+FilterIsActive
+FilteredVisibility
+Find Next
+Find Text
+Find and Replace
+Find in Files
+Find te&xt at cursor
+Find text...
+Find1Click
+FindBtnClick
+FindClose
+FindFirstFileA
+FindHistoryBox
+FindHistoryBoxChange
+FindNext1
+FindNext1Click
+FindResourceA
+FindText
+FindTextA
+FindTextChk
+FindWindowA
+FirstIdentChars
+FirstSearch
+FixedBackground
+FixedOrder
+FixedSize
+FlatFocusedScrollbars
+FlatSB_EnableScrollBar
+FlatSB_GetScrollInfo
+FlatSB_GetScrollPos
+FlatSB_GetScrollProp
+FlatSB_GetScrollRange
+FlatSB_SetScrollInfo
+FlatSB_SetScrollPos
+FlatSB_SetScrollProp
+FlatSB_SetScrollRange
+FlatSB_ShowScrollBar
+Floating
+Floating point division by zero
+Floating point overflow
+Floating point underflow
+FocusControl
+FocusedSelectColor
+FocusedSelectTextColor
+Font $C
+FontColor
+FontFamilyBox
+FontFamilyBoxChange
+FontNameBox
+FontNameBoxChange
+FontNameEdit
+FontNameEdit(
+FontNameEditChange
+FontNameEditDropDown
+FontNameLabel
+FontSizeBox
+FontSizeBoxChange
+FontSizeEdit
+FontSizeEditChange
+FontSizeLabel
+FontTable
+For details contact:
+ForceButtons
+ForcedScrollBars
+ForeColor
+ForeColorBtn
+ForeColorBtnClick
+ForeColorChange
+ForeColorLbl
+Foreground
+Foreground as default
+FormClick
+FormClose
+FormCloseQuery
+FormCreate
+FormDeactivate
+FormDestroy
+FormKeyDown
+FormKeyPress
+FormMouseMove
+FormPaint
+FormShow
+FormStyle
+FormStylel
+FormatMessageA
+FrameRect
+FreeLibrary
+FreeResource
+FrmSearRepl
+From cursor
+FullHierarchy
+FullLineCommentDelimiters
+FullRepaint
+FullRowSelect
+FullyExpanded
+FullyVisible
+Function
+FwdDirection
+FwdDirectionClick
+GB2312_CHARSET
+GENERATOR
+GMMSystem
+GOPHER://
+GREEK_CHARSET
+GROUP_CURSOR
+GROUP_ICON
+General options
+GetActiveWindow
+GetAsyncKeyState
+GetBitmapBits
+GetBkColor
+GetBrushOrgEx
+GetCPInfo
+GetCapture
+GetCharWidth32A
+GetClassInfoA
+GetClientRect
+GetClipBox
+GetClipboardData
+GetClipboardOwner
+GetCommandLineA
+GetCurrentDirectoryA
+GetCurrentPositionEx
+GetCurrentProcessId
+GetCurrentThreadId
+GetCursor
+GetCursorPos
+GetDCOrgEx
+GetDIBColorTable
+GetDIBits
+GetDateFormatA
+GetDesktopWindow
+GetDeviceCaps
+GetDiskFreeSpaceA
+GetDiskFreeSpaceExA
+GetDlgItem
+GetDoubleClickTime
+GetEnhMetaFileBits
+GetEnhMetaFileHeader
+GetEnhMetaFilePaletteEntries
+GetErrorInfo
+GetExitCodeThread
+GetFileAttributesA
+GetFileSize
+GetFileType
+GetFileVersionInfoA
+GetFileVersionInfoSizeA
+GetFocus
+GetForegroundWindow
+GetIconInfo
+GetKeyNameTextA
+GetKeyState
+GetKeyboardLayout
+GetKeyboardLayoutList
+GetKeyboardState
+GetKeyboardType
+GetLastActivePopup
+GetLastError
+GetLocalTime
+GetLocaleInfoA
+GetLongPathNameA
+GetMapMode
+GetMenuItemCount
+GetMenuItemID
+GetMenuItemInfoA
+GetMenuState
+GetMenuStringA
+GetMessagePos
+GetModuleFileNameA
+GetModuleHandleA
+GetMonitorInfo
+GetMonitorInfoA
+GetMonitorInfoW
+GetObjectA
+GetOpenFileNameA
+GetPaletteEntries
+GetParent
+GetPixel
+GetPrivateProfileSectionA
+GetPrivateProfileStringA
+GetProcAddress
+GetProfileStringA
+GetPropA
+GetRgnBox
+GetSaveFileNameA
+GetScrollInfo
+GetScrollPos
+GetScrollRange
+GetStartupInfoA
+GetStdHandle
+GetStockObject
+GetSubMenu
+GetSysColor
+GetSysColorBrush
+GetSystemDirectoryA
+GetSystemInfo
+GetSystemMenu
+GetSystemMetrics
+GetSystemPaletteEntries
+GetTempFileNameA
+GetTextColor
+GetTextExtentExPointA
+GetTextExtentPoint32A
+GetTextExtentPointA
+GetTextMetricsA
+GetThreadLocale
+GetTickCount
+GetTopWindow
+GetVersion
+GetVersionExA
+GetWinMetaFileBits
+GetWindow
+GetWindowDC
+GetWindowLongA
+GetWindowOrgEx
+GetWindowPlacement
+GetWindowRect
+GetWindowTextA
+GetWindowThreadProcessId
+GetWindowsDirectoryA
+Global Variables
+GlobalAddAtomA
+GlobalAlloc
+GlobalAttrID
+GlobalAttrIDl
+GlobalDeleteAtom
+GlobalFree
+GlobalHandle
+GlobalLock
+GlobalReAlloc
+GlobalSize
+GlobalUnlock
+GlobalWidth0
+GlobalWidth1
+Go to Line Number
+Go to line Number
+GoToBtn4
+GoToBtnClick
+Goto Bookmark 0
+Goto Bookmark 1
+Goto Bookmark 2
+Goto Bookmark 3
+Goto Bookmark 4
+Goto Bookmark 5
+Goto Bookmark 6
+Goto Bookmark 7
+Goto Bookmark 8
+Goto Bookmark 9
+GradientBeginColor
+GradientEndColor
+Graphics
+GroupBox1
+GroupBox2
+GroupBox3
+GroupBox4
+GroupIndex
+GroupIndex4
+GroupUndoChk
+Groupedl
+Gutter width
+GutterBackColor
+GutterBackColorh
+GutterBackground
+GutterBrush
+GutterColorBtn
+GutterColorBtn4
+GutterColorBtnClick
+GutterColorEdit
+GutterColorEditChange
+GutterImgs
+GutterImgsAlign
+GutterImgsAlignl
+GutterLineColor
+GutterLineIndent
+GutterStyleEdit
+GutterStyleEdit 
+GutterStyleEditChange
+GutterVisibleLbl
+GutterWidth
+GutterWidth8
+GutterWidthEdit
+GutterWidthEditExit
+HANGEUL_CHARSET
+HEBREW_CHARSET
+HTML Format
+HTTP://
+Header/page &number
+HeaderActiveFilterColor
+HeaderCheck
+HeaderColorl
+HeaderFilterColor
+HeaderFlatpoD
+HeaderHeight
+HeaderHotTrack
+HeaderImages
+HeaderInvertSortArrows
+HeaderSections
+HelpContext
+HelpContexth
+HelpFile
+Hex digit expected
+HideCaret
+HideFocusRect
+HideHintOnMove
+HideHintOnTimer
+HideHorzScrollBar
+HideScrollBars
+HideSelectColor
+HideSelectTextColor
+HideSelection
+HideVertScrollBar
+Hierarchy
+HierarchyWidth
+HighlightUrls
+HighlightUrls(
+Highlighted
+Highlighting
+HighlightingPage
+HintColor
+HintTextColor
+HintWindow
+Horizontal
+HorizontalLines
+HorizontalOnly
+HorzMaxPos
+HorzScrollBar
+HorzScrollBarStylespoD
+HotImages
+HotKeyLabel
+HotTrack
+Ht Ht.
+Html params
+Html tags
+HyperCursor
+I ;Hh|"
+I/O error %d
+IChangeNotifierd
+IDesigner
+IDesignerNotifyd
+IDockManagerd
+INACTIVE
+INHERITED
+IOleFormd
+ISOLATION
+IStringsAdapterd
+IUnknown
+I\;J(u
+Icon image is not valid
+IdentPrefixesHYP
+IdentPrefixesSuffixes
+IdentSuffixes
+Identifier
+Identifier expected
+IgnoreFontProperty
+Illegal Character 
+Illegal Class Definition: 
+ImageIndex
+ImageIndex2l
+ImageIndexl
+ImageList1
+ImageList_Add
+ImageList_BeginDrag
+ImageList_Create
+ImageList_Destroy
+ImageList_DragEnter
+ImageList_DragLeave
+ImageList_DragMove
+ImageList_DragShowNolock
+ImageList_Draw
+ImageList_DrawEx
+ImageList_EndDrag
+ImageList_GetBkColor
+ImageList_GetDragImage
+ImageList_GetIconSize
+ImageList_GetImageCount
+ImageList_Read
+ImageList_Remove
+ImageList_Replace
+ImageList_ReplaceIcon
+ImageList_SetBkColor
+ImageList_SetDragCursorImage
+ImageList_SetIconSize
+ImageList_Write
+ImageType
+Images2XAH
+ImagespoD
+ImeNamel
+ImmGetCompositionStringA
+ImmGetContext
+ImmGetConversionStatus
+ImmIsIME
+ImmNotifyIME
+ImmReleaseContext
+ImmSetCompositionFontA
+ImmSetCompositionWindow
+ImmSetConversionStatus
+ImmSetOpenStatus
+Immediate
+InReplace
+InactiveBorderType
+Include &subdirectories
+IncludeSubDirs
+Increment
+IncrementalDisplay
+IncrementalSearch
+IncrementalSearchl
+Indent selected block
+IndentStep
+IndentStepBox
+IndentStepBoxExit
+Indeterminate
+Index out of bounds
+Index range error
+InflateRect
+InfluenceRect
+InfoLbl(
+InfoLbl1
+InfoLbl2
+InfoLbl20
+Information
+IniFiles
+InitCommonControls
+InitCommonControlsEx
+InitialDirx
+InitializeCriticalSection
+InitializeFlatSB
+InputLabel
+InputLineForm
+InsertMarkColor
+InsertMenuA
+InsertMenuItemA
+InsideFrame
+Integer overflow Invalid floating point operation
+IntegralHeightl
+Interface not supported
+InterlockedDecrement
+InterlockedIncrement
+Internal error
+IntersectClipRect
+IntersectRect
+Interval
+Intervalh
+Invalid ElStack capacity.
+Invalid ImageList
+Invalid ImageList Index)Failed to read ImageList data from stream(Failed to write ImageList data to stream$Error creating window device context
+Invalid Tab Rack.Tried to search marked block but it is invalidDTried to search marked block from cursor but cursor is outside block
+Invalid argument to date encode
+Invalid argument to time encode
+Invalid binary value
+Invalid class typecast0Access violation at address %p. %s of address %p
+Invalid clipboard format Clipboard does not support Icons
+Invalid data in registry entry
+Invalid data in style string Macro name expected after #ifdef0#include filename not enclosed in "..." or <...>
+Invalid data type for '%s'
+Invalid file format#This file doesn't contain resources
+Invalid filename
+Invalid image size
+Invalid input value
+Invalid numeric input
+Invalid parameter
+Invalid pixel format!Cannot change the size of an icon$Unknown picture file extension (.%s)
+Invalid pointer operation
+Invalid property element: %s
+Invalid property path
+Invalid property type: %s
+Invalid property value
+Invalid range
+Invalid repeat
+Invalid section
+Invalid stream format
+Invalid string constant
+Invalid string header read from the stream
+Invalid variant operation"Variant method calls not supported
+Invalid variant type conversion
+InvalidKeys
+InvalidateRect
+InvertSortArrows
+Inverted
+IsBadReadPtr
+IsCharAlphaA
+IsCharAlphaNumericA
+IsClipboardFormatAvailable
+IsControl
+IsDialogMessageA
+IsEqualGUID
+IsIconic
+IsRectEmpty
+IsWindow
+IsWindowEnabled
+IsWindowVisible
+IsZoomed
+ItalicChk
+ItemChange
+ItemChangeMode
+ItemHeight
+ItemHeight\
+ItemHeightl
+ItemIndent vI
+ItemIndex\
+ItemRect
+ItemsTYD
+JOHAB_CHARSET
+Jump Out Of...
+Jump Over...
+Jump to Current...
+JumpOutOf1
+JumpOutOf1Click
+JumpOutOf1l
+JumpOutOf2
+JumpOver1
+JumpOver1Click
+JumpOver1h
+JumpOver2
+JumpOver2(
+KWindows
+KeepTrailingBlanksChk
+KeepTrailingBlanksChk4
+KeepTrailingBlanksLQM
+Key Assignments
+Key assignments
+Key specification required
+KeyAssignDialog
+KeyMapLbl
+KeyMapping
+KeyMappingsPage
+KeyPreview
+KeymapEdit
+KeymapEdit0
+KeywordSets
+Keywords
+KillTimer
+LReplWith
+LTexttFind
+LangNameBox
+LeaveCriticalSection
+Left &margin:
+Left margin
+LeftBorderWidthBox
+LeftBorderWidthBoxChange
+LeftBorderWidthBoxKeyDown
+LeftDelimiter
+LeftIndentl
+LeftMarginEdit
+LeftPosition
+Line end
+Line numbers
+Line numbers in gutter
+Line start
+Line too long
+LineBookmarkColor
+LineColor
+LineDirectivePrefix
+LineDirectivePrefixHYP
+LineHeight
+LineHighlight
+LineHighlight 
+LineHintColor4mI
+LineHintModel
+LineHintTimeout
+LineNosBox
+LineNumAlign
+LineNumAlignLQM
+LineNumBackColor
+LineNumBackColorl
+LineNumColor
+LineNumColorh
+LineNumbersCheck
+LineSeparator
+LinesColorH
+LinesStyle
+List index out of bounds (%d) List capacity out of bounds (%d)
+ListHeight
+Load color styles
+Load1Click
+LoadBitmapA
+LoadCursorA
+LoadIconA
+LoadKeyboardLayoutA
+LoadLibraryA
+LoadLibraryExA
+LoadResource
+LoadStringA
+Local Variables
+LocalAlloc
+LocalFree
+LocalWidth0
+LocalWidth1
+LockHeaderHeightl
+LockHeight
+LockList
+LockResource
+LockWindowUpdate
+Log Files
+LookupEnabled
+LookupHistory
+MAC_CHARSET
+MAILTO:
+MAINICON
+MDICLIENT
+MEMOHANDPT
+MEMO_BREAKPOINT
+MESSAGETABLE
+MINUSBMP
+MS Sans Serif
+MSH_SCROLL_LINES_MSG
+MSH_WHEELSUPPORT_MSG
+MSWHEEL_ROLLMSG
+MSWINDOWS
+Macro name expected
+Magellan MSWHEEL
+MainMenu1
+MainStylel
+MainTreeColumn
+MapViewOfFile
+MapVirtualKeyA
+MapWindowPoints
+MarginColorBtn
+MarginColorBtn8
+MarginColorBtnClick
+MarginColorEdit
+MarginColorEditChange
+MarginPen
+MarginPos
+MarginPosEdit
+MarginPosEditExit
+MarginStyleEdit
+MarginStyleEditChange
+MarginVisibleCheck
+MarginWidthEdit
+MarginWidthEditExit
+Mark wrapped lines
+MarkWrapBox
+Marked Block
+MatchBackColor
+MatchColor
+MaxDateTXD
+MaxHeight
+MaxLength
+MaxWidth
+MaxWidthl
+MemoEnvOptions
+MemoEnvOptions1
+MemoEnvOptionsClick
+MemoPrintForm
+MemoPrintProgress
+MemoSource\
+Menu index out of range
+Menu inserted twice
+MenuAnimation
+MenuItem
+MessageBeep
+MessageBoxA
+MetaSymbol
+MetaSymboll
+Metafile is not valid
+Metafiles
+MinHeight
+MinHeightl
+MinThumbSize
+MinWidth
+MinusBmp
+MinusPicture
+ModalResult
+ModalResultt
+Modified
+Modifiers
+MonitorFromPoint
+MonitorFromRect
+MonitorFromWindow
+MonoPrint
+MonthBackColor
+MousePos
+Move to word after
+Move to word before
+MoveColumnOnDrag
+MoveFileA
+MoveFocusOnCollapse
+MoveOnDrag
+MoveToEx
+MsgWaitForMultipleObjects
+MultiByteToWideChar
+MultiLine
+MultiLineCommentDelimiters
+MultiLineCommentDelimitersHYP
+MultiLineStringDelimitersHYP
+MultiMon
+MultiSelect
+N&o to All
+N(;F,t
+NameLabel
+NaturalNumber
+Nested repeat
+NewHeight
+NewTarget
+NewWidth
+Next >
+NextButton
+NextButtonClick
+No active parser
+No argument for format '%s'
+No errors detected
+NoDisableButtons
+NoSunkenThumb
+NoSunkenThumbl
+NodeClass
+NodeStates
+Not enough timers available
+Not implemented yet!Recursive expansion of macro '%s'$** ERROR near line %d, Column %d: %s(#include filename missing terminating %s#Unable to open #include file %s%s%s
+November
+NumGlyphs
+NumPrefixes
+NumPrefixesHYP
+NumPrefixesSuffixes
+NumPrefixesSuffixesHYP
+NumSuffixes
+Number expected
+Numeric value out of range"Duplicate entry in %%handler table$Ambigious start set in %%token table
+OEMConvert
+OEM_CHARSET
+OKButClick
+OKButton
+OKButtonClick
+OLE error %.8x.Method '%s' not supported by automation object/Variant does not reference an automation object
+ObjectMenuItem
+OemConvert
+OemToCharA
+OffsetRect
+OkButClick
+OldCreateOrder
+OleInitialize
+OleUninitialize
+OnAdvancedCustomDraw
+OnAdvancedCustomDrawButtonh
+OnAdvancedDrawItem
+OnAfterItemPaint
+OnAfterPaint
+OnAfterSelectionChange
+OnBeforeItemPaint
+OnBeforePaint 
+OnBeforePrint
+OnCanCloseh
+OnCanResize
+OnCanResizeh
+OnCellStyleLoad
+OnCellStyleSave
+OnChange
+OnChangeD
+OnChangeh
+OnChanging
+OnChecked
+OnCheckingh
+OnClickGutter
+OnClickh
+OnClickl
+OnCloseQuery
+OnCloseUph
+OnCloseh
+OnCollapseStateChanged
+OnCollapseStateChanging
+OnCollapsed
+OnCollapsing
+OnCompareItems
+OnCompare\
+OnConstrainedResize
+OnConstrainedResize|\D
+OnContextPopup
+OnContextPopupX5F
+OnContextPopuph
+OnContextPopup|\D
+OnCreate
+OnCreateDialog
+OnCreateDialogD
+OnCreateNode
+OnCreateh
+OnCustomDraw
+OnCustomDraw4
+OnCustomDrawButtonh
+OnCustomString
+OnDataDrop
+OnDblClick
+OnDblClickh
+OnDblClick|\D
+OnDeactivate
+OnDeactivate|\D
+OnDeletionh
+OnDestroy
+OnDestroyh
+OnDockDrop
+OnDockOver
+OnDockOver0\D
+OnDockOverh
+OnDragDrop|\D
+OnDragOver
+OnDragOver0\D
+OnDragOverh
+OnDragTargetChange
+OnDrawGutter
+OnDrawItem
+OnDrawItem0\D
+OnDrawItemh
+OnDrawItemx
+OnDrawPanelh
+OnDrawPart
+OnDrawTab0\D
+OnDropDown
+OnDropDown0\D
+OnDropDownh
+OnEditKeyDownhxI
+OnEditRequest
+OnEdited
+OnEditing0\D
+OnEndDock
+OnEndDock0\D
+OnEndDockh
+OnEndDrag
+OnEndDragh
+OnEnterh
+OnExitBBOK
+OnExpanding0\D
+OnExportString
+OnFilterCall
+OnFindStringInPopupD
+OnFolderChangeh
+OnGetBackupName
+OnGetColorData
+OnGetColorStylep
+OnGetHelpContext
+OnGetImageIndex
+OnGetImageIndex0
+OnGetLineNumber
+OnGetPopupMenu
+OnGetSelectedIndexD
+OnGetSelectionTypeHVM
+OnGetSiteInfo
+OnGetSiteInfoh
+OnGetToken
+OnHeaderColumnClick(pH
+OnHeaderColumnDraw
+OnHeaderColumnMove
+OnHeaderColumnResize
+OnHeaderLookup
+OnHeaderLookupDoneh
+OnHeaderLookupDonexhH
+OnHeaderMouseDownh
+OnHeaderResizeHvI
+OnHeaderSectionAutoSize
+OnHeaderSectionCollapse
+OnHeaderSectionExpandHvI
+OnHeaderSectionFilterCall
+OnHeaderSectionMeasure
+OnHintInsert
+OnHintPopup
+OnHorzScrollDrawPartH
+OnHorzScrollHintNeededh
+OnHotTrackh
+OnIncludeItem
+OnItemCollapse
+OnItemDeletionh
+OnItemDrawh
+OnItemExpanding
+OnItemLoad
+OnItemPicDraw
+OnItemPreDraw
+OnItemSave|}I
+OnItemSelectedChange
+OnJumpToUrl
+OnKeyDown
+OnKeyPress
+OnMeasureItem
+OnMemoScroll
+OnMouseDown
+OnMouseDowntZD
+OnMouseMove
+OnMouseUp
+OnMouseUp8_D
+OnMouseUph
+OnMouseUptZD
+OnMouseWheel
+OnMouseWheelDown
+OnMouseWheelUph
+OnMovedh
+OnPainth
+OnPasteFromClipboard
+OnPictureNeeded
+OnProgress
+OnResize
+OnResizeh
+OnResizexhH
+OnResize|{I
+OnScroll
+OnScrollH
+OnScrollHintNeeded
+OnSearchException
+OnSectionAutoSizexhH
+OnSectionChangexhH
+OnSectionClickxhH
+OnSectionCollapse
+OnSectionCreatexhH
+OnSectionDelete
+OnSectionDraw
+OnSectionExpandxhH
+OnSectionMovexhH
+OnSectionResize(pH
+OnSectionResizingxhH
+OnSectionShowHide
+OnSelectionChange\
+OnSelectionChangeh
+OnShortCuth
+OnShowLineHintDyI
+OnSingleExpanded
+OnSortBeginh
+OnSortEnd
+OnStartDock
+OnStartDock0\D
+OnStartDrag
+OnStartDrag0\D
+OnStartDragSV
+OnStartDrag\
+OnStartDragh
+OnStateChange
+OnStateChangeh
+OnTemplateInsert
+OnTryEdit|}I
+OnTuneUpInplaceEdit
+OnTypeChange
+OnUnDock
+OnUnDockh
+OnUserInput
+OnValidateCombo
+OnValidateInplaceEdit
+OnVertScrollDrawPartH
+OnVertScrollHintNeeded
+OnVerticalScrollX
+OnVisibleChanged
+OpenButton
+OpenButtonClick
+OpenClipboard
+OpenDialog1
+OpenPrinterA
+Options:
+OptionsDialog
+OptionsGroup
+OptionsPage
+Optionsh
+Orientation
+OriginGroup
+OriginGroupH
+OtherIdentChars
+Out of memory
+Out of system resources
+OutFormat
+Over&write blocks
+OverCaretChk
+Override wrapping
+Overwrite
+OverwriteBlockChk
+OwnerDraw
+OwnerDrawByColumn
+OwnerDrawMask
+P3:S3u
+PACKAGEINFO
+PARAMETER
+PASSWORD
+PLUGPLAY
+POSITION
+PQRh\sQ
+PREVIEWGLYPH
+PRIVILEGES
+PROCEDURE
+PROTECTED
+PWideChar
+Page numbers
+PageControl
+PageControl1
+PageControl2
+PageControlChange
+PageIndex
+PageNosBox
+Panel3Resize
+ParentBiDiMode
+ParentBiDiMode0\D
+ParentBiDiModel
+ParentBitmap
+ParentColor
+ParentColorl
+ParentColorsl
+ParentCtl3D
+ParentFont
+ParentID
+ParentSection
+ParentShowHint
+ParentShowHint(
+ParentStyle
+ParseInput
+Parser index out of range
+Password
+PasswordChar
+Paste from clipboard
+PathSeparator
+PeekMessageA
+PenStyle
+PercentDone
+PersHolder
+PersistentBlockChk
+PictureAlign
+PixelsPerInch
+PlainText
+PlayEnhMetaFile
+PlusMinusTransparent
+PlusPicture
+Polyline
+PopupMenu
+PopupMenu1
+PopupMenu2
+PopupMenu3
+PopupMenu4
+PopupMenul
+PopupType
+Portions Copyright (c) 1983,99 Borland
+Position
+Position:
+PositionLbl
+Positionl
+PostMessageA
+PostQuitMessage
+Print Options
+Print Selection
+Print options
+Print selection
+PrintDlgA
+PrintIndent
+PrintOptions
+PrintScale
+PrintSelCheck
+PrintSelCheckChange
+Printer selected is not valid
+PrinterFont
+PrinterSetup
+Printers
+Printing Status
+Printing in progress
+Privileged instruction%Exception %s in module %s at %p.
+PrnSynHighlightBox
+ProgressBar
+PromptOnReplace
+PromptRepl
+PropEdit
+PropName
+Property does not exist
+Property is read-only
+PtInRect
+QFontMan
+QQQQQQQQ
+QQQQQQQQSV
+QQQQQQQQSVW
+QQQQQQQS
+QQQQQQQSV
+QQQQQQQSVW3
+QQQQQQS3
+QQQQQQSV
+QQQQQQSVW
+QQQQQQSVW3
+QQQQQSV3
+QQQQQSVW
+QSyntaxEd
+QTypInfo
+QuickFind
+QuickFindKeyUp
+R ;C$|
+R ;C<|
+R ;S }'
+R,;C(}!
+REFERENCES
+RESOURCE
+RETURNING_VALUES
+ROLLBACK
+RT_ACCELERATOR
+RT_ANICURSOR
+RT_ANIICON
+RT_BITMAP
+RT_CURSOR
+RT_DIALOG
+RT_DLGINCLUDE
+RT_FONTDIR
+RT_GROUP_CURSOR
+RT_GROUP_ICON
+RT_MESSAGETABLE
+RT_PLUGPLAY
+RT_RCDATA
+RT_STRING
+RT_VERSION
+RUSSIAN_CHARSET
+RadioButtonGlyph
+RadioItemP
+RaggedRight
+RaiseException
+Range check error
+ReBarWindow32
+Read beyond end of file
+Read-&Only Color:
+ReadFile
+ReadOnly
+ReadOnlyColor
+ReadOnlyColor 
+ReadOnlyColorEd
+ReadOnlyColorEdChange
+ReadOnlyColorEdH
+ReadOnlyH
+ReadOnly\
+ReadOnlyl
+RealizePalette
+Recompile script to update DFM file.
+RectVisible
+Rectangle
+RedrawNow
+RedrawWindow
+RegCloseKey
+RegCreateKeyExA
+RegExBox
+RegFlushKey
+RegOpenKeyExA
+RegQueryValueExA
+RegSetValueExA
+RegisterAutomation
+RegisterClassA
+RegisterClipboardFormatA
+RegisterWindowMessageA
+Regular e&xpressions
+RegularExpr
+ReleaseCapture
+ReleaseDC
+Remove Watch
+Remove Watch...
+RemoveBreakpoint
+RemoveBreakpoint1
+RemoveBreakpoint1Click
+RemoveMenu
+RemovePropA
+RemoveWatch1
+RemoveWatch1Click
+RemoveWatch2
+ReplAllBtn
+ReplAllBtn 
+ReplBtnClick
+ReplButClick
+ReplDialog
+ReplText
+Replace &All
+Replace All
+Replace Text
+Replace this occurence of '%s'?,This type isn't supported by WriteToRegistry
+ReplaceAll
+ReplaceBox
+ReplaceBoxChange
+ReplaceLabel
+ReplaceWith
+Requires Delphi / C++ Builder IDE running in background
+Reserved words
+ResetOnOverFlow
+Resizable
+ResizeOnDrag
+ResizeStyle
+Resource %s not found
+Resource not found
+RestoreDC
+ResumeThread
+Rich Text Format
+RichEdit
+Right margin
+RightAlignedOrder
+RightAlignedText
+RightAlignedTree
+RightClickSelect
+RightDelimiter
+RightMargin
+RightMarginWidthBox
+RowBkColor
+RowHotTrack
+RowSelect
+RtlUnwind
+Runtime error     at 00000000
+S _^[]
+S&how line numbers on gutter
+S&mart tab
+S&tyle:
+SEM_GUTTER
+SEM_HYPERHAND
+SEM_SPINDOWN
+SEM_SPINUP
+SEM_WRAPPED
+SHIFTJIS
+SHIFTJIS_CHARSET
+SHIFTSelectBoxClick
+SMALLINT
+SNAPSHOT
+SOFTWARE\Borland\Delphi\RTL
+SYMBOL_CHARSET
+SYM_CBut
+SYM_COMP
+S\_^[Y]
+Saturday
+Save color styles
+SaveButton
+SaveButtonClick
+SaveFormat
+ScopeGlobal
+ScopeGlobalX
+ScopeGroup
+ScopeGroupD
+ScopeSelected
+ScreenToClient
+Script Comment
+Script Delimiters
+Script Number
+Script ResWord
+Script String
+Script Whitespace
+Script syntax error
+ScriptLog:
+ScriptWarning:
+Scroll display down one line
+Scroll display up one line
+ScrollBarKind
+ScrollBars
+ScrollCode
+ScrollHint
+ScrollOpposite
+ScrollPos
+ScrollStyle
+ScrollTime
+ScrollTrackingl
+ScrollWindow
+ScrollbarOpposite
+SdcMemoPg
+Se&lect All
+SearText
+SearText0
+SearText1
+Search Directory Options
+Search Match
+Search all &open files
+Search all files in &project
+Search in &directories
+Search string '%s' not found
+Search string(Script has been modified, save changes ?&'%s' has been modified, save changes ?
+SearchDirectory
+SearchOpen
+SearchOptions\
+SearchProject
+SearchString
+Searching printers ...
+Searching printers ..."Printing pages:    calculation ...
+SecondBtnKind
+SecondaryButtons
+SectionIndex
+Sections
+SectionsWidth
+Sel back
+Sel text
+SelBackColor
+SelColor
+SelColorRect
+SelLength
+SelLineStyle
+SelStart
+SelTextBack
+SelTextColor
+SelectClipRgn
+SelectColumn
+SelectEolChk
+SelectObject
+SelectPalette
+Selected
+Selected text
+SelectedColor
+SelectionModeTlI
+SendMessageA
+September
+Set Bookmark 0
+Set Bookmark 1
+Set Bookmark 2
+Set Bookmark 3
+Set Bookmark 4
+Set Bookmark 5
+Set Bookmark 6
+Set Bookmark 7
+Set Bookmark 8
+Set Bookmark 9
+SetActiveWindow
+SetBkColor
+SetBkMode
+SetBrushOrgEx
+SetCallback
+SetCapture
+SetCaretPos
+SetClassLongA
+SetClipboardData
+SetCurrentDirectoryA
+SetCurrentObjectName
+SetCursor
+SetDIBColorTable
+SetEndOfFile
+SetEnhMetaFileBits
+SetErrorMode
+SetEvent
+SetFilePointer
+SetFocus
+SetForegroundWindow
+SetKeyboardState
+SetMapMode
+SetMenuItemInfoA
+SetParent
+SetPixel
+SetPropA
+SetRectEmpty
+SetScrollInfo
+SetScrollPos
+SetScrollRange
+SetStretchBltMode
+SetTextColor
+SetThreadLocale
+SetTimer
+SetViewportOrgEx
+SetWinMetaFileBits
+SetWindowLongA
+SetWindowOrgEx
+SetWindowPlacement
+SetWindowPos
+SetWindowTextA
+SetWindowsHookExA
+SetupBut
+SetupButClick
+ShareImagesl
+ShellExecuteA
+ShortCut
+ShortCutText
+ShortInt
+Shortint
+Show &line numbers
+Show &print progress
+Show Actor List
+Show Call Stack
+Show all characters
+Show all chars
+Show print &progress
+Show word-wrap column
+ShowAccelChar
+ShowAllCharsBox
+ShowButtons
+ShowCaptions
+ShowCaret
+ShowCheckBox
+ShowCheckbox
+ShowCheckboxes
+ShowColumns
+ShowCursor
+ShowDllForm
+ShowEmptyImages
+ShowEmptyImages2
+ShowHint
+ShowHint8
+ShowHintH
+ShowHintl
+ShowImages
+ShowLeftArrows
+ShowLines
+ShowNotFound
+ShowOwnedPopups
+ShowPrintProgress
+ShowRightArrows
+ShowRoot
+ShowRootButtons
+ShowScrollBar
+ShowScrollHint
+ShowSortMark
+ShowText
+ShowTrackHint
+ShowWindow
+ShowWrapColumnBox
+Si&ze:
+SimplePanel
+SimpleText
+SingleLineCommentDelimiters
+SingleLineStringDelimiters
+SizeGrip
+SizeofResource
+Smallint
+Smart fill
+Smart tab
+Smart tabs
+SmartFillBox
+SmartTabChk
+SmartTabChkClick
+Software\Altium (Dream VCL)\Instant Report\Version 4.11
+Software\Borland\
+Software\Borland\Delphi\Locales
+Software\Borland\Locales
+SortMode
+SortModel
+SortSection
+SortType
+SortTypepoD
+SourceChange
+SourceClickGutter
+SourceKeyUp
+SourceKeyUp 
+SourcePath
+SourceStateChange
+Space:
+SpaceChar(
+SpacesInTab
+SpecialSymbols
+Splitter1
+Splitter2
+SrchDialog
+Stack overflow
+Stack underflow
+StateImageIndex2
+StateImageIndexl
+StatusBar
+StatusBar1
+StatusBar1Resize
+StdActns
+StdCtrls
+StdCtrls)
+StdCtrls/
+StdCtrls2
+StdCtrls4
+Step1InfoLabel
+Step1Label
+Step1Panel
+Step1PanelEnter
+Step2InfoLabel
+Step2Label
+Step2Panel
+Step2PanelEnter
+StickySections
+Stop Debugging
+StopDebuggingClick
+StrArray
+Stream read error
+Stream write error+Out of memory while expanding memory stream*Can't write to a read-only resource stream
+StretchBlt
+StrikeOut
+String expected
+String value expected
+StringFromCLSID
+StringsOptions
+StringtgP
+Style:
+StyleLbl
+StyleMarginLbl
+StylesCount
+Sub-menu is not in menu
+SubItems
+SubMenuImages
+SuppressButtons
+SuppressLines
+SynElementsBox
+SynElementsBoxClick
+Syntax highlight
+Syntax highlighting
+SyntaxBlocks
+SyntaxHighlightChk
+SyntaxMemo1
+SyntaxMemo1Change
+SyntaxMemo1DataDrop
+SyntaxParser
+SyntaxParser1
+SyntaxParser2
+SyntaxPrintCheck
+SyntaxScheme8iP
+SyntaxVersion
+SysAllocStringLen
+SysConst
+SysDateTimePick32
+SysFreeString
+SysReAllocStringLen
+SysStringLen
+SysTabControl32
+SysTreeView32
+SysUtils
+System Variable
+SystemBkColor
+SystemBkColorl
+SystemParametersInfoA
+System\CurrentControlSet\Control\Keyboard Layouts\%.8x
+T$ +T$
+TABOUTCOMPONENT
+TADDWATCHDLG
+TAboutComponent
+TActionLinkSV
+TActiveThreadArray
+TAddWatchDlg
+TAdvancedMenuDrawItemEvent
+TAlignment
+TAnchorKind
+TAnchors
+TApplication
+TApplicationt9C
+TAttrItem
+TAttrItemXVP
+TAttributeParser
+TBaseDragControlObject
+TBasicAction
+TBasicActionLink
+TBasicActionl
+TBeforePrintEvent
+TBevelCut
+TBevelKind
+TBevelWidth
+TBiDiMode
+TBitBtnKind
+TBitmapCanvas
+TBitmapImage
+TBkgndOption
+TBlockInfo
+TBlockOption
+TBlockToken
+TBlockTokenLTP
+TBlockTokenList
+TBorderIcon
+TBorderIcons
+TBorderStyle
+TBorderWidth
+TBrushStyle
+TBrushStyleEdit
+TButtonActionLink
+TButtonControl
+TButtonD
+TButtonGlyph
+TButtonKind
+TButtonLayout
+TButtonParams
+TButtonStyle
+TCALLSTACK
+TCOLORSOPTFORM
+TCallStack
+TCanResizeEvent
+TCanvas0
+TCanvasT
+TCaption
+TCellStyleSaveEvent
+TChangeLinkl
+TCheckBox
+TCheckBoxState
+TCheckEdit
+TClassItem
+TClassItems
+TClickGutterEvent
+TClipboard
+TClipboardFormats
+TClipboardType
+TCloseEvent
+TCloseQueryEvent
+TCollapseStateChanged
+TCollapseStateChanging
+TCollection
+TCollectionItem
+TCollectionItem 
+TColorDialog
+TColorDialogH
+TColorDialogOption
+TColorDialogOptions
+TColorEdit
+TColorsOptForm
+TColumnNotifyEvent
+TComboBox
+TComboBoxStrings
+TComboBoxStyle
+TComboBoxX
+TComboEditShowEvent
+TCommonCalendarDQF
+TCommonDialog
+TComponent
+TComponentName
+TConstrainedResizeEvent
+TConstraintSize
+TContainedAction
+TContextPopupEvent
+TControl
+TControlActionLink
+TControlBackground
+TControlCanvas
+TControlScrollBar
+TConversion
+TConversionFormat
+TCoolBand
+TCoolBandMaximize
+TCoolBands
+TCoolBar
+TCreateDialogEvent
+TCustomAction
+TCustomAction(
+TCustomActionList
+TCustomActionListP
+TCustomCheckBox
+TCustomComboBox
+TCustomControl
+TCustomDCEdit4
+TCustomDCEditL
+TCustomDCMemo 
+TCustomDCMemoX
+TCustomDCNamedItems
+TCustomDCParser
+TCustomDockForm
+TCustomDrawEvent
+TCustomDrawStage
+TCustomDrawState
+TCustomEdStream
+TCustomEdit
+TCustomEdit0
+TCustomElHeader
+TCustomElScrollBar
+TCustomElScrollBart
+TCustomElTree
+TCustomForm
+TCustomGroupBox
+TCustomImageList
+TCustomImageListH
+TCustomLabel
+TCustomLabeltzB
+TCustomListBox
+TCustomListBox(
+TCustomMaskEdit
+TCustomMemoSource
+TCustomMemoSourceXWM
+TCustomMemoryStream
+TCustomPanel
+TCustomRadioGroup
+TCustomSortedList
+TCustomStringEvent
+TCustomTabControl
+TCustomTreeNT
+TCustomTreeNTh
+TDCBrushStyleEdit
+TDCColorCombo
+TDCCustomControl
+TDCCustomControlLSL
+TDCExporter
+TDCGutterImages
+TDCHintWindow
+TDCHistoryEditor
+TDCImporter\yN
+TDCListBox
+TDCListBoxColumn
+TDCListBoxColumn 
+TDCListBoxColumns
+TDCMaskEdit
+TDCMemo4
+TDCNamedItem
+TDCNamedItems
+TDCPenStyleEdit
+TDCPopupListBox
+TDCPrintOption
+TDCPrintOptions
+TDCPropCheck
+TDCRTFExporter
+TDCRtfImporter
+TDCRtfParser
+TDCSimpleEdit
+TDCSimpleEditt
+TDCVersion
+TDISPLAYOPTFORM
+TDTCalAlignment
+TDTDateFormat
+TDTDateMode
+TDTParseInputEvent
+TDateTime
+TDateTimeKind
+TDateTimePicker
+TDateTimePickerHSF
+TDefAttrItem
+TDefaultMonitor
+TDelimiters
+TDelimitersList
+TDisplayOptForm
+TDockDropEvent
+TDockOrientation
+TDockOverEvent
+TDockTree
+TDockZone
+TDragControlObject
+TDragDockObject
+TDragDropEvent
+TDragImageList
+TDragImageListdnD
+TDragImgMode
+TDragKind
+TDragMode
+TDragObject
+TDragOverEvent
+TDragState
+TDragTargetDraw
+TDrawGutterEvent
+TDrawItemEvent
+TDrawPanelEvent
+TDrawState
+TDrawStates
+TDrawTabEvent
+TDrawingStyle
+TDreamBorderStyle
+TDummyEditSource
+TDummyEditSourceX
+TDummyPopup
+TDummyPopupL
+TEDFINDDLG
+TEDITOROPTFORM
+TEdFindDlg
+TEdStream
+TEdgeBorder
+TEdgeBorders
+TEdgeStyle
+TEditButton
+TEditButton 
+TEditCharCase
+TEditClassInfo
+TEditClassInfo 
+TEditRequestEvent
+TEditSource
+TEditSourceClassInfo
+TEditSourceD
+TEditorOptForm
+TElCellStyle
+TElCheckBoxType
+TElColumnMoveEvent
+TElDragType
+TElFlatBorderType
+TElHResizingStates
+TElHeader
+TElHeaderLookupDoneEvent
+TElHeaderLookupEvent
+TElHeaderSection
+TElHeaderSectionEvent
+TElHeaderSections
+TElHeaderSectionsXoH
+TElHintWindow
+TElHintWindowH
+TElMessagePump
+TElSAlignment
+TElSSortMode
+TElScrollBar
+TElScrollBarH
+TElScrollBarPart
+TElScrollBarStyles
+TElScrollBarStyles0
+TElScrollCode
+TElScrollDrawPartEvent
+TElScrollEvent
+TElScrollHintNeededEvent
+TElScrollThumbMode
+TElSecButtonsKind
+TElSectionMoveEvent
+TElSectionRedrawEvent
+TElSectionResizingEvent
+TElSectionStyle
+TElStack
+TElTreeChangingEvent
+TElTreeDragObject
+TElTreeItem
+TElTreeItemDragTargetEvent
+TElTreeItemPostDrawEvent
+TElTreeItemlxI
+TElTreeItems
+TElTreeView
+TEndDragEvent
+TErrorRec
+TExceptRec
+TExportStringEvent
+TExternalStrings
+TFRMSEARREPL
+TFastList
+TFieldTypes
+TFileFormat
+TFileFormatsList
+TFileName
+TFileSystem
+TFileSystem 
+TFindDialog
+TFindDialogL
+TFindOption
+TFindOptions
+TFindStringInPopupEvent
+TFont 
+TFontCharset
+TFontList
+TFontManager
+TFontName
+TFontPitch
+TFontStyle
+TFontStyles
+TFormBorderStyle
+TFormStyle
+TFreeNotifier
+TFreeNotifierInfo
+TFreeNotifiersList
+TFrmSearRepl
+TGetBackpNameEvent
+TGetColorDataEvent
+TGetColorStyleEvent
+TGetLineNumberEvent
+TGetSelectionTypeEvent
+TGetSiteInfoEvent
+TGetTokenEvent
+TGlyphList
+TGraphic
+TGraphicControl
+TGraphicControlLkD
+TGraphicEdit
+TGraphicsObject
+TGraphicsObjectD
+TGroupBox
+TGroupBoxDsB
+TGroupButton
+TGutterBackground
+TGutterImage
+TGutterImgsAlign
+TGutterWidth
+THAI_CHARSET
+THandleStream
+THeaderSectionEvent
+THelpContext
+THelpEvent
+THintAction
+THintAction(
+THintInsertEvent
+THintModes
+THintPopup
+THintWindow
+THorzMaxPos
+THotTrackEvent
+TIMESTAMP
+TINPUTLINEFORM
+TIconImage
+TIdentMapEntry
+TImageIndex
+TImageList
+TImageList(oD
+TImageType
+TImeMode
+TImeName
+TImportRecord
+TIncludeItemEvent
+TInputLineForm
+TIntConst
+TInterfacedObject
+TInternalImporter
+TInternalStrings
+TItemChangeModeHyI
+TItemSaveEvent
+TItemSelChangeEvent
+TJumpToUrlEvent
+TKEYASSIGNDIALOG
+TKeyAssignDialog
+TKeyData
+TKeyDataD
+TKeyEvent
+TKeyList
+TKeyPressEvent
+TKeyStore
+TKeyboardActionContoller
+TKeywordSet
+TKeywordSetList
+TKeywordSetListdZP
+TLeftRight
+TLeftRightAlign
+TLineHighlight
+TLineInfoList
+TLineSeparator
+TLineToken
+TLineTokenList
+TLineTokentSP
+TListBox
+TListBoxStrings
+TListBoxStyle
+TMEMOPRINTFORM
+TMEMOPRINTPROGRESS
+TMainMenu
+TMarginPos
+TMeasureItemEvent
+TMeasureSectionEvent
+TMemoAttributes
+TMemoBookMarkList
+TMemoChangeEvent
+TMemoCodeTemplate
+TMemoCodeTemplates
+TMemoEnvOptions
+TMemoFont
+TMemoOption
+TMemoOptions
+TMemoPositionList
+TMemoPostionStore
+TMemoPrintForm
+TMemoPrintProgress
+TMemoScrollEvent
+TMemoSource
+TMemoSourceOptions
+TMemoStates
+TMemoryStream
+TMenuActionLink
+TMenuAnimation
+TMenuAnimations
+TMenuAutoFlag
+TMenuBreak
+TMenuChangeEvent
+TMenuDrawItemEvent
+TMenuItem
+TMenuItemAutoFlag
+TMenuItemD
+TMenuItemStack
+TMenuMeasureItemEvent
+TMessageForm
+TMetafile
+TMetafileImage
+TModalResult
+TMonitor
+TMonthCalColors
+TMouseButton
+TMouseEvent
+TMouseMoveEvent
+TMouseWheelEvent
+TMouseWheelUpDownEvent
+TNodeStates
+TNotifierList
+TNotifierListItem
+TNotifierStorage
+TNotifyEvent
+TNumGlyphs
+TOFNotifyEx
+TOPTIONSDIALOG
+TObjectH
+TObjectParamList
+TObjectParamListItem
+TObjectParamListT
+TOnCompareItems
+TOnItemChangeEvent
+TOnItemCheckedEvent
+TOnItemDrawEvent
+TOnItemExpandEvent
+TOnItemExpanding
+TOnPicDrawEvent
+TOnShowHintEvent
+TOnValidateEvent
+TOpenDialog
+TOpenOption
+TOpenOptions
+TOptionExt
+TOptionExtt
+TOptionFormClassList
+TOptionFormItem
+TOptionsDialog
+TOrderedList
+TOutFormatType
+TOwnerDrawState
+TPUtilWindow
+TPackagedCollection
+TPackagedCollectionItem
+TPackagedCollectionh
+TPageControl
+TPanellTE
+TParamListData
+TPatternManagerSV
+TPenMode
+TPenStyle
+TPenStyleEdit
+TPenStyleEdit\
+TPersHolder
+TPersistent
+TPicture
+TPictureNeededEvent
+TPopupAlignment
+TPopupBrushBox
+TPopupClassInfo
+TPopupClassInfoh
+TPopupColorBox
+TPopupHint
+TPopupList
+TPopupListBox
+TPopupMenu
+TPopupMenut
+TPopupPenBox
+TPopupType
+TPosition
+TPositionList
+TPrintScale
+TPrintType
+TPrinter
+TPrinterDevice
+TPrinterSetupDialog
+TProgressBar
+TProgressBarOrientation
+TProgressEvent
+TProgressStage
+TPropFixup
+TPropsReaderWriter
+TRAILING
+TRANSACTION
+TRANSFORM
+TREPLDIALOG
+TRTFConverter
+TRTFWriterList
+TRadioButton
+TRadioGroup
+TRecordList
+TRedirectorWindow
+TRegExpr
+TRegistryS
+TRegistryStream
+TReplDialog
+TResFileSystem
+TResWriteStream
+TResizeStyle
+TResourceManager
+TResourceStream
+TResourceWriter
+TRtfImporter
+TSM_Base
+TSM_DFSColorButtonPalette
+TSM_DFS_ARROW_BMP
+TSM_DFS_ARROW_DISABLED_BMP
+TSM_PAN_E
+TSM_PAN_NE
+TSM_PAN_NORTH
+TSM_PAN_NW
+TSM_PAN_ORIGIN
+TSM_PAN_S
+TSM_PAN_SE
+TSM_PAN_START
+TSM_PAN_SW
+TSM_PAN_W
+TSRCHDIALOG
+TSTSelModes
+TSaveDialog
+TSaveDialogP
+TScrollBarInc
+TScrollBarKind
+TScrollBarStyle
+TScrollBox
+TScrollStyle
+TScrollingWinControl
+TSearchDirection
+TSearchExceptionEvent
+TSearchOptions
+TSearchOrigin
+TSearchScope
+TSearchTextTimeoutThread
+TSearchWhere
+TSectionChangeEvent
+TSectionChangeMode
+TSelectionStrings
+TSelectionStrings0aM
+TSelectionType
+TSeparatorOption
+TSeparatorOptions
+TShapeHighlightType
+TSharedImage
+TShiftState
+TShortCut
+TShortCutEvent
+TSimpleParser
+TSimpleParser4
+TSiteList
+TSizeConstraints
+TSizeConstraints(YD
+TSortDirs
+TSortModes
+TSortType
+TSortTypes
+TSortedKeyList
+TSortedList
+TSortedListEx
+TSourceStrings
+TSpecialSymbols
+TSpeedButton
+TSplitter
+TSplitterleE
+TSrchDialog
+TSrchDialog@/M
+TStartDockEvent
+TStartDragEvent
+TStatusBar
+TStatusPanel
+TStatusPanelBevel
+TStatusPanelStyle
+TStatusPanels
+TStoredPosition
+TStreamAdapter
+TStreamX
+TStringItem
+TStringList
+TStrings
+TStringsEvent
+TStringsOption
+TStringsOptions
+TSyntaxBlock
+TSyntaxBlockList
+TSyntaxBlock`\P
+TSyntaxMemo
+TSyntaxParser
+TSyntaxParsertgP
+TSyntaxScheme
+TSyntaxSchemePfP
+TTBAdvancedCustomDrawBtnEvent
+TTBAdvancedCustomDrawEvent
+TTBCustomDrawBtnEvent
+TTBCustomDrawEvent
+TTBCustomDrawFlags
+TTESTFORM
+TTSM_DFSCOLORBUTTONPALETTE
+TTSM_DFSColorButtonPalette
+TTVAfterItemPaintEvent
+TTVBeforeItemPaintEvent
+TTVChangedEvent
+TTVChangingEvent
+TTVCheckedEvent
+TTVCheckingEvent
+TTVCollapsingEvent
+TTVCompareEvent
+TTVCreateNodeEvent
+TTVEditedEvent
+TTVEditingEvent
+TTVExpandedEvent
+TTVExpandingEvent
+TTVHelpContextEvent
+TTVHintEvent
+TTVPaintEvent
+TTVPopupEvent
+TTVSingleExpandingEvent
+TTabChangingEvent
+TTabGetImageEvent
+TTabOrder
+TTabPosition
+TTabSheet
+TTabStrings
+TTabStyle
+TTemplateInfo
+TTemplateRec
+TTestForm
+TTextLayout
+TTextStyle
+TTextStyleRecord
+TTextStyleT
+TTextStyles
+TThreadList0
+TThreadWindow
+TTokenData
+TToolBar
+TToolButton
+TToolButtonActionLink
+TToolButtonStyle
+TToolDockForm
+TToolWindow
+TToolWindowT
+TTrackButton
+TTreeNT(
+TTreeNTNode
+TTreeNTNodeClass
+TTreeNTNodes
+TTreeNT\
+TTreeNodeList
+TTreeOptions
+TTryEditEvent
+TTuneUpInplaceEditEvent
+TURKISH_CHARSET
+TUnDockEvent
+TUndoList
+TUndoRecord
+TUpdateMemoColors
+TValidateComboEvent
+TValueNamePair
+TVertScrollEvent
+TVisibleLinesList
+TWin32FileSystem
+TWinControl
+TWinControlActionLink
+TWindowState
+TWordSelectionType
+TWordWrapList
+TWriterColorObject
+TWriterFontObject
+TWriterObjectpvN
+TWriterTableObject
+Tab Columns
+Tab column must be > 1
+Tab stop
+Tab stop column value expected'Tab columns must be in order and unique
+TabColBox
+TabColumnsBox
+TabColumnsBoxExit
+TabDefault
+TabIndex
+TabOrder
+TabPosition
+TabSheet1
+TabSheet2
+TabSheet3
+TabSheet4
+TabSheet5
+TabSheet6
+TabSheet7
+TabStopDXD
+TabStopLbl
+TabStopT
+TabStopX
+TabStopl
+TabStops
+TabStopsEdit
+TabStopsEdit(
+TabVisible
+TabVisiblel
+TabWidth
+TemplateFont
+TemplateValueLabel
+TemplatesPage
+TemplatesType
+TestForm
+Text attributes
+Text attributes:
+TextColor
+TextHeight
+TextLayout
+TextOutA
+TextStyles
+TextToFind
+ThinFrames
+This program must be run under Win32
+ThumbModel
+ThumbSize
+ThumbSizel
+Thursday
+Times New Roman
+Title as filename
+Title in header
+TitleAsFilenameBox
+TitleBackColor
+TitleTextColor
+TlsAlloc
+TlsGetValue
+TlsSetValue
+Toggle Breakpoint
+Toggle insert/overwrite mode
+ToggleBreakpoint1
+ToggleBreakpoint1Click
+ToggleBreakpoint2
+ToggleBreakpoint24
+Token list is empty
+TokenStr
+Too many editable styles
+Too many open files
+Too many sub-expressions
+ToolBar1
+ToolBar2
+ToolBar2(
+ToolBar3
+ToolBar38
+ToolBar4
+ToolBar4D
+ToolButton1
+ToolButton1 
+ToolButton10
+ToolButton11
+ToolButton11H
+ToolButton2
+ToolButton2Click
+ToolButton3
+ToolButton4
+ToolButton5
+ToolButton6
+ToolButton6Click
+ToolButton7
+ToolButton70
+ToolButton8
+ToolButton84
+ToolbarWindow32
+Trace In To...
+Trace In to...
+TraceInTo2
+TraceInto1
+TraceInto1Click
+TraceInto1d
+TrackButton
+TrackColor
+TrackPopupMenu
+TrackPosition
+Tracking
+TrailingTextColor
+TranslateMDISysAccel
+TranslateMessage
+Transparent
+Transparent controls notification -- parent repainted
+Twilight
+T| = class(T)
+UDebugger
+UDebugger - 
+UNCOMMITTED
+Udccommon
+Un-indent selected block
+Unable to Replace Image
+Unable to insert a line
+Unable to insert an itemE%d is an invalid PageIndex value.  PageIndex must be between 0 and %d=This control requires version 4.70 or greater of COMCTL32.DLL
+UnderLineChk
+Underline
+UnderlineTracked
+Underlined
+UndoLimit
+Unexpected EOF
+Unexpected end of input
+UnhandledExceptionFilter
+UnhookWindowsHookEx
+UninitializeFlatSB
+UnionRect
+Unknown script identifier!Key function name cannot be blank
+Unknown)Unknown character in input stream: #$%.2x
+UnlockList
+UnmapViewOfFile
+Unmatched bracket
+Unmatched parenthesis
+UnrealScript
+UnrealizeObject
+UnregisterClassA
+Unsupported clipboard format
+Up one line
+Up one page
+UpdateMemoColors
+UpdateResourceA
+UpdateWindow
+UpperCase
+Use &Read-Only Color
+Use &color
+Use &syntax highlight
+Use TAB character
+Use defaults for
+Use defaults for:
+Use mono font
+Use s&yntax highlight
+Use tab character
+UseBkColor
+UseBoldBox
+UseBoldBoxClick
+UseCaseBox
+UseColorCheck
+UseComments
+UseCustomColor
+UseCustomScrollBars
+UseDefBack
+UseDefBackBox
+UseDefFont
+UseDefForeBox
+UseDefForeBoxClick
+UseDefaultMenu
+UseDockManager
+UseDreamBorder
+UseFullLineComments
+UseGlobalOptions
+UseIdentifiers
+UseItalicBox
+UseKeywords
+UseLineDirectives
+UseMainStyle
+UseMemoColor
+UseMemoFont
+UseMetaSymbol
+UseMetaToWrapLines
+UseMetaToWrapLines(
+UseMonoFont
+UseMonoFonthQM
+UseMultiLineComments
+UseMultiLineStrings
+UseMultipleNumSuffixes
+UseNumbers
+UsePSNumComposition
+UsePrefixedIdentifiers
+UsePrefixedNumbers
+UsePrefixedSuffixedIdentifiers
+UsePrefixedSuffixedNumbers
+UsePrinterFont
+UsePrinterFontl
+UseSingleLineComments
+UseSingleLineStrings
+UseStrings
+UseStyles oI
+UseSuffixedIdentifiers
+UseSuffixedNumbers
+UseSymbols
+UseSystemFont
+UseSystemHintColors
+UseSystemMetrics
+UseTabBox
+UseTabCharBox
+UseTabCharBoxClick
+UseToken
+UseUnderlineBox
+UserString
+Uses Keys
+Uses keys
+UsesKeysLabel
+VARIABLE
+Value must be 0..255
+Value must be between %d and %d
+Variable
+Variant is not an array!Variant array index out of bounds
+VariantChangeTypeEx
+VariantClear
+VariantCopyInd
+VerQueryValueA
+VerbName
+Version:
+VersionLabel
+Versionh
+VertScrollBar
+VertScrollBarStyles
+Vertical
+VerticalLines
+VerticalLinesLongP
+VirtualAlloc
+VirtualFree
+VirtualQuery
+VisGutterBox
+VisRMarginBox
+Visible Gutter
+Visible Right margin
+Visible gutter
+Visible right margin
+VisibleD
+VisiblePropEdPages
+Visibleh
+Visiblel
+Visual Studio
+VkKeyScanA
+WINNLSEnableIME
+WWinSpool
+WaitForSingleObject
+WaitMessage
+WantReturns
+WantTabs
+Warning:
+Watches1
+Watches1x
+WatchesWidth0
+WatchesWidth1
+Wednesday
+WheelDelta
+Whitespace
+WholeWord
+WholeWord(
+WholeWordBox
+WholeWordsOnly
+Wi&dth:
+WideCharToMultiByte
+WideString
+WidthLbl
+Win32 Error.  Code: %d.
+WinHelpA
+WindowFromPoint
+WindowMenuh
+WitdhMarginLbl
+WithBoxChange
+WithLabel
+WizardPanel
+Word select
+Word wrap
+Word wrap column
+WordBool
+WordSelectBox
+WordSelectionType
+WordWrap
+WordWraph
+Wrap long lines
+WrapAtColumn
+WrapColumnBox
+WrapColumnBoxExit
+WrapColumnBoxKeyDown
+WrapLineBox
+WrapLinesCheck
+WrapOverrideBox
+Wrapable
+WriteFile
+WritePrivateProfileSectionA
+WritePrivateProfileStringA
+X0)3?3K4@5
+XDemo version of TSyntaxMemo.
+XElVCLUtils
+Yes to &All
+YesToAll
+ZTUWVSPRTj
+\1u1A6U6d6
+\Program Files\
+\cellx
+\colortbl
+\deflang
+\endash
+\fcharset
+\fnil Times New Roman
+\fonttbl
+\green
+\highlight
+\lquote
+\nosupersub
+\par\pard\brdrt\brdrs{\f0\fs2\cf0  }\par\pard 
+\pard \intbl 
+\plain
+\pnlvlblt
+\pnlvlbody
+\pntext
+\row\pard}
+\rquote
+\strike
+\stylesheet;\pntxta;\pntxtb;\propname;\staticval;\object;\*;\title;\author;\operator;\pict
+\super
+\trowd
+\trowd\
+\ulnone
+_AddWatch
+_CallStack
+_SynParse
+_TestForm
+__Long RegKey__
+__automated
+__classid
+__closure
+__declspec
+__dispid
+__except
+__export
+__fastcall
+__finally
+__import
+__pascal
+__property
+__published
+__published:
+__stdcall
+__thread
+_fastcall
+_page\
+_stdcall
+`!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_
+absolute
+abstract
+access assign
+access assign declaration
+access assign | 
+addbreakpoint 
+addwatch 
+akBottom
+alBottom
+alClient
+array declaration (const)
+array declaration (var)
+array[0..|] of ;
+array[0..|] of = ();
+assembler
+automated
+backspace
+bdLeftToRight
+bdRightToLeft
+bdRightToLeftNoAlign
+bdRightToLeftReadingOnly
+begin sequence
+begin sequence (with recover)
+begin sequence (without recover)
+biMaximize
+biMinimize
+biSystemMenu
+bkBlockSel
+bkBothPQM
+bkCancel
+bkCustom
+bkDropDown
+bkIgnore
+bkStreamSel
+blGlyphBottom
+blGlyphLeft
+blGlyphRight
+blGlyphTop
+bmDblClick
+boCenter
+boHorzGradient
+boStretch
+boVertGradient
+breakonnone 0
+breakonnone 1
+bsAutoDetect
+bsBDiagonal
+bsDiagCross
+bsDialog
+bsFDiagonal
+bsHorizontal
+bsSingle
+bsSizeToolWin
+bsSizeable
+bsToolWindow
+bsVertical
+btnCancel
+btnOther
+btnOtherClick
+bvLowered
+bvRaised
+case statement
+case statement (with else)
+case statement (with otherwise)
+case | 
+case | of
+catch()
+cbChecked
+cbGrayed
+cbNormal
+cbUnchecked
+cdAnyColor
+cdFullOpen
+cdPreventFullOpen
+cdShowHelp
+cdSolidColor
+chkDefBack
+chkDefFore
+cl3DDkShadow
+cl3DLight
+clActiveBorder
+clActiveCaption
+clAppWorkSpace
+clBackground
+clBtnFace
+clBtnHighlight
+clBtnShadow
+clBtnText
+clCaptionText
+clFuchsia
+clGrayText
+clHighlight
+clHighlightText
+clInactiveBorder
+clInactiveCaption
+clInactiveCaptionText
+clInfoBk
+clInfoText
+clMaroon
+clMenuText
+clPurple
+clScrollBar
+clSilver
+clWindow
+clWindowFrame
+clWindowText
+clYellow
+class T| : public T
+class declaration
+class declaration (all parts)
+class declaration (no parts)
+class declaration (with Create/Destroy overrides)
+class declaration (with constructor/destructor)
+class |
+class | from xbp
+clearbreaks
+clearwatch
+commdlg_FindReplace
+commdlg_help
+const_cast
+constructor
+continue
+crAppStart
+crDefault
+crHSplit
+crHandPoint
+crHourGlass
+crMultiDrag
+crNoDrop
+crSQLWait
+crSizeAll
+crSizeNESW
+crSizeNS
+crSizeNWSE
+crSizeWE
+crUpArrow
+crVSplit
+csDropDown
+csDropDownList
+csOwnerDrawFixed
+csOwnerDrawVariable
+csSimple
+cteDescBox
+cteDescBoxChange
+cteHotkey
+cteHotkeyExit
+cteListBox
+cteListBoxClick
+cteNameBox
+cteNameBoxChange
+cteSynMemoPanel
+dStdCtrls
+dbsLineBorder
+dbsRaisedBorder
+dbsRaisedLine
+dbsRaisedSingle
+dbsSunkenBorder
+dbsSunkenLine
+dbsSunkenSingle
+dcClasses
+dcColorsOpt
+dcDisplayOpt
+dcEditorOpt
+dcMemoPg
+dcSyntax
+dcSyntax0
+dccommon
+dccontrols
+dcdreamlib
+dcexport
+dcinpfrm
+dcmemopr
+dcparser
+dcstring
+dcsystem
+debugger
+deprecated
+destructor
+dimNever
+dinterface
+dirBackward
+dirBackwardL
+dirForward
+dirForwardP
+dispinterface
+dmActiveForm
+dmAutomatic
+dmComboBox
+dmDesktop
+dmMainForm
+dmManual
+dmPrimary
+dmUpDown
+do case 
+doHorizontal
+doNoOrient
+doVertical
+dsNormal
+dsSelected
+dsTransparent
+dtDelphi
+dtaRight
+dtdDownColorLine
+dtdDownSelColorLine
+dtdUpColorLine
+dtdUpSelColorLine
+dynamic_cast
+ebBottom
+ecLowerCase
+ecNormal
+ecUpperCase
+ect3SCheckBox
+ectCheckBox
+ectRadioButton
+edtSSEOF
+edtSSEOFExit
+edtSSEOFX
+edtSSEOL
+edtSSEOLExit
+edtSSSpace
+edtSSSpaceChange
+edtSSSpaceh
+edtSSTab
+edtSSTabChange
+else ;
+end sequence;
+endclass
+esLowered
+esRaised
+etmFixed
+explicit
+exported:
+external
+f%d %s;
+f%d\fcharset%d %s;
+fDFfC338
+fbtBigBump
+fbtEtched
+fbtFramed
+fbtLineBorder
+fbtRaised
+fbtRaisedInner
+fbtRaisedOuter
+fbtSunken
+fbtSunkenInner
+fbtSunkenOuter
+finalization
+footnote
+for (no begin/end)
+for (no opening/closing braces)
+for (|; ;)
+for i := 1 to nLen
+for i := 1 to |
+for j := 1 to |
+for statement
+for statement (with i)
+for statement (with j)
+for statement (with len())
+for | :=  to  do
+fpDefault
+fpVariable
+frDisableMatchCase
+frDisableUpDown
+frDisableWholeWord
+frFindNext
+frHideMatchCase
+frHideUpDown
+frHideWholeWord
+frMatchCase
+frReplace
+frReplaceAll
+frShowHelp
+frWholeWord
+fsItalic
+fsMDIChild
+fsMDIForm
+fsNormal
+fsStayOnTop
+fsStrikeOut
+fsUnderline
+function
+function declaration
+function |()
+function |(): ;
+functional
+gbxDirection
+gbxDirectionH
+gbxOptions
+gbxOptions8
+gbxPrintDestination
+gbxScope
+gbxScopeT
+hierarchy
+hierarchyDblClick
+highlight
+hsaCenter
+hsaRight
+hsmAscend
+hsmDescendLgH
+if (no begin/end)
+if (no opening/closing braces)
+if (no opening/closing braces) else (no opening/closing braces)
+if (|)
+if else
+if statement
+if statement (normal)
+if statement (with else)
+if then (no begin/end) else (no begin/end)
+if then else
+if | then
+imChinese
+imDisable
+imDontCare
+imHanguel
+imSAlpha
+imSHanguel
+implementation
+implements
+inherited
+inherited 
+initialization
+inline 
+instanceof
+interface
+jjjjjjjj
+kdcconsts
+kdcsystem
+keepn\par
+layout text
+lbOwnerDrawFixed
+lbOwnerDrawVariable(
+lbStandard
+lblFileName
+lblLeftMargin
+lblPrinter
+lblProgress
+lblReadOnlyColor
+lblReadOnlyColorL
+lblSSEOF
+lblSSEOFT
+lblSSEOL
+lblSSEOL\
+lblSSSpace
+lblSSSpaced
+lblSSTab
+lblSSTabl
+lrLeftJustify
+lrRightJustify
+lstrcmpA
+lstrcpyA
+lstrcpynA
+lstrlenA
+m/d/yy
+mElStrUtils
+maAutomatic
+maBottomToTop
+maLeftToRight
+maManual
+maParent
+maRightToLeft
+maTopToBottom
+mbBarBreak
+mcSearchMatch
+mcSearchMatchT
+mcSelection
+method implementation
+method |:()
+mmmm d, yyyy
+moBreakWordAtMargin
+moCenterOnBookmark
+moColorSyntax
+moColoredLineStyle
+moDblClickLine
+moDisableDrag
+moDisableInvertedSel
+moDisableRightClickMove
+moDrawGutter
+moDrawLineBookmarks
+moDrawLineSeparator
+moDrawMargin
+moDrawSpecialSymbols
+moExtendedSel
+moHideInvisibleLines
+moLeftIndent
+moLimitLineNumbers
+moLineNumbers
+moLineNumbersOnGutter
+moNotePadCursorStyle
+moOverwriteCaret
+moSelectOnlyText
+moShowScrollHint
+moThumbTracking
+moTripleClick
+moUseReadOnlyColor
+moWrappedLineSeparator
+modifiers
+msctls_progress32
+msctls_statusbar32
+nComCtrls
+nLen := len(|)
+namespace
+next i
+next j
+nodefault
+not found.
+object 
+odcDisplayOpt
+ofAllowMultiSelect
+ofCreatePrompt
+ofEnableIncludeNotify
+ofEnableSizing
+ofExtensionDifferent
+ofFileMustExist
+ofHideReadOnly
+ofNoChangeDir
+ofNoDereferenceLinks
+ofNoLongNames
+ofNoNetworkButton
+ofNoReadOnlyReturn
+ofNoTestFileCreate
+ofNoValidate
+ofOldStyleDialog
+ofOverwritePrompt
+ofPathMustExist
+ofReadOnly
+ofShareAware
+ofShowHelp
+ofWindows
+operator
+otherwise
+overload
+override
+paCenter
+pagedown
+par\pard
+pard\li
+pbHorizontal
+pbLowered
+pbRaised
+pbVertical
+pcbUseMonoFont
+pcbUseMonoFontClick
+pcbUseReadOnlyColor
+pcbUseReadOnlyColorClick
+pcbUseReadOnlyColorD
+pcbUseSpecSymbs
+pcbUseSpecSymbsClick
+pcbUseSpecSymbsP
+pfffffff
+platform
+pmMaskNotPen
+pmMaskPenNot
+pmMergeNotPen
+pmMergePenNot
+pmNotCopy
+pmNotMask
+pmNotMerge
+pmNotXor
+pn\pnlvlblt
+pn\pnlvlbody\pnstart1{\pntxta .}
+pntxtb\'b7
+pntxtb\pndec
+poDefault
+poDefaultPosOnly
+poDefaultSizeOnly
+poDesigned
+poDesktopCenter
+poInColor
+poLineNumbers
+poMainFormCenter
+poOwnerFormCenter
+poPrintHeader
+poPrintSel
+poPrintSyntax
+poPrintToFit
+poProportional
+poScreenCenter
+poShowProgress
+poWrapLines
+ppAUTOCORRECT
+ppHIGHLIGHTING
+ppOPTIONS
+ppTEMPLATES
+private:
+procedure
+procedure declaration
+procedure |()
+procedure |();
+property
+protected
+protected:
+psDashDot
+psDashDotDot
+psInsideFrame
+psOwnerDraw
+public:
+published
+qComConst
+rdcmemopt
+readonly
+register
+reinterpret_cast
+reintroduce
+removebreakpoint 
+removewatch 
+replunit
+reserved
+resident
+resourcestring
+return NIL
+return self
+rsPatternleE
+rsUpdate
+rtf1\ansi
+s ;~ t8
+sActiveX
+safecall
+sbHorizontal
+sbVertical
+sbkCustom
+sbkOpposite
+sdAscend
+sdBackward
+sdDescend
+sdForward
+searrepldlg
+searunit
+sftCurrency
+sftCustom
+sftDateTime
+sftFloating
+sftNumber
+sftPicture
+sftUndef
+shDoubleLine
+shSingleLine
+shmAlllmI
+smAddClick
+smSimple
+smoAutoIndent
+smoBlockOverwriteCursor
+smoColumnTrack
+smoPrintDate
+smoPrintFilename
+smoPrintLineNos
+smoPrintPageNos
+smoPrintWrap
+smoShowGutter
+smoShowRMargin
+smoShowWrapColumn
+smoShowWrapGlyph
+smoSyntaxHighlight
+smoTabToColumn
+smoTitleAsFilename
+smoWordSelect
+soAutoIndent
+soBackUnindents
+soBeyondFileEnd
+soCreateBackups
+soCursorAlwaysOnTabs
+soCursorOnTabs
+soEntireScope
+soExcludeReadOnlyLines
+soFindTextAtCursor
+soForceCutCopy
+soFromCursor
+soGroupUndo
+soLimitEOL
+soOptimalFill
+soOverwriteBlocks
+soPersistentBlocks
+soRetainColumn
+soSelectFoundText
+soSmartTab
+soUsePrevIndent
+soUseTabCharacter
+sourceChange
+ssGlobal
+ssHorizontal
+ssHotTrack
+ssRegular
+ssSelectedText
+ssVertical
+stBoolean
+stCurrency
+stCustom
+stDateTime
+stFloating
+stNumber
+static_cast
+stepinto
+stepoutof
+stepover
+stopdebugging
+stringresource
+struct |
+structure declaration
+swDirectories
+swOpenFiles
+swProjectFiles
+switch (|)
+switch statement
+switch statement (with default)
+synchronized
+t/hT%Q
+t1JtPJtq
+tBookMarkU
+tSYM_CD2
+taCenter
+taLeftJustify
+taRightJustify
+tagEXCEPINFO 
+tbLeftButton
+tbRightButton
+tbsButton
+tbsCheck
+tbsDivider
+tbsDropDown
+tbsSeparator
+template
+template <class T>
+template class declaration
+threadvar
+tlBottom
+tlCenter
+toAutoExpand
+toAutoScroll
+toCheckSupport
+toEvenHeight
+toFullRowSelect
+toHideSelection
+toHotTrack
+toInfoTip
+toLevelSelectConstraint
+toMultiSelect
+toNoEraseBkgnd
+toNoScroll
+toReadOnly
+toRightClickSelect
+toShowButtons
+toShowLines
+toShowRoot
+toSingleExpand
+toToolTips
+toWantReturn
+tpBottom
+transient
+trbrdrt\trbrdrb\trbrdrh\trbrdrl\trbrdrr\trbrdrv
+try catch
+try except
+try finally
+try finally (with Create/Free)
+tsButtons
+tsFlatButtons
+typename
+u-hD\B
+unsigned
+volatile
+while ! eof()
+while (no begin)
+while (no opening/closing braces)
+while (|)
+while statement
+while |
+while | do
+with (no begin)
+with statement
+with | do
+writeonly
+wsMaximized
+wsMinimized
+wsNormal
+wsUntilNextWord
+wsWordOnly
+wsWordWithSpace
+wwwwwwwww
+wwwwwwwwww
+wwwwwwwwwww
+wwwwwwwwwwww
+wwwwwwwwwwwww
+wwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww(
+{<:y&q?
+{\colortbl
+{\fonttbl
+{\page}
+{\trowd\
+{\uldb 
+{hhu$f
+|$( EMFt
+|variable := typename.Create;
+}{\v *!ExecFile('

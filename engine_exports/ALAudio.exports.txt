@@ -1,0 +1,100 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\ALAudio.dll
+
+File Type: DLL
+
+  Section contains the following exports for ALAudio.dll
+
+    00000000 characteristics
+    4216798B time date stamp Fri Feb 18 23:26:03 2005
+        0.00 version
+           1 ordinal base
+          73 number of functions
+          73 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000119A ??0UALAudioSubsystem@@QAE@ABV0@@Z
+          2    1 000010B4 ??0UALAudioSubsystem@@QAE@XZ
+          3    2 00001118 ??1UALAudioSubsystem@@UAE@XZ
+          4    3 00001163 ??2UALAudioSubsystem@@SAPAXIPAVUObject@@VFName@@K@Z
+          5    4 000010B9 ??2UALAudioSubsystem@@SAPAXIPAW4EInternal@@@Z
+          6    5 000012EE ??4UALAudioSubsystem@@QAEAAV0@ABV0@@Z
+          7    6 000120A8 ??_7UALAudioSubsystem@@6BFExec@@@
+          8    7 000120B0 ??_7UALAudioSubsystem@@6BUObject@@@
+          9    8 000012B2 ?ChangeVoiceChatter@UALAudioSubsystem@@UAEXKKH@Z
+         10    9 0001B7A0 ?DLLHandle@UALAudioSubsystem@@0PAXA
+         11    A 0000127B ?Destroy@UALAudioSubsystem@@UAEXXZ
+         12    B 0000117C ?EnterVoiceChat@UALAudioSubsystem@@UAEXXZ
+         13    C 00001140 ?Exec@UALAudioSubsystem@@UAEHPBGAAVFOutputDevice@@@Z
+         14    D 00001311 ?FindExt@UALAudioSubsystem@@CAHPBG@Z
+         15    E 00001226 ?FindProc@UALAudioSubsystem@@CAXAAPAXPAD1AAHH@Z
+         16    F 0000100F ?FindProcs@UALAudioSubsystem@@CAXH@Z
+         17   10 00001208 ?FindSourceIndexForNewSound@UALAudioSubsystem@@AAEHM@Z
+         18   11 0000129E ?GetAttenuationForSound@UALAudioSubsystem@@AAEMAAUALSource@@M@Z
+         19   12 00001212 ?GetNewStream@UALAudioSubsystem@@QAEHXZ
+         20   13 000011F9 ?GetSoundHandle@UALAudioSubsystem@@UAEKPAVAActor@@PAVUSound@@@Z
+         21   14 000012E9 ?GetStreamDuration@UALAudioSubsystem@@UAEMABVFString@@@Z
+         22   15 00001096 ?GetStreamingSoundFudgeFactor@UALAudioSubsystem@@UAEMXZ
+         23   16 000011CC ?GetViewport@UALAudioSubsystem@@UAEPAVUViewport@@XZ
+         24   17 0000110E ?GetVolumeModifierForSound@UALAudioSubsystem@@AAEMAAUALSource@@@Z
+         25   18 000011EF ?Init@UALAudioSubsystem@@UAEHXZ
+         26   19 000010E1 ?InitializeSoundDevice@UALAudioSubsystem@@SAHPBD@Z
+         27   1A 0000119F ?InternalConstructor@UALAudioSubsystem@@SAXPAX@Z
+         28   1B 0000114F ?InternalStopSound@UALAudioSubsystem@@AAEXH@Z
+         29   1C 0000131B ?LeaveVoiceChat@UALAudioSubsystem@@UAEXXZ
+         30   1D 00001262 ?LowQualitySound@UALAudioSubsystem@@UAEHXZ
+         31   1E 0000121C ?NoteDestroy@UALAudioSubsystem@@UAEXPAVAActor@@@Z
+         32   1F 00001186 ?PauseStream@UALAudioSubsystem@@UAEHH@Z
+         33   20 000010AA ?PauseStream@UALAudioSubsystem@@UAEHPAVAActor@@ABVFString@@@Z
+         34   21 00001271 ?PlayMusic@UALAudioSubsystem@@UAEHVFString@@M@Z
+         35   22 0000120D ?PlaySoundW@UALAudioSubsystem@@UAEHPAVAActor@@PAVUSound@@ABVFVector@@MMMMHMM@Z
+         36   23 0000123A ?PlayStream@UALAudioSubsystem@@UAEHPAVAActor@@ABVFString@@ABVFVector@@MMMMHM@Z
+         37   24 000012A8 ?PostEditChange@UALAudioSubsystem@@UAEXXZ
+         38   25 00001064 ?PrecacheStreamingSoundEffect@UALAudioSubsystem@@UAEXVFString@@@Z
+         39   26 0001B7B0 ?PrivateStaticClass@UALAudioSubsystem@@0VUClass@@A
+         40   27 00001109 ?RegisterSound@UALAudioSubsystem@@UAEXPAVUSound@@H@Z
+         41   28 00001276 ?RegisterStream@UALAudioSubsystem@@UAEHPAVAActor@@ABVFString@@HH@Z
+         42   29 00001316 ?ResumeStream@UALAudioSubsystem@@UAEHH@Z
+         43   2A 00001037 ?ResumeStream@UALAudioSubsystem@@UAEHPAVAActor@@ABVFString@@@Z
+         44   2B 0000118B ?Serialize@UALAudioSubsystem@@UAEXAAVFArchive@@@Z
+         45   2C 00001127 ?SetI3DL2Listener@UALAudioSubsystem@@QAEXPAVUI3DL2Listener@@@Z
+         46   2D 000011E0 ?SetNativeLooping@UALAudioSubsystem@@UAEXPAVUSound@@@Z
+         47   2E 0000130C ?SetSoundPitch@UALAudioSubsystem@@UAEHHM@Z
+         48   2F 0000113B ?SetSoundPitch@UALAudioSubsystem@@UAEHPAVAActor@@PAVUSound@@M@Z
+         49   30 000011FE ?SetSoundVolume@UALAudioSubsystem@@QAEHPAVAActor@@PAVUSound@@M@Z
+         50   31 00001055 ?SetSoundVolume@UALAudioSubsystem@@UAEHHM@Z
+         51   32 00001230 ?SetViewport@UALAudioSubsystem@@UAEXPAVUViewport@@@Z
+         52   33 00001258 ?SetVolumePrioritiesActive@UALAudioSubsystem@@UAEXH@Z
+         53   34 000011AE ?SetVolumes@UALAudioSubsystem@@QAEXXZ
+         54   35 000011A9 ?ShutdownAfterError@UALAudioSubsystem@@UAEXXZ
+         55   36 0001B7A4 ?SoundDevice@UALAudioSubsystem@@0PAUALCdevice_struct@@A
+         56   37 00001032 ?SoundPriority@UALAudioSubsystem@@QAEMPAVUViewport@@VFVector@@MMH@Z
+         57   38 000012FD ?StaticClass@UALAudioSubsystem@@SAPAVUClass@@XZ
+         58   39 000010E6 ?StaticConstructor@UALAudioSubsystem@@QAEXXZ
+         59   3A 000012C6 ?StopAllMusic@UALAudioSubsystem@@UAEHM@Z
+         60   3B 0000112C ?StopMusic@UALAudioSubsystem@@UAEHHM@Z
+         61   3C 000010DC ?StopSound@UALAudioSubsystem@@AAEXH@Z
+         62   3D 0000115E ?StopSound@UALAudioSubsystem@@UAEHPAVAActor@@PAVUSound@@@Z
+         63   3E 000012BC ?StopSound@UALAudioSubsystem@@UAEXHM@Z
+         64   3F 00001221 ?StopStream@UALAudioSubsystem@@AAEHH@Z
+         65   40 00001145 ?StopStream@UALAudioSubsystem@@UAEHHM@Z
+         66   41 00001014 ?StopStream@UALAudioSubsystem@@UAEHPAVAActor@@ABVFString@@@Z
+         67   42 00001285 ?UnregisterSound@UALAudioSubsystem@@UAEXPAVUSound@@@Z
+         68   43 0000106E ?Update@UALAudioSubsystem@@UAEXPAVFSceneNode@@@Z
+         69   44 000011C2 ?alError@UALAudioSubsystem@@QAEHPAGH@Z
+         70   45 00001203 ?appInitializeSoundDevice@@YAHPBD@Z
+         72   46 0001B520 GPackage
+         71   47 000010BE _DllMain@12
+         73   48 0001B7A8 autoclassUALAudioSubsystem
+
+  Summary
+
+        1000 .data
+        3000 .idata
+        9000 .rdata
+        2000 .reloc
+       11000 .text

@@ -1,0 +1,88 @@
+# Strings extracted from AICommon.dll (49152 bytes)
+# Total strings: 389, filtered: 85
+
+  %d  %s
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUWVXYZ[\]^_`abc
+! IsOnVisionNotificationList(Registrant)
+!IsOnCurrentSeenList(Seen)
+!This program cannot be run in DOS mode.
+.\UVisionNotifier.cpp
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0
+0$0+0:0C0O0T0b0q0
+1(1@1L1d1
+2(202@2T2`2h2x2
+2/242:2V2~2
+22262D2J2\2a2x2
+3!3(3.3A3I3Q3a3h3n3
+3&3:3?3S3X3j3z3V4
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4h4l4p4t4x4|4
+4!4(4.4A4I4Q4a4g4q4w4
+4(404H4X4`4p4
+5 5(585L5X5`5
+5"5(5.545:5@5F5L5R5X5^5d5j5p5v5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 6(6@6P6X6h6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 7&7,72787>7D7J7P7V7\7b7h7n7t7z7
+7 7(787@7P7d7p7x7
+8 8$8(8,8084888<8@8
+8"8(8.848:8@8F8L8S8
+858:8@8r8
+9%:+:C:e:q:
+:!:.:4:;:D:J:Y:v:
+;)<S<o<{<
+=%=:=r=
+>@?Q?V?\?
+?4?:?L?Q?h?v?{?
+AICommon
+ASquadInfo
+ASquadInfo::CleanupDestroyed
+ASquadInfo::Tick
+Contents of vision NotificationList for %s
+Contents of vision SeenList for %s
+GPackage
+HashMapHash
+IIHearingNotification
+IIVisionNotification
+NoLongerSeen
+OnListenerHeardNoise
+OnViewerLostPawn
+OnViewerSawPawn
+PawnBeingRemoved
+PossibleRegistrant
+Registrant
+UHearingNotifier
+UShotNotifier
+UVisionNotifier
+UVisionNotifier::OnPawnSeen
+UVisionNotifier::OnVisionSearchCompleted
+UVisionNotifier::Serialize
+UVisionNotifier::execIsOnCurrentSeenList
+UVisionNotifier::execIsOnSeenList
+UVisionNotifier::execRegisterVisionNotification
+UVisionNotifier::execRemoveAnyReferencesToPawn
+UVisionNotifier::execUnregisterVisionNotification
+UVisionNotifier::execlogSeenList
+UVisionNotifier::logNotificationList
+UVisionNotifyer::NotifyNoLongerSeen
+UVisionNotifyer::NotifySeen
+_CxxThrowException
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+autoclassASquadInfo
+autoclassIIHearingNotification
+autoclassIIVisionNotification
+autoclassUHearingNotifier
+autoclassUShotNotifier
+autoclassUVisionNotifier
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnTemplate.h
+intUVisionNotifierexecIsOnCurrentSeenList
+intUVisionNotifierexecIsOnSeenList
+intUVisionNotifierexecRegisterVisionNotification
+intUVisionNotifierexecRemoveAnyReferencesToPawn
+intUVisionNotifierexecUnregisterVisionNotification
+intUVisionNotifierexeclogSeenList

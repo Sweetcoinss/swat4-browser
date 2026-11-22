@@ -1,0 +1,17 @@
+# Strings extracted from SwatGui.dll (30208 bytes)
+# Total strings: 85, filtered: 14
+
+!This program cannot be run in DOS mode.
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+4"4(4.444:4@4F4L4R4X4^4
+GPackage
+Richav\
+T$$Ph u
+UNativeBootstrap
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+autoclassUNativeBootstrap

@@ -134,6 +134,16 @@ All 174 __NFUN__ native call tokens resolved to real names:
 - 0 collisions
 - Source: FFA (Shrek 2) read_tail method adapted for SWAT 4
 
+## ENGINE DLL EXTRACTION
+## =====================
+Extracted from 36 DLLs (Engine.dll, Core.dll, SwatGame.dll, etc.):
+- 22981 exported C++ functions (demangled via dbghelp.dll)
+- 942 unique C++ classes (AActor, AController, APawn, etc.)
+- 37461 readable strings (function names, error messages, debug info)
+- Output: engine_exports/ (raw) + engine_demangled/ (demangled names)
+- Note: This is NOT source code — only exported symbols and strings.
+  Full decompilation requires Ghidra/IDA Pro (not available).
+
 ## DECOMPILATION METHOD
 ## ====================
 Tool: UELib (Eliot VU) with SWAT4 build profile

@@ -1,0 +1,496 @@
+# Strings extracted from binkw32.dll (338944 bytes)
+# Total strings: 940, filtered: 493
+
+                                 H
+         (((((                  H
+         h((((                  H
+   $$*
+  FEEEK
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRS
+ !"#$%&'/.-,+*)(01234567?>=<;:98
+ !"#()*+012389:;
+ !()"#*+018923:;
+ !()0189:;23*+"#
+ (!)"*#+3;2:1908<4=5>6?7/'.&-%,$
+ ()!"#+*21089:;34<=>?765-,$%&./'
+ (0891)!
+ (0891)*2:;3+#"!
+ 0&0a0
+ 2!4 3!e 2!4 3!i 2!4 3!g 2!4 3!| 2!4 3!f 2!4 3!z 2!4 3!h 2!4 3!~ 2!4 3!e 2!4 3!i 2!4 3!g 2!4 3!} 2!4 3!f 2!4 3!{ 2!4 3!h 2!4 3!
+ @@@bbb
+ @@@bbhhhKR77
+ _^r!h`
+! ()*"#+3;:219804<=56>?7/'&.-,$%
+!0*060<0A0J0P0\0b0n0
+!This program cannot be run in DOS mode.
+"*2:;3+#
+#+"*!) (08192:3;<4=5>6?7/'.&-%,$
+$%&',-./4567<=>?
+$%&'/.-,4567?>=<
+$%,-&'./45<=67>?
+$%,-45<=>?67./&'
+$,4<=5-.6>?7/'&%
+$,4<=>?7/'&%-56. (089:;3+#"!)12*
+$2(2L2P2\2`2
+&'./67>?<=45,-$%"#*+23:;8901() !
+&.6>?7/'
+'&/.76?>=<54-,%$#"+*32;:9810)(! 
+'/&.%-$,#+"*!) (1089:2;3<4=567?>
+- This application cannot run using the active version of the Microsoft .NET Runtime
+- floating point not loaded
+- not enough space for _onexit/atexit table
+- not enough space for arguments
+- not enough space for environment
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- not enough space for thread data
+- pure virtual function call
+- unable to initialize heap
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+0 0'010L0W0
+0 0(00080@0H0P0X0`0
+0 050A0V0a0
+0#0)010:0D0b0l0s0y0
+0$0*03090C0M0r0}0
+0%0-0:0B0J0W0_0g0x0
+0'0/070H0P0
+0)0/060<0C0J0R0X0e0o0w0
+0)0:0A0P0w0
+0,040:0@0K0Q0[0e0
+0-0:0I0O0W0]0g0m0z0
+0.0\0n0
+070G0Y0_0g0m0w0}0
+0:0W0_0
+0;1A1V1\1}1
+0\1d1l1t1|1
+0\1n1t1z1
+1 1(10181@1H1P1X1`1
+1 1(1S1`1h1n1u1
+1 1*1R1\1c1i1q1w1
+1"1(131=1E1b1j1y1
+1#1:1@1]1g1z1
+1%1-1:1B1J1W1_1g1x1
+1%1:1B1K1U1\1p1}1
+1(1.141:1@1N1U1u1}1
+1)1/1b1j1|1
+1)1014181<1@1D1H1L1
+1+1I1P1T1X1\1`1d1h1l1
+1-131;1A1K1Q1V1\1q1w1|1
+1.6g-Copyright (C) 1994-2004, RAD Game Tools, Inc.
+161<1B1H1N1\1c1|1
+162H2N2T2j2u2}2
+2 2(20282@2H2P2X2`2
+2 2(21272A2G2r2}2
+2 2)2/292C2b2l2s2y2
+2 2,222>2S2Y2b2o2w2|2
+2"242:2@2^2d2
+2"373=3M3S3\3f3
+2#2)20262=2D2L2R2]2g2o2
+2#2)252;2H2N2[2a2n2t2
+2%2+242:2E2K2r2{2
+2%2+2H2N2V2\2e2n2u2|2
+2&2-2B2H2S2]2e2}2
+2)2/262<2C2J2R2X2e2o2w2
+2)21282>2E2N2X2^2i2o2
+2.242:2@2]2j2w2
+2/252;2O2m2w2
+2/272=2C2N2X2^2n2t2
+2/2H2N2T2f2l2r2x2
+213:3C3L3U3[3c3i3s3z3
+256 color mode not supported.
+262<2B2H2N2\2c2
+2X2^2{2
+3 3(30383@3H3P3X3`3
+3 3)313@3F3M3S3Z3a3i3|3
+3 3)333R3g3m3z3
+3"3,373>3D3M3V3\3f3l3v3|3
+3"4+474=4C4L4R4^4e4p4{4
+3#3*32383E3O3W3o3}3
+3$3(3<3@3D3P3T3X3\3`3d3
+3%3/363J3W3]3f3l3~3
+3%4-4:4B4J4W4_4g4x4
+3&3,343=3C3L3R3\3e3r3z3
+3'3-393?3L3Q3[3a3w3}3
+3/4A4a4g4
+30%1:1
+323:3I3O3V3\3c3j3r3x3
+323:3L3T3Z3`3k3u3{3
+323;3F3N3U3[3b3k3u3{3
+3A3J3V3\3a3j3p3|3
+3R3X3\3`3d3
+4 4'4@4H4U4]4e4r4z4
+4 4(40484@4H4P4X4`4
+4!4&4+40454:4?4D4I4N4S4X4]4b4g4
+4'464<4C4I4P4W4b4h4s4}4
+4)454A4M4X4a4n4v4{4
+4)454A4M4Y4e4k4w4}4
+4)4S4{4
+4/484A4L4v4}4
+454<4W4_4h4n4w4}4
+5 5(50585@5H5P5X5`5
+5!5*505:5[5b5l5r5{5
+5!6*636<6E6K6S6Y6c6j6{6
+5"5(535=5E5b5j5y5
+5"5.5:5C5M5S5Z5i5u5
+5#51666<6B6G6L6R6X6^6d6j6p6v6{6
+5&5,515:5@5L5R5^5s5y5
+5&5,535:5B5T5Z5a5j5r5}5
+5&5/555>5D5N5X5_5s5
+5&555:5@5`5f5l5q5
+5&555;5B5H5O5V5^5d5q5{5
+5'585L5R5Y5f5m5s5{5
+5(5A5G5M5n5t5
+515H5[5f5n5}5
+525;5G5M5S5\5b5n5u5
+6 6(60686@6H6P6X6`6
+6 6(676=6D6J6Q6X6`6h6q6
+6"6(62686J6P6X6^6f6l6
+6#6)60666=6D6L6R6]6g6o6
+6#6*62686E6O6W6o6}6
+6#6+686@6O6U6\6b6i6p6x6
+6$60666?6I6O6U6c6o6{6
+6&6,64696A6F6r6{6
+6(626<6G6O6Z6e6r6z6
+6)60666M6T6e6l6z6
+6)666<6E6O6V6b6w6}6
+6,62696?6F6M6U6h6n6u6}6
+6/6K6Q6b6j6y6
+626;6G6M6S6\6b6n6u6
+6=6J6W6d6r6{6
+6g6v6}6
+7 7)737@7H7M7U7Z7
+7 8(8J8P8s8y8
+7!7(7/7C7
+7!7*707<7B7N7c7l7r7{7
+7"7(777@7I7S7`7h7m7u7z7
+7#7:7@7M7Y7`7i7p7
+7&7,737:7B7U7[7b7j7r7y7
+7'7.757P7V7\7d7s7y7
+7)7/767<7C7J7R7Z7c7{7
+7.747:7M7S7Y7a7g7o7u7
+7.848E8M8\8b8i8o8v8}8
+7/757;7C7T7g7o7
+727:7I7O7V7\7c7j7r7x7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8
+8 8$818
+8 8&8<8B8N8T8\8b8
+8 8(818I8U8_8h8o8|8
+8 8+838;8A8N8V8]8c8l8v8|8
+8 8.838:8@8H8M8V8`8
+8!8&8.838b8k8w8}8
+8!8'81878=8G8Z8e8k8q8w8}8
+8!9*969<9A9J9P9\9b9m9x9
+8#8*82888E8O8W8o8{8
+8%8,838:8A8F8S8~8
+8%888>8E8M8U8\8c8j8q8v8
+8&8+83888b8k8t8}8
+8&878A8P8U8[8j8s8}8
+8'80888A8K8Q8\8f8n8|8
+8,828:8I8O8V8\8c8j8r8x8
+8Q8Z8c8l8u8{8
+8U"f9:)3
+9 9%9+9:9C9M9W9`9m9s9x9~9
+9 9(9.9;9E9M9e9q9
+9 9,929=9H9N9[9c9j9p9y9
+9!9&9.939b9k9t9}9
+9!:*:6:<:E:K:S:]:d:p:
+9!:,:2:7:?:J:P:U:]:c:m:s:
+9"9(959?9G9_9x9
+9#9*919;9C9R9X9_9e9l9s9{9
+9%:-:<:B:I:O:V:]:e:k:v:
+9&:1:B:H:X:q:y:
+9(929=9h9
+9,929b9w9}9
+9,:K:d:
+92989C9M9U9u9}9
+929:9@9I9R9d9k9u9|9
+92:::B:K:Q:]:c:l:r:
+:!:':/:5:=:C:m:
+:!:R:X:p:
+:":.:5:@:K:U:[:f:m:s:|:
+:":.:\:b:l:
+:":8:C:J:
+:";,;2;;;H;N;V;\;b;k;u;{;
+:#:B:G:M:n:s:|:
+:$:-:3:<:B:L:R:d:j:r:x:
+:%:,:2:9:@:H:P:_:e:k:s:|:
+:%:,:3:M:S:Y:a:p:v:}:
+:%:1:7:C:I:U:[:e:r:z:
+:':-:N:S:e:k:r:y:
+:*:3:::A:F:S:\:d:s:y:
+:+:9:\:d:s:y:
+:+:S:_:p:
+:+;<;d;q;
+:0;4;8;<;@;D;H;
+:7:G:c:i:o:w:
+:;:B:h:o:
+:;;F;Y;o;
+:A:F:N:b:~:
+; ;+;F;K;P;U;Z;_;d;i;n;s;x;};
+; <$<(<,<0<4<8<B<h<p<
+;!;.;6;;;C;H;r;{;
+;#;L;R;V;\;`;t;x;~;
+;$;7;=;D;L;T;[;b;i;p;u;};
+;&;/;7;A;F;P;U;`;f;z;
+;(;.;@;F;N;T;\;b;
+;(;0;8;I;Q;f;r;
+;(;X;`;o;u;|;
+;)<J<i<v<|<
+;:980123+*)( !"#
+;Q<c<i<o<u<{<
+;V<h<r<}<
+;t$$r 
+< <(<0<8<@<H<P<X<`<
+<"<(<:<@<H<N<V<\<}<
+<"<)</<6<=<E<K<V<`<h<
+<"<+<4<?<G<N<T<[<d<j<u<{<
+<"<-<7<?<W<g<{<
+<#<)<3<:<K<b<h<v<|<
+<&=,=2=8=F=M=u=}=
+<(<0<?<E<L<R<Y<`<h<p<
+<,<4<C<I<P<V<]<d<l<r<}<
+<1=:=F=L=U=]=c=m=t=}=
+<4,$%&'/7?>=5.-680( !"#+3;:91*)2
+<\=n=t=z=
+<^<e<o<v<}<
+<program name unknown>
+= =(=0=8=@=H=P=X=`=
+=!=(=3=9=B=H=V=\=d=i=q=v=
+="=(=.=4=r=x=~=
+="=)=9=>=F=K=P=Y=^=d=l=q=w=~=
+=$=*=0=:=?=F=K=T=[=i=o=u=
+=%=+=1=J=P=V=\=
+> >(>0>8>@>H>P>X>`>
+> >+>5>;>N>X>^>d>n>x>
+>%>->:>B>J>W>_>g>x>
+>(>:>T>`>g>
+>)>;>A>G>M>S>a>h>
+>_?q?{?
+? ?(?0?8?@?H?P?X?`?
+?"?&?+?:?Q?`?f?l?u?{?
+?#?(?2?g?
+?&?.?:?
+?(?0?8?I?Q?f?r?
+?*?:?@?F?R?W?b?h?n?t?z?
+?-?3?:?@?G?N?V?\?i?s?{?
+?>67/.-5=<4,$%&'8019:2*)( !"#+3;
+@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+A buffer overrun has been detected which has corrupted the program's
+A security error of unknown cause has been detected which has
+BINKDATA 
+BeginPaint
+Bink Error
+Bink and Smacker
+Bink and Smacker are trademarks of RAD Game Tools, Inc.
+Buffer overrun detected!
+ChangeDisplaySettingsA
+ClientToScreen
+CloseHandle
+Comments
+CompanyName
+Copyright (C) 1994-2002 RAD Game Tools, Inc.
+Copyright (C) 1994-2004, RAD Game Tools, Inc.
+CorExitProcess
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreateDIBSection
+CreateEventA
+CreateFileA
+CreateMutexA
+CreateThread
+CreateWindowExA
+D$ =BIKfSt
+D$ PUW
+D:\Devel\projects\bink\build\binkw32.pdb
+DIB Section
+DOMAIN error
+DefWindowProcA
+DeleteDC
+DeleteObject
+DestroyWindow
+DirectDraw RGB off-screen system surface
+DirectDraw RGB off-screen video surface
+DirectDraw UYVY off-screen surface
+DirectDraw UYVY overlay
+DirectDraw YUY2 off-screen surface
+DirectDraw YUY2 overlay
+DirectDraw YV12 off-screen surface
+DirectDraw YV12 overlay
+DirectDraw is not available
+DirectDraw primary surface
+DirectDrawCreate
+DirectSoundCreate
+EEEEDDDJ
+EndPaint
+Error opening file.
+Error reading Bink header.
+ExitProcess
+FileDescription
+FileVersion
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+FreeLibrary
+GAIsProcessorFeaturePresent
+GetActiveWindow
+GetCPInfo
+GetClassLongA
+GetClientRect
+GetCommandLineA
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetCursorPos
+GetDIBits
+GetDeviceCaps
+GetEnvironmentStrings
+GetEnvironmentStringsW
+GetFileType
+GetLastActivePopup
+GetLastError
+GetLocaleInfoA
+GetModuleFileNameA
+GetModuleHandleA
+GetOEMCP
+GetPixel
+GetProcAddress
+GetProcessWindowStation
+GetStartupInfoA
+GetStdHandle
+GetStringTypeA
+GetStringTypeW
+GetSystemDirectoryA
+GetSystemInfo
+GetSystemMetrics
+GetSystemTimeAsFileTime
+GetTickCount
+GetTopWindow
+GetUserObjectInformationA
+GetVersionExA
+GetWindow
+GetWindowLongA
+GetWindowRect
+GetWindowThreadProcessId
+GetWindowsDirectoryA
+HeapAlloc
+HeapCreate
+HeapDestroy
+HeapFree
+HeapReAlloc
+HeapSize
+InterlockedExchange
+IsIconic
+IsWindowVisible
+KERNEL32
+Kv@}c/=
+L$ SWQ
+L$(RQP
+LCMapStringA
+LCMapStringW
+LegalCopyright
+LegalTrademarks
+LoadLibraryA
+MessageBoxA
+Microsoft Visual C++ Runtime Library
+MouseTypeWind
+MultiByteToWideChar
+No capable blitting style available.
+Not a Bink file.
+OHHJfiH{
+Out of memory.
+PeekMessageA
+Please contact the application's support team for more information.
+ProductName
+ProductVersion
+Program: 
+QueryPerformanceCounter
+QueryPerformanceFrequency
+RAD Game Tools, Inc.
+RAD Video Tools
+ReadFile
+RegisterClassA
+ReleaseDC
+ReleaseMutex
+ResumeThread
+RtlUnwind
+Runtime Error!
+SING error
+SVWj ^
+ScreenToClient
+SelectObject
+SetCursor
+SetErrorMode
+SetEvent
+SetFilePointer
+SetHandleCount
+SetPixel
+SetStretchBltMode
+SetThreadPriority
+ShowCursor
+StretchBlt
+StringFileInfo
+T$ RUWS
+T$ RhP
+TLOSS error
+TerminateProcess
+Thank you for using Bink and Smacker!
+The BinkW32.DLL file is installed in the Windows or Windows system directory - it must be installed in the application directory.
+The file doesn't contain any compressed frames yet.
+This application has requested the Runtime to terminate it in an unusual way.
+Tt ukk
+U VWUS
+UWUUj j 
+Unable to create DIBSection.
+UnhandledExceptionFilter
+Unknown security failure detected!
+UnregisterClassA
+VC20XC00U
+VS_VERSION_INFO
+Video mode not supported.
+VirtualAlloc
+VirtualFree
+VirtualProtect
+VirtualQuery
+WaitForMultipleObjects
+WaitForSingleObject
+WideCharToMultiByte
+WriteFile
+X2\2`2d2
+\$ SUWV
+\$$;\$(
+\0Q\si
+_ B!X T!\ C!Z V!^ B!Y U!] C![ W!_ C1X E2\ D1Z V2^ C1Y E2] D1[ W2_0D2X1F3\0E2Z1G3^0D2Y1F3]0E2[1G3_0FBJ1HD\0GCK1IE^0FBJ1HD]0GCK1IE_ EAI GC\ FBZ HD^ EAI GC] FB[ HD_
+continue execution and must now be terminated.
+corrupted the program's internal state.  The program cannot safely
+g)H%9r%
+hAYTF U
+internal state.  The program cannot safely continue execution and must
+l$ +|$
+l$ ;l$(
+l$(;l$ 
+now be terminated.
+o "!S "!h "!U "!l "!T "!j "!f "!n "!S "!i "!U "!m "!T "!k "!g "!o
+o 2!U C!Y 2!W D!l 2!V C!j 2!X D!n 2!U C!Y 2!W D!m 2!V C!k 2!X D!o
+r]Y\?X\
+runtime error 
+t.;t$$t(
+t2WWVPVSW
+timeBeginPeriod
+timeEndPeriod
+timeGetTime
+tooonnnnn
+tzJtPJunW
+uY@lb}@#
+vUUPUUPU
+wA::(9j
+waveOutClose
+waveOutOpen
+waveOutPause
+waveOutPrepareHeader
+waveOutReset
+waveOutRestart
+waveOutSetVolume
+waveOutUnprepareHeader
+waveOutWrite
+z/F+wLF1>nF

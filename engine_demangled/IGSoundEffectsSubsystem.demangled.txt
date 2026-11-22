@@ -1,0 +1,314 @@
+AActorBank::AActorBank(void)
+AActorBank::AActorBank(class AActorBank const &)
+ASoundEffectsSubsystem::ASoundEffectsSubsystem(class ASoundEffectsSubsystem const &)
+ASoundEffectsSubsystem::ASoundEffectsSubsystem(void)
+ASoundInstance::ASoundInstance(class ASoundInstance const &)
+ASoundInstance::ASoundInstance(void)
+ASoundMarker::ASoundMarker(void)
+ASoundMarker::ASoundMarker(class ASoundMarker const &)
+ASoundMarkerBase::ASoundMarkerBase(void)
+ASoundMarkerBase::ASoundMarkerBase(class ASoundMarkerBase const &)
+FPolyLoopStruct::FPolyLoopStruct(void)
+FSpeakerInfo::FSpeakerInfo(struct FSpeakerInfo const &)
+FSpeakerInfo::FSpeakerInfo(void)
+UNormalSoundEffectSpecification::UNormalSoundEffectSpecification(void)
+UNormalSoundEffectSpecification::UNormalSoundEffectSpecification(class UNormalSoundEffectSpecification const &)
+UNormalSoundRef::UNormalSoundRef(class UNormalSoundRef const &)
+UNormalSoundRef::UNormalSoundRef(void)
+USoundEffectSpecification::USoundEffectSpecification(class USoundEffectSpecification const &)
+USoundEffectSpecification::USoundEffectSpecification(void)
+USoundRef::USoundRef(class USoundRef const &)
+USoundRef::USoundRef(void)
+USoundSet::USoundSet(class USoundSet const &)
+USoundSet::USoundSet(void)
+USpeakers::USpeakers(class USpeakers const &)
+USpeakers::USpeakers(void)
+UStreamSoundEffectSpecification::UStreamSoundEffectSpecification(class UStreamSoundEffectSpecification const &)
+UStreamSoundEffectSpecification::UStreamSoundEffectSpecification(void)
+UStreamSoundRef::UStreamSoundRef(class UStreamSoundRef const &)
+UStreamSoundRef::UStreamSoundRef(void)
+virtual AActorBank::~AActorBank(void)
+virtual ASoundEffectsSubsystem::~ASoundEffectsSubsystem(void)
+virtual ASoundInstance::~ASoundInstance(void)
+virtual ASoundMarker::~ASoundMarker(void)
+virtual ASoundMarkerBase::~ASoundMarkerBase(void)
+FSpeakerInfo::~FSpeakerInfo(void)
+virtual UNormalSoundEffectSpecification::~UNormalSoundEffectSpecification(void)
+virtual UNormalSoundRef::~UNormalSoundRef(void)
+virtual USoundEffectSpecification::~USoundEffectSpecification(void)
+virtual USoundRef::~USoundRef(void)
+virtual USoundSet::~USoundSet(void)
+virtual USpeakers::~USpeakers(void)
+virtual UStreamSoundEffectSpecification::~UStreamSoundEffectSpecification(void)
+virtual UStreamSoundRef::~UStreamSoundRef(void)
+static void * AActorBank::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * AActorBank::operator new(unsigned int,enum EInternal *)
+static void * ASoundEffectsSubsystem::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * ASoundEffectsSubsystem::operator new(unsigned int,enum EInternal *)
+static void * ASoundInstance::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * ASoundInstance::operator new(unsigned int,enum EInternal *)
+static void * ASoundMarker::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * ASoundMarker::operator new(unsigned int,enum EInternal *)
+static void * ASoundMarkerBase::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * ASoundMarkerBase::operator new(unsigned int,enum EInternal *)
+static void * UNormalSoundEffectSpecification::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UNormalSoundEffectSpecification::operator new(unsigned int,enum EInternal *)
+static void * UNormalSoundRef::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UNormalSoundRef::operator new(unsigned int,enum EInternal *)
+static void * USoundEffectSpecification::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * USoundEffectSpecification::operator new(unsigned int,enum EInternal *)
+static void * USoundRef::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * USoundRef::operator new(unsigned int,enum EInternal *)
+static void * USoundSet::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * USoundSet::operator new(unsigned int,enum EInternal *)
+static void * USpeakers::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * USpeakers::operator new(unsigned int,enum EInternal *)
+static void * UStreamSoundEffectSpecification::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UStreamSoundEffectSpecification::operator new(unsigned int,enum EInternal *)
+static void * UStreamSoundRef::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UStreamSoundRef::operator new(unsigned int,enum EInternal *)
+class AActorBank & AActorBank::operator=(class AActorBank const &)
+class ASoundEffectsSubsystem & ASoundEffectsSubsystem::operator=(class ASoundEffectsSubsystem const &)
+class ASoundInstance & ASoundInstance::operator=(class ASoundInstance const &)
+class ASoundMarker & ASoundMarker::operator=(class ASoundMarker const &)
+class ASoundMarkerBase & ASoundMarkerBase::operator=(class ASoundMarkerBase const &)
+struct FFlaggedSound & FFlaggedSound::operator=(struct FFlaggedSound const &)
+struct FPolyLoopStruct & FPolyLoopStruct::operator=(struct FPolyLoopStruct const &)
+struct FSpeakerInfo & FSpeakerInfo::operator=(struct FSpeakerInfo const &)
+class UNormalSoundEffectSpecification & UNormalSoundEffectSpecification::operator=(class UNormalSoundEffectSpecification const &)
+class UNormalSoundRef & UNormalSoundRef::operator=(class UNormalSoundRef const &)
+class USoundEffectSpecification & USoundEffectSpecification::operator=(class USoundEffectSpecification const &)
+class USoundRef & USoundRef::operator=(class USoundRef const &)
+class USoundSet & USoundSet::operator=(class USoundSet const &)
+class USpeakers & USpeakers::operator=(class USpeakers const &)
+class UStreamSoundEffectSpecification & UStreamSoundEffectSpecification::operator=(class UStreamSoundEffectSpecification const &)
+class UStreamSoundRef & UStreamSoundRef::operator=(class UStreamSoundRef const &)
+const AActorBank::`vftable'
+const ASoundEffectsSubsystem::`vftable'
+const ASoundInstance::`vftable'
+const ASoundMarker::`vftable'
+const ASoundMarkerBase::`vftable'
+const UNormalSoundEffectSpecification::`vftable'
+const UNormalSoundRef::`vftable'
+const USoundEffectSpecification::`vftable'
+const USoundRef::`vftable'
+const USoundSet::`vftable'
+const USpeakers::`vftable'
+const UStreamSoundEffectSpecification::`vftable'
+const UStreamSoundRef::`vftable'
+void USoundSet::AddSoundRef(class USoundRef *)
+static class UAudioSubsystem * ASoundEffectsSubsystem::AudioSubsystem
+void ASoundInstance::CalculateNextPlayTime(float)
+int ASoundEffectsSubsystem::CanStartInstance(class ASoundInstance *)
+void ASoundInstance::CleanupForDeposit(void)
+virtual int USoundRef::Equals(class USoundRef *)
+class USoundSet * USoundEffectSpecification::GetAppropriateSoundSet(int)
+static class UAudioSubsystem * ASoundEffectsSubsystem::GetAudio(void)
+float ASoundInstance::GetDuration(void)
+virtual float UNormalSoundRef::GetDuration(class ASoundInstance *)
+virtual float USoundRef::GetDuration(class ASoundInstance *)
+virtual float UStreamSoundRef::GetDuration(class ASoundInstance *)
+class ULevel * USoundEffectSpecification::GetLevel(void)
+virtual int ASoundEffectsSubsystem::GetNumAlternateContexts(void)
+static float ASoundEffectsSubsystem::GetSoundInstanceDuration(class ASoundInstance *)
+class USoundRef * USoundSet::GetSoundRef(int)
+class USoundEffectSpecification * ASoundEffectsSubsystem::GetSpecificationByName(class FName)
+void ASoundInstance::HandleDistanceMuting(void)
+void USoundEffectSpecification::HandleEndTimeSoundInstance(class ASoundInstance *,float)
+void USoundEffectSpecification::HandleLazyInitialization(void)
+void USoundEffectSpecification::HandleLoopingSoundInstance(class ASoundInstance *,float)
+int ASoundEffectsSubsystem::HandleOverlap(class ASoundInstance *,class ASoundInstance *)
+void USoundEffectSpecification::HandleStartTimeSoundInstance(class ASoundInstance *,float,int)
+int ASoundInstance::HandleUpdating(float)
+virtual int ASoundEffectsSubsystem::HasContext(class AActor *,class FName)
+class FName IGSOUNDEFFECTSSUBSYSTEM_Deposit
+class FName IGSOUNDEFFECTSSUBSYSTEM_InitHook
+class FName IGSOUNDEFFECTSSUBSYSTEM_OnDeposited
+class FName IGSOUNDEFFECTSSUBSYSTEM_OnWithdrawn
+class FName IGSOUNDEFFECTSSUBSYSTEM_PlayMySound
+class FName IGSOUNDEFFECTSSUBSYSTEM_PlaySpecificSoundFromSchema
+class FName IGSOUNDEFFECTSSUBSYSTEM_PopulateSoundsHook
+class FName IGSOUNDEFFECTSSUBSYSTEM_SetNativeFlagsHook
+class FName IGSOUNDEFFECTSSUBSYSTEM_Withdraw
+class FName IGSOUNDEFFECTSSUBSYSTEM_toString
+virtual void ASoundEffectsSubsystem::InitExecution(void)
+static void AActorBank::InternalConstructor(void *)
+static void ASoundEffectsSubsystem::InternalConstructor(void *)
+static void ASoundInstance::InternalConstructor(void *)
+static void ASoundMarker::InternalConstructor(void *)
+static void ASoundMarkerBase::InternalConstructor(void *)
+static void UNormalSoundEffectSpecification::InternalConstructor(void *)
+static void UNormalSoundRef::InternalConstructor(void *)
+static void USoundEffectSpecification::InternalConstructor(void *)
+static void USoundRef::InternalConstructor(void *)
+static void USoundSet::InternalConstructor(void *)
+static void USpeakers::InternalConstructor(void *)
+static void UStreamSoundEffectSpecification::InternalConstructor(void *)
+static void UStreamSoundRef::InternalConstructor(void *)
+int USoundSet::IsAvailableEmpty(void)
+int ASoundEffectsSubsystem::IsBeingDelayed(class ASoundInstance *)
+int ASoundEffectsSubsystem::IsSchemaPlaying(class AActor *,class FName)
+void ASoundEffectsSubsystem::KillInstance(class ASoundInstance *)
+void USoundSet::MakeAllSoundsAvailable(void)
+void USoundSet::MakeNoSoundsAvailable(void)
+void USoundSet::MakeSoundAvailable(class USoundRef *)
+virtual void UNormalSoundRef::Mute(class ASoundInstance *)
+virtual void USoundRef::Mute(class ASoundInstance *)
+virtual void UStreamSoundRef::Mute(class ASoundInstance *)
+void ASoundEffectsSubsystem::MuteInstance(class ASoundInstance *)
+void ASoundInstance::MuteSound(void)
+void ASoundEffectsSubsystem::OnSubsystemStoppedSound(int)
+void USoundEffectSpecification::ParseVariables(void)
+class USoundRef * USoundSet::PickRandomSound(class USoundRef *)
+class USoundRef * USoundEffectSpecification::PickSoundToPlay(int,int)
+virtual int UNormalSoundRef::Play(class ASoundInstance *)
+virtual int USoundRef::Play(class ASoundInstance *)
+virtual int UStreamSoundRef::Play(class ASoundInstance *)
+void ASoundEffectsSubsystem::PlayInstance(class ASoundInstance *)
+void ASoundInstance::PlaySound(void)
+int UStreamSoundRef::PlayStream(class AActor *,class FString,int,float,float,float,float,int,int,float,float,class FName)
+void USoundEffectSpecification::PopulateSoundSets(void)
+virtual void ASoundEffectsSubsystem::PostScriptDestroyed(void)
+virtual void ASoundEffectsSubsystem::PrecacheEffectSpecification(class UEffectSpecification *)
+void ASoundEffectsSubsystem::PrecacheNormalSoundEffect(class USound *)
+void ASoundEffectsSubsystem::PrecacheStreamingSoundEffect(class FString)
+static class UClass AActorBank::PrivateStaticClass
+static class UClass ASoundEffectsSubsystem::PrivateStaticClass
+static class UClass ASoundInstance::PrivateStaticClass
+static class UClass ASoundMarker::PrivateStaticClass
+static class UClass ASoundMarkerBase::PrivateStaticClass
+static class UClass UNormalSoundEffectSpecification::PrivateStaticClass
+static class UClass UNormalSoundRef::PrivateStaticClass
+static class UClass USoundEffectSpecification::PrivateStaticClass
+static class UClass USoundRef::PrivateStaticClass
+static class UClass USoundSet::PrivateStaticClass
+static class UClass USpeakers::PrivateStaticClass
+static class UClass UStreamSoundEffectSpecification::PrivateStaticClass
+static class UClass UStreamSoundRef::PrivateStaticClass
+int UStreamSoundEffectSpecification::RegisterStream(class FString const &,int,int)
+void ASoundEffectsSubsystem::RemoveFromCurrentSounds(class ASoundInstance *)
+void USoundEffectSpecification::SetNativeFlags(void)
+virtual void UNormalSoundRef::SetPitch(class ASoundInstance *,float)
+virtual void USoundRef::SetPitch(class ASoundInstance *,float)
+virtual void UStreamSoundRef::SetPitch(class ASoundInstance *,float)
+virtual void UNormalSoundRef::SetVolume(class ASoundInstance *,float)
+virtual void USoundRef::SetVolume(class ASoundInstance *,float)
+virtual void UStreamSoundRef::SetVolume(class ASoundInstance *,float)
+static class UClass * AActorBank::StaticClass(void)
+static class UClass * ASoundEffectsSubsystem::StaticClass(void)
+static class UClass * ASoundInstance::StaticClass(void)
+static class UClass * ASoundMarker::StaticClass(void)
+static class UClass * ASoundMarkerBase::StaticClass(void)
+static class UClass * UNormalSoundEffectSpecification::StaticClass(void)
+static class UClass * UNormalSoundRef::StaticClass(void)
+static class UClass * USoundEffectSpecification::StaticClass(void)
+static class UClass * USoundRef::StaticClass(void)
+static class UClass * USoundSet::StaticClass(void)
+static class UClass * USpeakers::StaticClass(void)
+static class UClass * UStreamSoundEffectSpecification::StaticClass(void)
+static class UClass * UStreamSoundRef::StaticClass(void)
+virtual void UNormalSoundRef::Stop(class ASoundInstance *)
+virtual void USoundRef::Stop(class ASoundInstance *)
+virtual void UStreamSoundRef::Stop(class ASoundInstance *)
+void ASoundEffectsSubsystem::StopInstance(class ASoundInstance *)
+void ASoundInstance::StopSound(void)
+void UStreamSoundRef::StopStream(class ASoundInstance *)
+virtual int ASoundInstance::Tick(float,enum ELevelTick)
+virtual void UNormalSoundRef::UnMute(class ASoundInstance *)
+virtual void USoundRef::UnMute(class ASoundInstance *)
+virtual void UStreamSoundRef::UnMute(class ASoundInstance *)
+void ASoundEffectsSubsystem::UnMuteInstance(class ASoundInstance *)
+void ASoundInstance::UnMuteSound(void)
+void USoundEffectSpecification::UpdateHistory(class USoundRef *,int)
+void ASoundInstance::UpdateSourceLocation(void)
+void USoundSet::UseSound(class USoundRef *)
+int ASoundInstance::WantsToLoop(void)
+int USoundEffectSpecification::WantsToLoop(void)
+void AActorBank::delegateOnDeposited(class AActor *)
+void AActorBank::delegateOnWithdrawn(class AActor *)
+void AActorBank::eventDeposit(class AActor *)
+void USoundEffectSpecification::eventInitHook(void)
+int UNormalSoundRef::eventPlayMySound(class ASoundInstance *)
+class AActor * ASoundEffectsSubsystem::eventPlaySpecificSoundFromSchema(class UEffectSpecification *,class AActor *,int,class AActor *,class UMaterial *,class FVector,class FRotator,class IIEffectObserver *)
+void USoundEffectSpecification::eventPopulateSoundsHook(void)
+void USoundEffectSpecification::eventSetNativeFlagsHook(void)
+class AActor * AActorBank::eventWithdraw(void)
+class FString ASoundInstance::eventtoString(void)
+class FString USoundRef::eventtoString(void)
+void USoundSet::execAddSoundRef(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execAddToCurrentSounds(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execCanStartInstance(struct FFrame &,void * const)
+void USoundEffectSpecification::execConstructSoundInstance(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execCreateSoundInstance(struct FFrame &,void * const)
+void ASoundInstance::execGetDuration(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execGetSoundDebugText(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execHasAudioHardware(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execIsSchemaPlaying(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execKillInstance(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execNativeInitialize(struct FFrame &,void * const)
+void USoundEffectSpecification::execNativeInitialize(struct FFrame &,void * const)
+void UStreamSoundRef::execPauseStream(struct FFrame &,void * const)
+void USoundEffectSpecification::execPickSoundToPlay(struct FFrame &,void * const)
+void ASoundInstance::execPlay(struct FFrame &,void * const)
+void UStreamSoundRef::execPlayStream(struct FFrame &,void * const)
+void UStreamSoundEffectSpecification::execPopulateSoundsHook(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execPostLoaded(struct FFrame &,void * const)
+void UStreamSoundRef::execResumeStream(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execSetNativeLooping(struct FFrame &,void * const)
+void ASoundInstance::execSetObserver(struct FFrame &,void * const)
+void ASoundInstance::execSetPitch(struct FFrame &,void * const)
+void ASoundInstance::execSetVolume(struct FFrame &,void * const)
+void ASoundInstance::execStop(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execStopAllLoopingSchemas(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execStopAllSchemas(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execStopMyLoopingSchemas(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execStopMySchemas(struct FFrame &,void * const)
+void ASoundEffectsSubsystem::execStopSound(struct FFrame &,void * const)
+void UStreamSoundRef::execStopStream(struct FFrame &,void * const)
+void USoundEffectSpecification::execWantsToLoop(struct FFrame &,void * const)
+GPackage
+_DllMain@12
+autoclassAActorBank
+autoclassASoundEffectsSubsystem
+autoclassASoundInstance
+autoclassASoundMarker
+autoclassASoundMarkerBase
+autoclassUNormalSoundEffectSpecification
+autoclassUNormalSoundRef
+autoclassUSoundEffectSpecification
+autoclassUSoundRef
+autoclassUSoundSet
+autoclassUSpeakers
+autoclassUStreamSoundEffectSpecification
+autoclassUStreamSoundRef
+intASoundEffectsSubsystemexecAddToCurrentSounds
+intASoundEffectsSubsystemexecCanStartInstance
+intASoundEffectsSubsystemexecCreateSoundInstance
+intASoundEffectsSubsystemexecGetSoundDebugText
+intASoundEffectsSubsystemexecHasAudioHardware
+intASoundEffectsSubsystemexecIsSchemaPlaying
+intASoundEffectsSubsystemexecKillInstance
+intASoundEffectsSubsystemexecNativeInitialize
+intASoundEffectsSubsystemexecPostLoaded
+intASoundEffectsSubsystemexecSetNativeLooping
+intASoundEffectsSubsystemexecStopAllLoopingSchemas
+intASoundEffectsSubsystemexecStopAllSchemas
+intASoundEffectsSubsystemexecStopMyLoopingSchemas
+intASoundEffectsSubsystemexecStopMySchemas
+intASoundEffectsSubsystemexecStopSound
+intASoundInstanceexecGetDuration
+intASoundInstanceexecPlay
+intASoundInstanceexecSetObserver
+intASoundInstanceexecSetPitch
+intASoundInstanceexecSetVolume
+intASoundInstanceexecStop
+intUSoundEffectSpecificationexecConstructSoundInstance
+intUSoundEffectSpecificationexecNativeInitialize
+intUSoundEffectSpecificationexecPickSoundToPlay
+intUSoundEffectSpecificationexecWantsToLoop
+intUSoundSetexecAddSoundRef
+intUStreamSoundEffectSpecificationexecPopulateSoundsHook
+intUStreamSoundRefexecPauseStream
+intUStreamSoundRefexecPlayStream
+intUStreamSoundRefexecResumeStream
+intUStreamSoundRefexecStopStream

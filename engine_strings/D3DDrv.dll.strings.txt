@@ -1,0 +1,1300 @@
+# Strings extracted from D3DDrv.dll (552960 bytes)
+# Total strings: 2194, filtered: 1297
+
+      
+             
+        %3d %3d %3d %3d %3d %3d %3d %3d
+        %4u %4u %4u %4u %4u %4u %4u %4u
+     PORTION: Cached mesh data is using up %d KB = %.2f MB
+     PORTION: Cached textures are using up %d KB = %.2f MB
+    Component %d: %dhx%dv q=%d
+    Component %d: dc=%d ac=%d
+    with %d x %d thumbnail image
+  Ss=%d, Se=%d, Ah=%d, Al=%d
+ !"#$%
+ !"#$%&'()*+,-./0123456789;:<
+ :,:8:D:P:\:h:t:
+ K J  #
+ deflate 1.1.4 Copyright 1995-2002 Jean-loup Gailly 
+ inflate 1.1.4 Copyright 1995-2002 Mark Adler 
+! !(!!"#")""
+!! ##%%&&$$''++(**),,,//
+!(Type == VS_None && Mode == TM_SingleMesh)
+!ShaderHash.Find(CacheID)
+!SpecularMask || SpecularMask == Diffuse || SpecularMask == NormalMap
+!SpecularMask || SpecularMask == NormalMap
+!This program cannot be run in DOS mode.
+#$%,-./
+#File created by Microsoft (R) D3DX library
+#Timestamp: 
+%+7DP\
+%O?PrG?) ]>6
+%Thj=>H?@NA  B  C DPQRSE
+%s (%i)
+%s (%s)
+%s * %s
+%s * %s * 2
+%s * %s * 4
+%s * %s.a + %s * (1 - %s.a)
+%s * texture(%u).a + %s * (1 - texture(%u).a)
+%s * tfactor.a(%u) + %s * (1 - tfactor.a(%u))
+%s + %s
+%s + %s - 0.5
+%s - %s
+%s X%u: 
+%s.rgb + %s.a * %s.rgb
+%u,%u,%u(%u)
+%u: %u resources.
+'%s' : macro redefinition
+'%s' is not a valid instruction in this shader version
+'%s' is not a valid register name.  Registers must start with v_, r_, c_, b_, or i_ depending on the register type.
+'%s': ambiguous function call
+'%s': identifier represents a %s, not a %s
+'%s': loop control variable used outside for-loop scope conflicts with a previous declaration in the outer scope; most recent definition used
+(%s + %s - 0.5) * 2
+(%u): 
+(6`+)-+,-
+(="H6=Y
+(AlphaBlend %s: SrcBlend=%s  DestBlend=%s)(AlphaTest %s: Ref=%u)
+(Distance Fog %s: Color=%s)(Fog Overide %s: Color=%s)
+(Size/Stride) <= 0xFFFF
+(Size/Stride) <= 0xFFFF*3
+(USize == 256) && (VSize == 256) && DownSample
+(a>Dke>
+(zwrite %s)(ztest %s)
+)*+,-./
+)*+,-./}
+)={()<D
+)D$pv#
+)FD3DRenderInterface::SetAmbientLight
+)Fl;Fx
+)d$`v!
+)}NO))
+*+,-./
+*BufferEnd == 0x03221977
+++-+[-kn-)
+,(([)!
+,{O_<,><d
+..\..\Source\Unreal\D3DDrv\Src\ShaderAsm\
+./0123Kf567NnOU
+.\D3DMaterialState.cpp
+.\D3DRenderDevice.cpp
+.\D3DRenderInterface.cpp
+.\D3DRenderState.cpp
+.\D3DResource.cpp
+.\PerPixel\PerPixelMaterialState.cpp
+.\ShaderCore\D3DShaderFactory.cpp
+.\ShaderCore\ShaderCache.cpp
+.\Shaders\D3DGlobalDiffuseSpecularBumpDynamicShader.h
+// Macro texture
+// layer 1
+// layer 2
+// layer 3
+// r0 = T1*W1
+// r0 = T2*W2 + T1*W1
+// r0 = T3*W3 + T2*W2 + T1*W1
+// r0 = r0 * lighting
+// r0 = r0 * macro
+// r1 = Weight1
+// r1 = Weight2
+// r1 = Weight3
+// rgba - blending weights
+// tex 1
+// tex 2
+// tex 3
+// tex 4
+// used to extract value from B
+// used to extract value from G
+// used to extract value from R
+// weightmaps in R, G, B
+// weightmaps in RGB,A
+/?u"!?%?
+0 0$0(0,0
+0 0(000@0H0X0l0x0
+0 0(040@0H0T0`0h0
+0 0004080<0@0D0H0L0P0f0
+0 1$1(1,101
+0"0)060<0k0r0
+0"1)1d1
+0$0-050]0b0j0s0{0
+0%0C0\0z0
+0'0/090@0H0R0Z0b0h0o0v0
+0(000P0X0h0|0
+0(1,10141x1|1
+0)020E0T0Z0i0s0|0
+0+000:0D0R0[0d0i0w0|0
+0-}+4-6|
+04080\0`0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1$1(1,1014181<1@1D1Y1_1|1
+1 1&1,12181>1D1J1P1V1\1b1h1n1t1z1
+1 1(11191M1U1^1f1
+1!1%1)1-1115191=1A1E1I1M1Q1U1Y1]1a1e1i1m1q1u1y1}1
+1"1)101
+1"1)1E1L1h1o1
+1%1,121:1C1S1\1e1
+1(101P1X1h1|1
+1(1<1H1P1h1x1
+123456789:;
+1E1l1}2e3r3
+1T2`2}2
+1[22383{5
+1\1h1p1|1
+1\1p1v1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2$2(2<2@2
+2 2%2+2F2v2
+2 2'272\2e2
+2 2(2H2P2`2t2
+2 2)222;2D2M2V2_2h2q2z2
+2 2,242@2L2T2
+2 2,2D2P2h2t2
+2 20282@2P2X2`2p2x2
+2 3N3k3
+2 layer pixel shader WITHOUT macro texture not supported
+2!2)2K2S2\2d2m2u2~2
+2"2(2.242:2@2F2L2R2X2^2d2j2p2v2|2
+2%2/282K2Z2`2o2y2
+2%2@2E2[2`2}2
+2%3Z3}3
+2(212>2H2N2k2q2~2
+2,2024282<2\2v2}2
+2-222:2C2K2T2\2e2m2v2~2
+24445677899::;;;;;
+2=2B2J2S2[2d2l2u2}2
+2H3T3\3h3t3|3
+2R2X2`2g2}2
+2i3o3v3}3
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3$3B3I3e3l3
+3 343H3T3\3
+3#3A3_3/4=4
+3$3-353]3b3j3s3{3
+3&3-343}3
+3(4,40444F4s4
+3)383>3M3W3`3s3
+3*3/393G3L3V3d3
+3*3/3S3
+3,383P3\3t3
+303A3Q3\3o3z3
+3:4?4E4\4
+3\4e4r4y4
+4 4$4(4,4044484<4@4D4H4L4
+4 4$4(4,4044484<4@4D4V4
+4 4$4(4F4|4
+4 4S4Y4`4l4{4
+4 5C5u5z5
+4!4(444K4R4
+4#4)40474J4P4c4g4k4o4s4w4{4
+4#5)5U5f5k5q5
+4$444<4D4T4\4d4t4|4
+4%4/494C4M4[4`4q4}4
+4(444<4
+4(444L4T4`4x4
+4(454?4E4\4e4r4|4
+4)4-4145494=4A4E4I4M4Q4U4Y4]4
+405<5D5P5\5d5
+4:5A5_5f5
+4P4T4X4\4`4
+5 5$5q5
+5 5(585D5L5X5d5l5x5
+5$5,545D5L5\5p5|5
+5$545<5D5T5\5d5t5
+5%515=5F5R5[5d5m5v5{5
+5&5H5P5\5e5
+5'5@5c5r5w5}5/656=6D6S6
+5(525C5H5N5f5
+5)53595P5Y5f5p5v5
+5/5>5D5S5]5f5y5
+5?/t6?
+5H6N6U6\6o6
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6
+6 6*646B6K6P6^6g6l6v6
+6 6,646D6L6T6`6x6
+6 7,747@7L7T7
+6"6(6.646:6@6F6L6R6X6^6d6i6
+6$6)6/6[6o6u6
+6$6,646D6L6\6p6|6
+6(6<6P6\6d6t6|6
+6)7H7l7}7
+6*808S8Z8h8o8}8
+6>nm:>
+6b  27-Mar-1998
+7 7$7(7,7
+7 7(707@7H7X7l7x7
+7(707<7H7P7\7h7p7
+7(707<7T7\7d7p7
+7(727=7r7
+7(797>7D7f7
+7)7D7U7Z7`7
+7)8:8?8E8f8
+767x8}8
+7:7D7N7X7
+7:8U8r8(9o9
+7J8U8\8c8
+7e7n7{7
+7i7o7v7}7
+8 8'86839:9A9
+8 8(81898[8c8l8t8}8
+8 8(888L8X8`8
+8 9<9F9P9
+8$8,8D8T8\8l8
+8&8-848>8H8R8\8f8p8w8
+8(828=8r8
+838A8K8\9a9g9&:(;
+8C:T:q:
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9s9
+9 9&9F9o9t9{9
+9 9)969@9F9]9f9s9}9
+9 9,989@9
+9 909<9T9\9d9l9t9|9
+9 949@9H9X9p9x9
+9 9F9S9Y9_9v9
+9 9s9}9
+9!9/959<9C9J9Q9X9_9f9m9t9{9
+9$9)9/9F9_9m9
+9(929=9r9
+9(949<9H9T9\9h9t9|9
+9(9A9W9p9
+9(:7:u:
+9)9.949
+9*9/9=9F9K9Y9b9k9p9~9
+90:J:X:b:
+93:E:L:]:f:u:
+9<:G:O:V:
+9D:`:u:
+9L:X:`:l:x:
+9N:U:e:
+9P:\:d:p:|:
+9T$8t j
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:f:
+: :0:<:T:d:t:|:
+:!:':::
+:!:-:2:H:T:Y:x:}:
+:#:9:D:P:Y:e:l:t:z:
+:#:W:\:j:
+:#;U;Z;_;m;
+:$:1:C:V:`:
+:%:2:I:V:c:u:
+:%:6:;:A:o:v:
+:&:A:\:b:q:z:
+:(:@:H:P:\:t:|:
+:(;7;F;S;`;g;
+:)(]=)
+:):3:=:G:Q:[:e:o:
+:*:1:=:E:u:z:
+:*:4:::Q:]:j:t:z:
+:,;D;Y;
+:.:@:U:Z:d:q:{:
+:3:i:n:|:
+:3;C;M;
+:3;[;x;
+:55f%%f
+:5<:<@<s<
+:6:M:~:
+:8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+:9:T:k:
+:9<A<X<^<
+::G~@:
+:;<)>?
+:;<,>?:;
+:;<=>?%
+:?:k:v:
+:@:X:h:p:
+:A;H;U;\;
+:B:k:|:
+:D<c<t<y<
+:E:P:w:
+:L;R;Y;`;o;
+:O;X;];u;
+:]:h:s:|:
+:_;M<x<|<
+:b<i<p<
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; ;(;@;X;`;p;x;
+; ;);1;:;B;K;S;~;
+; ;0;D;X;l;
+;!IsGlowPass(ScenePass)
+;#;';+;/;3;7;;;?;C;G;K;O;S;W;[;_;c;g;k;o;s;w;{;
+;(;0;@;T;`;h;
+;(;4;@;L;X;d;p;|;
+;);1;@;F;O;U;d;l;{;h>n>
+;*;4;:;Q;];j;t;z;
+;,,(,,+,,DE,c,=,?,,,,def
+;,;D;L;\;p;|;
+;0u\V3
+;<<H<P<\<h<p<|<
+;E v"P
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+<$<3<:<A<K<d<n<~<
+<%=:=s=
+<(<0<P<X<h<|<
+<(<1<9<S<\<a<n<u<~<
+<(<4<L<T<\<h<
+<)=.=4=i=o=w=~=
+<)=:=?=E=X=\=`=d=y=
+<*<4<:<Q<]<j<t<z<
+<,=->M?u?}?
+<-<2<8<><D<J<P<V<\<`<d<h<l<p<
+<RI.Viewport != NULL && RI.Viewport->Config != NULL
+<V=\=c=j=y=
+= =$=(=
+= =&=.=6=>=
+= =,=4=
+= =0=8=H=\=h=p=
+="=(=f=
+=$=4=H=T=\=l=t=|=
+=$=4=H=T=\=|=
+=%=-=6=>=G=O=X=`=i=q={=
+=&=0=:=D=K=U=_=i=w=~=
+=(=0=@=T=`=h=x=
+=(=2=8=O=[=h=r=x=
+=(>4><>H>T>\>h>t>|>
+=9=A=M=m=}=
+==== State Commit ====
+=T>X>\>`>d>h>l>p>t>x>|>
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+> >(>0>8>@>H>P>X>`>h>p>x>
+> >(>1>9>M>U>^>f>
+> >0>@>P>\>`>l>p>|>
+> ?0?9?R?a?y?
+>&>C>`>}>
+>&?.?:?C?s?
+>(>0>H>X>`>p>
+>)>/>E>Q>^>h>n>
+>5?\?t?|?
+>?:)<)>?:<<;>?:
+>?:)<:>?:)<
+>Software\Microsoft\Direct3D
+>g?x?}?
+? ?(?/?>?Y?j?o?u?
+? ?(?0?8?@?H?P?X?`?h?p?x?
+? ?0?D?P?X?x?
+? ?p?|?
+?!?)?K?S?\?d?m?u?~?
+?(?.?E?Q?^?h?n?
+?(?@?H?X?l?x?
+?(?B?\?v?
+?+?:?l?
+?/?P?T?X?\?`?d?h?l?p?t?x?|?
+?6?M?}?
+?f;:tX
+@x? [y?Qvz?
+A ;B u
+ALIGN_TYPE is wrong, please fix
+ANIMATION_TYPE
+AdapterNumber
+Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
+Allocating %u byte dynamic index buffer.
+Allocating %u byte dynamic vertex buffer.
+Alpha = %s
+Application transferred too few scanlines
+Application transferred too many scanlines
+AssembleShader
+At marker 0x%02x, recovery action %d
+AuthenticAMD
+AvoidHitches
+BATCH_TABLE_OFS
+BINORMAL
+BLENDINDICES
+BLENDWEIGHT
+Backing store not supported
+Base opacity isn't bitmap
+BatchMode != BM_None
+BeginScene
+BeginScene failed (%s)
+Best-match display mode: %ix%ix%i@%i
+Blend = %s
+Bogus DAC index %d
+Bogus DAC value 0x%x
+Bogus DHT index %d
+Bogus DQT index %d
+Bogus Huffman table definition
+Bogus JPEG colorspace
+Bogus buffer control mode
+Bogus input colorspace
+Bogus marker length
+Bogus message code %d
+Bogus sampling factors
+Bogus virtual array access
+Buffer passed to JPEG library is too small
+C<)Sh)Sd)ST
+CCIR601 sampling not implemented yet
+C\uX9CDuS
+Can't change resolution while render device is locked!
+Cannot handle complex opacity which is not the same as diffuse material
+Cannot quantize more than %d color components
+Cannot quantize to fewer than %d colors
+Cannot quantize to more than %d colors
+Cannot transcode due to multiple use of quantization table %d
+Caution: quantization tables are too coarse for baseline JPEG
+CheckDepthStencilMatch failed.
+CheckDeviceCaps
+CheckDeviceFormat failed
+CheckForOverflow
+Circular material reference in %s
+Class->IsChildOf(T::StaticClass())
+ClearFallbacks
+CloseHandle
+Closed temporary file %s
+Color = %s
+Combiner Mask must be Material1, or Material2 or None when using Alpha Operation AO_Add.
+Combiner Mask must be Material1, or Material2 or None when using Alpha Operation AO_Multiply.
+Combiner Mask must be Material1, or Material2 or None when using Alpha Operation AO_Use_Alpha_From_Material1.
+Combiner Mask must be Material1, or Material2 or None when using Alpha Operation AO_Use_Alpha_From_Material2.
+Combiner Mask must be a bitmap material, a vertex color, a constant color, Material1 or Material2.
+Combiner must specify Material1
+Compatibility
+Constant variable '%s' bound to register greater than 8191 (%d requested)
+ConvertDXT returned non RGBA8 format for donwsampling
+ConvertDXT returned unknown texture format
+Copyright (C) 1998, Thomas G. Lane
+Corrupt JPEG data: %u extraneous bytes before marker 0x%02x
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: found marker 0x%02x instead of RST%d
+Corrupt JPEG data: premature end of data segment
+Count <= HitStack.Num()
+Cp9|$(t
+CreateCubeTexture failed(%s).
+CreateDevice
+CreateDevice failed
+CreateDirect3D
+CreateFileA
+CreateFileMappingA
+CreateFileW
+CreateIndexBuffer failed(%s).
+CreatePixelShader failed(%s).
+CreateShader
+CreateTexture (NormalizationCubeMap) failed(%s).
+CreateTexture failed(%s).
+CreateVertexBuffer failed(%s).
+Creating RenderTarget: Width=%i Height=%i Bytes=[%i]
+Creating device
+Cubemaps must be square
+CurrentBatchMode != BM_None
+CurrentBatchMode == BM_None
+D$ QRPW
+D$(RPW3
+D$PPVVt)
+D3D Detected: -nodeviceid specified, 3D device identification skipped
+D3D Detected: 3dfx video card
+D3D Detected: ATI video card
+D3D Detected: GeForce2 GTS
+D3D Detected: GeForce2 Ultra
+D3D Detected: Generic 3D accelerator
+D3D Detected: Intel video card
+D3D Detected: Kyro video card
+D3D Detected: Matrox video card
+D3D Detected: NVidia video card
+D3D Detected: Quadro2 Pro
+D3D Detected: S3 video card
+D3D Detected: SiS video card
+D3D Detected: Trident video card
+D3D Device: Device doesn't support D3DVTXPCAPS_MATERIALSOURCE7
+D3D Device: dwDeviceId=%i
+D3D Device: dwRevision=%i
+D3D Device: dwSubSysId=%i
+D3D Device: dwVendorId=%i
+D3D Device: not using cubemaps
+D3D Device: szDescription=%s
+D3D Device: szDriver=%s
+D3D Device: using cubemaps [with mipmaps]
+D3D Device: using cubemaps [without mipmaps]
+D3D Device: wBuild=%i
+D3D Device: wProduct=%i
+D3D Device: wSubVersion=%i
+D3D Device: wVersion=%i
+D3D Driver (IG_SHADER): Disabling vertex/pixel shaders due to R200 class hardware on win98/me
+D3D Driver (IG_SHADER): MaxVertexShaderConst = %d
+D3D Driver (IG_SHADER): PixelShaderConstants TotalSize = %u
+D3D Driver (IG_SHADER): PixelShaderVersion = min(%u,%u) = %u
+D3D Driver (IG_SHADER): SupportsPixelShaders = %u
+D3D Driver (IG_SHADER): SupportsVertexShaders = %u
+D3D Driver (IG_SHADER): VertexShaderConstants TotalSize = %u
+D3D Driver (IG_SHADER): VertexShaderVersion = %u
+D3D Driver: AGP support detected
+D3D Driver: CreateDevice: will use %s transform and lighting.
+D3D Driver: CreateDevice: will use %s vertex processing
+D3D Driver: GetRenderTarget failed (%s)
+D3D Driver: LockRect failed (%s)
+D3D Driver: MaxActiveLights=%u
+D3D Driver: MaxPrimitiveCount=%u
+D3D Driver: MaxSimultaneousTextures=%i
+D3D Driver: MaxStreamStride=%u
+D3D Driver: MaxStreams=%u
+D3D Driver: MaxTextureBlendStages=%i
+D3D Driver: MaxVertexIndex=%u
+D3D Driver: MaxVertexShaderConst=%u
+D3D Driver: Mipmapping not available with this driver
+D3D Driver: PixelShaderVersion=%u.%u
+D3D Driver: Supports BLENDDIFFUSEALPHA
+D3D Driver: Supports D3DTOP_ADDSIGNED2X
+D3D Driver: Supports D3DTOP_BUMPENVMAP
+D3D Driver: Supports D3DTOP_BUMPENVMAPLUMINANCE
+D3D Driver: Supports D3DTOP_DOTPRODUCT3
+D3D Driver: Supports D3DTOP_MODULATEALPHA_ADDCOLOR
+D3D Driver: Supports D3DTOP_MODULATECOLOR_ADDALPHA
+D3D Driver: Supports LOD biasing
+D3D Driver: Supports Z biasing
+D3D Driver: Supports trilinear
+D3D Driver: Using range fog
+D3D Driver: Using vertex fog
+D3D Driver: Using w- pixel fog
+D3D Driver: Using z- pixel fog
+D3D Driver: VertexShaderVersion=%u.%u
+D3D Driver: WARNING : no AGP support detected
+D3D Driver: WARNING: no support for DXT1
+D3D Driver: WARNING: no support for DXT3
+D3D Driver: WARNING: no support for DXT5
+D3DCOLORtoUBYTE4
+D3DERR_CONFLICTINGRENDERSTATE
+D3DERR_CONFLICTINGTEXTUREFILTER
+D3DERR_CONFLICTINGTEXTUREPALETTE
+D3DERR_DEVICELOST
+D3DERR_DEVICENOTRESET
+D3DERR_DRIVERINTERNALERROR
+D3DERR_DRIVERINVALIDCALL
+D3DERR_INVALIDCALL
+D3DERR_INVALIDDEVICE
+D3DERR_MOREDATA
+D3DERR_NOTAVAILABLE
+D3DERR_NOTFOUND
+D3DERR_OUTOFVIDEOMEMORY
+D3DERR_TOOMANYOPERATIONS
+D3DERR_UNSUPPORTEDALPHAARG
+D3DERR_UNSUPPORTEDALPHAOPERATION
+D3DERR_UNSUPPORTEDCOLORARG
+D3DERR_UNSUPPORTEDCOLOROPERATION
+D3DERR_UNSUPPORTEDFACTORVALUE
+D3DERR_UNSUPPORTEDTEXTUREFILTER
+D3DERR_WRONGTEXTUREFORMAT
+D3DMaterialState
+D3DRESOURCES
+D3DRI->HitStack.Num() == 0
+D3DX: (WARN) An allocation of zero bytes should return a unique non-null pointer to at
+D3DX: (WARN) D3DX relies upon this behavior.
+D3DX: (WARN) Overloaded ::new and ::delete operators do not conform to C++ standards:
+D3DX: (WARN) least zero bytes. Deletion of a null pointer should quietly do nothing.
+D3DXDoNotMute
+D3DX_VERSION
+DBMOUSELAG
+DCT coefficient out of range
+DIRECT3D
+DIRECT3D_VERSION
+DN_COMPRESSION
+DUMPRESOURCEHASH
+DXAssembleShader failed(%s).  Len was %d
+DXAssembleShader failed(%s): %s
+DebugSetMute
+DecompressTextures
+DefaultTexMipBias
+Define Arithmetic Table 0x%02x: 0x%02x
+Define Huffman Table 0x%02x
+Define Quantization Table %d  precision %d
+Define Restart Interval %u
+DeleteCriticalSection
+DeleteObject
+DeletePixelShader failed
+DeleteVertexShader failed
+DesiredRefreshRate
+DestFormat == TEXF_RGBA8
+DetailTexMipBias
+DetermineFormats
+Didn't expect more than one scan
+Direct3D Resource Usage
+Direct3D adapters detected:
+Direct3DCreate9
+Direct3DShaderValidatorCreate9
+Direct3DVertexBuffer9
+DisableATIFlashlightWorkaround
+DisableD3DXPSGP
+DisableMMX
+DisablePSGP
+Downsampling unknown texture format
+DrawPrimitive
+DynIBBytes
+DynVBBytes
+DynVBDiscards
+DynVBLock
+EMISSIVE_CONSTANT
+EMISSIVE_MASK
+EMISSIVE_TEXTURE
+ERROR! ZERO USIZE OR VSIZE ON TEXTURE: %s
+EUD3DRenderDevice::PopHit
+E_ACCESSDENIED
+E_HANDLE
+E_INVALIDARG
+E_NOINTERFACE
+E_NOTIMPL
+E_OUTOFMEMORY
+E_PENDING
+E_POINTER
+E_UNEXPECTED
+Either Material1 or Material2 must be a simple bitmap material.
+Either projected texture or base material must be simple.
+Empty JPEG image (DNL not supported)
+Empty input file
+End Of Image
+Enter SetRes: %dx%d Fullscreen %d
+EnterCriticalSection
+EnumAdapters
+EnumDisplayModes
+Error setting display mode. Please delete your Swat4.ini file.
+Error setting display mode: %s (%s). Please delete your Swat4.ini file if this error prevents you from starting the game.
+EvictManagedResources failed.
+E{!}ux
+F3DRenderInterface::PushState
+FD3DDeferredState::Commit::VertexStreams
+FD3DDeferredState::Init
+FD3DDynamicIndexBuffer::AddIndices
+FD3DDynamicIndexBuffer::FD3DDynamicIndexBuffer
+FD3DDynamicIndexBuffer::Reallocate
+FD3DDynamicVertexStream::AddVertices
+FD3DDynamicVertexStream::FD3DDynamicVertexStream
+FD3DDynamicVertexStream::Reallocate
+FD3DIndexBuffer::Cache
+FD3DInternalState::Commit
+FD3DInternalState::Commit::SetIndices
+FD3DPixelShader::FD3DPixelShader
+FD3DPixelShader::~FD3DPixelShader
+FD3DRenderInterface::ApplyFinalBlend
+FD3DRenderInterface::ApplyTexModifier
+FD3DRenderInterface::CacheTexture
+FD3DRenderInterface::Clear
+FD3DRenderInterface::CopyBackBufferToRenderTarget
+FD3DRenderInterface::DrawPrimitive
+FD3DRenderInterface::EnableLighting
+FD3DRenderInterface::FD3DSavedState::FD3DSavedState
+FD3DRenderInterface::HandleCombinedMaterial
+FD3DRenderInterface::LockDynBuffer
+FD3DRenderInterface::Locked
+FD3DRenderInterface::Locked, depth surface query failed(%s)
+FD3DRenderInterface::Locked, render target desc query failed(%s)
+FD3DRenderInterface::Locked, render target query failed(%s)
+FD3DRenderInterface::SetDistanceFog
+FD3DRenderInterface::SetDynamicIndexBuffer
+FD3DRenderInterface::SetExpDistanceFog
+FD3DRenderInterface::SetFluidSurfaceMaterial
+FD3DRenderInterface::SetGlobalColor
+FD3DRenderInterface::SetIndexBuffer
+FD3DRenderInterface::SetLight
+FD3DRenderInterface::SetMaterialBlending
+FD3DRenderInterface::SetMaterialSP
+FD3DRenderInterface::SetParticleMaterial
+FD3DRenderInterface::SetProjectorMaterial
+FD3DRenderInterface::SetRenderTarget
+FD3DRenderInterface::SetShaderMaterial
+FD3DRenderInterface::SetSimpleMaterial
+FD3DRenderInterface::SetStencilOp
+FD3DRenderInterface::SetTerrainMaterial
+FD3DRenderInterface::SetTransform
+FD3DRenderInterface::SetVertexStreams
+FD3DRenderInterface::SetViewport
+FD3DRenderInterface::SetViewportZ
+FD3DRenderInterface::Unlocked
+FD3DShaderFactory::CreatePixelShader
+FD3DShaderFactory::CreatePixelShader, Unable to find type %u shader
+FD3DShaderFactory::CreateVertexShader
+FD3DShaderFactory::CreateVertexShader, Unable to find mode %u, type %u shader
+FD3DStats::FD3DStats
+FD3DStats::Init
+FD3DTexture
+FD3DTexture::Cache
+FD3DVertexBuffer::Init
+FD3DVertexDeclaration::GetDeclarationType, unknown component type
+FD3DVertexDeclaration::GetDeclarationUsage, unknown component function
+FD3DVertexDeclaration::GetDeclatationTypeSize, unknown component type
+FD3DVertexShader::~FD3DVertexShader
+FD3DVertexStream
+FD3DVertexStream::Cache
+FIBUFFERS
+FIRSTCOLOREDMIP
+FRAGMENT
+FSHADERS
+FSpecularCubeMapFace::GetTextureData
+FWWW\]G
+Failed resetting mode
+Failed to assemble pixel shader %s:
+Failed to assemble vertex shader %s:
+Failed to compile pixel shader %s(%s)
+Failed to compile vertex shader %s(%s)
+Failed to copy render target into offscreen plain surface
+Failed to create Direct3DVertexDeclaration9
+Failed to create offscreen plain surface
+Failed to create temporary file %s
+Fdf+F\
+FindBestMatchingMode
+Finished flushing viewport 0x%X in %g seconds
+Finished restoring fullscreen after D3DERR_DEVICENOTRESET.
+FlushPixelShaders
+FlushVertexShaders
+Flushing viewport 0x%X
+Fog   = %s
+Fractional sampling not implemented yet
+Freed EMS handle %u
+Freed XMS handle %u
+GIsEditor
+GPackage
+GenuineIntel
+GetAdapterDisplayMode failed.
+GetAdapterIdentifier failed(%s).
+GetBackBuffer failed: %s
+GetClientRect
+GetCurrentMode
+GetDesc failed: %s
+GetDesktopWindow
+GetDeviceCaps
+GetDeviceCaps failed(%s) on adapter %i.
+GetDeviceIdentifier
+GetFileSize
+GetFullPathNameA
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetSurfaceLevel failed(%s).
+GetSystemInfo
+GetVersionExA
+HHt Ht
+HandleBigChange
+Hardware
+HashMapHash
+Huffman code size table overflow
+Huffman table 0x%02x was not defined
+IDCT output block size %d not supported
+IDirect3DIndexBuffer9::Lock failed(%s).
+IDirect3DIndexBuffer9::Unlock failed(%s).
+IDirect3DVertexBuffer9::Lock failed(%s).
+IDirect3DVertexBuffer9::Unlock failed(%s).
+INVSRCALPHA
+INVSRCCOLOR
+Image too wide for this implementation
+Improper call to JPEG library in state %d
+InMaterial='%s' 0x%X InMaterial->Outer='%s'
+InRenDev
+Inconsistent progression sequence for component %d coefficient %d
+Index Buffers       %4d      %8d      %4d      %.2f
+IndexBufferBytes
+InitDeferredState
+InitRenderState
+InitTextureStageState
+InitializeCriticalSection
+Input file read error
+Insufficient memory (case %d)
+InterlockedCompareExchange
+InterlockedExchange
+Invalid JPEG file structure: SOS before SOF
+Invalid JPEG file structure: missing SOS marker
+Invalid JPEG file structure: two SOF markers
+Invalid JPEG file structure: two SOI markers
+Invalid SOS parameters for sequential JPEG
+Invalid color quantization mode change
+Invalid component ID %d in SOS
+Invalid input register '%s' specified
+Invalid memory pool code %d
+Invalid pixel shader input register '%s' specified
+Invalid progressive parameters Ss=%d Se=%d Ah=%d Al=%d
+Invalid progressive parameters at scan script entry %d
+Invalid scan script at entry %d
+IsProcessorFeaturePresent
+JFIF APP0 marker: version %d.%02d, density %dx%d  %d
+JFIF extension marker: JPEG-compressed thumbnail image, length %u
+JFIF extension marker: RGB thumbnail image, length %u
+JFIF extension marker: palette thumbnail image, length %u
+JFIF extension marker: type 0x%02x, length %u
+JPEG datastream contains no image
+JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
+KKK\\\\]]p
+L$ PQR
+L$$RPQSWh@(
+L$(RPQVSU
+L9P9T9X9\9`9d9
+LIGHT_TYPE
+LIGHT_TYPE_0
+LIGHT_TYPE_1
+LIGHT_TYPE_2
+LIGHT_TYPE_3
+LeaveCriticalSection
+LevelOfAnisotropy
+LightChanges
+LightIndex < VSState.LightCount
+LightSet
+LoadLibraryA
+LockRect failed(%s).
+LockRect failed: %s
+Locked rendering resource invalid - mode switch?
+MAXPSVER
+MAX_ALLOC_CHUNK is wrong, please fix
+MapViewOfFile
+Matrices cannot be specified in temp registers with the fragment linker
+MaxPixelShaderVersion
+Maximum supported image dimension is %u pixels
+Microsoft (R) D3DX9 Shader Assembler 4.09.00.1126
+Miscellaneous marker 0x%02x, length %u
+Missing Huffman code table entry
+MouseLag
+NEARCLIP
+NORMALMAP
+No Direct3D adapters found.
+No acceptable display modes found
+No fullscreen display modes found
+No room for SelfIllimunationMask in multipass SelfIllumination (StagesUsed was %d)
+No room for SpecularityMask in multipass specular (StagesUsed was %d)
+No stages left for Bitmap Material1
+No stages left for Bitmap Material2
+No stages left for BitmapMaterial
+No stages left for Mask bitmap
+No stages left for attenuation
+No stages left for base material
+No stages left for base opacity
+No stages left for constant color
+No stages left for constant color modifier.
+No stages left for constant opacity
+No stages left for directional attenuation
+No stages left for gradient texture
+No stages left for inverted Mask which is the same as Material1
+No stages left for inverted Mask which is the same as Material2
+No stages left for lightmap
+No stages left for opacity bitmap
+No stages left for projected texture
+No stages left for vertex color
+No stages left for vertex lighting stage
+No stages left for vertex opacity
+NormalizationCubeMap
+Not a JPEG file: starts with 0x%02x 0x%02x
+Not implemented yet
+NumIndexBuffers
+NumPrimitives
+NumSVPVertices
+NumTextures
+NumVertexStreams
+O(=DXT5
+Obtained EMS handle %u
+Obtained XMS handle %u
+Only one ConstantMaterial may be used per material.
+Opacity must be a simple bitmap when using SelfIllumination
+Opened temporary file %s
+Other               %4d      %8d      %4d      %.2f
+Output file write error --- out of disk space?
+OutputDebugStringA
+OutputLight == VSState.LightCount
+OverrideDesktopRefreshRate
+PASS_TYPE
+POSITION
+POSITIONT
+POSITIONT 
+PPPPPPPQVSh
+PPPPPPPRVPh
+PPPPPPPRVSh
+PPPPPPPRVSh *
+PPPPPPPRVSht)
+PPPPPPQRVUh
+PShader Changes
+PShader Constant Change Calls
+PShader Constant Changes
+Pass %u:
+PixelShaders
+Please install DirectX 8.1b or later (see Release Notes for instructions on how to obtain it)
+PopState
+PopState stack underflow
+Premature end of JPEG file
+Premature end of input file
+PushState
+Quantization table 0x%02x was not defined
+Quantizing to %d = %d*%d*%d colors
+Quantizing to %d colors
+REFLECTION_MASK
+RTC shader
+RTCPixelShader::CompileShader
+RTCPixelShader::RTCPixelShader
+RTCPixelShader::~RTCPixelShader
+RTCVertexShader::CompileShader
+RTCVertexShader::RTCVertexShader
+RTCVertexShader::~RTCVertexShader
+Read failed on temporary file
+Read from EMS failed
+Read from XMS failed
+ReadPixels: Unknown back-buffer format.
+RecreateDevice
+ReduceMouseLag
+RegCloseKey
+RegOpenKeyA
+RegQueryValueExA
+ReleaseDC
+RenDev->DeviceCaps9.MaxPrimitiveCount > (UINT)NumPrimitives
+Requested feature was omitted at compile time
+ResetDevice
+Resource Stat
+Resource Type      Count   Total Bytes         Total KB     Total MB
+Resource hash bin
+ResourceList
+SPECULAR
+SPECULAR_MASK
+SPECULAR_MASK_SRC
+SPECULAR_POWER
+SPECULAR_TYPE
+SRCALPHA
+SRCCOLOR
+SUPPORTEDRESOLUTION
+SUPPORTS_BORDER_TEXTURE_ADDRESSING
+SUPPORT_SPECULAR
+Sampler variable '%s' does not specify the sampler type.  Explicit sampler types required for asm fragments.
+Sampling factors too large for interleaved scan
+SavedStateIndex == 0
+SavedStateIndex+1 < MAX_STATESTACKDEPTH
+Scan script does not transmit all data
+Seek failed on temporary file
+Selected %d colors for quantization
+SelfIllimunationMask must be a simple bitmap
+SetBumpMaterial
+SetDeviceGammaRamp
+SetDynIB
+SetDynStream
+SetMaterial
+SetMaterialBlending
+SetRenderTarget
+SetRenderTarget failed(%s).
+SetVertexStream
+SetViewport
+SetupPresentParms
+Shader = %s
+ShaderLightMap
+Size > 0
+Smoothing not supported with nonstandard sampling ratios
+Sorry, there are legal restrictions on arithmetic coding
+SourceStream
+SpecularityMask must be a simple bitmap
+Start Of Frame 0x%02x: width=%u, height=%u, components=%d
+Start Of Scan: %d components
+Start of Image
+StateChanges
+StreamSourceChanges
+StreamStride >= DeclaredStride
+Suspension not allowed here
+T$(PPPPPPPRVPh
+TESSFACTOR
+TEXCOORD
+TODO: constant SpecularityMask with multipass specular
+TOTAL: Allocated D3D resources account for %d KB = %.2f MB
+Terrain layers must be Shaders or a BitmapMaterials.
+TesselationFactor
+TestCooperativeLevel
+TextureBytes
+TextureChanges
+Textures            %4d      %8d      %4d      %.2f
+This could be a mode switch related crash... silently ignoring it is probably less harmful than crashing!
+Too many color components: %d, max %d
+Total Meshes
+Total Resources
+Total Textures
+Total ms
+TransformChanges
+U>\>l>v>
+UD3DRenderDevice
+UD3DRenderDevice::Destroy
+UD3DRenderDevice::Exec
+UD3DRenderDevice::Exit
+UD3DRenderDevice::Flush
+UD3DRenderDevice::GetCachedResource
+UD3DRenderDevice::GetPixelShader
+UD3DRenderDevice::GetVertexShader
+UD3DRenderDevice::Init
+UD3DRenderDevice::Lock
+UD3DRenderDevice::PartialUploadTexture
+UD3DRenderDevice::Present
+UD3DRenderDevice::PushHit
+UD3DRenderDevice::ReadPixels
+UD3DRenderDevice::RestoreGamma
+UD3DRenderDevice::SetEmulationMode
+UD3DRenderDevice::SetRes
+UD3DRenderDevice::StaticConstructor
+UD3DRenderDevice::UnSetRes
+UD3DRenderDevice::Unlock
+UD3DRenderDevice::UpdateGamma
+UGlobalTempObjects::AddGlobalObject
+USE_ATI_R200_SPOTLIGHT_WORKAROUND
+USING_PS14
+UV.-;.,>,(),+,,.,@ABC,()G+,,,]+
+UYVYRGBGYUY2GRGBDXT1DXT2DXT3DXT4DXT5F
+Unable to create mouse lag handler surfaces
+Unexpected marker 0x%02x
+Unknown APP0 marker (not JFIF), length %u
+Unknown APP14 marker (not Adobe), length %u
+Unknown Adobe color transform code %d
+Unknown TexCoordCount %d
+Unknown TexCoordSource %d
+UnknownVendr
+UnmapViewOfFile
+Unreal Engine Direct3D support - internal version: SB3
+Unrecognized component IDs %d %d %d, assuming YCbCr
+Unsupported JPEG data precision %d
+Unsupported JPEG process: SOF type 0x%02x
+Unsupported color conversion request
+Unsupported marker type 0x%02x
+Uploading Cubemap: Texture=[%s], Width=%i Height=%i Bytes=[%i]
+Uploading Lightmap!!!
+Uploading Texture: Texture=[%s], Width=%i Height=%i Bytes=[%i]
+Use16bitNormalMaps
+UseCubemaps
+UseHardwareTL
+UseHardwareVS
+UseNPatches
+UsePrecaching
+UseShaderConstantChecking
+UseTrilinear
+UseTripleBuffering
+UseVSync
+UseXBoxFSAA
+Using back-buffer format %u(%u-bit)
+Using depth-buffer format %u(%u-bit)
+V9B(t;
+VShader Changes
+VShader Constant Change Calls
+VShader Constant Changes
+Vertex Streams      %4d      %8d      %4d      %.2f
+VertexDeclarations
+VertexShaders
+VertexStreamBytes
+Viewport->ResizeViewport( (Fullscreen ? BLIT_Fullscreen : 0) | BLIT_Direct3D, NewX, NewY, bSaveSize )
+Virtual array controller messed up
+VirtualAlloc
+VirtualFree
+Warning: thumbnail image size does not match data length %u
+Warning: unknown JFIF revision number %d.%02d
+WideCharToMultiByte
+Write failed on temporary file --- out of disk space?
+Write to EMS failed
+Write to XMS failed
+Wrong JPEG library version: library is %d, caller expects %d
+X1\1l1p1
+Z     = %s
+[)~<,D{)
+]):;,)(
+]////////X]
+]:;<=>?[
+_CxxThrowException
+_[{:;def?
+__CppXcptFilter
+__CxxFrameHandler
+__FILE__
+__LINE__
+__dllonexit
+_adjust_fdiv
+_controlfp
+_except_handler3
+_initterm
+_purecall
+_snprintf
+_stricmp
+_vsnprintf
+` !*+,JKY
+a0r0w0}0
+addressing operations are not allowed on input registers '%s'
+addressing operations not allowed on temporary registers '%s'
+at)It;
+autoclassUD3DRenderDevice
+binormal
+blendindices
+blendweight
+boolean constant register '%s' must be defined as a variable of type bool only
+buffer error
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnObjBas.h
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnTemplate.h
+c:\perforce\branches\swat4\staging\source\unreal\d3ddrv\src\D3DRenderInterface.h
+c:\perforce\branches\swat4\staging\source\unreal\d3ddrv\src\perpixel\PerPixelPassManager.h
+c:\perforce\branches\swat4\staging\source\unreal\d3ddrv\src\shadercore\ShaderCache.h
+call, callnz, label, and ret instructions are not allowed in assembly fragments
+centroid
+character continues past end of file
+column_major
+comment continues past end of file
+complement cannot be used with other modifiers
+complement is not supported in this shader version
+constant register '%s' must be defined as a variable '%s'
+constant register address out of bounds on constant '%s', size %d, offset %d
+data error
+debug info exceeds maximum comment size; no debug info emitted
+decimal value truncated to 32bits
+def c0, 1, 0, 0, 0
+def c1, 0, 1, 0, 0
+def c2, 0, 0, 1, 0
+determinant
+distance
+division by zero in preprocessor expression
+dp3 r1, t0, c0
+dp3 r1, t0, c1
+dp3 r1, t0, c2
+duplicate macro parameter '%s'
+e%s [%s]
+e0k0r0x0
+eF3DRenderInterface::PopState
+end of file
+end of line
+entrypoint
+error X%u: 
+error: %s
+faceforward
+failed to open source file: '%s'
+file error
+float '%g'
+float '%gf'
+float '%gh'
+float '%gl'
+fragment info exceeds maximum comment size
+function
+functional defines in preprocessor expressions not yet implemented
+gi-$ lmo
+hardware
+hex value truncated to 32bits
+hl>:Kp>
+include interface required to support #include from resource or memory
+incompatible version
+instruction coissue is not supported in this shader version
+instruction predication is not supported in this shader version
+insufficient memory
+integer '%dl'
+integer '%u'
+integer '%uul'
+integer constant register '%s' must be defined as a variable of type int3 or int4 only
+internal error: instruction size mismatch
+internal error: out of memory
+internal error: production failed
+internal error: stack underflow
+internal error: unknown node
+invalid compare function
+invalid complement expression
+invalid instruction modifiers '%s'
+invalid mask '%s'
+invalid or unsupported integer constant expression
+invalid preprocessor command '%s'
+invalid register '%s'
+invalid register '%s[%u]'
+invalid register '%s[...]'
+invalid register, input, or constant name '%s'
+invalid stencil op
+invalid swizzle '%s'
+isfinite
+isxdigit
+lstrcmpiA
+mad r0, t2, r1, r0
+mad r0, t2, t0, r0
+mad r0, t3, r1, r0
+mad r1, r2, r0.g, r1
+mad r1, r3, r0.b, r1
+mad r1, r4, r0.a, r1
+mul r0, r0, t3
+mul r0, t1, r1
+mul r0, t1, t0.a
+mul r1, r1, r0.r
+mul_x2 r0, r0, v0
+mul_x2 r0, r1, v0
+nFD3DRenderInterface::SetDynamicStream
+nX]uHvMwOx}~
+need dictionary
+negate and divide modifiers cannot be combined
+nodeviceid
+normalize
+not cannot be used with other modifiers
+not enough actual parameters for macro '%s'
+octal value truncated to 32bits
+offscreen plain surface LockRect failed: %s
+only a0.x is allowed as a relative address register in vs_1_1
+only one address register reference allowed in a relative address expression
+only one address register reference is allowed in a relative address expression
+only vs_1_1, vs_2_0, vs_2_x, vs_2_sw, ps_2_0, ps_2_x, and ps_2_sw are supported for assembly fragments
+pFD3DRenderInterface::SetPerPixelBspMaterial
+pack_matrix
+pixelshader
+position
+positiont
+predicates are not supported in this shader version
+ps_1_0 is no longer supported; using ps_1_1
+relative addressing of destination parameters is not supported in this shader version
+relative addressing of predicates is not supported in this shader version
+row_major
+sXt(WWh
+saturate
+scalar registers cannot be masked
+scalar registers cannot be swizzled
+setlocale
+shader version expected
+sizeof(T) == PixelShaderStateSize
+sizeof(T) == VertexShaderStateSize
+smoothstep
+software
+source modifiers are not allowed on destination parameters
+source modifiers are not allowed on predicates
+source modifiers incompatible with SUB instruction
+specular
+stream end
+stream error
+string constant
+string continues past end of file
+string continues past end of line
+syntax error
+syntax error : unexpected %s
+t2<\u'
+td9V\u
+techinque
+temporary and constant registers are not allowed in assembly fragments
+tessfactor
+tex t0
+tex t1
+tex t2
+tex t3
+tex1Dbias
+tex1Dproj
+tex2Dbias
+tex2Dproj
+tex3Dbias
+tex3Dproj
+texCUBEbias
+texCUBEproj
+texcoord
+texdepth
+texdp3tex
+texld r0, t0
+texld r1, t1
+texld r2, t2
+texld r3, t3
+texld r4, t4
+texm3x2depth
+texm3x2pad
+texm3x2tex
+texm3x3pad
+texm3x3spec
+texm3x3tex
+texm3x3vspec
+texreg2ar
+texreg2gb
+texreg2rgb
+texture(%u:%s)
+tfactor(%u,%u,%u,%u)
+token '%s'
+too many layers at once
+too many nested #includes
+transpose
+u'9FDu hX
+u'9Y u"
+u+9p(u&
+undeclared identifier '%s'
+unexpected #elif
+unexpected #elif following #else
+unexpected #else
+unexpected #else following #else
+unexpected #endif
+unexpected end of file
+unexpected end of file in macro expansion
+unexpected tokens following preprocessor directive
+unrecognized shader version
+variable
+version token
+vertexshader
+vs_1_0 is no longer supported; using vs_1_1
+xD3D9Helper::Init (QuadEmulation)
+y:>hF>>
+yacc stack overflow
+z?%j{?
+|{"%^_
+}:;<=>?%
+}:;<=>?[

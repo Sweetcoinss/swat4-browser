@@ -1,0 +1,99 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\DefOpenAL32.dll
+
+File Type: DLL
+
+  Section contains the following exports for OpenAL32.dll
+
+    00000000 characteristics
+    3F0F0E95 time date stamp Fri Jul 11 19:23:01 2003
+        0.00 version
+           1 ordinal base
+          72 number of functions
+          72 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000019C0 EAXGet
+          2    1 00001DA0 EAXSet
+          3    2 000012C0 alBufferData
+          4    3 00001130 alDeleteBuffers
+          5    4 000066A0 alDeleteSources
+          6    5 00007F90 alDisable
+          7    6 000087D0 alDistanceModel
+          8    7 000086B0 alDopplerFactor
+          9    8 00008740 alDopplerVelocity
+         10    9 00004860 alEAXAC3GetFunctionTable
+         11    A 00007F90 alEnable
+         12    B 00001000 alGenBuffers
+         13    C 00005F50 alGenSources
+         14    D 00008010 alGetBoolean
+         15    E 00008300 alGetBooleanv
+         16    F 000014B0 alGetBufferf
+         17   10 00001530 alGetBufferi
+         18   11 000080C0 alGetDouble
+         19   12 000083E0 alGetDoublev
+         20   13 000058F0 alGetEnumValue
+         21   14 00005760 alGetError
+         22   15 00008190 alGetFloat
+         23   16 00008490 alGetFloatv
+         24   17 00008250 alGetInteger
+         25   18 00008540 alGetIntegerv
+         26   19 00005D60 alGetListener3f
+         27   1A 00005CE0 alGetListenerf
+         28   1B 00005E10 alGetListenerfv
+         29   1C 00005EF0 alGetListeneri
+         30   1D 00005890 alGetProcAddress
+         31   1E 00007210 alGetSource3f
+         32   1F 00007140 alGetSourcef
+         33   20 000072D0 alGetSourcefv
+         34   21 00007380 alGetSourcei
+         35   22 000085F0 alGetString
+         36   23 00001260 alIsBuffer
+         37   24 00007FD0 alIsEnabled
+         38   25 000057E0 alIsExtensionPresent
+         39   26 00006830 alIsSource
+         40   27 00005A00 alListener3f
+         41   28 00005950 alListenerf
+         42   29 00005B00 alListenerfv
+         43   2A 00005CA0 alListeneri
+         44   2B 00006CC0 alSource3f
+         45   2C 000076F0 alSourcePause
+         46   2D 00007780 alSourcePausev
+         47   2E 000074D0 alSourcePlay
+         48   2F 000075B0 alSourcePlayv
+         49   30 00007C40 alSourceQueueBuffers
+         50   31 00007A20 alSourceRewind
+         51   32 00007B00 alSourceRewindv
+         52   33 00007850 alSourceStop
+         53   34 00007910 alSourceStopv
+         54   35 00007E00 alSourceUnqueueBuffers
+         55   36 000068A0 alSourcef
+         56   37 00006B70 alSourcefv
+         57   38 00006E00 alSourcei
+         58   39 000144B0 alcCloseDevice
+         59   3A 000116A0 alcCreateContext
+         60   3B 000117B0 alcDestroyContext
+         61   3C 00011870 alcGetContextsDevice
+         62   3D 00011850 alcGetCurrentContext
+         63   3E 000147B0 alcGetEnumValue
+         64   3F 00010FA0 alcGetError
+         65   40 00011140 alcGetIntegerv
+         66   41 00014750 alcGetProcAddress
+         67   42 00010FF0 alcGetString
+         68   43 000146E0 alcIsExtensionPresent
+         69   44 000118C0 alcMakeContextCurrent
+         70   45 00013B90 alcOpenDevice
+         71   46 00010FE0 alcProcessContext
+         72   47 00010FE0 alcSuspendContext
+
+  Summary
+
+       C1000 .data
+        2000 .rdata
+        2000 .reloc
+        1000 .rsrc
+       1C000 .text

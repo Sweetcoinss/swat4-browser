@@ -1,0 +1,27 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\RenderUtilities.dll
+
+File Type: DLL
+
+  Section contains the following exports for RenderUtilities.dll
+
+    00000000 characteristics
+    420E602D time date stamp Sat Feb 12 19:59:41 2005
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001010 ?nvDXTcompress@nv@@YAJPAEKKKPAUCompressionOptions@@KP6AJPAXHK@Z@Z
+
+  Summary
+
+        8000 .data
+        6000 .rdata
+        3000 .reloc
+       1E000 .text

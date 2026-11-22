@@ -1,0 +1,98 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\SwatAIAwareness.dll
+
+File Type: DLL
+
+  Section contains the following exports for SwatAIAwareness.dll
+
+    00000000 characteristics
+    4216781A time date stamp Fri Feb 18 23:19:54 2005
+        0.00 version
+           1 ordinal base
+          72 number of functions
+          72 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000012C0 ??0IIAwarenessOuter@@IAE@XZ
+          2    1 000012E0 ??0IIAwarenessOuter@@QAE@ABV0@@Z
+          3    2 000014C0 ??0UAwarenessProxy@@QAE@ABV0@@Z
+          4    3 00001510 ??0UAwarenessProxy@@QAE@XZ
+          5    4 00001260 ??1IIAwarenessOuter@@UAE@XZ
+          6    5 00001460 ??1UAwarenessProxy@@UAE@XZ
+          7    6 00001230 ??2IIAwarenessOuter@@SAPAXIPAVUObject@@VFName@@K@Z
+          8    7 00001450 ??2IIAwarenessOuter@@SAPAXIPAW4EInternal@@@Z
+          9    8 00001420 ??2UAwarenessProxy@@SAPAXIPAVUObject@@VFName@@K@Z
+         10    9 00001450 ??2UAwarenessProxy@@SAPAXIPAW4EInternal@@@Z
+         11    A 00001300 ??4IIAwarenessOuter@@QAEAAV0@ABV0@@Z
+         12    B 000014F0 ??4UAwarenessProxy@@QAEAAV0@ABV0@@Z
+         13    C 0000B2F8 ??_7IIAwarenessOuter@@6B@
+         14    D 0000B398 ??_7UAwarenessProxy@@6B@
+         15    E 000037F0 ?BuildAwarenessGraph@@YAXPAVULevel@@@Z
+         16    F 00001530 ?Destroy@UAwarenessProxy@@UAEXXZ
+         17   10 00001380 ?GetKnownLocationOfPawn@IIAwarenessOuter@@QAEKPAVAPawn@@AAVFVector@@@Z
+         18   11 00001400 ?InternalConstructor@IIAwarenessOuter@@SAXPAX@Z
+         19   12 000018E0 ?InternalConstructor@UAwarenessProxy@@SAXPAX@Z
+         20   13 000010D0 ?IsOtherActorAThreat@IIAwarenessOuter@@QAEKPAVAActor@@@Z
+         21   14 00011160 ?PrivateStaticClass@IIAwarenessOuter@@0VUClass@@A
+         22   15 00011700 ?PrivateStaticClass@UAwarenessProxy@@0VUClass@@A
+         23   16 00001A70 ?RegisterAwarenessForDeathNotifications@UAwarenessProxy@@AAEXPAVALevelInfo@@@Z
+         24   17 00001A10 ?RegisterAwarenessForDestroyNotifications@UAwarenessProxy@@AAEXPAVALevelInfo@@@Z
+         25   18 00002050 ?RegisterAwarenessForSensing@UAwarenessProxy@@AAEXABV?$TArray@PAVAPawn@@@@@Z
+         26   19 00001B50 ?RegisterAwarenessForSensing@UAwarenessProxy@@AAEXPAVAPawn@@@Z
+         27   1A 00001160 ?RegisterHearingNotification@IIAwarenessOuter@@QAEXPAVIIHearingNotification@@@Z
+         28   1B 00001020 ?RegisterNamesSwatAIAwareness@@YAXXZ
+         29   1C 000011E0 ?RegisterVisionNotification@IIAwarenessOuter@@QAEXPAVIIVisionNotification@@@Z
+         30   1D 000116E0 ?SWATAIAWARENESS_GetKnownLocationOfPawn@@3VFName@@A
+         31   1E 000116DC ?SWATAIAWARENESS_IsOtherActorAThreat@@3VFName@@A
+         32   1F 000116D8 ?SWATAIAWARENESS_RegisterHearingNotification@@3VFName@@A
+         33   20 000116D4 ?SWATAIAWARENESS_RegisterVisionNotification@@3VFName@@A
+         34   21 0001115C ?SWATAIAWARENESS_UnregisterHearingNotification@@3VFName@@A
+         35   22 00011158 ?SWATAIAWARENESS_UnregisterVisionNotification@@3VFName@@A
+         36   23 00001220 ?StaticClass@IIAwarenessOuter@@SAPAVUClass@@XZ
+         37   24 00001410 ?StaticClass@UAwarenessProxy@@SAPAVUClass@@XZ
+         38   25 00001950 ?Tick@UAwarenessProxy@@QAEXXZ
+         39   26 00001AA0 ?UnregisterAwarenessForDeathNotifications@UAwarenessProxy@@AAEXPAVALevelInfo@@@Z
+         40   27 00001A40 ?UnregisterAwarenessForDestroyNotifications@UAwarenessProxy@@AAEXPAVALevelInfo@@@Z
+         41   28 00002080 ?UnregisterAwarenessForSensing@UAwarenessProxy@@AAEXABV?$TArray@PAVAPawn@@@@@Z
+         42   29 00001C00 ?UnregisterAwarenessForSensing@UAwarenessProxy@@AAEXPAVAPawn@@@Z
+         43   2A 00001120 ?UnregisterHearingNotification@IIAwarenessOuter@@QAEXPAVIIHearingNotification@@@Z
+         44   2B 000011A0 ?UnregisterVisionNotification@IIAwarenessOuter@@QAEXPAVIIVisionNotification@@@Z
+         45   2C 000015D0 ?execDrawDebugInfo@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         46   2D 00001650 ?execForceViewerSawPawn@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         47   2E 00001550 ?execGetKnowledge@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         48   2F 00001D40 ?execGetPotentiallyVisibleKnowledge@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         49   30 00001E30 ?execGetVisibleKnowledge@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         50   31 000020B0 ?execInit@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         51   32 000017B0 ?execOnListenerHeardNoise@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         52   33 00001F20 ?execOnOtherActorDestroyed@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         53   34 00001FC0 ?execOnOtherPawnDied@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         54   35 00001700 ?execOnViewerLostPawn@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         55   36 00001650 ?execOnViewerSawPawn@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         56   37 00002220 ?execTerm@UAwarenessProxy@@QAEXAAUFFrame@@QAX@Z
+         58   38 00011090 GPackage
+         57   39 00001000 _DllMain@12
+         59   3A 00011154 autoclassIIAwarenessOuter
+         60   3B 00011CD0 autoclassUAwarenessProxy
+         61   3C 000116F8 intUAwarenessProxyexecDrawDebugInfo
+         62   3D 00011CD4 intUAwarenessProxyexecForceViewerSawPawn
+         63   3E 000116E8 intUAwarenessProxyexecGetKnowledge
+         64   3F 00011CC4 intUAwarenessProxyexecGetPotentiallyVisibleKnowledge
+         65   40 00011CB8 intUAwarenessProxyexecGetVisibleKnowledge
+         66   41 00011CAC intUAwarenessProxyexecInit
+         67   42 000116F0 intUAwarenessProxyexecOnListenerHeardNoise
+         68   43 00011CA0 intUAwarenessProxyexecOnOtherActorDestroyed
+         69   44 00011C94 intUAwarenessProxyexecOnOtherPawnDied
+         70   45 00011C80 intUAwarenessProxyexecOnViewerLostPawn
+         71   46 00011C8C intUAwarenessProxyexecOnViewerSawPawn
+         72   47 00011C78 intUAwarenessProxyexecTerm
+
+  Summary
+
+        1000 .data
+        6000 .rdata
+        2000 .reloc
+        A000 .text

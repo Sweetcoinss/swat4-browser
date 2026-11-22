@@ -1,0 +1,48 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\RTCShader.dll
+
+File Type: DLL
+
+  Section contains the following exports for RTCShader.dll
+
+    00000000 characteristics
+    420E6285 time date stamp Sat Feb 12 20:09:41 2005
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000014B0 ??0PreprocessorBlock@@QAE@I@Z
+          2    1 000021F0 ??0ShaderLibrary@@IAE@XZ
+          3    2 00002210 ??0ShaderLibrary@@QAE@ABV0@@Z
+          4    3 00001290 ??1PreprocessorBlock@@QAE@XZ
+          5    4 00002200 ??1ShaderLibrary@@MAE@XZ
+          6    5 00001030 ??4PreprocessorBlock@@QAEAAV0@ABV0@@Z
+          7    6 00001000 ??4PreprocessorDef@@QAEAAU0@ABU0@@Z
+          8    7 00002220 ??4ShaderLibrary@@QAEAAV0@ABV0@@Z
+          9    8 0002217C ??_7ShaderLibrary@@6B@
+         10    9 000014E0 ??_FPreprocessorBlock@@QAEXXZ
+         11    A 000010B0 ?AssignString@PreprocessorBlock@@AAEXAAPADPBD@Z
+         12    B 00001050 ?Clear@PreprocessorBlock@@AAEXXZ
+         13    C 00004A50 ?Create@ShaderLibrary@@SAPAV1@XZ
+         14    D 00002290 ?Destroy@ShaderLibrary@@SAXPAV1@@Z
+         15    E 00001020 ?GetBlockPtr@PreprocessorBlock@@QBEPBUPreprocessorDef@@XZ
+         16    F 00001140 ?Realloc@PreprocessorBlock@@AAEXI@Z
+         17   10 000011A0 ?SetDefInt@PreprocessorBlock@@QAEXII@Z
+         18   11 00001210 ?SetDefInts@PreprocessorBlock@@QAEXIIIIIIII@Z
+         19   12 000012C0 ?SetName@PreprocessorBlock@@QAEXIPBD@Z
+         20   13 00001310 ?SetNames@PreprocessorBlock@@QAEXPBD0000000@Z
+         21   14 000012A0 ?SetSize@PreprocessorBlock@@QAEXI@Z
+         22   15 000022A0 QueryDX9Support
+
+  Summary
+
+        B000 .data
+       12000 .rdata
+        4000 .reloc
+       21000 .text

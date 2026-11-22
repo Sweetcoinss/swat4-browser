@@ -1,0 +1,40 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\SwatGui.dll
+
+File Type: DLL
+
+  Section contains the following exports for SwatGui.dll
+
+    00000000 characteristics
+    421679C4 time date stamp Fri Feb 18 23:27:00 2005
+        0.00 version
+           1 ordinal base
+          13 number of functions
+          13 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001046 ??0UNativeBootstrap@@IAE@XZ
+          2    1 00001019 ??0UNativeBootstrap@@QAE@ABV0@@Z
+          3    2 00001032 ??1UNativeBootstrap@@UAE@XZ
+          4    3 00001041 ??2UNativeBootstrap@@SAPAXIPAVUObject@@VFName@@K@Z
+          5    4 00001023 ??2UNativeBootstrap@@SAPAXIPAW4EInternal@@@Z
+          6    5 0000100F ??4UNativeBootstrap@@QAEAAV0@ABV0@@Z
+          7    6 00006010 ??_7UNativeBootstrap@@6B@
+          8    7 0000103C ?InternalConstructor@UNativeBootstrap@@SAXPAX@Z
+          9    8 00007658 ?PrivateStaticClass@UNativeBootstrap@@0VUClass@@A
+         10    9 00001014 ?StaticClass@UNativeBootstrap@@SAPAVUClass@@XZ
+         12    A 00007520 GPackage
+         11    B 0000101E _DllMain@12
+         13    C 0000764C autoclassUNativeBootstrap
+
+  Summary
+
+        1000 .data
+        1000 .idata
+        1000 .rdata
+        1000 .reloc
+        5000 .text

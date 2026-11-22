@@ -1,0 +1,96 @@
+AEffectsSubsystem::AEffectsSubsystem(class AEffectsSubsystem const &)
+AEffectsSubsystem::AEffectsSubsystem(void)
+FSpecificationStruct::FSpecificationStruct(void)
+UAnimNotify_EffectEvent::UAnimNotify_EffectEvent(void)
+UAnimNotify_EffectEvent::UAnimNotify_EffectEvent(class UAnimNotify_EffectEvent const &)
+UEffectSpecification::UEffectSpecification(void)
+UEffectSpecification::UEffectSpecification(class UEffectSpecification const &)
+UEffectsSystem::UEffectsSystem(class UEffectsSystem const &)
+UEffectsSystem::UEffectsSystem(void)
+UEventResponse::UEventResponse(void)
+UEventResponse::UEventResponse(class UEventResponse const &)
+virtual AEffectsSubsystem::~AEffectsSubsystem(void)
+virtual UAnimNotify_EffectEvent::~UAnimNotify_EffectEvent(void)
+virtual UEffectSpecification::~UEffectSpecification(void)
+virtual UEffectsSystem::~UEffectsSystem(void)
+virtual UEventResponse::~UEventResponse(void)
+static void * AEffectsSubsystem::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * AEffectsSubsystem::operator new(unsigned int,enum EInternal *)
+static void * UAnimNotify_EffectEvent::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UAnimNotify_EffectEvent::operator new(unsigned int,enum EInternal *)
+static void * UEffectSpecification::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UEffectSpecification::operator new(unsigned int,enum EInternal *)
+static void * UEffectsSystem::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UEffectsSystem::operator new(unsigned int,enum EInternal *)
+static void * UEventResponse::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UEventResponse::operator new(unsigned int,enum EInternal *)
+class AEffectsSubsystem & AEffectsSubsystem::operator=(class AEffectsSubsystem const &)
+struct FSpecificationStruct & FSpecificationStruct::operator=(struct FSpecificationStruct const &)
+class UAnimNotify_EffectEvent & UAnimNotify_EffectEvent::operator=(class UAnimNotify_EffectEvent const &)
+class UEffectSpecification & UEffectSpecification::operator=(class UEffectSpecification const &)
+class UEffectsSystem & UEffectsSystem::operator=(class UEffectsSystem const &)
+class UEventResponse & UEventResponse::operator=(class UEventResponse const &)
+const AEffectsSubsystem::`vftable'
+const UAnimNotify_EffectEvent::`vftable'
+const UEffectSpecification::`vftable'
+const UEffectsSystem::`vftable'
+const UEventResponse::`vftable'
+void AEffectsSubsystem::CreateEffectsConfigPackageIfNecessary(void)
+virtual int AEffectsSubsystem::GetNumAlternateContexts(void)
+int AEffectsSubsystem::GetNumContexts(class AActor *)
+virtual int AEffectsSubsystem::HasContext(class AActor *,class FName)
+class FName IGEFFECTSSYSTEM_FlushQueuedEvents
+class FName IGEFFECTSSYSTEM_GetSpecification
+class FName IGEFFECTSSYSTEM_OnEffectSpawned
+class FName IGEFFECTSSYSTEM_PlayEffectSpecification
+class FName IGEFFECTSSYSTEM_StopEffectSpecification
+virtual void UEffectsSystem::Init(class AActor *)
+static void AEffectsSubsystem::InternalConstructor(void *)
+static void UAnimNotify_EffectEvent::InternalConstructor(void *)
+static void UEffectSpecification::InternalConstructor(void *)
+static void UEffectsSystem::InternalConstructor(void *)
+static void UEventResponse::InternalConstructor(void *)
+virtual void AEffectsSubsystem::PrecacheEffectSpecification(class UEffectSpecification *)
+static class UClass AEffectsSubsystem::PrivateStaticClass
+static class UClass UAnimNotify_EffectEvent::PrivateStaticClass
+static class UClass UEffectSpecification::PrivateStaticClass
+static class UClass UEffectsSystem::PrivateStaticClass
+static class UClass UEventResponse::PrivateStaticClass
+virtual void AEffectsSubsystem::Serialize(class FArchive &)
+static class UClass * AEffectsSubsystem::StaticClass(void)
+static class UClass * UAnimNotify_EffectEvent::StaticClass(void)
+static class UClass * UEffectSpecification::StaticClass(void)
+static class UClass * UEffectsSystem::StaticClass(void)
+static class UClass * UEventResponse::StaticClass(void)
+void UEffectsSystem::eventFlushQueuedEvents(void)
+class UEffectSpecification * UEventResponse::eventGetSpecification(void)
+void AEffectsSubsystem::eventOnEffectSpawned(class AActor *)
+class AActor * AEffectsSubsystem::eventPlayEffectSpecification(class UEffectSpecification *,class AActor *,class AActor *,class UMaterial *,class FVector,class FRotator,class IIEffectObserver *)
+void AEffectsSubsystem::eventStopEffectSpecification(class UEffectSpecification *,class AActor *)
+void AEffectsSubsystem::execAddEffectSpecification(struct FFrame &,void * const)
+void AEffectsSubsystem::execAddEventResponse(struct FFrame &,void * const)
+void AEffectsSubsystem::execBeginLoadingSubsystemConfig(struct FFrame &,void * const)
+void AEffectsSubsystem::execEffectEventTriggered(struct FFrame &,void * const)
+void AEffectsSubsystem::execEndLoadingSubsystemConfig(struct FFrame &,void * const)
+void AEffectsSubsystem::execFindEffectSpecification(struct FFrame &,void * const)
+void UEffectsSystem::execInit(struct FFrame &,void * const)
+void UAnimNotify_EffectEvent::execNotify(struct FFrame &,void * const)
+void AEffectsSubsystem::execPackageEffectSpecification(struct FFrame &,void * const)
+void AEffectsSubsystem::execPackageEventResponse(struct FFrame &,void * const)
+GPackage
+_DllMain@12
+autoclassAEffectsSubsystem
+autoclassUAnimNotify_EffectEvent
+autoclassUEffectSpecification
+autoclassUEffectsSystem
+autoclassUEventResponse
+intAEffectsSubsystemexecAddEffectSpecification
+intAEffectsSubsystemexecAddEventResponse
+intAEffectsSubsystemexecBeginLoadingSubsystemConfig
+intAEffectsSubsystemexecEffectEventTriggered
+intAEffectsSubsystemexecEndLoadingSubsystemConfig
+intAEffectsSubsystemexecFindEffectSpecification
+intAEffectsSubsystemexecPackageEffectSpecification
+intAEffectsSubsystemexecPackageEventResponse
+intUAnimNotify_EffectEventexecNotify
+intUEffectsSystemexecInit

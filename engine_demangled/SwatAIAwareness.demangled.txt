@@ -1,0 +1,72 @@
+IIAwarenessOuter::IIAwarenessOuter(void)
+IIAwarenessOuter::IIAwarenessOuter(class IIAwarenessOuter const &)
+UAwarenessProxy::UAwarenessProxy(class UAwarenessProxy const &)
+UAwarenessProxy::UAwarenessProxy(void)
+virtual IIAwarenessOuter::~IIAwarenessOuter(void)
+virtual UAwarenessProxy::~UAwarenessProxy(void)
+static void * IIAwarenessOuter::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * IIAwarenessOuter::operator new(unsigned int,enum EInternal *)
+static void * UAwarenessProxy::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UAwarenessProxy::operator new(unsigned int,enum EInternal *)
+class IIAwarenessOuter & IIAwarenessOuter::operator=(class IIAwarenessOuter const &)
+class UAwarenessProxy & UAwarenessProxy::operator=(class UAwarenessProxy const &)
+const IIAwarenessOuter::`vftable'
+const UAwarenessProxy::`vftable'
+void BuildAwarenessGraph(class ULevel *)
+virtual void UAwarenessProxy::Destroy(void)
+unsigned long IIAwarenessOuter::GetKnownLocationOfPawn(class APawn *,class FVector &)
+static void IIAwarenessOuter::InternalConstructor(void *)
+static void UAwarenessProxy::InternalConstructor(void *)
+unsigned long IIAwarenessOuter::IsOtherActorAThreat(class AActor *)
+static class UClass IIAwarenessOuter::PrivateStaticClass
+static class UClass UAwarenessProxy::PrivateStaticClass
+void UAwarenessProxy::RegisterAwarenessForDeathNotifications(class ALevelInfo *)
+void UAwarenessProxy::RegisterAwarenessForDestroyNotifications(class ALevelInfo *)
+void UAwarenessProxy::RegisterAwarenessForSensing(class TArray<class APawn *> const &)
+void UAwarenessProxy::RegisterAwarenessForSensing(class APawn *)
+void IIAwarenessOuter::RegisterHearingNotification(class IIHearingNotification *)
+void RegisterNamesSwatAIAwareness(void)
+void IIAwarenessOuter::RegisterVisionNotification(class IIVisionNotification *)
+class FName SWATAIAWARENESS_GetKnownLocationOfPawn
+class FName SWATAIAWARENESS_IsOtherActorAThreat
+class FName SWATAIAWARENESS_RegisterHearingNotification
+class FName SWATAIAWARENESS_RegisterVisionNotification
+class FName SWATAIAWARENESS_UnregisterHearingNotification
+class FName SWATAIAWARENESS_UnregisterVisionNotification
+static class UClass * IIAwarenessOuter::StaticClass(void)
+static class UClass * UAwarenessProxy::StaticClass(void)
+void UAwarenessProxy::Tick(void)
+void UAwarenessProxy::UnregisterAwarenessForDeathNotifications(class ALevelInfo *)
+void UAwarenessProxy::UnregisterAwarenessForDestroyNotifications(class ALevelInfo *)
+void UAwarenessProxy::UnregisterAwarenessForSensing(class TArray<class APawn *> const &)
+void UAwarenessProxy::UnregisterAwarenessForSensing(class APawn *)
+void IIAwarenessOuter::UnregisterHearingNotification(class IIHearingNotification *)
+void IIAwarenessOuter::UnregisterVisionNotification(class IIVisionNotification *)
+void UAwarenessProxy::execDrawDebugInfo(struct FFrame &,void * const)
+void UAwarenessProxy::execForceViewerSawPawn(struct FFrame &,void * const)
+void UAwarenessProxy::execGetKnowledge(struct FFrame &,void * const)
+void UAwarenessProxy::execGetPotentiallyVisibleKnowledge(struct FFrame &,void * const)
+void UAwarenessProxy::execGetVisibleKnowledge(struct FFrame &,void * const)
+void UAwarenessProxy::execInit(struct FFrame &,void * const)
+void UAwarenessProxy::execOnListenerHeardNoise(struct FFrame &,void * const)
+void UAwarenessProxy::execOnOtherActorDestroyed(struct FFrame &,void * const)
+void UAwarenessProxy::execOnOtherPawnDied(struct FFrame &,void * const)
+void UAwarenessProxy::execOnViewerLostPawn(struct FFrame &,void * const)
+void UAwarenessProxy::execOnViewerSawPawn(struct FFrame &,void * const)
+void UAwarenessProxy::execTerm(struct FFrame &,void * const)
+GPackage
+_DllMain@12
+autoclassIIAwarenessOuter
+autoclassUAwarenessProxy
+intUAwarenessProxyexecDrawDebugInfo
+intUAwarenessProxyexecForceViewerSawPawn
+intUAwarenessProxyexecGetKnowledge
+intUAwarenessProxyexecGetPotentiallyVisibleKnowledge
+intUAwarenessProxyexecGetVisibleKnowledge
+intUAwarenessProxyexecInit
+intUAwarenessProxyexecOnListenerHeardNoise
+intUAwarenessProxyexecOnOtherActorDestroyed
+intUAwarenessProxyexecOnOtherPawnDied
+intUAwarenessProxyexecOnViewerLostPawn
+intUAwarenessProxyexecOnViewerSawPawn
+intUAwarenessProxyexecTerm

@@ -1,0 +1,51 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\dinterface.dll
+
+File Type: DLL
+
+  Section contains the following exports for dinterface.dll
+
+    00000000 characteristics
+           0 time date stamp
+        0.00 version
+           1 ordinal base
+          22 number of functions
+          22 number of names
+
+    ordinal hint RVA      name
+
+          5    0 001164C8 AddAWatch
+         12    1 001162DC AddBreakpoint
+         18    2 00116200 AddClassToHierarchy
+          9    3 001163C4 AddLineToLog
+         14    4 0011628C AddWatch
+         16    5 00116264 BuildHierarchy
+          7    6 00116440 CallStackAdd
+          8    7 00116420 CallStackClear
+          4    8 0011653C ClearAWatch
+         17    9 00116250 ClearHierarchy
+         15    A 00116278 ClearWatch
+          6    B 0011649C DebugWindowState
+         21    C 001160CC EditorCommand
+         10    D 001163A0 EditorGotoLine
+         19    E 00116158 EditorLoadClass
+         20    F 0011611C EditorLoadTextBuffer
+          3   10 00116550 LockList
+         11   11 00116334 RemoveBreakpoint
+         13   12 0011638C SetCallback
+          1   13 00116578 SetCurrentObjectName
+         22   14 001160AC ShowDllForm
+          2   15 00116564 UnlockList
+
+  Summary
+
+        1000 .edata
+        3000 .idata
+       11000 .reloc
+       25000 .rsrc
+        1000 BSS
+      116000 CODE
+        4000 DATA

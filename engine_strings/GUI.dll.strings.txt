@@ -1,0 +1,579 @@
+# Strings extracted from GUI.dll (294912 bytes)
+# Total strings: 1970, filtered: 576
+
+       **************************** LAUNCHING Swat4DedicatedServer **************************        
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+!This program cannot be run in DOS mode.
+%s = %s
+%s [%s]
+(%s @ %s : %04X)
+)020V0
+*030V0}0
+.\UnGUI.cpp
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0$0(0,00080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0!0(0.0A0I0Q0a0h0n0
+0!0.0A0d0n0}0
+0"0&02080E0\0f0k0v0
+0(040<0\0d0t0
+0)2:2?2E2v293L3
+010D0}0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1(1H1P1`1t1
+1 1;1Y1q1x1
+1!1(1.1A1I1Q1a1h1n1
+1$1)1B1F1R1X1e1|1
+1$141H1T1\1|1
+1$181D1L1\1d1p1
+1(141<1\1d1t1
+1(1@1L1d1p1
+1)1.141V1
+1)1A1Q1n1t1
+1)1H1M1e1j1
+1:2S2z2
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2,2D2L2X2p2|2
+2!2(2.2A2I2Q2a2h2n2
+2"2(252L2V2[2f2{2
+2$2/282D2I2X2b2m2v2
+2$242H2T2\2|2
+2(2<2H2P2p2x2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3(30383@3L3t3|3
+3!3(3.3A3I3Q3a3h3n3
+3(343<3\3d3t3
+3(3<3H3P3h3x3
+3)3:3K3s3
+3*3:3[3j3o3
+3/3=3j3
+32363B3H3U3l3v3{3
+3K4\4a4g4
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4p4t4x4|4
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4h4l4p4t4x4|4
+4 4(40484D4\4h4
+4!4(4.4A4I4Q4a4h4n4
+4"4A4\4k4
+4$444H4T4\4|4
+4(44494H4R4]4f4r4w4
+4(444<4\4d4t4
+4/5a5r5w5}5
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5$5(5,5054585<5@5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5$5(5,5054585@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5&5v5
+5 5,515@5J5U5^5j5o5~5
+5 5,545T5\5l5
+5 585D5\5h5
+5!5(5.5A5I5Q5a5h5n5
+5$545H5T5\5|5
+5*5/5C5H5c5h5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 6%6B6F6T6Z6g6
+6 6,6D6L6X6p6|6
+6#6(6.6F6
+6$6)686B6M6V6b6g6v6
+6)696F6i6
+6)6I6i6
+646S6o6}6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 787D7\7h7
+7!707:7E7N7Z7_7n7x7
+7"7&72787E7\7f7k7v7
+7(747<7\7d7t7
+7)7.747V7x7
+7/7=7j7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8 8%8+8F8
+8 8,848L8\8d8l8|8
+8$8)8B8F8R8X8e8|8
+8$848H8T8\8|8
+8(828=8F8R8W8f8p8{8
+808<8D8T8\8h8
+848<8D8L8T8\8d8p8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9x9|9
+9 9$9(9,9094989E9Q9v9
+9 9*959>9J9O9^9h9s9|9
+9 9,9D9P9h9p9x9
+9!959:9Q9a9q9
+9"9(9.949:9@9F9L9R9X9^9d9j9p9v9|9
+9"9(959L9V9[9f9{9
+9":<:d:
+9$9,9<9P9\9d9
+9&:J:}:
+9)9/9C9[9
+9/:@:E:K:v:
+90:l:}:
+9C:l:}:
+: :$:(:,:0:4:8:
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+: :$:(:,:0:4:8:<:@:D:H:P:T:X:\:`:d:h:l:p:t:x:|:
+: :%:C:R:a:f:
+: :8:@:H:T:l:t:|:
+:!:>:D:Q:a:~:
+:":-:6:C:R:c:
+:":N:_:p:
+:#:+:1:::c:
+:$:*:0:6:<:B:H:N:T:Z:`:f:l:r:x:~:
+:$:0:<:S:_:k:w:
+:$:<:D:T:\:l:
+:$:D:L:\:p:|:
+:$;C;_;m;
+:(:4:<:\:d:t:
+:):.:4:V:
+:,:6:;:F:[:d:i:
+:0:<:T:\:h:
+:2:6:B:H:U:l:v:{:
+:2:;:M:x:
+:3:O:]:
+:;;J;O;c;h;
+:b;s;x;~;
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; ;&;,;2;8;>;D;J;P;c;
+; ;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; ;,;D;L;T;`;x;
+; ;8;D;\;h;
+;";(;5;L;V;[;f;{;
+;#;,;5;>;G;P;\;h;t;};
+;$;,;<;P;\;d;|;
+;$;4;H;T;\;|;
+;(;.;6;M;g;
+;);.;4;V;
+;0;<;D;\;l;t;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+< <5<k<
+< <8<D<\<h<
+<)<.<4<V<x<%=6=;=A=f=
+</<4<:<f<
+<0r3<9w/
+<2<6<B<H<U<l<v<{<
+<_=p=u={=
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+= =0=D=P=X=h=p=x=
+= =8=D=\=h=
+= >R>l>
+=(=4=<=\=d=t=
+=)=:=K=s=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+> >(>0>8>@>H>P>X>`>h>t>
+> >(>4>L>T>\>d>l>t>|>
+>">&>2>8>E>\>f>k>v>
+>$>4>H>T>\>|>
+>(>4><>\>d>t>
+>+>0>:>F>K>V>b>n>{>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?`?d?h?l?p?t?x?|?
+? ?3?F?
+? ?8?D?\?h?
+?!?(?.?A?I?Q?a?h?n?
+?$?)?B?F?R?X?e?|?
+?$?,?4?<?D?L?T?\?d?l?t?|?
+?$?4?H?T?\?|?
+Activate
+Active: %s (%i) (%i)
+Active: None
+AddComponent
+AlignControlsInGroup
+AlignThumb
+AppendComponent
+BringBackward
+BringForward
+BringToBack
+BringToFront
+Can't find gui package '%s'
+Cast of %s to %s failed
+ChangeFocus
+ChangeHint
+ChangeStyle
+CompareItem
+Components:
+Control: %s
+Controls(%i) = %s
+CreateComponent
+CreateControl
+CreateMenu
+Critical: Failed to load font %s for GUIFont %s.
+D$ PRWj
+D$ PRj
+DblClick
+DeActivate
+DisableComponent
+EditObject
+ElementsEqual
+EnableComponent
+Enter New Value for: %s
+Failed to import: %s
+Failed to register style: %s; a style of that name may already be taken
+FindComponent
+FindComponentIndex
+FindField
+FindPersistentComponent
+Focused: %s (%i) (%i)
+Focused: None
+Fonts:
+GPackage
+GUI Editor Commands:
+GUI::MakeColorCode
+GUI::execCopyConfig
+GUI::execMakeColorCode
+GUI::execStripCodes
+GUIController::GroupAllControlsInBounds
+GUIController::Modify
+GUIController::NativeKeyType
+GUIController::NativePostRender
+GUIController::NativePreRender
+GUIController::execGetCurrentRes
+GUIController::execGetMapList
+GUIController::execGetMenuFont
+GUIController::execLoadLevelSummary
+GUIController::execStaticExec
+GUIController:execGetStyle
+GUIEditBox::Draw
+GUIFont::Modify
+GUIFont::execGetFont
+GUIGFXButton::Draw
+GUIHelpText::PreDraw
+GUIHelpText::UpdateComponent
+GUIImage::Draw
+GUIMenuOption::PreDraw
+GUIMenuOption::UpdateComponent
+GUIMultiComponent::Draw
+GUIMultiComponent::PerformHitTest
+GUIMultiComponent::PreDraw
+GUIMultiComponent::XControllerEvent
+GUIPage::XControllerEvent
+GUIStyles::Modify
+GetGuiResolution
+GetMenuFont
+GetStyle
+Grid: Not Active        Resolution: %ix%i
+Grid: Size=%i           Resolution: %ix%i
+Group: %i     Undo Level: %i        Component Not Saved!
+Group: %i     Undo Level: %i        Component Saved!
+GroupControl
+HandleParameters
+I1\1o1
+IGUIStyles::Draw
+IGUIStyles::DrawText
+Initialize
+InsertComponent
+InternalOpenMenu
+KillControlGroup
+L$ _^d
+Left=%f  Top=%f  Width=%f  Height=%f
+LogGUIComponent
+LogGUIPage
+MenuOwner
+MenuStack out of sync
+MousePressed
+MouseReleased
+MoveControlGroup
+MoveFocused
+NotifyLevelChange
+OnActivate
+OnAdjustTop
+OnCapturedMouseMove
+OnChange
+OnChangeLayout
+OnClientDraw
+OnDblClick
+OnDeActivate
+OnDlgReturned
+OnDrawCaption
+OnDrawItem
+OnDrawText
+OnEndOfLine
+OnEntryCancelled
+OnEntryCompleted
+OnFocused
+OnHitTest
+OnKeyEvent
+OnKeyEventFirstCrack
+OnKeyType
+OnListIndexChanged
+OnLostFocus
+OnMenuStateChanged
+OnModify
+OnMousePressed
+OnMouseRelease
+OnNeedRawKeyPress
+OnPopupReturned
+OnPreDraw
+OnRawXController
+OnRePositionCompleted
+OnRender
+OnResolutionChanged
+OnRightClick
+OnScrollZoneClick
+OnTimeExpired
+OnUpdateComponent
+OnWatched
+OnXControllerEvent
+Pages:
+PostActivate
+RPQh ,
+RePositionCompleted
+RedoActiveComponent
+RegisterFont
+RegisterStyle
+ReloadGUI
+RemapComponents
+RemoveComponent
+RemoveControl
+ReorderComponents
+SRSSSSSW
+STY_DefaultTextStyle
+SaveActiveComponent
+SelectNextControlInMoveGroup
+Selected: %s   Style: %s
+SelectedText
+SetActive
+SetCaption
+SetDirty
+SetVisibility
+SizeControlsInGroup
+SmallTextFont
+SpaceControlsInGroup
+SplitOrientation == SPLIT_Vertical || SplitOrientation == SPLIT_Horizontal
+StyleName
+Styles:
+SwapIndices
+TabControl
+ToggleActiveComponentSizing
+ToggleSnapToGrid
+UGUIActorContainerBase
+UGUIButton
+UGUICheckBoxButton
+UGUICircularList
+UGUICircularList::Draw
+UGUIComboBox
+UGUIComboBox::PreDraw
+UGUIComboBox::UpdateComponent
+UGUIComboButton
+UGUIComponent
+UGUIComponent::ActualHeight
+UGUIComponent::ActualLeft
+UGUIComponent::ActualTop
+UGUIComponent::ActualWidth
+UGUIComponent::CloneDims
+UGUIComponent::Draw
+UGUIComponent::Modify
+UGUIComponent::MouseMove
+UGUIComponent::MousePressed
+UGUIComponent::MouseReleased
+UGUIComponent::NativeKeyEvent
+UGUIComponent::NativeKeyType
+UGUIComponent::PerformHitTest
+UGUIComponent::PreDraw
+UGUIComponent::RawXController
+UGUIComponent::SetDims
+UGUIComponent::UnderCursor
+UGUIComponent::UpdateBounds
+UGUIComponent::UpdateComponent
+UGUIComponent::XControllerEvent
+UGUIComponent::execActualHeight
+UGUIComponent::execActualLeft
+UGUIComponent::execActualTop
+UGUIComponent::execActualWidth
+UGUIComponent::execKillTimer
+UGUIComponent::execSetTimer
+UGUIComponent::execWrapStringToArray
+UGUIController
+UGUIController::MousePressed
+UGUIController::MouseReleased
+UGUIController::PlayInterfaceSound
+UGUIController::execMouseEmulation
+UGUIController::execPreChangeActiveMenu
+UGUIController::execRemoveMenu
+UGUIController::execResetKeyboard
+UGUIDlg::PreDraw
+UGUIDlg::UpdateComponent
+UGUIDualSelectionLists
+UGUIDualSelectionLists::PreDraw
+UGUIDualSelectionLists::UpdateComponent
+UGUIEditBox
+UGUIFont
+UGUIGFXButton
+UGUIHelpText
+UGUIHorzGripButton
+UGUIHorzList
+UGUIHorzList::Draw
+UGUIHorzScrollBar
+UGUIHorzScrollBar::PreDraw
+UGUIHorzScrollBar::UpdateComponent
+UGUIHorzScrollButton
+UGUIHorzScrollZone
+UGUIHorzScrollZone::Draw
+UGUIImage
+UGUILabel
+UGUIList
+UGUIList::DrawItem
+UGUIListBase
+UGUIListBox
+UGUIListBox::Draw
+UGUIListBoxBase
+UGUIListBoxBase::PreDraw
+UGUIListBoxBase::UpdateComponent
+UGUIMenuOption
+UGUIMultiColumnList
+UGUIMultiColumnList::PreDraw
+UGUIMultiColumnList::UpdateComponent
+UGUIMultiColumnListBox
+UGUIMultiColumnListBox::MousePressed
+UGUIMultiColumnListBox::PreDraw
+UGUIMultiColumnListBox::UnderCursor
+UGUIMultiColumnListBox::UpdateComponent
+UGUIMultiComponent
+UGUIMultiComponent::InitializeControls
+UGUIMultiComponent::MousePressed
+UGUIMultiComponent::NativeKeyEvent
+UGUIMultiComponent::SpecialHit
+UGUIMultiComponent::UnderCursor
+UGUIMultiComponent::execInitializeControls
+UGUINumericEdit
+UGUINumericEdit::UpdateComponent
+UGUIPage
+UGUIPage::MousePressed
+UGUIPage::MouseReleased
+UGUIPage::NativeKeyEvent
+UGUIPage::PerformHitTest
+UGUIPage::UnderCursor
+UGUIPage::UpdateTimers
+UGUIPanel
+UGUIProgressBar
+UGUIProgressBar::Draw
+UGUIRadioButton
+UGUIScrollBarBase
+UGUIScrollText
+UGUIScrollText::Draw
+UGUIScrollText::DrawItem
+UGUIScrollText::PreDraw
+UGUIScrollText::UpdateComponent
+UGUIScrollText::execGetWordUnderCursor
+UGUIScrollTextBox
+UGUIScrollTextBox::PreDraw
+UGUISlider
+UGUISlider::Draw
+UGUISpinnerButton
+UGUISplitter
+UGUISplitter::Draw
+UGUISplitter::MouseHover
+UGUISplitter::MouseMove
+UGUISplitter::MousePressed
+UGUISplitter::PreDraw
+UGUISplitter::SplitterUpdatePositions
+UGUIStyles
+UGUIStyles::TextSize
+UGUIStyles::execDraw
+UGUIStyles::execDrawText
+UGUITextComponent
+UGUITextComponent::Draw
+UGUITimeDisplay
+UGUITimeline
+UGUITimeline::Draw
+UGUIVertGripButton
+UGUIVertList
+UGUIVertList::Draw
+UGUIVertList::PreDraw
+UGUIVertList::UpdateComponent
+UGUIVertScrollBar
+UGUIVertScrollBar::PreDraw
+UGUIVertScrollBar::UpdateComponent
+UGUIVertScrollButton
+UGUIVertScrollZone
+UGUIVertScrollZone::Draw
+UndoActiveComponent
+UpdateControl
+Warning: %s could not load font %s.  Please check that this font is specified in a texture package.  (Click yes to attempt to continue).
+_CxxThrowException
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+autoclassUGUI
+autoclassUGUIActorContainerBase
+autoclassUGUIButton
+autoclassUGUICheckBoxButton
+autoclassUGUICircularList
+autoclassUGUIComboBox
+autoclassUGUIComboButton
+autoclassUGUIComponent
+autoclassUGUIController
+autoclassUGUIDlg
+autoclassUGUIDualSelectionLists
+autoclassUGUIEditBox
+autoclassUGUIFont
+autoclassUGUIGFXButton
+autoclassUGUIHelpText
+autoclassUGUIHorzGripButton
+autoclassUGUIHorzList
+autoclassUGUIHorzScrollBar
+autoclassUGUIHorzScrollButton
+autoclassUGUIHorzScrollZone
+autoclassUGUIImage
+autoclassUGUILabel
+autoclassUGUIList
+autoclassUGUIListBase
+autoclassUGUIListBox
+autoclassUGUIListBoxBase
+autoclassUGUIMenuOption
+autoclassUGUIMultiColumnList
+autoclassUGUIMultiColumnListBox
+autoclassUGUIMultiComponent
+autoclassUGUINumericEdit
+autoclassUGUIPage
+autoclassUGUIPanel
+autoclassUGUIProgressBar
+autoclassUGUIRadioButton
+autoclassUGUIScrollBarBase
+autoclassUGUIScrollText
+autoclassUGUIScrollTextBox
+autoclassUGUISlider
+autoclassUGUISpinnerButton
+autoclassUGUISplitter
+autoclassUGUIStyles
+autoclassUGUITextComponent
+autoclassUGUITimeDisplay
+autoclassUGUITimeline
+autoclassUGUIVertGripButton
+autoclassUGUIVertList
+autoclassUGUIVertScrollBar
+autoclassUGUIVertScrollButton
+autoclassUGUIVertScrollZone
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnObjBas.h
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnTemplate.h
+execCanLaunchDedicatedServer
+intUGUIComponentexecActualHeight
+intUGUIComponentexecActualLeft
+intUGUIComponentexecActualTop
+intUGUIComponentexecActualWidth
+intUGUIComponentexecKillTimer
+intUGUIComponentexecSetTimer
+intUGUIComponentexecWrapStringToArray
+intUGUIControllerexecCanLaunchDedicatedServer
+intUGUIControllerexecGetCurrentRes
+intUGUIControllerexecGetMapList
+intUGUIControllerexecGetMenuFont
+intUGUIControllerexecGetStyle
+intUGUIControllerexecLaunchDedicatedServer
+intUGUIControllerexecLoadLevelSummary
+intUGUIControllerexecMouseEmulation
+intUGUIControllerexecPaintProgress
+intUGUIControllerexecPreChangeActiveMenu
+intUGUIControllerexecRemoveMenu
+intUGUIControllerexecResetKeyboard
+intUGUIControllerexecStaticExec
+intUGUIFontexecGetFont
+intUGUIMultiComponentexecInitializeControls
+intUGUIScrollTextexecGetWordUnderCursor
+intUGUISplitterexecSplitterUpdatePositions
+intUGUIStylesexecDraw
+intUGUIStylesexecDrawText
+intUGUIexecCopyConfig
+intUGUIexecMakeColorCode
+intUGUIexecStripCodes
+onMessage
+testing log file write for dedicated server

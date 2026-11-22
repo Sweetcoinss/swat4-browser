@@ -1,0 +1,29 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\IrrSupport.dll
+
+File Type: DLL
+
+  Section contains the following exports for IrrSupport.dll
+
+    00000000 characteristics
+    420E602B time date stamp Sat Feb 12 19:59:39 2005
+        0.00 version
+           1 ordinal base
+           3 number of functions
+           3 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001780 IrrSupportQueryItem
+          2    1 00001620 IrrSupportSubmitItem
+          3    2 000014F0 IrrSupportValidateItem
+
+  Summary
+
+        3000 .data
+        4000 .rdata
+        2000 .reloc
+        B000 .text

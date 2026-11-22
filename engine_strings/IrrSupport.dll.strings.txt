@@ -1,0 +1,182 @@
+# Strings extracted from IrrSupport.dll (77824 bytes)
+# Total strings: 271, filtered: 179
+
+                                 H
+         (((((                  H
+         h((((                  H
+        h((((                  H
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ 303@3P3
+ iciNWq
+!This program cannot be run in DOS mode.
+- This application cannot run using the active version of the Microsoft .NET Runtime
+- floating point not loaded
+- not enough space for _onexit/atexit table
+- not enough space for arguments
+- not enough space for environment
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- not enough space for thread data
+- pure virtual function call
+- unable to initialize heap
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+0 0,080@0D0H0L0h2
+0<Ctx<Nt(<V
+1 1$1(1,1014181
+1 131>1Q1z1
+1#2U2\2`2d2h2l2p2t2x2
+3$3(383@3D3L3P3`3l3
+3(3C3L3
+4 4$4<4P4`4d4h4
+5$5(5<5L5P5T5l5p5t5
+5)575G5l7
+5L5R5\5x5
+6%636E6{6
+6-6^6g6m6}6
+7(7U7~7
+7=:K:Q:k:p:
+8a9 :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+9"9;9M9S9\9k9
+9,:I:j:v:
+:#:*:;:B:P:d:x:
+:$;(;,;0;4;
+:,:@:H:\:d:x:
+;!;);/;9;?;T;[;a;o;u;z;
+;';/;5;>;E;J;S;X;
+<program name unknown>
+= =$=(=,=0=4=8=<=@=P=T=\=`=d=h=l=p=t=x=|=
+=)=I=l=
+=/=G=^=g=m=
+=/>A>H>P>Z>a>k>q>|>
+A buffer overrun has been detected which has corrupted the program's
+A security error of unknown cause has been detected which has
+A4x{%`
+Buffer overrun detected!
+CVCNCVCNCVCNCVCNNNNN
+CloseHandle
+CorExitProcess
+DOMAIN error
+December
+DeleteCriticalSection
+EnterCriticalSection
+ExitProcess
+February
+FlsAlloc
+FlsGetValue
+FlsSetValue
+FlushFileBuffers
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+GetActiveWindow
+GetCPInfo
+GetCommandLineA
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetEnvironmentStrings
+GetEnvironmentStringsW
+GetFileType
+GetLastActivePopup
+GetLastError
+GetLocaleInfoA
+GetModuleFileNameA
+GetModuleHandleA
+GetOEMCP
+GetProcAddress
+GetProcessWindowStation
+GetStartupInfoA
+GetStdHandle
+GetStringTypeA
+GetStringTypeW
+GetSystemInfo
+GetSystemTimeAsFileTime
+GetTickCount
+GetUserObjectInformationA
+GetVersionExA
+GetVolumeInformationA
+GetWindowsDirectoryA
+HH:mm:ss
+HHtjHHtF
+HeapAlloc
+HeapCreate
+HeapDestroy
+HeapFree
+HeapReAlloc
+HeapSize
+InitializeCriticalSection
+InitializeCriticalSectionAndSpinCount
+InterlockedDecrement
+InterlockedExchange
+InterlockedIncrement
+IrrSupportQueryItem
+IrrSupportSubmitItem
+IrrSupportValidateItem
+IsBadCodePtr
+IsBadReadPtr
+IsBadWritePtr
+JanFebMarAprMayJunJulAugSepOctNovDec
+LCMapStringA
+LCMapStringW
+LeaveCriticalSection
+LoadLibraryA
+MM/dd/yy
+MessageBoxA
+Microsoft Visual C++ Runtime Library
+MultiByteToWideChar
+November
+PPPPPPPP
+Please contact the application's support team for more information.
+Program: 
+QueryPerformanceCounter
+RaiseException
+RegCloseKey
+RegCreateKeyExA
+RegDeleteKeyA
+RegOpenKeyExA
+RegQueryValueExA
+RegSetValueExA
+RtlUnwind
+Runtime Error!
+SING error
+SOFTWARE\Sierra\CDKeys
+Saturday
+September
+SetFilePointer
+SetHandleCount
+SetLastError
+SetStdHandle
+SetUnhandledExceptionFilter
+SunMonTueWedThuFriSat
+TLOSS error
+TerminateProcess
+This application has requested the Runtime to terminate it in an unusual way.
+Thursday
+TlsAlloc
+TlsGetValue
+TlsSetValue
+UnhandledExceptionFilter
+Unknown exception
+Unknown security failure detected!
+VC20XC00U
+VirtualAlloc
+VirtualFree
+VirtualProtect
+VirtualQuery
+Wednesday
+WideCharToMultiByte
+WriteFile
+bad allocation
+continue execution and must now be terminated.
+corrupted the program's internal state.  The program cannot safely
+dddd, MMMM dd, yyyy
+internal state.  The program cannot safely continue execution and must
+invalid string position
+now be terminated.
+runtime error 
+string too long
+t.;t$$t(
+t2WWVPVSW
+u79=('
+w``u N

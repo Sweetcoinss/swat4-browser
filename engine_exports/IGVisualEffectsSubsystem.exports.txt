@@ -1,0 +1,54 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\IGVisualEffectsSubsystem.dll
+
+File Type: DLL
+
+  Section contains the following exports for IGVisualEffectsSubsystem.dll
+
+    00000000 characteristics
+    4216788A time date stamp Fri Feb 18 23:21:46 2005
+        0.00 version
+           1 ordinal base
+          28 number of functions
+          28 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001E60 ??0AVisualEffectsSubsystem@@QAE@ABV0@@Z
+          2    1 00001DF0 ??0AVisualEffectsSubsystem@@QAE@XZ
+          3    2 00001900 ??0UVisualEffectSpecification@@IAE@XZ
+          4    3 00001950 ??0UVisualEffectSpecification@@QAE@ABV0@@Z
+          5    4 00001D50 ??1AVisualEffectsSubsystem@@UAE@XZ
+          6    5 00001870 ??1UVisualEffectSpecification@@UAE@XZ
+          7    6 00001040 ??2AVisualEffectsSubsystem@@SAPAXIPAVUObject@@VFName@@K@Z
+          8    7 00001070 ??2AVisualEffectsSubsystem@@SAPAXIPAW4EInternal@@@Z
+          9    8 00001090 ??2UVisualEffectSpecification@@SAPAXIPAVUObject@@VFName@@K@Z
+         10    9 00001070 ??2UVisualEffectSpecification@@SAPAXIPAW4EInternal@@@Z
+         11    A 00001B20 ??4AVisualEffectsSubsystem@@QAEAAV0@ABV0@@Z
+         12    B 000019C0 ??4UVisualEffectSpecification@@QAEAAV0@ABV0@@Z
+         13    C 00003580 ??_7AVisualEffectsSubsystem@@6B@
+         14    D 00003490 ??_7UVisualEffectSpecification@@6B@
+         15    E 00001F80 ?InternalConstructor@AVisualEffectsSubsystem@@SAXPAX@Z
+         16    F 00001C10 ?InternalConstructor@UVisualEffectSpecification@@SAXPAX@Z
+         17   10 00001C20 ?PrecacheEffectSpecification@AVisualEffectsSubsystem@@UAEXPAVUEffectSpecification@@@Z
+         18   11 000011C0 ?PrecacheVisualEffect@AVisualEffectsSubsystem@@QAEXPAVUClass@@@Z
+         19   12 000070C0 ?PrivateStaticClass@AVisualEffectsSubsystem@@0VUClass@@A
+         20   13 00007638 ?PrivateStaticClass@UVisualEffectSpecification@@0VUClass@@A
+         21   14 00001030 ?StaticClass@AVisualEffectsSubsystem@@SAPAVUClass@@XZ
+         22   15 00001080 ?StaticClass@UVisualEffectSpecification@@SAPAVUClass@@XZ
+         23   16 00001A50 ?execPostLoaded@AVisualEffectsSubsystem@@QAEXAAUFFrame@@QAX@Z
+         25   17 00007030 GPackage
+         24   18 000010C0 _DllMain@12
+         26   19 000070BC autoclassAVisualEffectsSubsystem
+         27   1A 000070AC autoclassUVisualEffectSpecification
+         28   1B 000070B0 intAVisualEffectsSubsystemexecPostLoaded
+
+  Summary
+
+        1000 .data
+        4000 .rdata
+        1000 .reloc
+        2000 .text

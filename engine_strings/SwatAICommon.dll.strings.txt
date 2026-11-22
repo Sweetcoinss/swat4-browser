@@ -1,0 +1,640 @@
+# Strings extracted from SwatAICommon.dll (278528 bytes)
+# Total strings: 2094, filtered: 637
+
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+!This program cannot be run in DOS mode.
+%s [%s]
+..\..\..\Unreal\Engine\Inc\UnGroupingInterface.h
+.\AClearPoint.cpp
+.\APatrolPoint.cpp
+.\AStackupPoint.cpp
+.\UAICoverFinder.cpp
+.\UAimAroundAction.cpp
+.\UHive.cpp
+.\UHiveBlackboard.cpp
+.\UPatrolList.cpp
+.\UUseOptiwandAction.cpp
+0 0$0(0
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0(080L0X0`0
+0 080@0L0d0p0
+0!0(0.0A0I0Q0a0h0n0
+0(020=0F0R0W0f0p0{0
+0(040<0T0d0l0|0
+0,080P0\0t0
+0.040C0_0m0}0
+0/1?1H1O1^1d1j1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1*151>1J1O1^1h1s1|1
+1 1,1D1P1h1t1
+1 1@1H1X1l1x1
+1 2(2.2E2
+1!1(1.1A1I1Q1a1h1n1
+1!2'2}2
+1#1(1.1
+1&262@2J2T2(353
+1(101H1X1`1p1
+1/2@2E2K2f2
+101<1D1T1\1h1
+151:1Y1y1
+152;2S2u2{2
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2(282L2X2`2
+2!2(2.2A2I2Q2a2h2n2
+2!2>2D2S2o2}2
+2%2,252;2J2g2{2
+2(242L2T2\2h2
+2(262;2W2`2e2
+2)2A2Q2a2q2
+2/2=2e2k2
+222:2C2K2k2
+2U3`3v3}3
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3$3(3,3034383<3@3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3(303<3T3\3h3
+3 3(383L3X3`3
+3!3(3.3A3I3Q3a3h3n3
+3!3/3G3s3
+3"3&343:3L3Q3h3v3{3
+3"454:4U4Z4y4
+3%3.3:3?3N3X3c3l3x3}3
+3(3@3L3d3l3t3|3
+3*3/3C3H3Z3j3
+333U3}3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4(404@4H4P4`4t4
+4 4@4H4X4l4x4
+4 4_4p4u4{4
+4!4>4D4S4o4}4
+4*4/454V4
+4*4/4C4H4c4h4
+4=4S4}4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5x5|5
+5 545@5H5h5p5
+5*5/5>5H5S5\5h5m5|5
+555:5U5Z5y5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 6$6(6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6(606@6T6`6h6
+6(646<6\6d6t6
+6(646A6L6Y6h6s6
+6)6.6W6i6
+6*6/6C6H6Z6j6
+6/6=6e6k6
+646<6D6L6T6\6d6p6
+646S6o6}6
+6=6S6}6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 7(7@7P7X7h7|7
+7 7(7H7P7`7t7
+7#7(7.7
+7$747H7T7\7|7
+7*7/757f7
+7*7/7C7H7Z7j7
+7-7M7u7{7
+7SeenPawns.Num() == 0
+7m_pBack->m_pNext == &end()
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8 8$8(8,8084888<8@8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8$8F8j8}8
+8%8*808V8l8}8
+8(868;8S8\8a8
+8(8<8H8P8p8x8
+8*8:8V8
+8,9T9}9
+8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8
+848D8L8\8p8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9$9(9,90989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9&9F9x9
+9"9&91989>9Q9\9d9q9x9~9
+9"9(959L9V9[9f9{9
+9$:V:]:i:y:
+9(909P9X9h9|9
+9(939<9H9M9\9f9q9z9
+9(949<9\9d9t9
+9(:B:n:s:y:
+94:8:<:@:D:P:\:t:|:
+9B:S:X:^:v:
+9H\uM9
+9M:_:}:
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+: :+:4:@:E:T:^:i:r:~:
+: :8:D:\:h:
+:!:1:N:T:e:
+:":O:u:
+:$:4:H:T:\:|:
+:(:0:@:T:`:h:
+:-:=:k:q:
+:-:M:s:
+:1:D:b:
+:2:6:B:H:U:l:v:{:
+:2:6:D:J:W:r:
+:2:6:D:J:\:a:x:
+:7:>:M:S:X:^:n:
+:C:T:Y:_:v:
+:E:K:m:v:
+:`;'<c<
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;x;|;
+;!;(;.;A;I;Q;a;h;n;
+;!;1;E;J;a;};
+;#;,;8;=;L;V;a;j;v;{;
+;$;4;H;T;\;|;
+;2;R;};
+;4;D;L;\;p;|;
+;9<F<V<}<
+;w,}<VS
+;~,}lW
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<h<l<p<t<x<|<
+< <%<+<
+< <&<,<2<8<><D<J<P<V<\<b<h<n<t<z<
+< <(<8<L<X<`<
+<!<(<.<A<I<Q<a<h<n<
+<!<><D<S<o<}<
+<%=M=}=
+<*</<C<H<e<j<{<
+<.<4<C<_<m<}<
+<1<;<Q<[<q<{<
+<E=s=)>2>
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+= =$=(=,=0=4=8=<=@=D=H=L=P=p>t>x>|>
+= =@=H=X=l=x=
+=!=(=.=A=I=Q=a=h=n=
+="=&=2=8=E=\=f=k=v=
+="=(=.=4=:=@=F=L=R=X=^=d=j=p=v=|=
+=(=0=C=P=\=b=
+=(=0=P=X=`=p=
+=(=4=<=\=d=t=
+===S=}=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+> >(>8>L>X>`>x>
+>!>(>.>A>I>Q>a>h>n>
+>#>)>F>x>
+>$>)>B>F>R>X>e>|>
+>$>4>H>T>\>|>
+>$>D>L>\>p>|>
+>%?M?}?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+? ?&?,?2?8?>?D?J?P?V?\?b?h?n?t?z?
+?!?(?.?A?I?Q?a?h?n?
+?!?0?:?E?N?Z?_?n?x?
+?(?0?8?P?X?h?|?
+?(?0?P?X?h?|?
+?)?I?i?
+?/?J?[?`?f?
+AAlternateStackupPoint
+ABaseDoorPoint
+ABaseDoorPoint::OnRetestReachspecFailedForOpenDoors
+ABlueSquadInfo
+ACTOR DELETESINGLE NOREDRAW ACTORNAME="%s"
+AClearPoint
+AClearPoint::BuildDebugClearPath
+AClearPoint::CheckForErrors
+AClearPoint::DebugPatrolPathTo
+AClearPoint::DoesClearPointRouteHavePriorityErrors
+AClearPoint::PostEditChange
+AClearPoint::PostEditLoad
+AClearPoint::PostaddReachSpecs
+AClearPoint::RenderEditorSelected
+AClearPoint::SetPriority
+AClearRoutePoint
+AClearRoutePoint::CheckForErrors
+AClearRoutePoint::RenderEditorSelected
+AColoredSquadInfo
+AElementSquadInfo
+ALeftClearPoint
+ALeftStackupPoint
+AOfficerTeamInfo
+APatrolPoint
+APatrolPoint::AddReferringSpawner
+APatrolPoint::PostaddReachSpecs
+APlacedThrowPoint
+ARedSquadInfo
+ARightClearPoint
+ARightStackupPoint
+AStackupPoint
+AStackupPoint::CheckForBlockedByOpenDoorErrors
+AStackupPoint::CheckForErrors
+AStackupPoint::CheckForParentDoorErrors
+AStackupPoint::DebugStackupPathTo
+AStackupPoint::IsBlockedFor
+AStackupPoint::PostEditChange
+AStackupPoint::PostEditLoad
+AStackupPoint::PostaddReachSpecs
+AStackupPoint::RenderEditorSelected
+AStackupPoint::SetPriority
+AStackupPoint::TestDoorOpenPaths
+AStaircaseAimPoint
+ASwatAIRepository
+ASwatAIRepository::TickSpecial
+ASwatAIRepository::execDoesRoomContainAIs
+ASwatAIRepository::execFindAllOfNavigationPointClass
+ASwatAIRepository::execFindClosestOfNavigationPointClass
+ASwatAIRepository::execGetBlueSquad
+ASwatAIRepository::execGetClosestRoomNameToPoint
+ASwatAIRepository::execGetClosestUncompliantViewableAIInRoom
+ASwatAIRepository::execGetElementSquad
+ASwatAIRepository::execGetRedSquad
+ASwatAIRepository::execGetRoomNavigationPoints
+ASwatAIRepository::execGetRoomNavigationPointsOfType
+ASwatAIRepository::execSetNavigationPointListForRoom
+AimAtActor
+AimAtPoint
+AimToRotation
+AnimAreAimingChannelsMuted
+AnimCanAimAtDesiredActor
+AnimCanAimAtDesiredPoint
+AnimCanAimAtDesiredRotation
+AnimGetAimOrigin
+AnimGetQuickHitChannel
+AnimGetSpecialChannel
+AnimIsAimedAtDesired
+AnimIsWeaponAimSet
+AnimPlayEquipment
+AnimPlayQuickHit
+AnimSetIdle
+AnimSnapBaseToAim
+AnimStopEquipment
+AnimStopQuickHit
+AnimStopSpecial
+AssignOfficer
+Assignment
+BecomeAThreat
+BecomeAware
+Blocked by Door (%s) when open to left - move this stack up point so it's not blocked!
+Blocked by Door (%s) when open to right - move this stack up point so it's not blocked!
+Blocked by ParentDoor (%s) when open to left - use AlternateStackupPoints to fix this!
+Blocked by ParentDoor (%s) when open to right - use AlternateStackupPoints to fix this!
+CanAssignOfficerToTarget
+CanBangAndClear
+CanBreachAndClear
+CanBreachAndClearLockedDoor
+CanBreachBangAndClear
+CanBreachGasAndClear
+CanBreachStingAndClear
+CanDeployC2
+CanDeployLessLethalShotgun
+CanDeployPepperBallGun
+CanDeployPepperSpray
+CanDeployShotgun
+CanDeployTaser
+CanDeployThrownItem
+CanDeployWedge
+CanDisable
+CanGasAndClear
+CanIssueComplianceTo
+CanMirror
+CanPawnUseLowReady
+CanPickLock
+CanStingAndClear
+ChooseIdle
+ClearFormation
+ClearOfficerEngagements
+ClearPendingDoor
+ClearRoutePriority is less than 0 (%d).  ClearRoutePriority must be a positive number.
+ClearRoutePriority value (%d) is the same for %s and %s
+Could not find ClearRoutePoint with Priority %d, check the ClearRoutePoints for %s to make sure they are sequential!
+Could not find a patrol point at index %d called '%s'
+Could not find the ClearPoint.  Check the ClearPoint variable.
+CoverCache::CacheAllCoverActors
+CoverCache::CacheStaticCoverActorsInZone
+CoverCache::GetCoverActors
+CoverCache::GetNumCoverActors
+CoverCache::OnActorDestroyed
+CoverCache::Purge
+CoverCache::~CoverCache
+DisableAim
+DisableAwareness
+DisableFavorCoveredPath
+DisableFavorLowThreatPath
+DisableHearing
+DisableRagdoll
+DisableVision
+DoorModel
+DropAllWeapons
+EnableFavorCoveredPath
+EnableFavorLowThreatPath
+EnableHearing
+EnableVision
+FindAllOfNavigationPointClass
+FindClosestOfNavigationPointClass
+FindEngagingPointForOfficerInRoom - ClosestPoint to engage %s (at anchor %s) is %s
+FindEngagingPointForOfficerInRoom - Could not find a ClosestPoint for %s to attack %s (at anchor %s)
+FindRunToPoint
+GPackage
+GetAimOrientation
+GetAimRotation
+GetAnimBaseYaw
+GetArrester
+GetAwareness
+GetBackupWeapon
+GetCommanderAction
+GetCoverFinder
+GetCurrentFormation
+GetCurrentState
+GetDefaultAIFireModeForWeapon
+GetEnemyCommanderAction
+GetEnemySkill
+GetEnemySpeechManagerAction
+GetFBAffectedAnimation
+GetFBReactionAnimation
+GetFBRecoveryAnimation
+GetFlinchAnimation
+GetGasAffectedAnimation
+GetGasReactionAnimation
+GetGasRecoveryAnimation
+GetIdleCategory
+GetInitialMorale
+GetItemAtSlot
+GetKnowledge
+GetMovementUpperBodyAimBehavior
+GetNewNavigationPointList
+GetNumTouchingStaircaseAimVolumes
+GetOfficerCommanderAction
+GetOfficerSpeechManagerAction
+GetPrimaryWeapon
+GetRagdollSimulationTimeout
+GetRestrainedHandcuffs
+GetRoomNavigationPointsOfType
+GetSpeechManagerAction
+GetSquadAI
+GetStungAffectedAnimation
+GetStungReactionAnimation
+GetStungRecoveryAnimation
+GetTasedAffectedAnimation
+GetTasedReactionAnimation
+GetTasedRecoveryAnimation
+GetThrowAngle
+GetThrowOrigin
+GetThrowOriginOffset
+GetThrownWeapon
+GetTimeToWaitBetweenFiring
+GetTouchingStaircaseAimVolumeAtIndex
+GetUpperBodyAnimBehavior
+GetUpperBodyBone
+GetViewDirection
+GetViewPoint
+GroupWrapper
+HasFiredWeaponEquipped
+HasTaser
+HasUsableWeapon
+HashMapHash
+IISwatAI
+IISwatEnemy
+IISwatOfficer
+InstantReEquipFiredWeapon
+IsAThreat
+IsAggressive
+IsAnInvestigator
+IsArrested
+IsCompliant
+IsIdleCurrent
+IsIntenseInjury
+IsOtherActorAThreat
+IsRelevantToPlayerOrOfficers
+IsTurning
+IsUnderhandThrow
+IsUnderhandThrowTo
+IssueComplianceTo
+IterEnemy: %s IsAThreat %d IsIgnoringComplianceOrders: %d isCompliant: %d isArrested: %d
+IterHostage: %s IsIgnoringComplianceOrders: %d isCompliant: %d isArrested: %d
+L$ _^][d
+L$(_^][d
+LatentAITriggerEffectEvent
+No paths when doors are open to the left
+No paths when doors are open to the right
+NotifyBecameCompliant
+OnTouchedStaircaseAimVolume
+OnUntouchedStaircaseAimVolume
+ParentDoor is invalid, associate the AlternateStackupPoint with a door.
+ParentDoor not found, associate the AlternateStackupPoint with a door.
+PlayTurnAwayAnimation
+Priority is greater than 4 (%d)
+Priority is less than 1 (%d)
+RPQh(2
+RPQh(Y
+RPQh(p
+ReEquipFiredWeapon
+RegisterHearingNotification
+RegisterVisionNotification
+ReleaseNavigationPointList
+SetAimUrgency
+SetCurrentFormation
+SetCurrentState
+SetDebugBlackboardInfo
+SetDebugMoraleHistoryInfo
+SetDoorToBlowC2On
+SetGrenadeTargetLocation
+SetIdleCategory
+SetIsCompliant
+SetMovement
+SetPendingDoor
+SetThrowSide
+SetUpperBodyAnimBehavior
+SetWeaponTarget
+SetWeaponTargetLocation
+ShouldForceOpenLockedDoors
+ShouldPlayFullBodyHitAnimation
+ShouldStopMoving
+ShouldWalk
+SpawnedFromGroup
+StartSprinting
+StopSprinting
+SwapInCompliantAnimSet
+SwapInRestrainedAnimSet
+SwatAICommon
+SwatAIRepository::GetRoomNavigationPoints - RoomName passed in is empty, a Navigation Point is missing a room name in this map!  Check for Errors in UnrealEd!
+SwatEnemy
+SwatOfficer
+ThrowWeaponDown
+U0e0{0
+UAICoverFinder
+UAICoverFinder::FindCover
+UAICoverFinder::FindCoverBehindActor
+UAICoverFinder::FindCoverBehindActors
+UAICoverFinder::FindCoverYaw
+UAICoverFinder::IsCoverAvailable
+UAICoverFinder::IsLocationInCover
+UAICoverFinder::IsLocationInCoverBehindActor
+UAICoverFinder::IsLocationInCoverBehindActors
+UAIKnowledge
+UAimAroundAction
+UAimAroundAction::GetRouteCacheZDiffForPawn
+UAimAroundAction::GetStaircaseTravelDirection
+UAimAroundAction::ShouldContinueAimingAtCurrentPoint
+UAimAroundAction::execGetStaircaseTravelDirection
+UAimAroundAction::execGetZDiffFromPawnToActor
+UAimAroundAction::execIsPointTooClose
+UAimAroundAction::execShouldContinueAimingAtCurrentPoint
+UCachedEngageInfo
+UCommanderAction
+UCommanderAction::execIsIgnoringComplianceOrders
+UCommanderGoal
+UEnemyCommanderAction
+UHive::AddCachedEngageInfo
+UHive::AssignOfficersToThreateningAssignments
+UHive::DeterminePossibleAssignments
+UHive::GetCachedEngageInfoForOpponent
+UHive::GetOfficer
+UHive::GetUncompliantAssignmentWeight
+UHive::HasAIBeenEncountered
+UHive::IsAnEngagingPoint
+UHive::Tick
+UHive::execClearEngagingPointForOfficer
+UHive::execFindEngagingPointForOfficerInRoom
+UHive::execFindEngagingPointForOfficerInRoom[CurrentWeapon is non-NULL]
+UHive::execFindEngagingPointForOfficerInRoom[EngageInfo was NOT cached]
+UHive::execFindEngagingPointForOfficerInRoom[EngageInfo was cached]
+UHive::execFindEngagingPointForOfficerInRoom[RoomNavigationPoints was non-NULL]
+UHive::execFindEngagingPointForOfficerInRoom[determining is we can engage from this point]
+UHive::execFindEngagingPointForOfficerInRoom[inside Officer->logAI]
+UHive::execFindEngagingPointForOfficerInRoom[iterating over RoomNavigationPoints]
+UHive::execSetEngagingPointForOfficer
+UHive::execUpdateOfficerAssignments
+UHiveBlackboard
+UHiveBlackboard::ClearAssignedTargets
+UHiveBlackboard::HasAIBeenEncountered
+UHiveBlackboard::ValidateEncounteredAIs
+UHiveBlackboard::ValidateEncounteredEnemies
+UHiveBlackboard::ValidateEncounteredHostages
+UHiveBlackboard::ValidatePlayerEnemy
+UHiveBlackboard::execGetNumOfficers
+UHiveBlackboard::execGetOfficer
+UHiveBlackboard::execHasAIBeenEncountered
+UHiveBlackboard::execUpdateEnemy
+UHiveBlackboard::execUpdateHostage
+UHostageCommanderAction
+UMoveToActionBase
+UMoveToActionBase::IsDoorBlockingMovement
+UOfficerCommanderAction
+UOfficerCommanderAction::execGetCurrentAssignment
+UPatrolList
+UPatrolList::AddPatrolPathLocation
+UPatrolList::ClearPatrolPathLocations
+UPatrolList::FindPatrolPointForIndex
+UPatrolList::InitializePatrolList
+USwatCharacterAction
+USwatCharacterGoal
+USwatMovementAction
+USwatWeaponAction
+UTakeCoverAction
+UTakeCoverAndAttackAction
+UUseOptiwandAction
+UnlockAim
+UnregisterHearingNotification
+UnregisterVisionNotification
+UnsetUpperBodyAnimBehavior
+WVPh(l
+Warning: No pawn or goal for FindPathToActor by %s in %s
+WeightedAssignments
+[OfficerOpponent->Anchor was NULL, OfficerOpponent's location was (%g,%g,%g)]
+\$$~LV
+_CxxThrowException
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+autoclassAAlternateStackupPoint
+autoclassABaseDoorPoint
+autoclassABlueSquadInfo
+autoclassAClearPoint
+autoclassAClearRoutePoint
+autoclassAColoredSquadInfo
+autoclassAElementSquadInfo
+autoclassALeftClearPoint
+autoclassALeftStackupPoint
+autoclassAOfficerTeamInfo
+autoclassAPatrolPoint
+autoclassAPlacedThrowPoint
+autoclassARedSquadInfo
+autoclassARightClearPoint
+autoclassARightStackupPoint
+autoclassAStackupPoint
+autoclassAStaircaseAimPoint
+autoclassASwatAIRepository
+autoclassIISwatAI
+autoclassIISwatEnemy
+autoclassIISwatOfficer
+autoclassUAICoverFinder
+autoclassUAIKnowledge
+autoclassUAimAroundAction
+autoclassUCachedEngageInfo
+autoclassUCommanderAction
+autoclassUCommanderGoal
+autoclassUEnemyCommanderAction
+autoclassUHive
+autoclassUHiveBlackboard
+autoclassUHostageCommanderAction
+autoclassUMoveToActionBase
+autoclassUOfficerCommanderAction
+autoclassUPatrolList
+autoclassUSwatCharacterAction
+autoclassUSwatCharacterGoal
+autoclassUSwatMovementAction
+autoclassUSwatWeaponAction
+autoclassUTakeCoverAction
+autoclassUTakeCoverAndAttackAction
+autoclassUUseOptiwandAction
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnTemplate.h
+coverActor != NULL
+index < GetNumOfficers()
+index >= 0
+intASwatAIRepositoryexecDoesRoomContainAIs
+intASwatAIRepositoryexecFindAllOfNavigationPointClass
+intASwatAIRepositoryexecFindClosestOfNavigationPointClass
+intASwatAIRepositoryexecGetBlueSquad
+intASwatAIRepositoryexecGetClosestRoomNameToPoint
+intASwatAIRepositoryexecGetClosestUncompliantViewableAIInRoom
+intASwatAIRepositoryexecGetElementSquad
+intASwatAIRepositoryexecGetRedSquad
+intASwatAIRepositoryexecGetRoomNavigationPoints
+intASwatAIRepositoryexecGetRoomNavigationPointsOfType
+intASwatAIRepositoryexecSetNavigationPointListForRoom
+intUAICoverFinderexecFindCover
+intUAICoverFinderexecFindCoverBehindActor
+intUAICoverFinderexecIsCoverAvailable
+intUAICoverFinderexecIsLocationInCover
+intUAICoverFinderexecIsLocationInCoverBehindActor
+intUAIKnowledgeexecGetLastKnownKnowledgeAboutPawn
+intUAIKnowledgeexecHasKnownKnowledgeAboutPawn
+intUAIKnowledgeexecOnViewerLostPawn
+intUAIKnowledgeexecOnViewerSawPawn
+intUAIKnowledgeexecUpdateKnowledgeAboutPawn
+intUAimAroundActionexecGetStaircaseTravelDirection
+intUAimAroundActionexecGetZDiffFromPawnToActor
+intUAimAroundActionexecIsPointTooClose
+intUAimAroundActionexecShouldContinueAimingAtCurrentPoint
+intUCommanderActionexecIsIgnoringComplianceOrders
+intUHiveBlackboardexecHasAIBeenEncountered
+intUHiveBlackboardexecUpdateEnemy
+intUHiveBlackboardexecUpdateHostage
+intUHiveexecClearEngagingPointForOfficer
+intUHiveexecFindEngagingPointForOfficerInRoom
+intUHiveexecGetNumOfficers
+intUHiveexecGetOfficer
+intUHiveexecSetEngagingPointForOfficer
+intUHiveexecUpdateOfficerAssignments
+intUMoveToActionBaseexecFindPathToActor
+intUMoveToActionBaseexecFindPathToLocation
+intUMoveToActionBaseexecMoveTowardActor
+intUMoveToActionBaseexecMoveTowardLocation
+intUMoveToActionBaseexecPollMoveTowardActor
+intUMoveToActionBaseexecPollMoveTowardLocation
+intUOfficerCommanderActionexecGetCurrentAssignment
+intUUseOptiwandActionexecLookForPawnsUsingOptiwand
+isVisible
+newActor
+oldActor
+pAStackupPoint::TestDoorOpenPlacement
+pCast of %s to %s failed
+pSpawner
+rUHive::ValidateEngagingMap
+routeCachePawn != NULL
+sUHive::AssignOfficersToNonThreateningAssignments
+tJ9H\uV9
+zoneNumber = %d

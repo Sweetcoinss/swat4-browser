@@ -1,0 +1,275 @@
+# Strings extracted from IGSoundEffectsSubsystem.dll (122880 bytes)
+# Total strings: 883, filtered: 272
+
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+!This program cannot be run in DOS mode.
+!inWorldLocation.IsZero()
+(%s @ %s : %04X)
+)USoundSet::MakeSoundAvailable
+..\..\content\sounds\%s
+.\SoundEffectSpecification.cpp
+.\SoundEffectsSubsystem.cpp
+.\SoundInstance.cpp
+.\SoundRef.cpp
+.\SoundSet.cpp
+.\StreamSoundEffectSpecification.cpp
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0#1(1.1
+02060D0J0\0a0x0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1p1
+1 101D1P1X1x1
+1(1@1H1P1X1d1|1
+1+20262j2{2
+1:2C2f2
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2!2)212A2H2N2a2i2q2
+2$22272J2P2V2\2b2p2x2
+2&2:2?2S2X2j2z2
+2(292>2D2f2
+242S2o2}2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3%3+3F3z3
+3!3)313A3H3N3a3i3q3
+3$3D3L3T3\3d3t3
+3(3@3L3d3l3t3
+3(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+33383J3Z3{3
+363`3h3v3{3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4,4D4L4T4\4d4l4t4
+4!4)414A4H4N4a4i4q4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5@5H5X5l5x5
+5!5)515A5H5N5a5i5q5
+5)5.545V5
+5)5E5`5u5
+535j5{5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6!6)616A6H6N6a6i6q6
+6(797>7D7v7
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 7(787L7X7`7
+7!7)717A7H7N7a7i7q7
+7!757:7U7^7c7q7
+7"898^8}8
+7#7(7\7
+738?8D8\8a8
+758U8^8e8u8{8
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8 8@8H8X8l8x8
+8!8)818A8H8N8a8i8q8
+8$959:9@9v9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9@9H9X9l9x9
+9!9)919A9H9N9a9i9q9
+9$9,9<9P9\9d9
+9$949H9T9\9t9
+9@:[:d:m:t:
+: :$:(:,:0:4:8:<:@:D:H:L:P:
+: :%:B:F:R:X:e:|:
+: :,:4:D:P:x:
+:!:1:A:Q:a:q:
+:#;E;K;
+:$:0:8:X:`:p:
+:$:3:O:]:m:
+:(:V:g:l:r:
+:,:4:<:L:`:t:
+:.:>:D:J:P:V:\:b:h:n:t:z:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;p;t;x;|;
+; ;0;D;P;X;h;t;
+; ;4;@;H;h;p;x;
+;";(;.;4;:;@;F;L;R;X;^;d;j;p;v;|;
+;#<_<p<u<{<
+;,;L;\;y;
+<#<)<?<O<g<n<z<
+<(<@<L<d<p<
+<0<8<H<\<h<p<
+<:<b<i<p<u<
+= =&=,=2=8=>=D=J=P=V=\=b=h=n=t=z=
+= =(=0=@=T=`=h=
+= =/=9=D=M=Y=^=m=w=
+= =g=q=z=
+= =p=x=
+=(=F=^=e=t=z=
+=2=6=D=J=\=a=x=
+> >0>D>P>X>x>
+?'?B?P?U?m?v?{?
+?(?4?L?X?p?|?
+?*?/?5?\?o?
+AActorBank
+ASoundEffectSubsystem::StopInstance
+ASoundEffectsSubsystem
+ASoundEffectsSubsystem::CanStartInstance
+ASoundEffectsSubsystem::GetAudio
+ASoundEffectsSubsystem::GetSoundInstanceDuration
+ASoundEffectsSubsystem::HandleOverlap
+ASoundEffectsSubsystem::InitExecution
+ASoundEffectsSubsystem::KillInstance
+ASoundEffectsSubsystem::MuteInstance
+ASoundEffectsSubsystem::OnSubsystemStoppedSound
+ASoundEffectsSubsystem::PlayInstance
+ASoundEffectsSubsystem::RemoveFromCurrentSounds
+ASoundEffectsSubsystem::UnMuteInstance
+ASoundEffectsSubsystem::execCreateSoundInstance
+ASoundEffectsSubsystem::execGetSoundDebugText
+ASoundEffectsSubsystem::execHasAudiohardware
+ASoundEffectsSubsystem::execSetNativeLooping
+ASoundEffectsSubystem::execCanStartInstance
+ASoundEffectsSubystem::execIsSchemaPlaying
+ASoundEffectsSubystem::execKillInstance
+ASoundEffectsSubystem::execStopAllSchemas
+ASoundEffectsSubystem::execStopMyLoopingSchemas
+ASoundEffectsSubystem::execStopMySchemas
+ASoundEffectsSusbsystem::execNativeInitialize
+ASoundInstance
+ASoundInstance::HandleUpdating
+ASoundInstance::MuteSound
+ASoundInstance::PlaySound
+ASoundInstance::StopSound
+ASoundInstance::UnMuteSound
+ASoundInstance::execSetPitch
+ASoundMarker
+ASoundMarkerBase
+ActualSound
+AllSounds(i)->Equals (inSoundRef)
+AllSounds(inSpecificSoundRef)
+CASoundInstace::Tick
+CallingObserverStarted
+ConstructSoundInstance_HandleTiming
+ConstructSoundInstance_PickingSound
+ConstructSoundInstance_SetPitch
+CurrentSounds(ct)
+FLHt Ht
+GPackage
+GetLevel() -> Engine
+GlobalSoundStoppedByAudioSubsystem
+HandleDistanceMuting error! Manager is: %s, ActualSound is: %s
+HashMapHash
+IGSoundEffectsSubsystem
+InitHook
+ObserverStopped
+OnDeposited
+OnSubsystemStoppedSound() crashed!  CurrentSounds array length is: %i
+OnWithdrawn
+PlayMySound
+PlaySpecificSoundFromSchema
+PopulateSoundsHook
+SetNativeFlagsHook
+Sound: %s is not playing but there is still a valid SoundHandle
+SoundEffectSpecification::execNativeInitialize
+SoundEffectSpecification::execStopSoundInstance
+SoundEffectsSubsystem::PrecacheEffectSpecification
+SoundEffectsSubsystem::PrecacheSoundEffect
+SoundInstace::execPlaySoundInstance
+SoundInstance::execGetDuration
+SoundSet
+SoundSpec
+Speakers
+There are no Streams specified for StreamSoundEffectSpecification: 
+UNormalSoundEffectSpecification
+UNormalSoundRef
+UNormalSoundRef::Mute
+UNormalSoundRef::Play
+UNormalSoundRef::SetPitch
+UNormalSoundRef::SetVolume
+UNormalSoundRef::UnMute
+USoundEffectSpecification
+USoundEffectSpecification::HandleEndTimeSoundInstance
+USoundEffectSpecification::HandleLazyInitialization
+USoundEffectSpecification::HandleLoopingSoundInstance
+USoundEffectSpecification::PickSoundToPlay
+USoundEffectSpecification::PopulateSoundSets
+USoundEffectSpecification::SetNativeFlags
+USoundEffectSpecification::UpdateHistory
+USoundEffectSpecification::execConstructSoundInstance
+USoundEffectSpecification::execPickSoundToPlay
+USoundEffectSpecification::execWantstoLoop
+USoundRef
+USoundSet
+USoundSet::AddSoundRef
+USoundSet::GetSoundRef
+USoundSet::PickRandomSound
+USoundSet::UseSound
+USoundSet::execAddSoundRef
+USpeakers
+UStreamSoundEffectSpecification
+UStreamSoundEffectSpecification::RegisterStream
+UStreamSoundEffectSpecification::execPopulateSoundsHook
+UStreamSoundRef
+UStreamSoundRef::Mute
+UStreamSoundRef::SetPitch
+UStreamSoundRef::SetVolume
+UStreamSoundRef::UnMute
+UStreamSoundref::execResumeStream
+Withdraw
+[CAPTION] ASoundInstance::PlaySound() Playing a sound from Schema %s, Caption=%s
+[c=ff0080]WARNING, Unknown Speaker![\c] 
+_CxxThrowException
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+autoclassAActorBank
+autoclassASoundEffectsSubsystem
+autoclassASoundInstance
+autoclassASoundMarker
+autoclassASoundMarkerBase
+autoclassUNormalSoundEffectSpecification
+autoclassUNormalSoundRef
+autoclassUSoundEffectSpecification
+autoclassUSoundRef
+autoclassUSoundSet
+autoclassUSpeakers
+autoclassUStreamSoundEffectSpecification
+autoclassUStreamSoundRef
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnObjBas.h
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnTemplate.h
+c:\perforce\branches\swat4\staging\source\unreal\igsoundeffectssubsystem\inc\IGSoundEffectsSubsystemClasses.h
+calling precachestreamingsoundeffect
+d%s [%s]
+eUStreamSoundref::execPauseStream
+i < AllSounds.Num()
+inInstance
+inInstance != NULL
+inInstance->GetLevel()-> Engine
+inInstance->Manager->GetAudio()
+inInstance->SoundHandle != INVALID_SOUND_INDEX
+inSource != NULL
+intASoundEffectsSubsystemexecAddToCurrentSounds
+intASoundEffectsSubsystemexecCanStartInstance
+intASoundEffectsSubsystemexecCreateSoundInstance
+intASoundEffectsSubsystemexecGetSoundDebugText
+intASoundEffectsSubsystemexecHasAudioHardware
+intASoundEffectsSubsystemexecIsSchemaPlaying
+intASoundEffectsSubsystemexecKillInstance
+intASoundEffectsSubsystemexecNativeInitialize
+intASoundEffectsSubsystemexecPostLoaded
+intASoundEffectsSubsystemexecSetNativeLooping
+intASoundEffectsSubsystemexecStopAllLoopingSchemas
+intASoundEffectsSubsystemexecStopAllSchemas
+intASoundEffectsSubsystemexecStopMyLoopingSchemas
+intASoundEffectsSubsystemexecStopMySchemas
+intASoundEffectsSubsystemexecStopSound
+intASoundInstanceexecGetDuration
+intASoundInstanceexecPlay
+intASoundInstanceexecSetObserver
+intASoundInstanceexecSetPitch
+intASoundInstanceexecSetVolume
+intASoundInstanceexecStop
+intUSoundEffectSpecificationexecConstructSoundInstance
+intUSoundEffectSpecificationexecNativeInitialize
+intUSoundEffectSpecificationexecPickSoundToPlay
+intUSoundEffectSpecificationexecWantsToLoop
+intUSoundSetexecAddSoundRef
+intUStreamSoundEffectSpecificationexecPopulateSoundsHook
+intUStreamSoundRefexecPauseStream
+intUStreamSoundRefexecPlayStream
+intUStreamSoundRefexecResumeStream
+intUStreamSoundRefexecStopStream
+pASoundInstance::execSetVolume
+rASoundInstance::HandleDistanceMuting
+random >= 0 && random < availableSounds.Num()
+toString

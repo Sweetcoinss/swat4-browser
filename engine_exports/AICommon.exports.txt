@@ -1,0 +1,126 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\AICommon.dll
+
+File Type: DLL
+
+  Section contains the following exports for AICommon.dll
+
+    00000000 characteristics
+    421677BF time date stamp Fri Feb 18 23:18:23 2005
+        0.00 version
+           1 ordinal base
+         100 number of functions
+         100 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001A40 ??0ASquadInfo@@QAE@ABV0@@Z
+          2    1 00001A20 ??0ASquadInfo@@QAE@XZ
+          3    2 00001180 ??0IIHearingNotification@@IAE@XZ
+          4    3 000011A0 ??0IIHearingNotification@@QAE@ABV0@@Z
+          5    4 00001360 ??0IIVisionNotification@@IAE@XZ
+          6    5 00001380 ??0IIVisionNotification@@QAE@ABV0@@Z
+          7    6 00001B90 ??0UHearingNotifier@@IAE@XZ
+          8    7 00001BB0 ??0UHearingNotifier@@QAE@ABV0@@Z
+          9    8 00001CE0 ??0UShotNotifier@@IAE@XZ
+         10    9 00001D00 ??0UShotNotifier@@QAE@ABV0@@Z
+         11    A 00001540 ??0UVisionNotifier@@QAE@ABV0@@Z
+         12    B 000033B0 ??0UVisionNotifier@@QAE@XZ
+         13    C 00001840 ??1ASquadInfo@@UAE@XZ
+         14    D 00001120 ??1IIHearingNotification@@UAE@XZ
+         15    E 00001300 ??1IIVisionNotification@@UAE@XZ
+         16    F 00001B10 ??1UHearingNotifier@@UAE@XZ
+         17   10 00001C80 ??1UShotNotifier@@UAE@XZ
+         18   11 000014C0 ??1UVisionNotifier@@UAE@XZ
+         19   12 000010A0 ??2ASquadInfo@@SAPAXIPAVUObject@@VFName@@K@Z
+         20   13 00001110 ??2ASquadInfo@@SAPAXIPAW4EInternal@@@Z
+         21   14 000010E0 ??2IIHearingNotification@@SAPAXIPAVUObject@@VFName@@K@Z
+         22   15 00001110 ??2IIHearingNotification@@SAPAXIPAW4EInternal@@@Z
+         23   16 000012D0 ??2IIVisionNotification@@SAPAXIPAVUObject@@VFName@@K@Z
+         24   17 00001110 ??2IIVisionNotification@@SAPAXIPAW4EInternal@@@Z
+         25   18 00001410 ??2UHearingNotifier@@SAPAXIPAVUObject@@VFName@@K@Z
+         26   19 00001110 ??2UHearingNotifier@@SAPAXIPAW4EInternal@@@Z
+         27   1A 00001450 ??2UShotNotifier@@SAPAXIPAVUObject@@VFName@@K@Z
+         28   1B 00001110 ??2UShotNotifier@@SAPAXIPAW4EInternal@@@Z
+         29   1C 00001490 ??2UVisionNotifier@@SAPAXIPAVUObject@@VFName@@K@Z
+         30   1D 00001110 ??2UVisionNotifier@@SAPAXIPAW4EInternal@@@Z
+         31   1E 000018B0 ??4ASquadInfo@@QAEAAV0@ABV0@@Z
+         32   1F 000011C0 ??4IIHearingNotification@@QAEAAV0@ABV0@@Z
+         33   20 000011C0 ??4IIVisionNotification@@QAEAAV0@ABV0@@Z
+         34   21 000019B0 ??4UHearingNotifier@@QAEAAV0@ABV0@@Z
+         35   22 000019E0 ??4UShotNotifier@@QAEAAV0@ABV0@@Z
+         36   23 00001590 ??4UVisionNotifier@@QAEAAV0@ABV0@@Z
+         37   24 00005560 ??_7ASquadInfo@@6B@
+         38   25 00005378 ??_7IIHearingNotification@@6B@
+         39   26 000053F0 ??_7IIVisionNotification@@6B@
+         40   27 00005758 ??_7UHearingNotifier@@6B@
+         41   28 000057D0 ??_7UShotNotifier@@6B@
+         42   29 00005468 ??_7UVisionNotifier@@6B@
+         43   2A 0000B148 ?AICOMMON_OnListenerHeardNoise@@3VFName@@A
+         44   2B 0000A64C ?AICOMMON_OnViewerLostPawn@@3VFName@@A
+         45   2C 0000A0D4 ?AICOMMON_OnViewerSawPawn@@3VFName@@A
+         46   2D 00001DF0 ?CleanupDestroyed@ASquadInfo@@UAEXXZ
+         47   2E 000034A0 ?Destroy@UVisionNotifier@@UAEXXZ
+         48   2F 00001DC0 ?InternalConstructor@ASquadInfo@@SAXPAX@Z
+         49   30 00001790 ?InternalConstructor@IIHearingNotification@@SAXPAX@Z
+         50   31 000017A0 ?InternalConstructor@IIVisionNotification@@SAXPAX@Z
+         51   32 00001DD0 ?InternalConstructor@UHearingNotifier@@SAXPAX@Z
+         52   33 00001DE0 ?InternalConstructor@UShotNotifier@@SAXPAX@Z
+         53   34 00001530 ?InternalConstructor@UVisionNotifier@@SAXPAX@Z
+         54   35 000021D0 ?IsOnCurrentSeenList@UVisionNotifier@@IAE_NPBVAPawn@@@Z
+         55   36 00002200 ?IsOnSeenList@UVisionNotifier@@IAE_NPBVAPawn@@@Z
+         56   37 00002230 ?IsOnVisionNotificationList@UVisionNotifier@@AAE_NPAVIIVisionNotification@@@Z
+         57   38 00002630 ?IsVisible@UVisionNotifier@@UAE_NPBVAPawn@@@Z
+         58   39 000028A0 ?NotifyNoLongerSeen@UVisionNotifier@@IAEXPBVAPawn@@@Z
+         59   3A 000029C0 ?NotifySeen@UVisionNotifier@@IAEXPBVAPawn@@@Z
+         60   3B 00001730 ?OnListenerHeardNoise@IIHearingNotification@@QAEXPAVAPawn@@PAVAActor@@VFVector@@VFName@@@Z
+         61   3C 000027D0 ?OnPawnSeen@UVisionNotifier@@QAEXPBVAPawn@@@Z
+         62   3D 00001240 ?OnViewerLostPawn@IIVisionNotification@@QAEXPAVAPawn@@0@Z
+         63   3E 00001280 ?OnViewerSawPawn@IIVisionNotification@@QAEXPAVAPawn@@0@Z
+         64   3F 00002FD0 ?OnVisionSearchCompleted@UVisionNotifier@@UAEXXZ
+         65   40 0000B6C8 ?PrivateStaticClass@ASquadInfo@@0VUClass@@A
+         66   41 0000ABD0 ?PrivateStaticClass@IIHearingNotification@@0VUClass@@A
+         67   42 0000A658 ?PrivateStaticClass@IIVisionNotification@@0VUClass@@A
+         68   43 0000B150 ?PrivateStaticClass@UHearingNotifier@@0VUClass@@A
+         69   44 0000A0D8 ?PrivateStaticClass@UShotNotifier@@0VUClass@@A
+         70   45 0000BC48 ?PrivateStaticClass@UVisionNotifier@@0VUClass@@A
+         71   46 00001020 ?RegisterNamesAICommon@@YAXXZ
+         72   47 00003250 ?Serialize@UVisionNotifier@@UAEXAAVFArchive@@@Z
+         73   48 00001090 ?StaticClass@ASquadInfo@@SAPAVUClass@@XZ
+         74   49 000010D0 ?StaticClass@IIHearingNotification@@SAPAVUClass@@XZ
+         75   4A 000012C0 ?StaticClass@IIVisionNotification@@SAPAVUClass@@XZ
+         76   4B 00001400 ?StaticClass@UHearingNotifier@@SAPAVUClass@@XZ
+         77   4C 00001440 ?StaticClass@UShotNotifier@@SAPAVUClass@@XZ
+         78   4D 00001480 ?StaticClass@UVisionNotifier@@SAPAVUClass@@XZ
+         79   4E 00001E80 ?Tick@ASquadInfo@@UAEHMW4ELevelTick@@@Z
+         80   4F 00002450 ?execIsOnCurrentSeenList@UVisionNotifier@@QAEXAAUFFrame@@QAX@Z
+         81   50 00002540 ?execIsOnSeenList@UVisionNotifier@@QAEXAAUFFrame@@QAX@Z
+         82   51 00002BF0 ?execRegisterVisionNotification@UVisionNotifier@@QAEXAAUFFrame@@QAX@Z
+         83   52 00002AE0 ?execRemoveAnyReferencesToPawn@UVisionNotifier@@QAEXAAUFFrame@@QAX@Z
+         84   53 00002660 ?execUnregisterVisionNotification@UVisionNotifier@@QAEXAAUFFrame@@QAX@Z
+         85   54 00002E40 ?execlogSeenList@UVisionNotifier@@QAEXAAUFFrame@@QAX@Z
+         86   55 00002D30 ?logNotificationList@UVisionNotifier@@QAEXXZ
+         88   56 0000A070 GPackage
+         87   57 00001000 _DllMain@12
+         89   58 0000BC3C autoclassASquadInfo
+         90   59 0000B144 autoclassIIHearingNotification
+         91   5A 0000B14C autoclassIIVisionNotification
+         92   5B 0000A650 autoclassUHearingNotifier
+         93   5C 0000ABCC autoclassUShotNotifier
+         94   5D 0000C1BC autoclassUVisionNotifier
+         95   5E 0000C1CC intUVisionNotifierexecIsOnCurrentSeenList
+         96   5F 0000C1D8 intUVisionNotifierexecIsOnSeenList
+         97   60 0000C1C0 intUVisionNotifierexecRegisterVisionNotification
+         98   61 0000C1E4 intUVisionNotifierexecRemoveAnyReferencesToPawn
+         99   62 0000C1F8 intUVisionNotifierexecUnregisterVisionNotification
+        100   63 0000C1EC intUVisionNotifierexeclogSeenList
+
+  Summary
+
+        3000 .data
+        5000 .rdata
+        1000 .reloc
+        4000 .text

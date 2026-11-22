@@ -1,0 +1,139 @@
+# Strings extracted from SwatAIAwareness.dll (81920 bytes)
+# Total strings: 370, filtered: 136
+
+ !"#$%&'()*+,-./0123456798:;<=>?@ABCDEFG
+ SUVWj
+!This program cannot be run in DOS mode.
+.\Impl\Awareness.cpp
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0
+0$0+0:0C0O0T0c0m0x0
+1 1$1(101
+1 1%1A1J1O1r1v1
+2(242<2\2d2t2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3
+4 4%4+4F4r4{4
+4#4.4:4F4S4Y4`4i4o4~4
+4$4,4<4P4\4d4
+4(595>5D5f5
+5$5,5D5T5\5l5
+6 7I7r7
+7$8,8<8P8\8d8t8
+7(707H7P7`7h7x7
+8*8:8S8v8
+9 9,9D9`9|9
+9#:H:t:
+9(9<9H9P9h9x9
+9+:<:A:G:c:
+9;:L:Q:W:v:
+9b:s:x:~:
+: ;C;c;
+:(:4:<:\:d:t:
+:(:@:H:T:l:x:
+:*:H:O:Z:x:
+:<;Y;q;
+; <1<6<<<S<
+;0;<;T;\;h;
+< <0<D<P<X<h<p<x<
+< <8<@<H<P<X<`<l<
+<&</<?<F<j<s<
+<*</<C<H<Z<j<
+<7=I=}=
+= =0=8=@=H=T=|=
+=$=,=8=P=\=t=|=
+>(>@>H>T>
+? ?(?0?<?T?`?x?
+Awareness: Analyzing awareness visibility from navigation points
+Awareness: Analyzing potential awareness connections
+Awareness: Associating awareness points to closest navigation point
+Awareness: Associating each navigation point to an awareness point
+Awareness: Cleaning up temporary graph points
+Awareness: Collapsing clustered points
+Awareness: Connecting awareness points from graph connections
+Awareness: Creating all potential graph points
+Awareness: Creating awareness points from graph points
+Awareness: Creating level object's awareness point list
+Awareness: Destroying connections from all designer placed points
+Awareness: Destroying door models for connection testing
+Awareness: Destroying previously auto-generated awareness points
+Awareness: Determining which connections to prune
+Awareness: Finding graph's edge points
+Awareness: Pruning connections
+Awareness: Pruning unused points
+Awareness: Removing duplicate points
+Awareness: Spawning door models for connection testing
+Awareness::DrawDebugInfo
+Awareness::GetKnowledge
+Awareness::GetKnowledgeForSet
+Awareness::GetPotentiallyVisibleKnowledge
+Awareness::GetVisibleKnowledge
+Awareness::IsPawnAThreat
+Awareness::OnListenerHeardNoise
+Awareness::OnOtherActorDestroyed
+Awareness::OnOtherPawnDied
+Awareness::OnViewerLostPawn
+Awareness::OnViewerSawPawn
+Awareness::RemovePawnFromCachedData
+Awareness::RemovePawnFromOuterPawns
+Awareness::Tick
+Awareness::UpdateAbsoluteKnowledge
+Awareness::UpdateAbsoluteKnowledgeForSet
+Awareness::UpdateDiffusedKnowledge
+Awareness::UpdateThreatInfo
+Awareness::UpdateThreatPoints
+AwarenessPointVision::CachePotentiallyVisibleSet
+AwarenessPointVision::CacheVisibleSet
+AwarenessPointVision::GetClosestNavigationPoint
+AwarenessPointVision::GetPotentiallyVisibleSet
+AwarenessPointVision::GetVisibleSet
+AwarenessPointVision::IsVisible
+AwarenessPointVisionAggregate::DestroyVisionObjectForPawn
+AwarenessPointVisionAggregate::GetPotentiallyVisibleSet
+AwarenessPointVisionAggregate::GetVisibleSet
+AwarenessPointVisionAggregate::GetVisionObjects
+AwarenessPointVisionAggregate::IsVisible
+GPackage
+GetKnownLocationOfPawn
+GetPawnAnchor
+HashMapHash
+IIAwarenessOuter
+IsOtherActorAThreat
+L$ ]_^2
+L$ _]d
+L$ _^][d
+L$(_^][d
+PathNode131
+PathNode72
+R0c0h0n031V1j1o1
+RegisterHearingNotification
+RegisterVisionNotification
+RightClearPoint81
+SwatAIAwareness
+T$\RWP
+UAwarenessProxy
+UAwarenessProxy::Tick
+UnregisterHearingNotification
+UnregisterVisionNotification
+_CxxThrowException
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+autoclassIIAwarenessOuter
+autoclassUAwarenessProxy
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnTemplate.h
+intUAwarenessProxyexecDrawDebugInfo
+intUAwarenessProxyexecForceViewerSawPawn
+intUAwarenessProxyexecGetKnowledge
+intUAwarenessProxyexecGetPotentiallyVisibleKnowledge
+intUAwarenessProxyexecGetVisibleKnowledge
+intUAwarenessProxyexecInit
+intUAwarenessProxyexecOnListenerHeardNoise
+intUAwarenessProxyexecOnOtherActorDestroyed
+intUAwarenessProxyexecOnOtherPawnDied
+intUAwarenessProxyexecOnViewerLostPawn
+intUAwarenessProxyexecOnViewerSawPawn
+intUAwarenessProxyexecTerm
+l$(~xSV
+|$ ~3SU

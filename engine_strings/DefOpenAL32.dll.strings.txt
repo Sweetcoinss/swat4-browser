@@ -1,0 +1,337 @@
+# Strings extracted from DefOpenAL32.dll (159744 bytes)
+# Total strings: 447, filtered: 334
+
+         (((((                  H
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFG
+!This program cannot be run in DOS mode.
+- floating point not loaded
+- not enough space for _onexit/atexit table
+- not enough space for arguments
+- not enough space for environment
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- not enough space for thread data
+- pure virtual function call
+- unable to initialize heap
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0
+0 3$3(3,3034383<3@3D3H3L3P3T3X3\3z3$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+0"0&0*0.02060:0>0B0F0J0N0R0V0Z0^0b0f0j0n0r0v0z0~0
+0034383<3@3D3H3L3P3T3X3\3`3d3h3
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3
+33393{3
+3A8U8\8d8i82:M;d;
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4$505E5T5\5
+4)4O4h4v4
+4/494Z4o4
+4/595?5N5W5n5t5
+4E5d5}5
+4y5 6$6(6,616;6k697K7Q7W7`7j7s7}7
+5 5$5(5,5054585<5@5D5H5L5P5T5h5l5p5t5x5|5
+5,5;5m5}5
+5/5R5p5
+536O6 787j7
+6'6:6C6L6a6f6o6x6
+6)757Q7
+6O7\7k7
+7 7$7(7,7074787<7@7D7H7L7P7T7
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7
+7)717F7L7
+7d:h:l:p:t:x:|:
+7k7X<\<`<d<h<l<p<t<
+8 878C8I8Y8_8f8s8z8
+8$868H8\8
+9&:0:R:
+: :8:K:
+:":;:T:m:
+:$:,:4:<:D:L:
+:,;0;4;8;<;
+:8=P=W=_=d=h=l=
+:T;];t;x<
+;$;,;4;<;D;L;T;\;d;l;t;|;
+;*<5<P<W<\<`<d<
+;+;E;L;P;T;X;\;`;d;h;
+;B<\<e<
+<program name unknown>
+=$=/=;=h=n=u=
+=J=P=T=X=\=
+>)>2>8>D>I>S>Z>b>h>o>t>
+?&?-???G?W?h?{?
+?&?>?D?T?i?u?{?
+?)?/?4?:?J?S?m?~?
+ALC_ALL_ATTRIBUTES
+ALC_ATTRIBUTES_SIZE
+ALC_DEFAULT_DEVICE_SPECIFIER
+ALC_DEVICE_SPECIFIER
+ALC_EXTENSIONS
+ALC_FALSE
+ALC_FREQUENCY
+ALC_INVALID
+ALC_INVALID_CONTEXT
+ALC_INVALID_DEVICE
+ALC_INVALID_ENUM
+ALC_INVALID_VALUE
+ALC_MAJOR_VERSION
+ALC_MINOR_VERSION
+ALC_NO_ERROR
+ALC_OUT_OF_MEMORY
+ALC_REFRESH
+ALC_SYNC
+ALC_TRUE
+AL_BUFFER
+AL_BUFFERS_PROCESSED
+AL_BUFFERS_QUEUED
+AL_CHANNELS
+AL_CONE_INNER_ANGLE
+AL_CONE_OUTER_ANGLE
+AL_CONE_OUTER_GAIN
+AL_DIRECTION
+AL_DISTANCE_MODEL
+AL_DOPPLER_FACTOR
+AL_DOPPLER_VELOCITY
+AL_EXTENSIONS
+AL_FALSE
+AL_FORMAT_MONO16
+AL_FORMAT_MONO8
+AL_FORMAT_STEREO16
+AL_FORMAT_STEREO8
+AL_FREQUENCY
+AL_INITIAL
+AL_INVALID
+AL_INVALID_ENUM
+AL_INVALID_NAME
+AL_INVALID_OPERATION
+AL_INVALID_VALUE
+AL_INVERSE_DISTANCE
+AL_INVERSE_DISTANCE_CLAMPED
+AL_LOOPING
+AL_MAX_DISTANCE
+AL_MAX_GAIN
+AL_MIN_GAIN
+AL_NO_ERROR
+AL_ORIENTATION
+AL_OUT_OF_MEMORY
+AL_PAUSED
+AL_PENDING
+AL_PITCH
+AL_PLAYING
+AL_POSITION
+AL_PROCESSED
+AL_REFERENCE_DISTANCE
+AL_RENDERER
+AL_ROLLOFF_FACTOR
+AL_SOURCE_RELATIVE
+AL_SOURCE_STATE
+AL_STOPPED
+AL_UNUSED
+AL_VELOCITY
+AL_VENDOR
+AL_VERSION
+CloseHandle
+CoCreateInstance
+CoInitialize
+CoUninitialize
+Comments
+CompanyName
+Copyright 
+CreateEventA
+CreateThread
+Creative DS3D Wrapper Implementation
+Creative Labs
+Creative Labs Inc.
+Creative Labs OpenAL32
+DOMAIN error
+DeleteCriticalSection
+DirectSound
+DirectSound3D
+EAX 2.0, EAX 3.0, EAX Unified, and EAX-AC3
+EAXAC3GetFunctionTable
+EAXAC3QueryNumberOfDevices
+EnterCriticalSection
+ExitProcess
+ExitThread
+FileDescription
+FileVersion
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+FreeLibrary
+GAIsProcessorFeaturePresent
+GetActiveWindow
+GetCPInfo
+GetCommandLineA
+GetCurrentProcess
+GetEnvironmentStrings
+GetEnvironmentStringsW
+GetEnvironmentVariableA
+GetFileType
+GetForegroundWindow
+GetLastActivePopup
+GetMessageA
+GetModuleFileNameA
+GetModuleHandleA
+GetOEMCP
+GetProcAddress
+GetStartupInfoA
+GetStdHandle
+GetStringTypeA
+GetStringTypeW
+GetVersion
+GetVersionExA
+HeapAlloc
+HeapCreate
+HeapDestroy
+HeapFree
+HeapReAlloc
+InitializeCriticalSection
+InternalName
+Invalid Context
+Invalid Device
+Invalid Enum
+Invalid Name
+Invalid Operation
+Invalid Value
+IsBadWritePtr
+KERNEL32
+Kh:(Lf
+L$(WQS
+L$0UQj 
+LCMapStringA
+LCMapStringW
+LeaveCriticalSection
+LegalCopyright
+LegalTrademarks
+LoadLibraryA
+MMSYSTEM
+MessageBoxA
+Microsoft Visual C++ Runtime Library
+MultiByteToWideChar
+No Error
+Open AL, EAX, EAX Advanced HD, AC3
+OpenAL 1.0
+OpenAL32
+OriginalFilename
+Out of Memory
+PostThreadMessageA
+PrivateBuild
+ProductName
+ProductVersion
+Program: 
+Programmed by Carlo Vogelsang and Daniel Peacock
+RaiseException
+RtlUnwind
+Runtime Error!
+SING error
+SetEvent
+SetHandleCount
+Software
+SpecialBuild
+StringFileInfo
+T$ URj
+T$0Rh 
+TLOSS error
+TerminateProcess
+Translation
+VC20XC00U
+VS_VERSION_INFO
+VarFileInfo
+VirtualAlloc
+VirtualFree
+WaitForSingleObjectEx
+WaveOutAllHeadersReturned
+WaveOutThreadDestroyed
+WideCharToMultiByte
+WriteFile
+__MSVCRT_HEAP_SELECT
+abnormal program termination
+alBufferData
+alDeleteBuffers
+alDeleteSources
+alDisable
+alDistanceModel
+alDopplerFactor
+alDopplerVelocity
+alEAXAC3GetFunctionTable
+alEnable
+alGenBuffers
+alGenSources
+alGetBoolean
+alGetBooleanv
+alGetBufferf
+alGetBufferi
+alGetDouble
+alGetDoublev
+alGetEnumValue
+alGetError
+alGetFloat
+alGetFloatv
+alGetInteger
+alGetIntegerv
+alGetListener3f
+alGetListenerf
+alGetListenerfv
+alGetListeneri
+alGetProcAddress
+alGetSource3f
+alGetSourcef
+alGetSourcefv
+alGetSourcei
+alGetString
+alIsBuffer
+alIsEnabled
+alIsExtensionPresent
+alIsSource
+alListener3f
+alListenerf
+alListenerfv
+alListeneri
+alSource3f
+alSourcePause
+alSourcePausev
+alSourcePlay
+alSourcePlayv
+alSourceQueueBuffers
+alSourceRewind
+alSourceRewindv
+alSourceStop
+alSourceStopv
+alSourceUnqueueBuffers
+alSourcef
+alSourcefv
+alSourcei
+alcCloseDevice
+alcCreateContext
+alcDestroyContext
+alcGetContextsDevice
+alcGetCurrentContext
+alcGetEnumValue
+alcGetError
+alcGetIntegerv
+alcGetProcAddress
+alcGetString
+alcIsExtensionPresent
+alcMakeContextCurrent
+alcOpenDevice
+alcProcessContext
+alcSuspendContext
+k1)202
+q=:@ff
+runtime error 
+t.;t$$t(
+timeBeginPeriod
+timeEndPeriod
+timeGetDevCaps
+timeGetTime
+timeKillEvent
+timeSetEvent
+waveOutClose
+waveOutOpen
+waveOutPrepareHeader
+waveOutReset
+waveOutUnprepareHeader
+waveOutWrite
+zCNo Error

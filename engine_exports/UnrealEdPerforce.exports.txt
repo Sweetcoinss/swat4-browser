@@ -1,0 +1,42 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\UnrealEdPerforce.dll
+
+File Type: DLL
+
+  Section contains the following exports for UnrealEdPerforce.dll
+
+    00000000 characteristics
+    420E6223 time date stamp Sat Feb 12 20:08:03 2005
+        0.00 version
+           1 ordinal base
+          16 number of functions
+          16 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000019C0 ??0Perforce@@AAE@XZ
+          2    1 00001A30 ??1Perforce@@AAE@XZ
+          3    2 00001940 ??4Perforce@@QAEAAV0@ABV0@@Z
+          4    3 00001DE0 ?atHeadRevision@Perforce@@QAE_NPBG@Z
+          5    4 00002050 ?connect@Perforce@@QAE?AW4Result@1@XZ
+          6    5 00001E60 ?connectToServer@Perforce@@AAE?AW4Result@1@XZ
+          7    6 00002060 ?disconnect@Perforce@@QAEXXZ
+          8    7 00001F40 ?disconnectFromServer@Perforce@@AAEXXZ
+          9    8 00001A40 ?getClientSideRevision@Perforce@@AAEHPAD@Z
+         10    9 00001AC0 ?getServerSideRevision@Perforce@@AAEHPAD@Z
+         11    A 00001BE0 ?openForAdd@Perforce@@QAE?AW4Result@1@PBG@Z
+         12    B 00002130 ?openForEdit@Perforce@@QAE?AW4Result@1@PBG_N@Z
+         13    C 00002070 ?openedForAction@Perforce@@AAE_NPBDPAD@Z
+         14    D 00001FF0 ?singleton@Perforce@@SAAAV1@XZ
+         15    E 00001B40 ?syncToHeadRevision@Perforce@@AAE_NPAD@Z
+         16    F 00001D00 ?syncToHeadRevision@Perforce@@QAE?AW4Result@1@PBG_N@Z
+
+  Summary
+
+       31000 .data
+        5000 .rdata
+        3000 .reloc
+       28000 .text

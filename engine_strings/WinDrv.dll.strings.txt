@@ -1,0 +1,1562 @@
+# Strings extracted from WinDrv.dll (409600 bytes)
+# Total strings: 2120, filtered: 1559
+
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPRQST
+ !"#$%&7777777777777777'()77*+,-.777777/0123456
+ !"#$%&7777777777777777'()77*+,-.777777/0123456H
+ !"#$%&7777777777777777'()77*+,-.777777/0123456`*
+ !"#$%&7777777777777777'()77*+,-.777777/0123456xS
+ (hr=%s)
+!0)060k0q0
+!This program cannot be run in DOS mode.
+###:@s
+% !"#$
+% !"#$8
+% !"#$P;
+%S(%s): 
+%s (0x%0.8x)
+%s(%s): 
+(3D3d3
+(Y%S%R~
+* The specified property item may not be retrieved from the target object.
+.\WinClient.cpp
+.\WinViewport.cpp
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0*040>0H0R0\0f0p0
+0!0%0)0-0105090=0~0
+0!0+050?0I0S0]0g0q0{0
+0$0)030=0G0Q0[0e0o0y0
+0$0+000:0D0N0X0b0l0v0
+0%161a1r1w1}1
+0)000H0N0[0
+0/040:0
+0/1D1Y1
+024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1!1+151?1I1S1]1g1q1{1
+1"1&1*1.12161:1>1B1F1J1N1R1V1Z1^1b1f1j1n1r1v1
+1#1-171A1K1U1_1i1s1}1
+1#1=1D1I1S1]1g1q1{1
+1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1
+1%1/191C1M1W1a1k1u1
+1(121<1F1P1Z1d1n1x1
+1(1<1P1d1p1x1
+2 2$2(2,20242v3
+2 2&2,22282>2D2J2P2V2\2b2h2n2t2z2
+2 2*242>2H2R2\2f2p2z2
+2#2'2+2/23272;2?2
+2#2'2+2/23272;2?2C2G2K2O2S2W2[2_2c2g2k2o2s2w2{2
+2%2/292C2x2
+2\384E4X4~4
+3!3+353?3I3S3]3g3q3{3
+3#3'3+3/33373;3?3C3G3K3O3S3W3[3_3c3g3k3o3s3w3{3
+3&303:3D3N3X3b3l3v3
+3(323<3m3w3
+3)434=4G4Q4o4y4
+3S4\4a4f4
+4 4*444;4G4Y4^4d4y4~4
+4 4*444>4H4
+4 4C4M4W4a4{4
+4#4'4+4/43474;4?4C4
+4(424<4F4P4Z4d4n4x4
+4D4L4\4p4|4
+4S4]4g4q4{4
+4]4g4q4{4
+5 5*545>5H5R5\5f5p5z5
+5 5*545N5S5]5g5q5{5
+5 5+5F5P5a5f5l5
+5 5-5a5
+5"5&5*5.52565:5>5B5F5J5N5R5V5Z5^5b5f5j5
+5"5)555
+5$545H5T5\5x5
+5&505:5
+5'5>5C5I5}5
+5(5a5k5u5
+5)535=5g5q5{5
+5+50565G5S5X5^5o5x5}5
+6 6$6(6,6064686<6@6D6H6
+6 6(606@6H6P6`6h6p6
+6 6*646^6h6r6|6
+6 6*6Y6c6m6w6
+6!6%6)6-6165696=6A6E6I6M6Q6U6Y6]6a6e6i6m6q6u6y6}6
+6"6(6F6d6}6
+6#6-6s6}6
+6$646H6T6\6
+6%6/696C6M6W6a6k6u6
+6&606:6D6y6
+6)636<6O6^6d6}6
+6-696Q6b6g6m6(7:7@7e7
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7
+7 7(707@7H7P7`7h7p7
+7 7,747`7h7x7
+7 707@7P7`7p7
+7%7/797C7M7W7a7k7u7
+7%7/797\7f7p7z7
+7&707:7D7N7X7b7l7v7
+7(727U7_7i7s7
+7/898C8M8W8a8k8
+70?0\0m0r0x0
+757:7A7R7y7
+8 8*848>8H8R8\8f8p8
+8 8*848>8H8R8\8f8p8z8
+8 808@8P8`8p8
+8!8%8)8-8185898=8A8E8I8M8Q8U8Y8]8a8e8i8m8q8u8y8}8
+8"8&8*8.82868:8>8B8F8J8N8R8V8Z8^8
+8(828<8F8P8Z8d8n8x8
+8(828\8f8p8z8
+8)8/8<8G8_8|8
+8)838=8G8Q8[8e8o8y8
+8)838h8r8|8
+84<4@4D4P4T4X4\4`4d4h4l4p4t4x4|4
+8>9H9R9\9
+9 949H9\9p9|9
+9!9%9)9-9195999=9A9E9I9M9Q9U9
+9"9<9C9H9R9\9f9p9z9
+9$949H9T9\9
+9$9s9}9
+9&;L;{;
+9:9B9L9e9v9{9
+9:9K9P9V9
+: :&:,:2:8:>:D:J:P:V:\:b:h:n:t:z:
+: :,:4:`:h:x:
+:":&:*:.:2:6:::>:B:F:J:N:R:V:Z:^:b:f:j:n:r:v:z:~:
+:":,:6:@:J:T:^:h:r:|:
+:":A:I:h:p:
+:":J:Q:r:
+:";,;6;@;J;e;l;s;z;
+:#:':+:/:3:7:;:?:C:G:K:O:S:W:[:_:c:g:k:o:s:w:{:
+:$:.:8:B:
+:%:/:9:C:M:W:a:k:u:
+:&:0:::D:N:X:b:l:v:
+:&;0;:;D;N;q;{;
+:':1:;:U:\:a:k:u:
+:(:2:<:F:
+:(:9:>:D:v:
+:*:2:::B:]:t:
+:1:;:E:O:~:
+:5;>;P;
+:7:>:L:R:W:
+:D:N:X:b:l:v:
+:E;O;Y;c;m;
+:M:W:a:k:u:
+:R;m;s;z;
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; <(<8<L<X<`<
+;";(;.;4;:;@;F;L;R;X;^;d;j;p;v;|;
+;#;';+;/;3;7;;;?;C;G;K;O;S;W;
+;%;/;9;C;M;W;a;k;u;
+;&;0;:;D;N;X;b;l;v;
+;(;8;H;P;`;t;
+;/;:;Z;r;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+< <'<@<\<c<i<z<
+< <*<4<><H<R<\<f<p<z<
+<"<&<*<.<2<6<:<><B<F<J<N<R<
+<"<&<*<.<2<6<:<><B<F<J<N<R<V<Z<^<b<f<j<n<r<v<z<~<
+<#<'<+</<3<7<;<?<C<G<K<O<S<W<[<_<c<g<k<o<s<w<{<
+<(<2<<<F<P<Z<
+<)<3<=<G<q<{<
+<MHo(^7XD
+= =&=,=2=8=>=D=J=P=V=\=b=h=n=t=z=
+="=&=*=.=2=6=:=>=B=F=J=N=R=V=Z=^=b=f=j=n=r=v=z=
+=#='=+=/=3=7=;=?=C=G=K=O=S=W=[=
+=#=-=7=Q=X=]=g=q={=
+=(>C>U>b>
+=)=0=;=L=S=^=p=
+=)=9=J=O=U=y=
+=G=N=S=]=g=q={=
+> >0>@>P>`>p>
+> ><>T>u>
+>!>+>5>?>I>S>]>g>q>{>
+>">&>*>.>2>6>:>>>B>F>J>N>R>V>Z>^>b>f>j>n>r>v>z>~>
+>">/>9>?>I>
+>#>'>+>/>3>7>;>?>C>G>K>O>S>W>[>_>c>g>k>o>s>w>{>
+>%>*>0>A>\>a>u>|>
+>%>/>9>C>M>W>a>k>u>
+>&>+>5>?>I>S>]>g>q>{>
+>&>0>:>D>|>
+>(>/>6>=>a>h>o>v>}>
+>+>2>7>A>K>U>_>i>s>}>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+? ?*?M?W?a?k?
+?!?%?)?-?1?5?9?=?A?E?I?M?Q?U?Y?]?a?e?i?m?q?u?y?}?
+?"?@?]?{?
+?#?9?A?G?g?x?}?
+?%?/?9?C?M?W?a?k?u?
+?&?0?:?D?N?X?b?l?v?
+?(?,?0?4?8?<?
+?(?/?9?J?Q?[?l?s?}?
+?(?2?<?F?P?Z?d?n?x?
+?)?3?=?G?Q?[?e?o?y?
+?)?4?<?B?Z?m?s?
+?5?S?o?}?
+A DC has already been returned for this surface. Only one DC can be retrieved per surface.
+A DirectDraw object representing this driver has already been created for this process.
+A circular loop of send effects was detected
+A connection could not be made with the media type in the persistent graph, but has been made with a negotiated media type.
+A file appeared to be incomplete.
+A full-screen mode is not available.
+A hardware only DirectDraw object creation was attempted but the driver did not support any hardware.
+A mapper file function failed because reading or writing the user or IHV settings file failed. & A run-time error occurred.
+A registry entry is corrupt.
+A required interface has not been implemented.
+A required object is not initialized or failed to initialize.
+A script written in AudioVBScript could not be read because it contained a statement that is not allowed by the AudioVBScript language.
+A segment or song was asked for its embedded audio path configuration, but there isn't any. 
+A time-out has expired.
+A varient was used that had a type that is not supported by DirectMusic.
+Access is denied
+Access is denied.
+Access to Surface refused because Surface is obscured.
+Access to the device has been lost.  It must be re-acquired.
+Access to this palette is being refused because the palette is already locked by another thread.
+Access to this surface is being refused because the surface is already locked by another thread.
+Access to this surface is being refused because the surface is gone. The DIRECTDRAWSURFACE object representing this surface should have Restore called on it.
+ActiveMovie cannot play MPEG movies on this processor.
+ActiveMovie cannot play this video stream because it falls outside the constrained standard.
+Addressing
+AdjustWindowRect
+Already buffered
+Already closing
+Already connected
+Already disconnecting
+Already initialized
+Already pending
+Already registered
+Although the audio output from the port will be routed to the same device as the given DirectSound buffer, buffer controls such as pan and volume will not affect the output.
+An attempt has been made to flip a surface that is not flippable.
+An attempt to add a filter with a duplicate name failed.
+An attempt to add a filter with a duplicate name succeeded with a modified name.
+An attempt to use this object failed because it first needs to be loaded.
+An attempt was made to allocate non-local video memory from a device that does not support non-local video memory.
+An attempt was made to close the software synthesizer while it was already  open.
+An attempt was made to load a program with an incorrect format.
+An attempt was made to open the software synthesizer while it was already  open.
+An attempt was made to page unlock a surface with no outstanding page locks.
+An attempt was made to queue a command for a time in the past.
+An attempt was made to set the cooperative level when it was already set to exclusive.
+An audiopath could not be used for playback because it lacked port assignments.
+An audiopath failed to create because a requested buffer could not be created.
+An audiopath is inactive, perhaps because closedown was called.
+An error occured while parsing a script loaded using LoadScript.  The script that was loaded contains an error.
+An error occurred while attempting to read from the IStream* object.
+An error was encountered while parsing or executing the script. The pErrorInfo parameter (if supplied) was filled with information about the error.
+An exception was encountered while performing the requested operation
+An invalid alignment was specified.
+An invalid parameter was passed to the returning function
+An object or name was not found.
+An operation failed due to a certification failure.
+An overlay advise link already exists.
+An undetermined error occurred
+An unexpected error was returned from a device driver, indicating possible failure of the driver or hardware.
+Another app has a higher priority level, preventing this call from succeeding
+Articulation missing from instrument in DLS collection.
+AttachThreadInput
+Attempt to use DirectSound 8 functionality on an older DirectSound object
+Attempt was made to create an audiopath that sends to a global effects buffer which did not exist.
+Attempt was made to create or set a device window without first setting the focus window
+Attempt was made to play segment in audiopath mode and there was no audiopath.
+Attempt was made to set a palette on a mipmap sublevel
+Attempt was made to set a script's variable by reference to a value that was not an object type.
+Attempt was made to set a script's variable by value to an object that does not support a default value property.
+Attempted to download unknown data type.
+Attempted to read buffered device data from a device that is not buffered. & There is no common media type between these pins.
+Bad alloc
+Bad array size
+Bad cache file
+Bad data reference
+Bad file
+Bad file compression type
+Bad file float size
+Bad file type
+Bad file version
+Bad intrinsics
+Bad object
+Bad resource
+Bad stream handle
+Bad type
+Bad value
+Bad wave chunk in DLS collection
+Bitmask in the pixel format requested is unsupported by DirectDraw
+Buffer is not large enough for requested operation.
+Buffer too small
+Buffer was already downloaded to synth.
+CLASS_E_NOAGGREGATION
+CO_E_ALREADYINITIALIZED
+CO_E_NOTINITIALIZED
+Call successful, but returned FALSE
+Calling: %s
+Can not cancel
+Can not modify index buffer
+Can only have ony color key active at one time for overlays
+Can't duplicate primary & 3D surfaces, or surfaces that are implicitly created.
+Cannot allocate a sample when the allocator is not active.
+Cannot allocate memory because no size has been set.
+Cannot attr sort
+Cannot call IVideoWindow methods while in full-screen mode.
+Cannot change allocated memory while the filter is active.
+Cannot change balance because audio device is mono only.
+Cannot get or set time related information on an object that is using a time format of TIME_FORMAT_NONE.
+Cannot lock for synchronization because no clock has been defined.
+Cannot perform the requested function on an object that is not in the filter graph.
+Cannot play back the audio stream: no audio hardware is available, or the hardware is not responding.
+Cannot play back the audio stream: no audio hardware is available.
+Cannot play back the audio stream: the audio format is not supported.
+Cannot play back the file.  The format is not supported.
+Cannot play back the video stream: format 'RPZA' is not supported.
+Cannot play back the video stream: no suitable decompressor could be found.
+Cannot play back the video stream: the video format is not supported.
+Cannot render the file because it is corrupt.
+Cant create group
+Cant create player
+Cant launch application
+Cast of %s to %s failed
+Catastrophic failure
+Class not registered
+Class->IsChildOf(T::StaticClass())
+Client initialized
+ClientToScreen
+ClipCursor
+Clipper notification requires an HWND or no HWND has previously been set as the CooperativeLevel HWND.
+Closed viewport
+CoInitialize has already been called.
+CoInitialize has not been called.
+Compression not supported
+Conflicting render state
+Conflicting texture filter
+Conflicting texture palette
+Connect aborted
+Connect aborting
+Connected
+Connecting
+Connection lost
+Conversion
+Copy protection cannot be enabled. Please make sure any other copy protected content is not being shown now.
+Could not change formats dynamically.
+Couldn't bring window to foreground.
+Couldn't create input device
+Couldn't create mouse device
+Couldn't enumerate devices
+Couldn't enumerate joystick axis
+Couldn't get joystick caps
+Couldn't set cooperative level
+Couldn't set joystick data format
+Couldn't set mouse buffer size
+Couldn't set mouse data format
+Couldn't set relative axis mode for mouse
+Couldn't set window as active one.
+Create function called without DirectDraw object method SetCooperativeLevel being called.
+Creating IME context.
+Current pin connection is not using the IMemInputPin transport.
+Current pin connection is not using the IOverlay transport.
+Currently there is no GoUp (Annex J user function) program chain (PGC).
+D3D has not yet been initialized.
+D3DERR_CONFLICTINGRENDERSTATE
+D3DERR_CONFLICTINGTEXTUREFILTER
+D3DERR_CONFLICTINGTEXTUREPALETTE
+D3DERR_DEVICELOST
+D3DERR_DEVICENOTRESET
+D3DERR_DRIVERINTERNALERROR
+D3DERR_DRIVERINVALIDCALL
+D3DERR_INVALIDCALL
+D3DERR_INVALIDDEVICE
+D3DERR_MOREDATA
+D3DERR_NOTAVAILABLE
+D3DERR_NOTFOUND
+D3DERR_OUTOFVIDEOMEMORY
+D3DERR_TOOMANYOPERATIONS
+D3DERR_UNSUPPORTEDALPHAARG
+D3DERR_UNSUPPORTEDALPHAOPERATION
+D3DERR_UNSUPPORTEDCOLORARG
+D3DERR_UNSUPPORTEDCOLOROPERATION
+D3DERR_UNSUPPORTEDFACTORVALUE
+D3DERR_UNSUPPORTEDTEXTUREFILTER
+D3DERR_WRONGTEXTUREFORMAT
+D3DXERR_CANNOTATTRSORT
+D3DXERR_CANNOTMODIFYINDEXBUFFER
+D3DXERR_INVALIDDATA
+D3DXERR_INVALIDMESH
+D3DXERR_SKINNINGNOTSUPPORTED
+D3DXERR_TOOMANYINFLUENCES
+DDERR_ALREADYINITIALIZED
+DDERR_BLTFASTCANTCLIP
+DDERR_CANNOTATTACHSURFACE
+DDERR_CANNOTDETACHSURFACE
+DDERR_CANTCREATEDC
+DDERR_CANTDUPLICATE
+DDERR_CANTLOCKSURFACE
+DDERR_CANTPAGELOCK
+DDERR_CANTPAGEUNLOCK
+DDERR_CLIPPERISUSINGHWND
+DDERR_COLORKEYNOTSET
+DDERR_CURRENTLYNOTAVAIL
+DDERR_D3DNOTINITIALIZED
+DDERR_DCALREADYCREATED
+DDERR_DDSCAPSCOMPLEXREQUIRED
+DDERR_DEVICEDOESNTOWNSURFACE
+DDERR_DIRECTDRAWALREADYCREATED
+DDERR_EXCEPTION
+DDERR_EXCLUSIVEMODEALREADYSET
+DDERR_EXPIRED
+DDERR_HEIGHTALIGN
+DDERR_HWNDALREADYSET
+DDERR_HWNDSUBCLASSED
+DDERR_IMPLICITLYCREATED
+DDERR_INCOMPATIBLEPRIMARY
+DDERR_INVALIDCAPS
+DDERR_INVALIDCLIPLIST
+DDERR_INVALIDDIRECTDRAWGUID
+DDERR_INVALIDMODE
+DDERR_INVALIDOBJECT
+DDERR_INVALIDPIXELFORMAT
+DDERR_INVALIDPOSITION
+DDERR_INVALIDRECT
+DDERR_INVALIDSTREAM
+DDERR_INVALIDSURFACETYPE
+DDERR_LOCKEDSURFACES
+DDERR_MOREDATA
+DDERR_NEWMODE
+DDERR_NO3D
+DDERR_NOALPHAHW
+DDERR_NOBLTHW
+DDERR_NOCLIPLIST
+DDERR_NOCLIPPERATTACHED
+DDERR_NOCOLORCONVHW
+DDERR_NOCOLORKEY
+DDERR_NOCOLORKEYHW
+DDERR_NOCOOPERATIVELEVELSET
+DDERR_NODC
+DDERR_NODDROPSHW
+DDERR_NODIRECTDRAWHW
+DDERR_NODIRECTDRAWSUPPORT
+DDERR_NODRIVERSUPPORT
+DDERR_NOEMULATION
+DDERR_NOEXCLUSIVEMODE
+DDERR_NOFLIPHW
+DDERR_NOFOCUSWINDOW
+DDERR_NOGDI
+DDERR_NOHWND
+DDERR_NOMIPMAPHW
+DDERR_NOMIRRORHW
+DDERR_NOMONITORINFORMATION
+DDERR_NONONLOCALVIDMEM
+DDERR_NOOPTIMIZEHW
+DDERR_NOOVERLAYDEST
+DDERR_NOOVERLAYHW
+DDERR_NOPALETTEATTACHED
+DDERR_NOPALETTEHW
+DDERR_NORASTEROPHW
+DDERR_NOROTATIONHW
+DDERR_NOSTEREOHARDWARE
+DDERR_NOSTRETCHHW
+DDERR_NOSURFACELEFT
+DDERR_NOT4BITCOLOR
+DDERR_NOT4BITCOLORINDEX
+DDERR_NOT8BITCOLOR
+DDERR_NOTAOVERLAYSURFACE
+DDERR_NOTEXTUREHW
+DDERR_NOTFLIPPABLE
+DDERR_NOTFOUND
+DDERR_NOTLOADED
+DDERR_NOTLOCKED
+DDERR_NOTONMIPMAPSUBLEVEL
+DDERR_NOTPAGELOCKED
+DDERR_NOTPALETTIZED
+DDERR_NOVSYNCHW
+DDERR_NOZBUFFERHW
+DDERR_NOZOVERLAYHW
+DDERR_OUTOFCAPS
+DDERR_OVERLAPPINGRECTS
+DDERR_OVERLAYCANTCLIP
+DDERR_OVERLAYCOLORKEYONLYONEACTIVE
+DDERR_OVERLAYNOTVISIBLE
+DDERR_PALETTEBUSY
+DDERR_PRIMARYSURFACEALREADYEXISTS
+DDERR_REGIONTOOSMALL
+DDERR_SURFACEALREADYATTACHED
+DDERR_SURFACEALREADYDEPENDENT
+DDERR_SURFACEBUSY
+DDERR_SURFACEISOBSCURED
+DDERR_SURFACELOST
+DDERR_SURFACENOTATTACHED
+DDERR_TESTFINISHED
+DDERR_TOOBIGHEIGHT
+DDERR_TOOBIGSIZE
+DDERR_TOOBIGWIDTH
+DDERR_UNSUPPORTEDFORMAT
+DDERR_UNSUPPORTEDMASK
+DDERR_UNSUPPORTEDMODE
+DDERR_VERTICALBLANKINPROGRESS
+DDERR_VIDEONOTACTIVE
+DDERR_WASSTILLDRAWING
+DDERR_WRONGMODE
+DDERR_XALIGN
+DIERR_ACQUIRED
+DIERR_ALREADYINITIALIZED
+DIERR_BADDRIVERVER
+DIERR_BADINF
+DIERR_BETADIRECTINPUTVERSION
+DIERR_CANCELLED
+DIERR_DEVICEFULL & VFW_E_INVALIDSUBTYPE & DMO_E_INVALIDSTREAMINDEX
+DIERR_DRIVERFIRST
+DIERR_DRIVERLAST
+DIERR_EFFECTPLAYING & VFW_E_INVALID_DIRECTION
+DIERR_HASEFFECTS & VFW_E_ALREADY_CONNECTED & DMO_E_NOTACCEPTING
+DIERR_INCOMPLETEEFFECT & VFW_E_NO_TYPES & DMO_E_NO_MORE_ITEMS
+DIERR_INPUTLOST
+DIERR_INSUFFICIENTPRIVS & VFW_E_INVALIDMEDIATYPE
+DIERR_INVALIDCLASSINSTALLER
+DIERR_MAPFILEFAIL & VFW_E_RUNTIME_ERROR
+DIERR_MOREDATA & VFW_E_NEED_OWNER & DMO_E_INVALIDTYPE
+DIERR_NOMOREITEMS
+DIERR_NOTACQUIRED
+DIERR_NOTBUFFERED & VFW_E_NO_ACCEPTABLE_TYPES
+DIERR_NOTDOWNLOADED & VFW_E_ENUM_OUT_OF_SYNC & DMO_E_TYPE_NOT_SET
+DIERR_NOTEXCLUSIVEACQUIRED & VFW_E_FILTER_ACTIVE & DMO_E_TYPE_NOT_ACCEPTED
+DIERR_NOTINITIALIZED
+DIERR_OLDDIRECTINPUTVERSION
+DIERR_REPORTFULL & VFW_E_NO_ALLOCATOR
+DIERR_UNPLUGGED & VFW_E_NOT_CONNECTED
+DMUS_E_ALL_TOOLS_FAILED
+DMUS_E_ALL_TRACKS_FAILED
+DMUS_E_ALREADYCLOSED
+DMUS_E_ALREADYOPEN
+DMUS_E_ALREADY_ACTIVATED
+DMUS_E_ALREADY_DOWNLOADED
+DMUS_E_ALREADY_EXISTS
+DMUS_E_ALREADY_INITED
+DMUS_E_ALREADY_LOADED
+DMUS_E_ALREADY_SENT
+DMUS_E_AUDIOPATHS_IN_USE
+DMUS_E_AUDIOPATHS_NOT_VALID
+DMUS_E_AUDIOPATH_INACTIVE
+DMUS_E_AUDIOPATH_NOBUFFER
+DMUS_E_AUDIOPATH_NOGLOBALFXBUFFER
+DMUS_E_AUDIOPATH_NOPORT
+DMUS_E_AUDIOVBSCRIPT_OPERATIONFAILURE
+DMUS_E_AUDIOVBSCRIPT_RUNTIMEERROR
+DMUS_E_AUDIOVBSCRIPT_SYNTAXERROR
+DMUS_E_BADARTICULATION
+DMUS_E_BADINSTRUMENT
+DMUS_E_BADOFFSETTABLE
+DMUS_E_BADWAVE
+DMUS_E_BADWAVELINK
+DMUS_E_BUFFERNOTAVAILABLE
+DMUS_E_BUFFERNOTSET
+DMUS_E_BUFFER_EMPTY
+DMUS_E_BUFFER_FULL
+DMUS_E_CANNOTREAD
+DMUS_E_CANNOTSEEK
+DMUS_E_CANNOTWRITE
+DMUS_E_CANNOT_CONVERT
+DMUS_E_CANNOT_FREE
+DMUS_E_CANNOT_OPEN_PORT
+DMUS_E_CHUNKNOTFOUND
+DMUS_E_DESCEND_CHUNK_FAIL
+DMUS_E_DESCEND_CHUNK_FAIL is returned when the end of the file  was reached before the desired chunk was found.
+DMUS_E_DEVICE_IN_USE
+DMUS_E_DMUSIC_RELEASED
+DMUS_E_DRIVER_FAILED
+DMUS_E_DSOUND_ALREADY_SET
+DMUS_E_DSOUND_NOT_SET
+DMUS_E_GET_UNSUPPORTED
+DMUS_E_INSUFFICIENTBUFFER
+DMUS_E_INVALIDBUFFER
+DMUS_E_INVALIDCHUNK
+DMUS_E_INVALIDFILE
+DMUS_E_INVALIDOFFSET
+DMUS_E_INVALIDPATCH
+DMUS_E_INVALIDPOS
+DMUS_E_INVALID_BAND
+DMUS_E_INVALID_CONTAINER_OBJECT
+DMUS_E_INVALID_DOWNLOADID
+DMUS_E_INVALID_EVENT
+DMUS_E_INVALID_LYRICSTRACK
+DMUS_E_INVALID_PARAMCONTROLTRACK
+DMUS_E_INVALID_SCRIPTTRACK
+DMUS_E_INVALID_SEGMENTTRIGGERTRACK
+DMUS_E_INVALID_TOOL_HDR
+DMUS_E_INVALID_TRACK_HDR
+DMUS_E_LOADER_BADPATH
+DMUS_E_LOADER_FAILEDCREATE
+DMUS_E_LOADER_FAILEDOPEN
+DMUS_E_LOADER_FORMATNOTSUPPORTED
+DMUS_E_LOADER_NOCLASSID
+DMUS_E_LOADER_NOFILENAME
+DMUS_E_LOADER_OBJECTNOTFOUND
+DMUS_E_NOARTICULATION
+DMUS_E_NOSYNTHSINK
+DMUS_E_NOTADLSCOL
+DMUS_E_NOTMONO
+DMUS_E_NOTPCM
+DMUS_E_NOT_DOWNLOADED_TO_PORT
+DMUS_E_NOT_INIT
+DMUS_E_NOT_LOADED
+DMUS_E_NO_AUDIOPATH
+DMUS_E_NO_AUDIOPATH_CONFIG
+DMUS_E_NO_MASTER_CLOCK
+DMUS_E_OUT_OF_RANGE
+DMUS_E_PORTS_OPEN
+DMUS_E_PORT_NOT_CAPTURE
+DMUS_E_PORT_NOT_RENDER
+DMUS_E_SCRIPT_CANTLOAD_OLEAUT32
+DMUS_E_SCRIPT_CONTENT_READONLY
+DMUS_E_SCRIPT_ERROR_IN_SCRIPT
+DMUS_E_SCRIPT_INVALID_FILE
+DMUS_E_SCRIPT_LANGUAGE_INCOMPATIBLE
+DMUS_E_SCRIPT_LOADSCRIPT_ERROR
+DMUS_E_SCRIPT_NOT_A_REFERENCE
+DMUS_E_SCRIPT_ROUTINE_NOT_FOUND
+DMUS_E_SCRIPT_UNSUPPORTED_VARTYPE
+DMUS_E_SCRIPT_VALUE_NOT_SUPPORTED
+DMUS_E_SCRIPT_VARIABLE_NOT_FOUND
+DMUS_E_SEGMENT_INIT_FAILED
+DMUS_E_SET_UNSUPPORTED
+DMUS_E_SYNTHACTIVE
+DMUS_E_SYNTHINACTIVE
+DMUS_E_SYNTHNOTCONFIGURED
+DMUS_E_TIME_PAST
+DMUS_E_TOOL_HDR_NOT_FIRST_CK
+DMUS_E_TRACK_HDR_NOT_FIRST_CK
+DMUS_E_TRACK_NOT_FOUND
+DMUS_E_TRACK_NO_CLOCKTIME_SUPPORT
+DMUS_E_TYPE_DISABLED
+DMUS_E_TYPE_UNSUPPORTED
+DMUS_E_UNKNOWNDOWNLOAD
+DMUS_E_UNKNOWN_PROPERTY
+DMUS_E_UNSUPPORTED_STREAM
+DMUS_E_WAVEFORMATNOTSUPPORTED
+DMUS_S_DOWN_OCTAVE
+DMUS_S_END
+DMUS_S_FREE
+DMUS_S_GARBAGE_COLLECTED
+DMUS_S_LAST_TOOL
+DMUS_S_NOBUFFERCONTROL
+DMUS_S_OVER_CHORD
+DMUS_S_PARTIALDOWNLOAD
+DMUS_S_PARTIALLOAD
+DMUS_S_REQUEUE
+DMUS_S_STRING_TRUNCATED
+DMUS_S_UP_OCTAVE
+DPNERR_ABORTED
+DPNERR_ADDRESSING
+DPNERR_ALREADYCLOSING
+DPNERR_ALREADYCONNECTED
+DPNERR_ALREADYDISCONNECTING
+DPNERR_ALREADYINITIALIZED
+DPNERR_ALREADYREGISTERED
+DPNERR_BUFFERTOOSMALL
+DPNERR_CANNOTCANCEL
+DPNERR_CANTCREATEGROUP
+DPNERR_CANTCREATEPLAYER
+DPNERR_CANTLAUNCHAPPLICATION
+DPNERR_CONNECTING
+DPNERR_CONNECTIONLOST
+DPNERR_CONVERSION
+DPNERR_DATATOOLARGE
+DPNERR_DOESNOTEXIST
+DPNERR_DUPLICATECOMMAND
+DPNERR_ENDPOINTNOTRECEIVING
+DPNERR_ENUMQUERYTOOLARGE
+DPNERR_ENUMRESPONSETOOLARGE
+DPNERR_EXCEPTION
+DPNERR_GROUPNOTEMPTY
+DPNERR_HOSTING
+DPNERR_HOSTREJECTEDCONNECTION
+DPNERR_HOSTTERMINATEDSESSION
+DPNERR_INCOMPLETEADDRESS
+DPNERR_INVALIDADDRESSFORMAT
+DPNERR_INVALIDAPPLICATION
+DPNERR_INVALIDCOMMAND
+DPNERR_INVALIDDEVICEADDRESS
+DPNERR_INVALIDENDPOINT
+DPNERR_INVALIDFLAGS
+DPNERR_INVALIDGROUP
+DPNERR_INVALIDHANDLE
+DPNERR_INVALIDHOSTADDRESS
+DPNERR_INVALIDINSTANCE
+DPNERR_INVALIDINTERFACE
+DPNERR_INVALIDOBJECT
+DPNERR_INVALIDPASSWORD
+DPNERR_INVALIDPLAYER
+DPNERR_INVALIDPRIORITY
+DPNERR_INVALIDSTRING
+DPNERR_INVALIDURL
+DPNERR_INVALIDVERSION
+DPNERR_NOCAPS
+DPNERR_NOCONNECTION
+DPNERR_NOHOSTPLAYER
+DPNERR_NOMOREADDRESSCOMPONENTS
+DPNERR_NORESPONSE
+DPNERR_NOTALLOWED
+DPNERR_NOTHOST
+DPNERR_NOTREADY
+DPNERR_NOTREGISTERED
+DPNERR_PLAYERALREADYINGROUP
+DPNERR_PLAYERLOST
+DPNERR_PLAYERNOTINGROUP
+DPNERR_PLAYERNOTREACHABLE
+DPNERR_SENDTOOLARGE
+DPNERR_SESSIONFULL
+DPNERR_TABLEFULL
+DPNERR_TIMEDOUT
+DPNERR_UNINITIALIZED
+DPNERR_USERCANCEL
+DSERR_ALLOCATED
+DSERR_ALREADYINITIALIZED
+DSERR_BADFORMAT
+DSERR_BADSENDBUFFERGUID
+DSERR_BUFFERLOST
+DSERR_BUFFERTOOSMALL
+DSERR_CONTROLUNAVAIL
+DSERR_DS8_REQUIRED
+DSERR_INVALIDCALL
+DSERR_NODRIVER
+DSERR_OBJECTNOTFOUND
+DSERR_OTHERAPPHASPRIO
+DSERR_PRIOLEVELNEEDED
+DSERR_SENDLOOP
+DSERR_UNINITIALIZED
+DS_NO_VIRTUALIZATION
+DVD-Video playback graph building failed.
+DVD-Video playback graph could not be built due to insufficient decoders.
+DVD-Video playback graph has not been built yet.
+DVERR_ALREADYBUFFERED
+DVERR_ALREADYPENDING
+DVERR_BUFFERTOOSMALL
+DVERR_COMPRESSIONNOTSUPPORTED
+DVERR_CONNECTABORTED
+DVERR_CONNECTABORTING
+DVERR_CONNECTED
+DVERR_CONNECTIONLOST
+DVERR_EXCEPTION
+DVERR_HOSTING
+DVERR_INCOMPATIBLEVERSION
+DVERR_INITIALIZED
+DVERR_INVALIDBUFFER
+DVERR_INVALIDDEVICE
+DVERR_INVALIDFLAGS
+DVERR_INVALIDGROUP
+DVERR_INVALIDHANDLE
+DVERR_INVALIDOBJECT
+DVERR_INVALIDPLAYER
+DVERR_INVALIDTARGET
+DVERR_LOCKEDBUFFER
+DVERR_NO3DSOUND
+DVERR_NOCALLBACK
+DVERR_NORECVOLAVAILABLE
+DVERR_NOTALLOWED
+DVERR_NOTBUFFERED
+DVERR_NOTCONNECTED
+DVERR_NOTHOSTING
+DVERR_NOTINITIALIZED
+DVERR_NOTRANSPORT
+DVERR_NOVOICESESSION
+DVERR_PLAYBACKSYSTEMERROR
+DVERR_RECORDSYSTEMERROR
+DVERR_RUNSETUP
+DVERR_SENDERROR
+DVERR_SESSIONLOST
+DVERR_SOUNDINITFAILURE
+DVERR_TIMEOUT
+DVERR_TRANSPORTNOPLAYER
+DVERR_TRANSPORTNOSESSION
+DVERR_TRANSPORTNOTHOST
+DVERR_TRANSPORTNOTINIT
+DVERR_USERBACK
+DVERR_USERCANCEL
+DV_FULLDUPLEX
+DV_HALFDUPLEX
+DV_PENDING
+DXFILEERR_BADALLOC
+DXFILEERR_BADARRAYSIZE
+DXFILEERR_BADCACHEFILE
+DXFILEERR_BADDATAREFERENCE
+DXFILEERR_BADFILE
+DXFILEERR_BADFILECOMPRESSIONTYPE
+DXFILEERR_BADFILEFLOATSIZE
+DXFILEERR_BADFILETYPE
+DXFILEERR_BADFILEVERSION
+DXFILEERR_BADINTRINSICS
+DXFILEERR_BADOBJECT
+DXFILEERR_BADRESOURCE
+DXFILEERR_BADSTREAMHANDLE
+DXFILEERR_BADTYPE
+DXFILEERR_BADVALUE
+DXFILEERR_FILENOTFOUND
+DXFILEERR_INTERNALERROR
+DXFILEERR_NOINTERNET
+DXFILEERR_NOMOREDATA
+DXFILEERR_NOMOREOBJECTS
+DXFILEERR_NOMORESTREAMHANDLES
+DXFILEERR_NOTDONEYET
+DXFILEERR_NOTEMPLATE
+DXFILEERR_NOTFOUND
+DXFILEERR_PARSEERROR
+DXFILEERR_RESOURCENOTFOUND
+DXFILEERR_URLNOTFOUND
+Data too large
+DefWindowProcA
+DefWindowProcW
+DestroyWindow
+Device does not support optimized surfaces, therefore no video memory optimized surfaces
+Device driver-specific codes. Unless the specific driver has been precisely identified, no meaning should be attributed to these values other than that the driver originated the error.
+Device installer errors.
+Device lost
+Device not reset
+DirectDraw Surface is not in 8 bit color mode and the requested operation requires 8 bit color.
+DirectDraw does not support provided Cliplist.
+DirectDraw does not support the requested mode
+DirectDraw received a pointer that was an invalid DIRECTDRAW object.
+DirectDrawSurface is not in 4 bit color index palette and the requested operation requires 4 bit color index palette.
+DirectDrawSurface is not in 4 bit color palette and the requested operation requires 4 bit color palette.
+DirectInput8Create
+DispatchMessageA
+DispatchMessageW
+Display does not use a palette.
+Does not exist
+Download failed due to inability to access or create download buffer.
+Downoaded DLS wave is not in PCM format. 
+Driver internal error
+Driver invalid call
+Duplicate command
+ENDFULLSCREEN
+ERROR_ACCESS_DENIED
+ERROR_BAD_ENVIRONMENT
+ERROR_BAD_FORMAT
+ERROR_FILE_NOT_FOUND
+ERROR_INVALID_BLOCK
+ERROR_INVALID_HANDLE
+ERROR_NOT_ENOUGH_MEMORY
+ERROR_OUTOFMEMORY
+ERROR_PATH_NOT_FOUND
+ERROR_TOO_MANY_OPEN_FILES
+E_ACCESSDENIED
+E_HANDLE
+E_INVALIDARG
+E_NOINTERFACE
+E_NOTIMPL
+E_OUTOFMEMORY
+E_PENDING
+E_POINTER
+E_PROP_ID_UNSUPPORTED
+E_PROP_SET_UNSUPPORTED
+E_UNEXPECTED
+Editor requires desktop set to 32 bit resolution
+Either DirectDraw has not been installed or the Video Card capabilities are not suitable. Make sure the display is not in 16 color mode.
+EnableWindow
+End point not receiving
+EndFullscreen
+Enum query too large
+Enum response too large
+Error Code: %s
+Error parsing DLS collection. File is corrupt.
+Error reading wave data from DLS collection. Indicates bad file.
+Exception
+ExecSetPause false
+ExecSetPause true
+Executing UWindowsClient::ShutdownAfterError
+Failed3D
+File not found
+File open failed - either file doesn't exist or is locked.
+File: %S
+File: %s
+Flipping visible surfaces is not supported.
+Frame step is not supported on this configuration.
+Full duplex
+GETCOLORDEPTHS
+GETCURRENTCOLORDEPTH
+GETCURRENTRENDERDEVICE
+GETCURRENTRES
+GETSYSTEMLANGUAGE
+GPackage
+GetActiveWindow
+GetAsyncKeyState
+GetClientRect
+GetCurrentProcessId
+GetCurrentThreadId
+GetCursorPos
+GetDesktopWindow
+GetDeviceCaps
+GetFocus
+GetForegroundWindow
+GetKeyNameTextW
+GetKeyState
+GetLocaleInfoA
+GetLocaleInfoW
+GetMenuState
+GetMessageTime
+GetParent
+GetSystemDefaultLangID
+GetWindowLongA
+GetWindowLongW
+GetWindowRect
+GetWindowThreadProcessId
+GlobalAddAtomW
+GlobalDeleteAtom
+Group not empty
+HWND used by DirectDraw CooperativeLevel has been subclassed, this prevents DirectDraw from restoring state.
+Half duplex
+HandleType
+Height of rectangle provided is not a multiple of reqd alignment
+Height requested by DirectDraw is too large.
+Host rejected connection
+Host terminated session
+IDirectMusic::SetDirectSound has already been called. It may not be changed while in use.
+IPinFlowControl::Block() has been called on another thread.  The current thread cannot make any assumptions about this pin's block state.
+If a clipper object is attached to the source surface passed into a BltFast call.
+ImmAssociateContext
+ImmCreateContext
+ImmDestroyContext
+ImmGetCompositionStringW
+ImmGetContext
+ImmReleaseContext
+Incompatible version
+Incomplete address
+Informs DirectDraw that the previous Blt which is transfering information to or from this Surface is incomplete.
+Initialized
+Internal error
+Invalid DirectSound buffer was handed to port. 
+Invalid address format
+Invalid application
+Invalid articulation chunk in DLS collection.
+Invalid buffer
+Invalid buffer format was handed to the synth sink.
+Invalid call
+Invalid command
+Invalid data
+Invalid data was found in a RIFF file chunk.
+Invalid device
+Invalid device address
+Invalid download id was used in the process of creating a download buffer.
+Invalid end point
+Invalid flags
+Invalid group
+Invalid handle
+Invalid host address
+Invalid instance
+Invalid instrument chunk in DLS collection.
+Invalid interface
+Invalid mesh
+Invalid object
+Invalid password
+Invalid player
+Invalid pointer
+Invalid priority
+Invalid string
+Invalid target
+Invalid url
+Invalid version
+IsWindow
+Line: %s
+LoadCursorA
+LoadCursorW
+Locked buffer
+MakeWindowClassName
+MapVirtualKeyW
+MapWindowPoints
+MessageBoxA
+MessageBoxW
+More data
+MouseXMultiplier
+MouseYMultiplier
+MuteAllSoundsTillNextUpdate
+No 3d sound
+No Capture hardware is available, or the hardware is not responding.
+No DC was ever created for this surface.
+No DirectDraw ROP hardware.
+No DirectDraw support possible with current display driver
+No IME context
+No VideoPort hardware is available, or the hardware is not responding.
+No blter.
+No buffer space has been set
+No buffer was prepared for the download data.
+No callback
+No caps
+No clipper object attached to surface object
+No color key has been set.
+No combination of filters could be found to render the stream.
+No combination of intermediate filters could be found to make the connection.
+No connection
+No full-screen modes are available.
+No hardware support for 16 or 256 color palettes.
+No host player
+No internet
+No matching color key is available.
+No media time format has been selected.
+No media time stamp has been set for this sample.
+No more address components
+No more data
+No more items.
+No more objects
+No more stream handles
+No palette is available.
+No palette object attached to this surface.
+No rec vol available
+No response
+No sound driver is available for use
+No src color key specified for this operation.
+No template
+No time stamp has been set for this sample.
+No transport
+No voice session
+Not all the requested information fit into the buffer. & This object can only be created as an aggregated object.
+Not allowed
+Not available
+Not buffered
+Not connected
+Not done yet
+Not enough storage is available to process this command.
+Not found
+Not host
+Not hosting
+Not initialized
+Not ready
+Not registered
+OS doesn't support IME.
+Object was not found.
+Offset Table for download buffer has errors. 
+One or more buffers are still active.
+One or more of the caps bits passed to the callback are incorrect.
+OpenGLRenderDevice
+Opened temporary viewport
+Opened viewport
+Operation aborted
+Operation could not be carried out because one or more surfaces are locked
+Operation could not be carried out because the source and destination rectangles are on the same surface and overlap each other.
+Operation could not be carried out because there is no alpha accleration hardware present or available.
+Operation could not be carried out because there is no appropriate raster op hardware present or available.
+Operation could not be carried out because there is no color conversion hardware present or available.
+Operation could not be carried out because there is no hardware present or available.
+Operation could not be carried out because there is no hardware present which supports stereo surfaces
+Operation could not be carried out because there is no hardware support for stretching
+Operation could not be carried out because there is no hardware support for vertical blank synchronized operations.
+Operation could not be carried out because there is no hardware support for zbuffer blting.
+Operation could not be carried out because there is no hardware support of the dest color key.
+Operation could not be carried out because there is no mip-map texture mapping hardware present or available.
+Operation could not be carried out because there is no overlay hardware present or available.
+Operation could not be carried out because there is no rotation hardware present or available.
+Operation could not be carried out because there is no stereo hardware present or available.
+Operation could not be carried out because there is no texture mapping hardware present or available.
+Operation requires the application to have exclusive mode but the application does not have exclusive mode.
+Out of video memory
+OutputDebugStringA
+OutputDebugStringW
+Overlay surfaces could not be z layered based on their BltOrder because the hardware does not support z layering of overlays.
+Parse error
+Pausing game due to lost focus
+PeekMessageA
+PeekMessageW
+Pins cannot connect due to not supporting the same transport.
+Pixel format requested is unsupported by DirectDraw
+PixoRenderDevice
+Playback system error
+Player already in group
+Player lost
+Player not in group
+Player not reachable
+PostMessageA
+PostMessageW
+Quality messages could not be sent because no quality sink has been defined.
+REGDB_E_CLASSNOTREG
+Ran out of memory
+Received SC_MONITORPOWER
+Received SC_SCREENSAVE
+Received WM_POWER
+Received WM_POWER suspend
+Record system error
+Rectangle provided was invalid.
+Rectangle provided was not horizontally aligned on reqd. boundary
+Registry entry or DLL for class installer invalid or class installer not found.
+ReleaseDC
+Requested item was not found
+Resource not found
+Return value from IDirectMusicTool::ProcessPMsg() which indicates to the performance that it should cue the PMsg again automatically.
+Return value from IDirectMusicTool::ProcessPMsg() which indicates to the performance that it should free the PMsg automatically.
+Return value from IDirectMusicTrack::Play() which indicates to the segment that the track has no more data after mtEnd.
+Returned from IDirectMusicGraph::StampPMsg(), this indicates that the PMsg is already stamped with the last tool in the graph. The returned PMsg's tool pointer is now NULL.
+Returned string has been truncated to fit the buffer size.
+Run setup
+SETMOUSE
+SaveInfo
+SaveViewport
+ScreenToClient
+Scripts variables for content referenced or embedded in a script cannot be set.
+Search data type is not supported.
+Second attempt to load a DLS collection that is currently open. 
+Segment initialization failed, most likely due to a critical memory situation.
+Send error
+Send too large
+SendMessageA
+SendMessageW
+Session full
+Session lost
+SetActiveWindow
+SetCapture
+SetCursor
+SetCursorPos
+SetFocus
+SetForegroundWindow
+SetKeyboardState
+SetParent
+SetWindowLongA
+SetWindowLongW
+SetWindowPos
+Setting a color key would conflict with the palette already set.
+Setting a palette would conflict with the color key already set.
+ShowCursor
+ShowWindow
+ShutdownOldRenDev
+Size requested by DirectDraw is too large --  The individual height and width are OK.
+Skinning not supported
+Some connections have failed and have been deferred.
+Some of the streams in this movie are in an unsupported format.
+Sound init failure
+StartFullscreen
+StartupFullscreen
+Support is currently not available.
+Surface doesn't currently have a color key
+Surface is an optimized surface, but has not yet been allocated any memory
+Surface was not locked.  An attempt to unlock a surface that was not locked at all, or by this process, has been attempted.
+Surfaces created by one direct draw device cannot be used directly by another direct draw device.
+SystemParametersInfoA
+SystemParametersInfoW
+TEMPSETRES
+TOGGLEFULLSCREEN
+TOGGLEIME
+Table full
+TemporaryViewportData
+The CooperativeLevel HWND has already been set. It can not be reset while the process has surfaces or palettes created.
+The DMUS_PMSG has already been sent to the performance object via IDirectMusicPerformance::SendPMsg().
+The DMUS_PMSG was either not allocated by the performance via IDirectMusicPerformance::AllocPMsg(), or it was already freed via IDirectMusicPerformance::FreePMsg().
+The GUID passed to DirectDrawCreate is not a valid DirectDraw driver identifier.
+The GUID specified in an audiopath file does not match a valid MIXIN buffer
+The INF file for the selected device could not be found or is invalid or is damaged.
+The IStream* doesn't support Seek().
+The IStream* doesn't support Write().
+The IStream* object does not contain data supported by the loading object.
+The IStream* object's data contains an invalid tool header (ckid is 0 and fccType is NULL,) and therefore can not be read by the graph object.
+The IStream* object's data contains an invalid track header (ckid is 0 and fccType is NULL,) and therefore can not be read by the segment object.
+The IStream* object's data does not have a tool header as the first chunk, and therefore can not be read by the graph object.
+The IStream* object's data does not have a track header as the first chunk, and therefore can not be read by the segment object.
+The Performance has set up some PChannels using the AssignPChannel command, which makes it not capable of supporting audio paths.
+The RIFF parser doesn't contain a required chunk while parsing file.
+The Specified property set is not supported.
+The Video CD can't be read correctly by the device or is the data is corrupt.
+The VideoPort connection negotiation process has failed.
+The activeX scripting engine for the script's language is not compatible with DirectMusic.
+The application requires a newer version of DirectInput.
+The application was written for an unsupported prerelease version of DirectInput.
+The attempt to page lock a surface failed.
+The attempt to page unlock a surface failed.
+The audio stream did not contain sufficient information to determine the contents of each channel.
+The buffer is not big enough.
+The buffer is not full enough.
+The buffer memory has been lost, and must be restored
+The call failed because resources (such as a priority level) were already being used by another caller
+The call succeeded, but we had to substitute the 3D algorithm
+The caller does not have the priority level required for the function to succeed
+The class id field is required and missing in the DMUS_OBJECTDESC.
+The connection cannot be made because the stream is read only and the filter alters the data.
+The control (vol, pan, etc.) requested by the caller is not available
+The current audio is not karaoke content.
+The current parental level was too low.
+The current title was not a sequential set of chapters (PGC), and the returned timing information might not be continuous.
+The data did not contain a recognized version.
+The data has expired and is therefore no longer valid.
+The data necessary to complete this operation is not yet available.
+The default system port could not be opened.
+The device cannot be reinitialized because there are still effects attached to it. & At least one of the pins involved in the operation is already connected.
+The device is full. & An invalid media subtype was specified.
+The display is currently in an unsupported mode
+The driver does not enumerate display mode refresh rates.
+The effect is not downloaded. & The enumerator has become invalid.
+The end of the list has been reached.
+The environment is incorrect.
+The file contained some property settings that were not used.
+The file contains an invalid lyrics track.
+The file contains an invalid parameter control track.
+The file contains an invalid script track.
+The file contains an invalid segment trigger track.
+The file does not contain a valid band.
+The file does not contain a valid container object.
+The file format is invalid.
+The file name is missing from the DMUS_OBJECTDESC.
+The file requested is not a valid file.
+The filter graph is circular.
+The function called is not supported at this time
+The function completed successfully
+The given event is invalid (either it is not a valid MIDI message or it makes use of running status). The event cannot be packed into the buffer.
+The given operation could not be carried out because the port is a capture port.
+The given operation could not be carried out because the port is a render port.
+The graph can't be cued because of lack of or corrupt data.
+The graph object was unable to load all tools from the IStream* object data. This may be due to errors in the stream, or the tools being incorrectly registered on the client.
+The handle is invalid.
+The hardware needed for the requested operation has already been allocated.
+The list has already been exhausted.
+The media type of this file is not recognized.
+The mode test has finished executing.
+The mode test has switched to a new mode.
+The monitor does not have EDID data.
+The object could not be created due to an incompatible driver version or mismatched or incomplete driver components.
+The object has already been initialized.
+The object requested was not found (numerically equal to DMUS_E_NOT_FOUND)
+The operation cannot be carried out while the port is active.
+The operation cannot be carried out while the synthesizer is active.
+The operation cannot be carried out while the synthesizer is inactive.
+The operation cannot be performed at the current playback speed.
+The operation cannot be performed because the final instance of the DirectMusic object was released. Ports cannot be used after final  release of the DirectMusic object.
+The operation cannot be performed unless the device is acquired in DISCL_EXCLUSIVE mode. & This operation cannot be performed because the filter is active.
+The operation cannot be performed unless the device is acquired.
+The operation cannot be performed while the device is acquired.
+The operation could not be completed because no sink was connected to the synthesizer.
+The operation could not be completed because the device is not plugged in. & The operation cannot be performed because the pins are not connected.
+The operation could not be completed because the software synth has not  yet been fully configured.
+The operation could not be performed because the filter is in the wrong state.
+The operation could not be performed because the filter is not paused.
+The operation could not be performed because the filter is not running.
+The operation could not be performed because the filter is not stopped.
+The operation depends on the current title number, however the navigator has not yet entered the VTSM or the title domains, so the 'current' title index is unknown.
+The queued command has already been canceled.
+The region was not compatible with the current drive.
+The requested COM interface is not available
+The requested DVD stream attribute does not exist.
+The requested action could not be performed because the surface was of the wrong type.
+The requested device is already in use (possibly by a non-DirectMusic client) and cannot be opened again.
+The requested file path is invalid.
+The requested operation cannot be performed while there are  instantiated ports in any process in the system.
+The requested operation was not performed because during CollectGarbage the loader determined that the object had been released.
+The requested parameter type is currently disabled. Parameter types may be enabled and disabled by certain calls to SetParam().
+The requested parameter type is not supported on the object.
+The requested surface is not attached.
+The requested track is not contained by the segment.
+The resource specified is no longer needed.
+The sample start time is after the sample end time.
+The script does not contain a routine with the specified name.
+The script does not contain a variable with the specified name.
+The script file is invalid.
+The seek into the movie was not frame accurate.
+The segment object was unable to load all tracks from the IStream* object data. This may be due to errors in the stream, or the tracks being incorrectly registered on the client.
+The source filter for this file could not be loaded.
+The specified WAVE format is not supported
+The specified button is invalid or is not present at the current time, or there is no button present at the specified location.
+The specified command was either cancelled or no longer exists.
+The specified menu doesn't exist.
+The specified path does not point to a valid DVD disc.
+The specified property ID is not supported for the specified property set.
+The specified property item may not be set on the target object.
+The specified property item was not recognized by the target object.
+The specified stream contains invalid data
+The specified stream is disabled and cannot be selected.
+The specified surface type requires specification of the COMPLEX flag
+The state changed while waiting to process the sample.
+The state data is from a different disc.
+The state data was corrupt.
+The state transition has not completed.
+The stop time for the sample was not set.
+The storage control block address is invalid.
+The stream has been turned off.
+The supplied rectangle is invalid.
+The surface being used is not a palette-based surface
+The system cannot find the drive specified.
+The system cannot find the file specified.
+The system cannot find the path specified.
+The system cannot open the file.
+The time is in the past, and the operation can not succeed.
+The tool is already contained in the graph. Create a new instance.
+The track does not support clock time playback or getparam.
+The user cancelled the install operation.
+The value returned had to be estimated.  It's accuracy can not be guaranteed.
+The version number of the file is invalid.
+The video port is not active
+There is currently no resume information.
+There is insufficient space to insert the given event into the buffer.
+There is more data available than the specified buffer size could hold
+There is no 3D present.
+There is no GDI present.
+There is no instrument in the collection that matches patch number.
+There is no master clock in the performance. Be sure to call IDirectMusicPerformance::Init().
+There is not enough Video Memory at this display resolution and number of colors. Reducing resolution might help.
+There was no data in the referenced buffer.
+There was no preview pin available, so the capture pin output is being split to provide both capture and preview.
+This Advise cannot be canceled because it was not successfully set.
+This Operation is not permitted in the current domain.
+This User Operation is inhibited by DVD Content at this time.
+This call is not valid for the current state of this object
+This file is corrupt: it contains an invalid class identifier.
+This file is corrupt: it contains an invalid media type.
+This is the inverse of the previous error. The Performance has set up some audio paths, which makes is incompatible with the calls to allocate pchannels, etc. 
+This object cannot be used anymore as its time has expired.
+This object does not support aggregation
+This object has not been initialized
+This object is already initialized
+This pin cannot use the supplied media type.
+This sample cannot be rendered because the end of the stream has been reached.
+This sample cannot be rendered.
+This success code is reserved for internal purposes within ActiveMovie.
+This surface can not be attached to the requested surface.
+This surface can not be detached from the requested surface.
+This surface can not be restored because it is an implicitly created surface.
+This surface can not be restored because it was created in a different mode.
+This surface is already a dependency of the surface it is being made a dependency of.
+This surface is already attached to the surface it is being attached to.
+This thread has already blocked this output pin.  There is no need to call IPinFlowControl::Block() again.
+Time out
+Timed out
+ToggleFullscreen
+ToggleFullscreen(): Entering Fullscreen from windowed.
+ToggleFullscreen(): Leaving Fullscreen to windowed.
+Too many colors for the current display settings.
+Too many influences
+Too many operations
+TranslateMessage
+Transport no player
+Transport no session
+Transport not host
+Transport not init
+Tried to create a DSBCAPS_CTRLFX buffer shorter than DSBSIZE_FX_MIN milliseconds
+Tried to unload an object that was not downloaded or previously unloaded.
+UWindowsClient
+UWindowsClient::Destroy
+UWindowsClient::Exec
+UWindowsClient::NewViewport
+UWindowsClient::NotifyDestroy
+UWindowsClient::PostEditChange
+UWindowsClient::ShowViewportWindows
+UWindowsClient::StaticConstructor
+UWindowsClient::Tick
+UWindowsClient::UWindowsClient
+UWindowsViewport
+UWindowsViewport::CauseInputEvent
+UWindowsViewport::Destroy
+UWindowsViewport::EndFullscreen
+UWindowsViewport::Exec
+UWindowsViewport::GetLocalizedKeyName
+UWindowsViewport::HandleWin32InputMessage
+UWindowsViewport::Lock
+UWindowsViewport::MakeCurrent
+UWindowsViewport::OpenWindow
+UWindowsViewport::Repaint
+UWindowsViewport::ResizeViewport
+UWindowsViewport::SetModeCursor
+UWindowsViewport::SetMouseCapture
+UWindowsViewport::ToggleFullscreen
+UWindowsViewport::TryRenderDevice
+UWindowsViewport::UWindowsViewport
+UWindowsViewport::Unlock
+UWindowsViewport::UpdateInput
+UWindowsViewport::UpdateWindowFrame
+UWindowsViewport::ViewportWndProc
+Unable to IDirectInputJoyConfig_Acquire because the user does not have sufficient privileges to change the joystick configuration. & An invalid media type was specified
+Unable to find or create object.
+Unable to match primary surface creation request with existing primary surface.
+Unexpected error encountered
+Uninitialized
+UnrealAltEsc
+UnrealAltTab
+UnrealCtrlEsc
+UnrealCtrlTab
+UnregisterHotKey
+Unsupported alpha arg
+Unsupported alpha operation
+Unsupported color arg
+Unsupported color operation
+Unsupported factor value
+Unsupported texture filter
+UpdateAudio
+UpdateWindow
+Updates are not allowed in this state.
+Url not found
+UseJoystick
+User back
+User cancel
+VFW_E_ADVISE_ALREADY_SET
+VFW_E_ALREADY_CANCELLED
+VFW_E_ALREADY_COMMITTED
+VFW_E_BADALIGN
+VFW_E_BAD_KEY
+VFW_E_BAD_VIDEOCD
+VFW_E_BUFFERS_OUTSTANDING
+VFW_E_BUFFER_NOTSET
+VFW_E_BUFFER_OVERFLOW
+VFW_E_BUFFER_UNDERFLOW
+VFW_E_CANNOT_CONNECT
+VFW_E_CANNOT_LOAD_SOURCE_FILTER
+VFW_E_CANNOT_RENDER
+VFW_E_CERTIFICATION_FAILURE
+VFW_E_CHANGING_FORMAT
+VFW_E_CIRCULAR_GRAPH
+VFW_E_COLOR_KEY_SET
+VFW_E_COPYPROT_FAILED
+VFW_E_CORRUPT_GRAPH_FILE
+VFW_E_DDRAW_CAPS_NOT_SUITABLE
+VFW_E_DDRAW_VERSION_NOT_SUITABLE
+VFW_E_DUPLICATE_NAME
+VFW_E_DVD_CMD_CANCELLED
+VFW_E_DVD_DECNOTENOUGH
+VFW_E_DVD_GRAPHNOTREADY
+VFW_E_DVD_INCOMPATIBLE_REGION
+VFW_E_DVD_INVALIDDOMAIN
+VFW_E_DVD_INVALID_DISC
+VFW_E_DVD_LOW_PARENTAL_LEVEL
+VFW_E_DVD_MENU_DOES_NOT_EXIST
+VFW_E_DVD_NOT_IN_KARAOKE_MODE
+VFW_E_DVD_NO_ATTRIBUTES
+VFW_E_DVD_NO_BUTTON
+VFW_E_DVD_NO_GOUP_PGC
+VFW_E_DVD_NO_RESUME_INFORMATION
+VFW_E_DVD_OPERATION_INHIBITED
+VFW_E_DVD_RENDERFAIL
+VFW_E_DVD_STATE_CORRUPT
+VFW_E_DVD_STATE_WRONG_DISC
+VFW_E_DVD_STATE_WRONG_VERSION
+VFW_E_DVD_STREAM_DISABLED
+VFW_E_DVD_TITLE_UNKNOWN
+VFW_E_DVD_WRONG_SPEED
+VFW_E_ENUM_OUT_OF_RANGE
+VFW_E_FILE_TOO_SHORT
+VFW_E_FRAME_STEP_UNSUPPORTED
+VFW_E_INVALID_CLSID
+VFW_E_INVALID_FILE_FORMAT
+VFW_E_INVALID_FILE_VERSION
+VFW_E_INVALID_MEDIA_TYPE
+VFW_E_INVALID_RECT
+VFW_E_IN_FULLSCREEN_MODE
+VFW_E_MEDIA_TIME_NOT_SET
+VFW_E_MONO_AUDIO_HW
+VFW_E_MPEG_NOT_CONSTRAINED
+VFW_E_NOT_ALLOWED_TO_SAVE
+VFW_E_NOT_COMMITTED
+VFW_E_NOT_FOUND
+VFW_E_NOT_IN_GRAPH
+VFW_E_NOT_OVERLAY_CONNECTION
+VFW_E_NOT_PAUSED
+VFW_E_NOT_RUNNING
+VFW_E_NOT_SAMPLE_CONNECTION
+VFW_E_NOT_STOPPED
+VFW_E_NO_ADVISE_SET
+VFW_E_NO_AUDIO_HARDWARE
+VFW_E_NO_CAPTURE_HARDWARE
+VFW_E_NO_CLOCK
+VFW_E_NO_COLOR_KEY_FOUND
+VFW_E_NO_COLOR_KEY_SET
+VFW_E_NO_DECOMPRESSOR
+VFW_E_NO_DISPLAY_PALETTE
+VFW_E_NO_FULLSCREEN
+VFW_E_NO_INTERFACE
+VFW_E_NO_MODEX_AVAILABLE
+VFW_E_NO_PALETTE_AVAILABLE
+VFW_E_NO_SINK
+VFW_E_NO_TIME_FORMAT
+VFW_E_NO_TIME_FORMAT_SET
+VFW_E_NO_TRANSPORT
+VFW_E_NO_VP_HARDWARE
+VFW_E_OUT_OF_VIDEO_MEMORY
+VFW_E_PALETTE_SET
+VFW_E_PIN_ALREADY_BLOCKED
+VFW_E_PIN_ALREADY_BLOCKED_ON_THIS_THREAD
+VFW_E_PROCESSOR_NOT_SUITABLE
+VFW_E_READ_ONLY
+VFW_E_RPZA
+VFW_E_SAMPLE_REJECTED
+VFW_E_SAMPLE_REJECTED_EOS
+VFW_E_SAMPLE_TIME_NOT_SET
+VFW_E_SIZENOTSET
+VFW_E_START_TIME_AFTER_END
+VFW_E_STATE_CHANGED
+VFW_E_TIMEOUT
+VFW_E_TIME_ALREADY_PASSED
+VFW_E_TIME_EXPIRED
+VFW_E_TOO_MANY_COLORS
+VFW_E_TYPE_NOT_ACCEPTED
+VFW_E_UNKNOWN_FILE_TYPE
+VFW_E_UNSUPPORTED_AUDIO
+VFW_E_UNSUPPORTED_STREAM
+VFW_E_UNSUPPORTED_VIDEO
+VFW_E_VP_NEGOTIATION_FAILED
+VFW_E_WRONG_STATE
+VFW_S_AUDIO_NOT_RENDERED
+VFW_S_CANT_CUE
+VFW_S_CONNECTIONS_DEFERRED
+VFW_S_DUPLICATE_NAME
+VFW_S_DVD_CHANNEL_CONTENTS_NOT_AVAILABLE
+VFW_S_DVD_NON_ONE_SEQUENTIAL
+VFW_S_DVD_NOT_ACCURATE
+VFW_S_ESTIMATED
+VFW_S_MEDIA_TYPE_IGNORED
+VFW_S_NOPREVIEWPIN
+VFW_S_NO_MORE_ITEMS
+VFW_S_NO_STOP_TIME
+VFW_S_PARTIAL_RENDER
+VFW_S_RESERVED
+VFW_S_RESOURCE_NOT_NEEDED
+VFW_S_RPZA
+VFW_S_SOME_DATA_IGNORED
+VFW_S_STATE_INTERMEDIATE
+VFW_S_STREAM_OFF
+VFW_S_VIDEO_NOT_RENDERED
+ValidateRect
+Value is out of range, for instance the requested length is longer than the segment.
+Version number of DirectDraw not suitable. Make sure to install dx5 or higher version.
+ViewOther
+ViewPersp
+Viewport %s: WM_DisplayChange, XRes: %i, YRes: %i
+VisibiltyViewport
+WM_ACTIVATE
+WM_BUTTONDOWN
+WM_BUTTONUP
+WM_CANCELMODE
+WM_CREATE
+WM_DESTROY
+WM_DISPLAYCHANGE
+WM_ENTERMENULOOP
+WM_EXITMENULOOP
+WM_IME_COMPOSITION
+WM_KEYDOWN
+WM_KEYUP
+WM_KILLFOCUS
+WM_KILLFOCUS was called
+WM_MOUSEMOVE
+WM_MOUSEWHEEL
+WM_POWER
+WM_SETCURSOR
+WM_SETFOCUS
+WM_SETFOCUS was called
+WM_SYSCOMMAND
+WWindowsViewportWindow
+Wave chunk has more than one interleaved channel. DLS format requires MONO.
+Wave chunks in DLS collection file are at incorrect offsets.
+Wavelink chunk in DLS collection points to invalid wave.
+Width requested by DirectDraw is too large.
+Windows client shut down
+Wrong texture format
+Y4n4s4y4
+_CxxThrowException
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+an attempt was made to set a clip list for a clipper objec that is already monitoring an hwnd.
+autoclassUWindowsClient
+autoclassUWindowsViewport
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnObjBas.h
+defaultres
+hardware does not support clipped overlays
+ini:Engine.Engine.RenderDevice
+iswspace
+no clip list available
+pixel format was invalid as specified
+region passed to Clipper::GetClipList is too small.
+returned when GetOverlayPosition is called on a hidden overlay
+returned when GetOverlayPosition is called on a overlay that UpdateOverlay has never been called on to establish a destionation.
+returned when an overlay member is called for a non-overlay surface
+returned when the position of the overlay on the destionation is no longer legal for that destionation.
+software emulation not available.
+swprintf
+this process already has created a primary surface
+unrecoverable error - bombing out
+v%]G:7R"
+vertical blank is in progress
+windowed

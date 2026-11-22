@@ -1,0 +1,172 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\Scripting.dll
+
+File Type: DLL
+
+  Section contains the following exports for Scripting.dll
+
+    00000000 characteristics
+    421677B7 time date stamp Fri Feb 18 23:18:15 2005
+        0.00 version
+           1 ordinal base
+         146 number of functions
+         146 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00002F20 ??0AScript@@QAE@ABV0@@Z
+          2    1 00001900 ??0AScript@@QAE@XZ
+          3    2 00001A90 ??0FParameterResolveInfo@@QAE@XZ
+          4    3 00002820 ??0UAction@@QAE@ABV0@@Z
+          5    4 000013E0 ??0UAction@@QAE@XZ
+          6    5 00002920 ??0UActionBool@@IAE@XZ
+          7    6 00002940 ??0UActionBool@@QAE@ABV0@@Z
+          8    7 00002C40 ??0UActionCinematicEnter@@IAE@XZ
+          9    8 00002C60 ??0UActionCinematicEnter@@QAE@ABV0@@Z
+         10    9 00002D30 ??0UActionCinematicExit@@IAE@XZ
+         11    A 00002D50 ??0UActionCinematicExit@@QAE@ABV0@@Z
+         12    B 00002DD0 ??0UActionFor@@QAE@ABV0@@Z
+         13    C 00001520 ??0UActionFor@@QAE@XZ
+         14    D 00002E40 ??0UActionIf@@QAE@ABV0@@Z
+         15    E 00001660 ??0UActionIf@@QAE@XZ
+         16    F 00002EC0 ??0UActionLoop@@QAE@ABV0@@Z
+         17   10 000017A0 ??0UActionLoop@@QAE@XZ
+         18   11 00002AC0 ??0UActionPropertyTest@@QAE@ABV0@@Z
+         19   12 00002A40 ??0UActionPropertyTest@@QAE@XZ
+         20   13 00001D80 ??0UVariable@@IAE@XZ
+         21   14 00001DA0 ??0UVariable@@QAE@ABV0@@Z
+         22   15 00001850 ??1AScript@@UAE@XZ
+         23   16 00001350 ??1UAction@@UAE@XZ
+         24   17 000028D0 ??1UActionBool@@UAE@XZ
+         25   18 00002BF0 ??1UActionCinematicEnter@@UAE@XZ
+         26   19 00002CE0 ??1UActionCinematicExit@@UAE@XZ
+         27   1A 000014C0 ??1UActionFor@@UAE@XZ
+         28   1B 000015E0 ??1UActionIf@@UAE@XZ
+         29   1C 00001740 ??1UActionLoop@@UAE@XZ
+         30   1D 000029C0 ??1UActionPropertyTest@@UAE@XZ
+         31   1E 00001D20 ??1UVariable@@UAE@XZ
+         32   1F 00001CA0 ??2AScript@@SAPAXIPAVUObject@@VFName@@K@Z
+         33   20 00001D10 ??2AScript@@SAPAXIPAW4EInternal@@@Z
+         34   21 00001AD0 ??2UAction@@SAPAXIPAVUObject@@VFName@@K@Z
+         35   22 00001D10 ??2UAction@@SAPAXIPAW4EInternal@@@Z
+         36   23 00001B20 ??2UActionBool@@SAPAXIPAVUObject@@VFName@@K@Z
+         37   24 00001D10 ??2UActionBool@@SAPAXIPAW4EInternal@@@Z
+         38   25 00001BA0 ??2UActionCinematicEnter@@SAPAXIPAVUObject@@VFName@@K@Z
+         39   26 00001D10 ??2UActionCinematicEnter@@SAPAXIPAW4EInternal@@@Z
+         40   27 00001BE0 ??2UActionCinematicExit@@SAPAXIPAVUObject@@VFName@@K@Z
+         41   28 00001D10 ??2UActionCinematicExit@@SAPAXIPAW4EInternal@@@Z
+         42   29 00001C10 ??2UActionFor@@SAPAXIPAVUObject@@VFName@@K@Z
+         43   2A 00001D10 ??2UActionFor@@SAPAXIPAW4EInternal@@@Z
+         44   2B 00001C40 ??2UActionIf@@SAPAXIPAVUObject@@VFName@@K@Z
+         45   2C 00001D10 ??2UActionIf@@SAPAXIPAW4EInternal@@@Z
+         46   2D 00001C70 ??2UActionLoop@@SAPAXIPAVUObject@@VFName@@K@Z
+         47   2E 00001D10 ??2UActionLoop@@SAPAXIPAW4EInternal@@@Z
+         48   2F 00001B60 ??2UActionPropertyTest@@SAPAXIPAVUObject@@VFName@@K@Z
+         49   30 00001D10 ??2UActionPropertyTest@@SAPAXIPAW4EInternal@@@Z
+         50   31 00001CE0 ??2UVariable@@SAPAXIPAVUObject@@VFName@@K@Z
+         51   32 00001D10 ??2UVariable@@SAPAXIPAW4EInternal@@@Z
+         52   33 00002700 ??4AScript@@QAEAAV0@ABV0@@Z
+         53   34 00001AB0 ??4FParameterResolveInfo@@QAEAAU0@ABU0@@Z
+         54   35 00002540 ??4UAction@@QAEAAV0@ABV0@@Z
+         55   36 000025B0 ??4UActionBool@@QAEAAV0@ABV0@@Z
+         56   37 000025B0 ??4UActionCinematicEnter@@QAEAAV0@ABV0@@Z
+         57   38 000025B0 ??4UActionCinematicExit@@QAEAAV0@ABV0@@Z
+         58   39 00002650 ??4UActionFor@@QAEAAV0@ABV0@@Z
+         59   3A 00002690 ??4UActionIf@@QAEAAV0@ABV0@@Z
+         60   3B 000026D0 ??4UActionLoop@@QAEAAV0@ABV0@@Z
+         61   3C 000025D0 ??4UActionPropertyTest@@QAEAAV0@ABV0@@Z
+         62   3D 00001DD0 ??4UVariable@@QAEAAV0@ABV0@@Z
+         63   3E 000065F8 ??_7AScript@@6B@
+         64   3F 00006418 ??_7UAction@@6B@
+         65   40 000068C0 ??_7UActionBool@@6B@
+         66   41 000069B0 ??_7UActionCinematicEnter@@6B@
+         67   42 00006A28 ??_7UActionCinematicExit@@6B@
+         68   43 00006490 ??_7UActionFor@@6B@
+         69   44 00006508 ??_7UActionIf@@6B@
+         70   45 00006580 ??_7UActionLoop@@6B@
+         71   46 00006938 ??_7UActionPropertyTest@@6B@
+         72   47 00006848 ??_7UVariable@@6B@
+         73   48 00001080 ?CleanupDestroyed@AScript@@UAEXXZ
+         74   49 00003130 ?CleanupDestroyed@UAction@@UAEXXZ
+         75   4A 00003340 ?CleanupDestroyed@UActionFor@@UAEXXZ
+         76   4B 000031D0 ?CleanupDestroyed@UActionIf@@UAEXXZ
+         77   4C 000032B0 ?CleanupDestroyed@UActionLoop@@UAEXXZ
+         78   4D 00001A40 ?InternalConstructor@AScript@@SAXPAX@Z
+         79   4E 00003090 ?InternalConstructor@UAction@@SAXPAX@Z
+         80   4F 000030A0 ?InternalConstructor@UActionBool@@SAXPAX@Z
+         81   50 000030C0 ?InternalConstructor@UActionCinematicEnter@@SAXPAX@Z
+         82   51 000030D0 ?InternalConstructor@UActionCinematicExit@@SAXPAX@Z
+         83   52 00001A10 ?InternalConstructor@UActionFor@@SAXPAX@Z
+         84   53 00001A20 ?InternalConstructor@UActionIf@@SAXPAX@Z
+         85   54 00001A30 ?InternalConstructor@UActionLoop@@SAXPAX@Z
+         86   55 000030B0 ?InternalConstructor@UActionPropertyTest@@SAXPAX@Z
+         87   56 000020E0 ?InternalConstructor@UVariable@@SAXPAX@Z
+         88   57 00001000 ?PostEditChange@AScript@@UAEXXZ
+         89   58 0000C108 ?PrivateStaticClass@AScript@@0VUClass@@A
+         90   59 0000E250 ?PrivateStaticClass@UAction@@0VUClass@@A
+         91   5A 0000DCD0 ?PrivateStaticClass@UActionBool@@0VUClass@@A
+         92   5B 0000E7C8 ?PrivateStaticClass@UActionCinematicEnter@@0VUClass@@A
+         93   5C 0000ED40 ?PrivateStaticClass@UActionCinematicExit@@0VUClass@@A
+         94   5D 0000D170 ?PrivateStaticClass@UActionFor@@0VUClass@@A
+         95   5E 0000C680 ?PrivateStaticClass@UActionIf@@0VUClass@@A
+         96   5F 0000CBF8 ?PrivateStaticClass@UActionLoop@@0VUClass@@A
+         97   60 0000F2B8 ?PrivateStaticClass@UActionPropertyTest@@0VUClass@@A
+         98   61 0000D758 ?PrivateStaticClass@UVariable@@0VUClass@@A
+         99   62 0000D6EC ?SCRIPTING_bestVariableClass@@3VFName@@A
+        100   63 0000D6F0 ?SCRIPTING_editorDisplayString@@3VFName@@A
+        101   64 0000D6F4 ?SCRIPTING_enumScriptLabels@@3VFName@@A
+        102   65 0000D6F8 ?SCRIPTING_enumScripts@@3VFName@@A
+        103   66 0000D6FC ?SCRIPTING_nativeClassToVariableClass@@3VFName@@A
+        104   67 0000D700 ?SCRIPTING_variableClassToNativeClass@@3VFName@@A
+        105   68 00001070 ?StaticClass@AScript@@SAPAVUClass@@XZ
+        106   69 00001030 ?StaticClass@UAction@@SAPAVUClass@@XZ
+        107   6A 00001B10 ?StaticClass@UActionBool@@SAPAVUClass@@XZ
+        108   6B 00001B90 ?StaticClass@UActionCinematicEnter@@SAPAVUClass@@XZ
+        109   6C 00001BD0 ?StaticClass@UActionCinematicExit@@SAPAVUClass@@XZ
+        110   6D 00001040 ?StaticClass@UActionFor@@SAPAVUClass@@XZ
+        111   6E 00001050 ?StaticClass@UActionIf@@SAPAVUClass@@XZ
+        112   6F 00001060 ?StaticClass@UActionLoop@@SAPAVUClass@@XZ
+        113   70 00001B50 ?StaticClass@UActionPropertyTest@@SAPAVUClass@@XZ
+        114   71 00001CD0 ?StaticClass@UVariable@@SAPAVUClass@@XZ
+        115   72 000011B0 ?Tick@AScript@@UAEHMW4ELevelTick@@@Z
+        116   73 00003750 ?compareProperty@UActionPropertyTest@@AAEHPAVAActor@@@Z
+        117   74 00001F00 ?eventbestVariableClass@UVariable@@QAEXABVFString@@AAPAVUClass@@@Z
+        118   75 00001E60 ?eventeditorDisplayString@UAction@@QAEXAAVFString@@@Z
+        119   76 000024A0 ?eventenumScriptLabels@UAction@@QAEXPAVALevelInfo@@AAV?$TArray@VFName@@@@@Z
+        120   77 00002400 ?eventenumScripts@UAction@@QAEXPAVALevelInfo@@AAV?$TArray@VFName@@@@@Z
+        121   78 00002040 ?eventnativeClassToVariableClass@UVariable@@QAEXABVFString@@AAPAVUClass@@@Z
+        122   79 00001FA0 ?eventvariableClassToNativeClass@UVariable@@QAEXPAVUClass@@AAVFString@@@Z
+        123   7A 00003560 ?execSetActionPropertyText@UAction@@QAEXAAUFFrame@@QAX@Z
+        124   7B 000033D0 ?execcinematicEnter@UActionCinematicEnter@@QAEXAAUFFrame@@QAX@Z
+        125   7C 00003430 ?execcinematicExit@UActionCinematicExit@@QAEXAAUFFrame@@QAX@Z
+        126   7D 00001130 ?execdestroyTempVariables@AScript@@QAEXAAUFFrame@@QAX@Z
+        127   7E 000038E0 ?execdoPropertyTest@UActionPropertyTest@@QAEXAAUFFrame@@QAX@Z
+        128   7F 00003BA0 ?execfindTestProperty@UActionPropertyTest@@QAEXAAUFFrame@@QAX@Z
+        130   80 0000C0D0 GPackage
+        129   81 00001A50 _DllMain@12
+        131   82 0000C67C autoclassAScript
+        132   83 0000E7C4 autoclassUAction
+        133   84 0000E244 autoclassUActionBool
+        134   85 0000ED3C autoclassUActionCinematicEnter
+        135   86 0000F2B4 autoclassUActionCinematicExit
+        136   87 0000D6E4 autoclassUActionFor
+        137   88 0000CBF4 autoclassUActionIf
+        138   89 0000D16C autoclassUActionLoop
+        139   8A 0000F82C autoclassUActionPropertyTest
+        140   8B 0000E248 autoclassUVariable
+        141   8C 0000D740 intAScriptexecdestroyTempVariables
+        142   8D 0000D710 intUActionCinematicEnterexeccinematicEnter
+        143   8E 0000D71C intUActionCinematicExitexeccinematicExit
+        144   8F 0000D728 intUActionPropertyTestexecdoPropertyTest
+        145   90 0000D734 intUActionPropertyTestexecfindTestProperty
+        146   91 0000D704 intUActionexecSetActionPropertyText
+
+  Summary
+
+        4000 .data
+        6000 .rdata
+        2000 .reloc
+        5000 .text

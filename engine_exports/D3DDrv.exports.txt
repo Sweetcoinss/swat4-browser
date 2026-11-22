@@ -1,0 +1,87 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\D3DDrv.dll
+
+File Type: DLL
+
+  Section contains the following exports for D3DDrv.dll
+
+    00000000 characteristics
+    42167886 time date stamp Fri Feb 18 23:21:42 2005
+        0.00 version
+           1 ordinal base
+          61 number of functions
+          61 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000C630 ??0ShaderLibrary@@IAE@XZ
+          2    1 0000C650 ??0ShaderLibrary@@QAE@ABV0@@Z
+          3    2 00010410 ??0UD3DRenderDevice@@QAE@ABV0@@Z
+          4    3 000226A0 ??0UD3DRenderDevice@@QAE@XZ
+          5    4 0000C640 ??1ShaderLibrary@@MAE@XZ
+          6    5 00010070 ??1UD3DRenderDevice@@UAE@XZ
+          7    6 0000F360 ??2UD3DRenderDevice@@SAPAXIPAVUObject@@VFName@@K@Z
+          8    7 0000F390 ??2UD3DRenderDevice@@SAPAXIPAW4EInternal@@@Z
+          9    8 00003FC0 ??4PreprocessorBlock@@QAEAAV0@ABV0@@Z
+         10    9 00003F90 ??4PreprocessorDef@@QAEAAU0@ABU0@@Z
+         11    A 0000C660 ??4ShaderLibrary@@QAEAAV0@ABV0@@Z
+         12    B 00010940 ??4UD3DRenderDevice@@QAEAAV0@ABV0@@Z
+         13    C 00052D68 ??_7ShaderLibrary@@6B@
+         14    D 000532CC ??_7UD3DRenderDevice@@6BFExec@@@
+         15    E 000532D0 ??_7UD3DRenderDevice@@6BUObject@@@
+         16    F 00003FE0 ??_FPreprocessorBlock@@QAEXXZ
+         17   10 000057B0 ?CommitPixelShaderConstants@UD3DRenderDevice@@QAEXKK@Z
+         18   11 00004FA0 ?CommitVertexShaderConstants@UD3DRenderDevice@@QAEXKK@Z
+         19   12 000206B0 ?Destroy@UD3DRenderDevice@@UAEXXZ
+         20   13 00020270 ?DirectSetPixelShaderConstant@UD3DRenderDevice@@QAEXKPBMK@Z
+         21   14 00020210 ?DirectSetVertexShaderConstant@UD3DRenderDevice@@QAEXKPBMK@Z
+         22   15 0001D940 ?Exec@UD3DRenderDevice@@UAEHPBGAAVFOutputDevice@@@Z
+         23   16 0001C860 ?Exit@UD3DRenderDevice@@UAEXPAVUViewport@@@Z
+         24   17 0001D520 ?Flush@UD3DRenderDevice@@UAEXPAVUViewport@@@Z
+         25   18 0001C710 ?FlushResource@UD3DRenderDevice@@UAEX_K@Z
+         26   19 00003FB0 ?GetBlockPtr@PreprocessorBlock@@QBEPBUPreprocessorDef@@XZ
+         27   1A 0001C670 ?GetCachedResource@UD3DRenderDevice@@QAEPAVFD3DResource@@_K@Z
+         28   1B 0001CD70 ?GetNewMovie@UD3DRenderDevice@@UAEPAVFMovie@@W4ECodecType@@VFString@@HH@Z
+         29   1C 00002150 ?GetNormalizationCubeMap@UD3DRenderDevice@@QAEPAVFD3DTexture@@XZ
+         30   1D 0001CB60 ?GetPixelShader@UD3DRenderDevice@@QAEPAVFD3DPixelShader@@W4EPixelShader@@@Z
+         31   1E 0000F3B0 ?GetPixelShaderConstants@UD3DRenderDevice@@QAEAAVFShaderConstantTable@@XZ
+         32   1F 0001F030 ?GetRenderCaps@UD3DRenderDevice@@UAEPAUFRenderCaps@@XZ
+         33   20 0000CE70 ?GetShaderLibrary@UD3DRenderDevice@@QAEPAVShaderLibrary@@XZ
+         34   21 000203F0 ?GetVertexDeclaration@UD3DRenderDevice@@QAEPAVFD3DVertexDeclaration@@ABUFShaderDeclaration@@@Z
+         35   22 0001C7A0 ?GetVertexShader@UD3DRenderDevice@@QAEPAVFD3DVertexShader@@W4ETransformMode@@W4EVertexShader@@@Z
+         36   23 0000DFF0 ?GetVertexShaderConstants@UD3DRenderDevice@@QAEAAVFShaderConstantTable@@XZ
+         37   24 0001E7D0 ?HandleMouseLag@UD3DRenderDevice@@QAEXXZ
+         38   25 00020760 ?Init@UD3DRenderDevice@@UAEHXZ
+         39   26 0000F3A0 ?InternalConstructor@UD3DRenderDevice@@SAXPAX@Z
+         40   27 0001CEC0 ?LoadShaderLibrary@UD3DRenderDevice@@QAEXXZ
+         41   28 0001E210 ?Lock@UD3DRenderDevice@@UAEPAVFRenderInterface@@PAVUViewport@@PAEPAH@Z
+         42   29 000204E0 ?PartialUploadTexture@UD3DRenderDevice@@UAEXPAVFStaticTexture@@HHHH@Z
+         43   2A 000204A0 ?PixelShaderVersionFP@UD3DRenderDevice@@QAEHXZ
+         44   2B 0001E900 ?Present@UD3DRenderDevice@@UAEXPAVUViewport@@@Z
+         45   2C 0007D4E0 ?PrivateStaticClass@UD3DRenderDevice@@0VUClass@@A
+         46   2D 0001ECA0 ?ReadPixels@UD3DRenderDevice@@UAEXPAVFRenderTarget@@PAVFColor@@@Z
+         47   2E 0001EA30 ?ReadPixels@UD3DRenderDevice@@UAEXPAVUViewport@@PAVFColor@@@Z
+         48   2F 000202D0 ?RenderMovie@UD3DRenderDevice@@UAEXPAVUViewport@@@Z
+         49   30 0001CE80 ?ResourceCached@UD3DRenderDevice@@UAEH_K@Z
+         50   31 0001C940 ?RestoreGamma@UD3DRenderDevice@@UAEXXZ
+         51   32 0001EE80 ?SetEmulationMode@UD3DRenderDevice@@UAEXW4EHardwareEmulationMode@@@Z
+         52   33 00021960 ?SetRes@UD3DRenderDevice@@UAEHPAVUViewport@@HHHHH@Z
+         53   34 0000F350 ?StaticClass@UD3DRenderDevice@@SAPAVUClass@@XZ
+         54   35 0001BF50 ?StaticConstructor@UD3DRenderDevice@@QAEXXZ
+         55   36 0001CA60 ?SupportsTextureFormat@UD3DRenderDevice@@UAEHW4ETextureFormat@@@Z
+         56   37 0001D410 ?UnSetRes@UD3DRenderDevice@@QAEHPBGJH@Z
+         57   38 0001E560 ?Unlock@UD3DRenderDevice@@UAEXPAVFRenderInterface@@@Z
+         58   39 0001D770 ?UpdateGamma@UD3DRenderDevice@@UAEXPAVUViewport@@@Z
+         60   3A 00074060 GPackage
+         59   3B 0000F330 _DllMain@12
+         61   3C 0007DA54 autoclassUD3DRenderDevice
+
+  Summary
+
+        D000 .data
+       23000 .rdata
+        9000 .reloc
+       50000 .text

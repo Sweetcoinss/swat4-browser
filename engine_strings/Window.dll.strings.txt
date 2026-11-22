@@ -1,0 +1,1148 @@
+# Strings extracted from Window.dll (475136 bytes)
+# Total strings: 3218, filtered: 1145
+
+        
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+!This program cannot be run in DOS mode.
+###:@s
+%s    extends %s
+%s named %s - Properties
+&Next >
+(R=%i,G=%i,B=%i)
+(X=%i,Y=%i,XL=%i,YL=%i)
+(Y%S%R~
+)0@0G0~0
+..\Inc\Window.h
+.\Controls.cpp
+.\Dialogs.cpp
+.\Properties.cpp
+.\Utils.cpp
+.\Window.cpp
+/060S1
+/0@0E0K0f0
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0$0(0,0004080@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0$0(0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0(080L0X0`0
+0 0(0H0P0`0t0
+0 0)0:0C0L0Q0a0q0
+0 000D0P0X0x0
+0 010X0n0
+0#0(0.0F0t0
+0#0(0G0]0{0
+0#0)020;0@0X0_0h0m0v0
+0$0)0/0A0f0
+0$0)0T0
+0$010M0V0a0}0
+0%0.070<0\0
+0%0F0a0m0{0
+0(010j0q0
+0(040L0T0`0x0
+0(0<0H0P0h0p0x0
+0(0>0[0g0l0r0
+0(1=1G1X1]1c1
+0)0/0=0E0M0[0c0x0
+0,080P0\0t0
+0,0:0H0`0{0
+0,1014181@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+00080H0\0h0p0
+000<0T0\0h0
+0:0W0h0m0s0
+0:0`0l0
+0@1Q1V1\1v1
+0@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+1 1$1(1,1014181<1@1D1H1L1P1T1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1$1(1,1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1(10181@1H1P1X1`1p1x1
+1 141@1H1h1p1
+1 181@1P1d1p1x1
+1 1@1H1X1l1x1
+1!1-191F1L1S1\1b1q1
+1"1(161B1G1M1e1p1u1z1
+1"1.141:1C1I1P1l1y1
+1"1F1p1{1
+1#1(1G1]1
+1$1)1/1F1]1
+1$2+2:2j2u2
+1%1*101=1L1Q1W1{1
+1&121A1\1c1|1
+1(101@1H1P1X1d1
+1(181?1L1W1\1x1
+1)1.141f1
+1)141A1\1p1
+161\1f1
+171j1{1
+1:1C1b1g1m1
+1:1S1o1v1
+1:1e1v1{1
+1B2\2}2
+1\1m1r1x1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2$2(2,2024282<2@2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2$2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2(202@2H2X2l2x2
+2 2.2>2G2c2o2x2
+2 282@2P2X2h2|2
+2#2(2.2F2
+2$2,2<2P2\2d2
+2$393@3\3
+2(202@2T2`2h2
+2(202@2T2`2h2x2
+2)2J2c2
+2,2:2?2Y2g2r2
+2-262D2P2U2`2e2j2{2
+212:2q2z2
+213>3D3J3j3{3
+2=2B2P2V2\2t2
+2B3\3}3
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3$3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3(303<3T3\3d3l3t3|3
+3 3(383@3P3d3p3x3
+3 3(383L3X3`3
+3 3(3H3P3`3t3
+3 3,323M3^3c3i3
+3 303D3P3X3p3
+3 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+3 41464<4h4p4z4
+3!3'3:3N3T3g3u3
+3!3.383@3J3W3}3
+3$3D3L3\3p3|3
+3$454:4@4k4
+3(3/3e3n3
+3(303P3X3h3|3
+3*303:3O3X3g3l3s3
+3-3I3X3^3s3}3
+30383H3\3h3p3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4$4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4(4H4P4`4t4
+4 444@4H4h4p4
+4 4@4H4X4l4x4
+4"4.4@4U4\4k4
+4"515;5K5\5k5u5
+4(404H4X4`4p4
+4(4<4H4P4h4x4
+4(4<4H4P4p4x4
+4(4P4X4h4|4
+4(4W4h4m4s4
+4)4J4f4
+4.4@4G4N4T4t4{4
+40484H4\4h4p4
+404:4M4Z4_4n4
+4?5X5r5w5}5
+5 5$5(5,5
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5$5(5,5054585<5@5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5(585L5X5`5
+5 5,545L5\5d5t5
+5 505D5P5X5x5
+5 545@5H5h5p5
+5 6?6s6
+5"6'6D6M6e6p6u6}6
+5$5=5K5S5#6x6}6
+5(5-535f5
+5(505@5T5`5h5
+5(505P5X5h5|5
+5(585E5R5X5^5i5t5
+5(5<5H5P5p5x5
+5(5n5x5
+5)5.5=5^5p5
+5,585P5\5t5
+5/545:5V5
+50585H5\5h5p5
+5n~2eu)Yh"P]!N\
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 6(686L6X6`6
+6 6(6H6P6`6t6
+6 6@6H6X6l6x6
+6"6/6J6[6`6f6
+6$6,6<6P6\6d6|6
+6$757:7@7v7
+6(606@6T6`6h6
+6(646L6X6p6|6
+6(646\6d6t6
+6(6<6H6P6p6x6
+6(6?6W6]6e6
+6)646:6R6x6
+6)696J6i6
+6*6:6S6u6
+6+7E7\7l7
+666b6i6o6}6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 7(7H7P7`7t7
+7 7)727;7D7M7V7p7
+7 7,7T7\7l7
+7 7@7H7X7l7x7
+7 81868<8V8
+7$7,787P7\7t7|7
+7'8?8\8w8
+7(7-737Q7l7
+7(707<7\7l7t7
+7(7S7d7~7
+7/767<7c7
+7/777]7
+747<7D7L7T7\7d7l7t7|7
+758\8k8{8
+787O7a7}7
+7:7@7p7
+7:7A7t7
+7:7S7z7
+7Z8c8{8
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8 8&8F8x8
+8 8(848L8T8\8d8l8t8
+8 8,848T8\8l8
+8 80888H8\8h8p8
+8 848@8H8X8d8|8
+8 8A8Y8d8q8
+8 8[8d8y8
+8 9,9b:|:
+8"8(8g8l8r8
+8#8(858P8_8l8w8
+8#8J8V8\8e8t8
+8$8,8D8T8\8l8
+8(808@8T8`8h8
+8(8<8H8P8h8p8x8
+8(8=8X8i8n8t8
+8,848D8L8\8p8|8
+8/8@8E8K8d8
+8:8J8O8w8
+8B8O8\8c8p8
+8E8J8P8d8i8o8{8
+8\9b9g9s9x9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9&9Q9
+9 9(989L9X9`9
+9 9(9H9P9`9t9
+9 909D9P9X9x9
+9!959:9\9q9
+9":,:3:@:H:S:`:p:
+9":<:]:s:
+9#:<:K:P:^:j:~:
+9$9(94989D9H9
+9$949H9T9\9|9
+9&9/9D9M9l9
+9&:7:<:B:f:
+9(9-939V9~9
+9(9.9C9K9Q9e9l9s9
+9(999>9D9f9
+9(9<9H9P9`9h9p9x9
+9)969X9i9n9t9
+9)9:9c9
+9,989P9\9t9|9
+90:R<l<
+92:C:H:N:
+93:l:t:
+9;:L:Q:W:s:
+9>9T9s9}9
+9B9\9}9
+9O:[:h:
+9Z:k:p:v:
+: :$:(:,:0:4:8:<:@:D:
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+: :4:@:H:`:p:x:
+: :@:H:X:l:x:
+: ;1;6;<;V;
+:!:.:I:Z:_:e:
+:!:1:E:J:a:q:
+:!:B:S:X:^:v:
+:":*:2:D:S:g:o:
+:":e:v:{:
+:#:):@:e:p:
+:#:?:u:
+:#:F:s:
+:#;?;M;l;
+:$:,:4:<:L:T:d:x:
+:$:,:<:D:L:T:`:x:
+:$:,:D:L:\:d:t:
+:%:/:6:C:f:
+:%;2;8;D;J;Y;a;p;
+:&:A:R:W:]:v:
+:&;L;Q;W;`;i;q;z;
+:':5:d:
+:':`:q:v:|:
+:(:<:H:P:`:l:
+:):6:X:i:n:t:
+:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+:-:2:A:Q:a:q:
+:-:M:^:c:i:
+:-;=;I;S;];d;m;v;
+:.:3:9:V:
+:/:6:D:T:v:
+:0:9:Z:y:
+:0:<:D:T:`:x:
+:0:<:F:Z:
+:0:A:F:L:i:v:
+:0=4=8=<=@=D=H=L=P=T=f=
+:1:6:<:P:U:[:j:o:
+:1:B:G:M:h:o:
+:1:]:r:
+:1:c:n:z:
+:2:I:j:
+:3:]:n:s:y:
+:3;a;l;
+:4:<:L:`:l:t:
+::;\;t;
+::IsWindow( hWnd )
+:<:D:T:h:t:|:
+:<:U:o:v:|:
+:<:`:l:
+:B;M;^;c;i;
+:E:V:[:a:
+:L:Y:c:l:
+:R;c;h;n;
+:V;g;l;r;
+:[:l:q:w:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; ;%;+;C;f;|;
+; ;,;4;D;L;T;\;d;l;t;|;
+; ;,;4;L;T;d;l;|;
+; ;,;4;T;\;l;
+;!;&;,;5;F;K;W;\;z;
+;$;4;H;T;\;|;
+;&;:;?;S;X;j;z;
+;&<e<v<{<
+;(;/;^;o;
+;(;2;N;X;t;~;
+;(;4;<;T;d;l;|;
+;(;4;T;l;
+;(;@;L;d;p;
+;(;M;q;
+;-;8;A;g;x;};
+;/;4;:;\;s;
+;/;?;L;e;v;{;
+;0;8;H;\;h;p;
+;D;L;\;p;|;
+;~H}c;
+< &Back
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+< <(<8<L<X<`<
+< <*<B<]<s<
+< <+<9<A<\<d<l<
+< =Y=k=
+<$<,<<<P<\<d<
+<%<:<]<b<
+<&<K<W<\<b<
+<(<0<@<T<`<h<
+<(<0<P<X<h<|<
+<(<9<><D<f<
+<)<:<?<E<f<
+<)<=<O<U<[<m<s<y<
+<)=5=C=X=^=k=
+<)=6=C=\=i=
+<,<4<8<<<D<L<T<\<h<
+<No Version.ini>
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+= =(=H=P=`=t=
+= =0=D=P=X=p=
+= =@=H=X=l=x=
+=!=)=0=Q=W=_=g=q=
+=#=(=:=J=w=
+=$=<=D=L=T=\=d=l=t=|=
+=&=g=x=}=
+=(=4=<=\=d=t=
+=(=<=H=P=p=x=
+=.=:=Q=m={=
+=5=;=X=]=l=}=
+=6=?={=
+=6=e=}=
+=6=g=l=r={=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+> >$>(>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+> >8>L>X>`>p>x>
+> >9>Y>
+> >@>H>X>l>x>
+> >@>K>R>\>g>{>
+> ?-?R?i?
+>!>:>C>p>}>
+>#?)?6?D?Q?W?]?h?t?|?
+>$>,>8>P>\>t>|>
+>%>->F>W>\>b>
+>&>W>\>b>p>
+>(>4><>\>d>t>
+>(>;>I>R>a>
+>(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+>)>J>c>
+>,>8>P>\>t>
+>/>H>Y>^>d>
+>0>8>H>\>h>p>
+>1>9>A>\>a>g>m>s>z>
+>1>=>J>R>_>x>}>
+>7>@>I>P>W>h>t>{>
+>F>M>T>Z>o>{>
+>Q?\?d?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+? ?$?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+? ?(?8?L?X?`?
+? ?4?@?H?X?`?h?p?|?
+?!?5?:?Q?a?q?
+?#?)?3?8?A?F?O?T?^?c?l?q?z?
+?$?)?/?F?
+?$?4?H?T?\?|?
+?(?0?P?X?h?|?
+?(?4?<?\?d?t?
+?(?4?L?T?`?x?
+?(?C?T?Y?_?q?
+?/?=?H?\?p?v?
+?/?@?E?K?f?
+?1?I?P?a?}?
+?:?A?h?
+?A?Y?}?
+?n{=am3cr,jz.r
+AJ n}4^k,
+AddButton
+AdjustWindowRectEx
+AppendMenuW
+Application location: 
+BROWSECLASS CLASS=%s
+BackButton
+BaseClass
+BeginDeferWindowPos
+BeginPaint
+BringWindowToTop
+BrowseButton
+BugReportURL
+COMBOBOX
+CallWindowProcA
+CallWindowProcW
+CancelButton
+Cast of %s to %s failed
+ChangeNumber
+ChooseColorA
+Class %s Properties
+ClassCaption
+ClassProperties
+ClassProperty
+ClearButton
+ClientToScreen
+ClipCursor
+ColorButton
+ComputerName: 
+Copy Text
+Crash Time: 
+CrashBox
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreateDIBitmap
+CreateDialogIndirectParamA
+CreateDialogParamA
+CreateDialogParamW
+CreateFontW
+CreatePen
+CreatePopupMenu
+CreateSolidBrush
+CreateWindowEx failed: %s
+CreateWindowExA
+CreateWindowExW
+D\j'-7
+DefMDIChildProcA
+DefMDIChildProcW
+DefWindowProcA
+DefWindowProcW
+DefaultsButton
+DeleteButton
+DeleteDC
+DeleteObject
+DestroyMenu
+DestroyWindow
+DialogBoxParamA
+DialogBoxParamW
+DispatchMessageA
+DispatchMessageW
+Display function not found
+DrawEdge
+DrawFocusRect
+DrawTextA
+DrawTextExA
+DrawTextExW
+DrawTextW
+Edit combo display function not found
+EditObject
+EditWnd && EditWnd != hWnd
+EmptyButton
+EndDeferWindowPos
+EndDialog
+EndPaint
+EnumChildWindows
+Expression Error : Can't take square root of negative number
+Expression Error : Division by zero isn't allowed
+Expression Error : Error in expression
+Expression Error : Mismatched brackets
+Expression Error : Modulo zero isn't allowed
+Expression Error : No value recognized
+Expression Error : Unrecognized Operator
+ExtTextOutA
+FActionItem
+FActionItem::FActionItem
+FActionItem::OnObjectPaste
+FCategoryItem
+FCategoryItem::Collapse
+FCategoryItem::Expand
+FCategoryItem::FindAncestorPropertyForObject
+FCategoryItem::GetId
+FCategoryItem::GetText
+FCategoryItem::Serialize
+FCategoryItem::ShouldExpandRecursively
+FClassItem
+FClassItem::FindAncestorPropertyForObject
+FClassItem::ShouldExpandRecursively
+FConfigItem
+FConfigItem::Collapse
+FConfigItem::Expand
+FConfigItem::GetText
+FContainer::RefreshControls
+FEditInlineClassItem
+FEditInlineClassItem::Expand
+FEditInlineClassItem::GetPropertyText
+FEditInlineClassItem::OnClassCopy
+FEditInlineClassItem::OnClassCut
+FEditInlineClassItem::OnClassPaste
+FEditInlineClassItem::OnClassProperties
+FEditInlineClassItem::OnItemSetFocus
+FHeaderItem::Draw
+FHeaderItem::OnChooseHSLColorButton
+FHeaderItem::OnItemKillFocus
+FHeaderItem::OnItemSetFocus
+FHeaderItem::OnPickColorButton
+FHeaderItem::SetValue
+FINDACTOR
+FNewActionObjectItem
+FNewClassItem
+FNewClassItem::ComboSelectionEndCancel
+FNewClassItem::ComboSelectionEndOk
+FNewClassItem::Draw
+FNewClassItem::GetCaption
+FNewClassItem::OnItemSetFocus
+FNewClassItem::OnKillFocus
+FNewClassItem::OnNew
+FNewObjectItem
+FNewObjectItem::ComboSelectionEndCancel
+FNewObjectItem::ComboSelectionEndOk
+FNewObjectItem::Draw
+FNewObjectItem::GetCaption
+FNewObjectItem::OnItemSetFocus
+FNewObjectItem::OnKillFocus
+FNewObjectItem::OnNew
+FObjectConfigItem
+FObjectConfigItem::LazyLoadClass
+FObjectConfigItem::OnResetToDefaultsButton
+FObjectConfigItem::Serialize
+FObjectsItem
+FObjectsItem::Eval
+FObjectsItem::Expand
+FObjectsItem::FindAncestorPropertyForObject
+FObjectsItem::GetCaption
+FObjectsItem::GetReadAddress
+FObjectsItem::GrabChar
+FObjectsItem::NotifyChange
+FObjectsItem::Serialize
+FObjectsItem::SetObjects
+FObjectsItem::SetProperty
+FObjectsItem::ShouldExpandRecursively
+FObjectsItem::SubEval
+FPropertyItem
+FPropertyItem::Advance
+FPropertyItem::BuildContextMenu
+FPropertyItem::ComboEditEnterKeyPressed
+FPropertyItem::ComboSelectionEndCancel
+FPropertyItem::ComboSelectionEndOk
+FPropertyItem::Draw
+FPropertyItem::Expand
+FPropertyItem::FPropertyItem
+FPropertyItem::FindAncestorPropertyForObject
+FPropertyItem::GetCaption
+FPropertyItem::GetId
+FPropertyItem::GetPropertyText
+FPropertyItem::GetValFromEditDisplayFunc
+FPropertyItem::OnArrayAdd
+FPropertyItem::OnArrayDelete
+FPropertyItem::OnArrayEmpty
+FPropertyItem::OnArrayInsert
+FPropertyItem::OnBrowseButton
+FPropertyItem::OnChooseColorButton
+FPropertyItem::OnClearButton
+FPropertyItem::OnFindButton
+FPropertyItem::OnItemDoubleClick
+FPropertyItem::OnItemLeftMouseDown
+FPropertyItem::OnItemSetFocus
+FPropertyItem::OnKillFocus
+FPropertyItem::OnObjectCopy
+FPropertyItem::OnObjectCut
+FPropertyItem::OnObjectProperties
+FPropertyItem::OnPickColorButton
+FPropertyItem::OnRevert
+FPropertyItem::OnSetCursor
+FPropertyItem::OnShowContextMenu
+FPropertyItem::OnTrackBarThumbPosition
+FPropertyItem::OnTrackBarThumbTrack
+FPropertyItem::OnUseCurrentButton
+FPropertyItem::ReceiveFromControl
+FPropertyItem::SendToControl
+FPropertyItem::Serialize
+FPropertyItem::SetValue
+FPropertyItem::ShouldExpandRecursively
+FPropertyItem::SnoopChar
+FPropertyItemBase::Collapse
+FPropertyItemBase::GetCaption
+FPropertyItemBase::GetStates
+FPropertyItemBase::Serialize
+FTreeItem::AddButton
+FTreeItem::Collapse
+FTreeItem::Draw
+FTreeItem::EmptyChildren
+FTreeItem::Expand
+FTreeItem::FindAncestorPropertyForObject
+FTreeItem::GetExpanderRect
+FTreeItem::GetIndent
+FTreeItem::GetIndentPixels
+FTreeItem::GetParentObject
+FTreeItem::GetRect
+FTreeItem::OnItemDoubleClick
+FTreeItem::OnItemKillFocus
+FTreeItem::OnItemLeftMouseDown
+FTreeItem::OnItemRightMouseDown
+FTreeItem::OnItemSetFocus
+FTreeItem::Redraw
+FTreeItem::Serialize
+FTreeItem::SnoopChar
+FTreeItem::ToggleExpansion
+FTreeItem::~FTreeItem
+FTreeList::AcceptFlags
+FTreeList::GetReadAddress
+FTreeList::GetStates
+FTreeList::NotifyChange
+FTreeList::SetProperty
+Failed loading menu: %s %s
+FailedConfigLoad
+FillRect
+FindButton
+FindResourceA
+FrameRect
+GPackage
+GetActiveWindow
+GetCapture
+GetClassInfoExA
+GetClassInfoExA( NULL, TCHAR_TO_ANSI(WinBaseClass), &Cls )
+GetClassInfoExW
+GetClassInfoExW( NULL, WinBaseClass, &Cls )
+GetClientRect
+GetCurrentProcessId
+GetCursor
+GetCursorPos
+GetDeviceCaps
+GetDlgCtrlID
+GetDlgItem
+GetForegroundWindow
+GetKeyState
+GetListItem(List.GetTop())
+GetMenuItemCount
+GetMenuItemInfoA
+GetMenuItemInfoW
+GetModuleHandleW
+GetObjectA
+GetParent
+GetPixel
+GetProcAddress
+GetRoot()
+GetStockObject
+GetSubMenu
+GetSysColor
+GetSysColorBrush
+GetSystemMetrics
+GetTextExtentPoint32A
+GetTextExtentPoint32W
+GetUpdateRect
+GetWindow
+GetWindowLongA
+GetWindowLongW
+GetWindowRect
+GetWindowTextA
+GetWindowThreadProcessId
+HashMapHash
+Help topic not found (%d).
+IDCANCEL
+IDC_AutoUpdateText
+IDC_CDKeyDescription
+IDC_CDKeyHolder
+IDC_CDPromptMessage
+IDC_ChoosePrompt
+IDC_Complete
+IDC_ComponentsPrompt
+IDC_ComponentsText
+IDC_CrashBox
+IDC_Default
+IDC_DescriptionFrame
+IDC_DetailNote
+IDC_DetailPrompt
+IDC_DeveloperText
+IDC_Directory
+IDC_DirectoryTitle
+IDC_DiskSpaceFrame
+IDC_DrivesTitle
+IDC_Exit
+IDC_FailedMessage
+IDC_FailedRequirement
+IDC_FolderDescription
+IDC_FolderHolder
+IDC_FullSpaceRequiredMessage
+IDC_InstallText
+IDC_InstallingText
+IDC_Language
+IDC_LanguagePrompt
+IDC_LicenseQuestion
+IDC_LicenseText
+IDC_Manual
+IDC_NamePrompt
+IDC_NetworkButton
+IDC_NoJoy
+IDC_NoProcessor
+IDC_NoSound
+IDC_Options
+IDC_PasswordPrompt
+IDC_PathTitle
+IDC_Play
+IDC_ProductHolder
+IDC_ProductText
+IDC_ProgressText
+IDC_Prompt
+IDC_Reinstall
+IDC_ReleaseNotes
+IDC_ResetConfig
+IDC_Restart
+IDC_RestartText
+IDC_SafeMode
+IDC_SafeModePrompt
+IDC_SafeOptions
+IDC_SpaceAvailableMessage
+IDC_SpaceRequiredMessage
+IDC_TextScroller
+IDC_TotalText
+IDC_Uninstall
+IDC_UninstallPrompt
+IDC_UninstallQuestion
+IDC_UpdatingText
+IDC_VersionText
+IDC_WelcomePrompt
+IDC_WizardDialog
+IDDIALOG_CDPrompt
+IDDIALOG_CrashBox
+IDMENU_NotifyIcon
+ID_LogAdvancedOptions
+ID_LogFile
+ID_LogFileExit
+ID_NotifyAdvancedOptions
+ID_NotifyExit
+ID_NotifyIcon
+ID_NotifyShowLog
+InAnchors
+InMaxVal > 0
+InObjects[i]->GetClass()
+InitWindowing
+InsertButton
+InsertMenuItemA
+InvalidateRect
+IsIconic
+IsWindow
+IsWindowEnabled
+IsZoomed
+L$ _^[d
+Language
+Language:
+LightBrightness
+LightColor
+LightHue
+LightSaturation
+LoadCursorA
+LoadCursorW
+LoadFileToBitmap
+LoadIconA
+LoadIconW
+LoadImageA
+LoadLibraryA
+LoadLibraryW
+LoadLocalizedMenu
+LoadMenuA
+LoadMenuW
+LoadResource
+Loading text...
+LocalizeSubMenu
+LockResource
+LogWindow
+MS Sans Serif
+MSWHEEL_ROLLMSG
+MakeWindowClassName
+MessageBeep
+MoveToEx
+MoveWindow
+NEWINNERCLASS SUPER=%s OUTER=%s
+NEWOBJECT CLASS=%s PARENT=%s
+NextButton
+OkButton
+OnCopyData
+OwnerWindow
+PREFERENCES
+PWWWWWWWWW
+PeekMessageA
+PeekMessageW
+PerformCreateWindowEx
+PickButton
+PictureButton
+PostMessageA
+PostMessageW
+Progress1
+PropMulti
+PropNone
+PropSingle
+Properties
+QSPSSSSh
+QueryCancelAutoPlay
+RICHEDIT
+Rectangle
+RegisterClassExA
+RegisterClassExA( &Cls )
+RegisterClassExW
+RegisterClassExW( &Cls )
+RegisterWindowMessageA
+RegisterWindowMessageW
+ReleaseCapture
+ReleaseDC
+SCROLLBAR
+SHGetSpecialFolderPathW
+SHOWPROPERTIES LABEL=%s
+SWAT Build Number: 
+Saving text...
+ScreenToClient
+SelectObject
+SendMessageA
+SendMessageW
+SetBkColor
+SetBkMode
+SetCapture
+SetCursor
+SetFocus
+SetForegroundWindow
+SetMenuItemInfoA
+SetMenuItemInfoW
+SetTextColor
+SetWindowLongA
+SetWindowLongW
+SetWindowPos
+ShellExecuteA
+ShellExecuteW
+Shell_NotifyIconA
+Shell_NotifyIconW
+ShowWindow
+Sorry, there's no help topic for the selected item.
+StretchBlt
+Submit Bug Report
+SysListView32
+SysTabControl32
+SysTreeView32
+T$ QRW
+T$ QRj
+TTTTTTTTT
+TTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T^/kw?
+TakeFocus
+TextOutW
+ThinScrollBar
+TimeScrollBar
+ToolbarWindow32
+TrackPopupMenu
+TransparentBlt
+TriggeredBy
+USECOLOR
+USECURRENT CLASS=%s
+UWindowManager
+UWindowManager::Destroy
+UWindowManager::Serialize
+UWindowManager::Tick
+UWindowManager::UWindowManager
+UnrealNidMessage
+UnrealOpen
+UpdateWindow
+Use Action (Off)
+Use Action (On)
+UseButton
+UserName: 
+V0g0l0r0
+VQZ0T_/LV)GP"_m+r
+Video: 
+View Properties
+WBalloonTip
+WBitmapButton
+WBitmapButton::OnDestroy
+WBitmapButton::OnDrawItem
+WBitmapButton::OpenWindow
+WButton::InterceptControlCommand
+WButton::IsChecked
+WButton::OnDrawItem
+WButton::OpenWindow
+WButton::SetCheck
+WButton::SetText
+WCheckBox
+WCheckBox::Clicked
+WCheckBox::OnCreate
+WCheckBox::OnRightButtonDown
+WCheckBox::OpenWindow
+WCheckListBox
+WCheckListBox::OnDestroy
+WCheckListBox::OnDrawItem
+WCheckListBox::OnLeftButtonDown
+WCheckListBox::OpenWindow
+WClassProperties
+WColorButton
+WColorButton::OpenWindow
+WComboBox
+WComboBox::AddString
+WComboBox::EditWndProc
+WComboBox::Empty
+WComboBox::FindString
+WComboBox::GetString
+WComboBox::InterceptControlCommand
+WComboBox::OpenWindow
+WComboBox::SetCurrent
+WConfigProperties
+WControl::RegisterWindowClass
+WCoolButton
+WCoolButton::OpenWindow
+WCrashBoxDialog
+WCrashBoxDialog::OnInitDialog
+WCustomLabel
+WCustomLabel::OnPaint
+WDialog::DoModal
+WDialog::LocalizeText
+WDialog::LocalizeTextEnumProc
+WDialog::OnInitDialog
+WDialog::OpenChildWindow
+WDragInterceptor
+WDragInterceptor::OnMouseMove
+WDragInterceptor::OnReleaseCapture
+WDragInterceptor::OpenWindow
+WEdit::GetLineCount
+WEdit::GetLineIndex
+WEdit::GetReadOnly
+WEdit::GetSelection
+WEdit::InterceptControlCommand
+WEdit::OpenWindow
+WEdit::SetReadOnly
+WEdit::SetSelectedText
+WEdit::SetSelection
+WEditTerminal
+WGroupBox
+WGroupBox::OpenWindow
+WItemBox
+WLabel::OpenWindow
+WListBox
+WListBox::AddString
+WListBox::FindItemChecked
+WListBox::FindString
+WListBox::FindStringChecked
+WListBox::FindStringExact
+WListBox::GetString
+WListBox::InsertString
+WListBox::InsertStringAfter
+WListBox::InterceptControlCommand
+WListBox::OpenWindow
+WListBox::SetCurrent
+WListView
+WListView::InterceptControlCommand
+WListView::OpenWindow
+WListViewEx
+WLog::OnClose
+WLog::OnCommand
+WLog::OnCommand %s
+WLog::OnCreate
+WLog::OnDestroy
+WLog::OnShowWindow
+WLog::OpenWindow
+WLog::SetText
+WLog::WndProc
+WM_COPYDATA: %s
+WObjectProperties
+WPictureButton
+WPictureButton::OnDestroy
+WPictureButton::OnSize
+WPictureButton::OpenWindow
+WPictureButton::SetUp
+WPopupMenu
+WPopupMenu::AddItem
+WPopupMenu::AddSeparator
+WPopupMenu::AddSubMenu
+WPopupMenu::OnSelection
+WPopupMenu::ShowPopup
+WPopupMenu::WndProc
+WProgressBar
+WProgressBar::OpenWindow
+WProperties
+WProperties::BeginDrag
+WProperties::DoDestroy
+WProperties::ForceRefresh
+WProperties::OnActivate
+WProperties::OnDestroy
+WProperties::OnFinishSplitterDrag
+WProperties::OnPaint
+WProperties::OnSetCursor
+WProperties::OnSize
+WProperties::OpenChildWindow
+WProperties::OpenWindow
+WProperties::ResizeList
+WProperties::Serialize
+WProperties::SetItemFocus
+WProperties::SetValue
+WProperties::SnoopChar
+WProperties::SnoopLeftMouseDown
+WProperties::SnoopRightMouseDown
+WProperties::WProperties
+WPropertiesBase::GetListItem
+WPropertyItem::Collapse
+WPropertyPage
+WPropertyPage ::OpenWindow
+WPropertyPage::Cleanup
+WPropertyPage::Finalize
+WPropertyPage::GetCaption
+WPropertyPage::PlaceControl
+WPropertySheet
+WPropertySheet::AddPage
+WPropertySheet::Empty
+WPropertySheet::OnCreate
+WPropertySheet::OnSize
+WPropertySheet::OnTabsSelChange
+WPropertySheet::OpenWindow
+WPropertySheet::RefreshPages
+WPropertySheet::SetCurrent
+WRichEdit
+WRichEdit::InterceptControlCommand
+WRichEdit::OpenWindow
+WRichEdit::SetReadOnly
+WRichEdit::StreamTextIn
+WScriptLog
+WScrollBar
+WScrollBar::OpenWindow
+WSplitter
+WSplitter::OnMouseMove
+WSplitter::OpenWindow
+WSplitter::PositionSplitter
+WSplitterContainer
+WSplitterContainer::OnDestroy
+WSplitterContainer::OnSize
+WSplitterContainer::OpenWindow
+WSplitterPane
+WSplitterPane::OpenWindow
+WTabControl
+WTabControl::AddTab
+WTabControl::GetIndexFromlParam
+WTabControl::InterceptControlCommand
+WTabControl::OpenWindow
+WTerminal
+WTerminal::OnCreate
+WTerminal::OnSize
+WTerminal::OpenWindow
+WTerminal::Paste
+WTerminal::SelectTyping
+WTerminal::Serialize
+WTerminal::TypeChar
+WTerminal::UpdateTyping
+WTerminalBase
+WThinScrollBar
+WThinScrollBar::OnDestroy
+WThinScrollBar::OnLeftButtonDown
+WThinScrollBar::OnMouseMove
+WThinScrollBar::OnPaint
+WThinScrollBar::OpenWindow
+WTimeScrollBar
+WTimeScrollBar::OnDestroy
+WTimeScrollBar::OnLeftButtonDown
+WTimeScrollBar::OnMouseMove
+WTimeScrollBar::OnPaint
+WTimeScrollBar::OpenWindow
+WToolTip
+WToolTip::AddTool
+WToolTip::OpenWindow
+WToolbar
+WTrackBar
+WTrackBar::InterceptControlCommand
+WTrackBar::OpenWindow
+WTreeView
+WTreeView::AddItem
+WTreeView::InterceptControlCommand
+WTreeView::OpenWindow
+WTreeViewEx
+WUDNWindow
+WUDNWindow::OpenWindow
+WUrlButton
+WUrlButton::OnClick
+WWWWh{i
+WWWWh}i
+WWindow::DoDestroy
+WWindow::GetLength
+WWindow::GetText
+WWindow::MaybeDestroy
+WWindow::OnDestroy
+WWindow::RegisterWindowClass
+WWindow::Serialize
+WWindow::SetText
+WWindow::StaticDlgProc
+WWindow::StaticProc
+WWindow::WndProc
+WWindow::_CloseWindow
+WWindow::_DeleteWindows.FindItemIndex(W)==INDEX_NONE
+WWindow:;~WWindow
+WWizardDialog
+WWizardDialog::Advanced
+WWizardDialog::OnBack
+WWizardDialog::OnCancel
+WWizardDialog::OnDestroy
+WWizardDialog::OnFinish
+WWizardDialog::OnInitDialog
+WWizardDialog::OnNext
+WWizardDialog::RefreshPage
+WWizardPage
+WWizardPage::OnCancel
+WindowCreate
+WindowFromPoint
+WindowPositions
+WizardDialog
+You need to restart Windows to complete the installation.
+]m ev'fw&du#ev%k|*t
+_CxxThrowException
+_TrackMouseEvent
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+_purecall
+autoclassUWindowManager
+bHasBeenSetup
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnObjBas.h
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnTemplate.h
+dlgtemplate
+editorDisplayString
+hWndCreated
+hWndParent
+hbmRight
+hbmThumb
+http://udn.epicgames.com/bin/view/Content/%s
+i<_Windows.Num()
+idx < Pages.Num()
+invalid map/set<T> iterator
+jjjjjjjj
+map/set<T> too long
+msctls_progress32
+msctls_trackbar32
+rT\7hrElzJ-2
+t$$Wj(j
+tooltips_class32
+variableClassToNativeClass
+wwwwwwwx
+~V9|$<u 

@@ -1,0 +1,138 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\RWOSupport.dll
+
+File Type: DLL
+
+  Section contains the following exports for RWOSupport.dll
+
+    00000000 characteristics
+    42167823 time date stamp Fri Feb 18 23:20:03 2005
+        0.00 version
+           1 ordinal base
+         111 number of functions
+         111 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000109B ??0ADeployedTacticalAid@@QAE@ABV0@@Z
+          2    1 000013F2 ??0ADeployedTacticalAid@@QAE@XZ
+          3    2 00001541 ??0AReactiveAnimatedMesh@@IAE@XZ
+          4    3 0000163B ??0AReactiveAnimatedMesh@@QAE@ABV0@@Z
+          5    4 000012FD ??0AReactiveStaticMesh@@IAE@XZ
+          6    5 000013FC ??0AReactiveStaticMesh@@QAE@ABV0@@Z
+          7    6 00001451 ??0AReactiveWorldObject@@QAE@ABV0@@Z
+          8    7 000012C1 ??0AReactiveWorldObject@@QAE@XZ
+          9    8 000012CB ??0FAnimatedMeshAttachment@@QAE@XZ
+         10    9 000014EC ??0FPreCreatedAttachment@@QAE@XZ
+         11    A 0000120D ??0FScriptedAnimation@@QAE@XZ
+         12    B 000013F7 ??0UHandler@@QAE@ABV0@@Z
+         13    C 000012B2 ??0UHandler@@QAE@XZ
+         14    D 00001492 ??0UReaction@@IAE@XZ
+         15    E 00001253 ??0UReaction@@QAE@ABV0@@Z
+         16    F 000013D4 ??0UScriptedAnimationSet@@IAE@XZ
+         17   10 00001172 ??0UScriptedAnimationSet@@QAE@ABV0@@Z
+         18   11 00001168 ??1ADeployedTacticalAid@@UAE@XZ
+         19   12 00001537 ??1AReactiveAnimatedMesh@@UAE@XZ
+         20   13 00001668 ??1AReactiveStaticMesh@@UAE@XZ
+         21   14 0000111D ??1AReactiveWorldObject@@UAE@XZ
+         22   15 000012E9 ??1UHandler@@UAE@XZ
+         23   16 000015CD ??1UReaction@@UAE@XZ
+         24   17 000015FA ??1UScriptedAnimationSet@@UAE@XZ
+         25   18 00001370 ??2ADeployedTacticalAid@@SAPAXIPAVUObject@@VFName@@K@Z
+         26   19 000015FF ??2ADeployedTacticalAid@@SAPAXIPAW4EInternal@@@Z
+         27   1A 00001154 ??2AReactiveAnimatedMesh@@SAPAXIPAVUObject@@VFName@@K@Z
+         28   1B 000010F0 ??2AReactiveAnimatedMesh@@SAPAXIPAW4EInternal@@@Z
+         29   1C 00001672 ??2AReactiveStaticMesh@@SAPAXIPAVUObject@@VFName@@K@Z
+         30   1D 00001465 ??2AReactiveStaticMesh@@SAPAXIPAW4EInternal@@@Z
+         31   1E 000012A3 ??2AReactiveWorldObject@@SAPAXIPAVUObject@@VFName@@K@Z
+         32   1F 00001500 ??2AReactiveWorldObject@@SAPAXIPAW4EInternal@@@Z
+         33   20 0000139D ??2UHandler@@SAPAXIPAVUObject@@VFName@@K@Z
+         34   21 000015DC ??2UHandler@@SAPAXIPAW4EInternal@@@Z
+         35   22 00001190 ??2UReaction@@SAPAXIPAVUObject@@VFName@@K@Z
+         36   23 00001136 ??2UReaction@@SAPAXIPAW4EInternal@@@Z
+         37   24 00001348 ??2UScriptedAnimationSet@@SAPAXIPAVUObject@@VFName@@K@Z
+         38   25 000014B0 ??2UScriptedAnimationSet@@SAPAXIPAW4EInternal@@@Z
+         39   26 00001271 ??4ADeployedTacticalAid@@QAEAAV0@ABV0@@Z
+         40   27 00001019 ??4AReactiveAnimatedMesh@@QAEAAV0@ABV0@@Z
+         41   28 00001163 ??4AReactiveStaticMesh@@QAEAAV0@ABV0@@Z
+         42   29 00001438 ??4AReactiveWorldObject@@QAEAAV0@ABV0@@Z
+         43   2A 000014BA ??4FAnimatedMeshAttachment@@QAEAAU0@ABU0@@Z
+         44   2B 000012E4 ??4FPreCreatedAttachment@@QAEAAU0@ABU0@@Z
+         45   2C 000014FB ??4FScriptedAnimation@@QAEAAU0@ABU0@@Z
+         46   2D 000015AA ??4UHandler@@QAEAAV0@ABV0@@Z
+         47   2E 0000134D ??4UReaction@@QAEAAV0@ABV0@@Z
+         48   2F 00001613 ??4UScriptedAnimationSet@@QAEAAV0@ABV0@@Z
+         49   30 00010588 ??_7ADeployedTacticalAid@@6B@
+         50   31 000100C8 ??_7AReactiveAnimatedMesh@@6B@
+         51   32 00010328 ??_7AReactiveStaticMesh@@6B@
+         52   33 0000FE68 ??_7AReactiveWorldObject@@6B@
+         53   34 000107E8 ??_7UHandler@@6B@
+         54   35 0000F690 ??_7UReaction@@6B@
+         55   36 00010878 ??_7UScriptedAnimationSet@@6B@
+         56   37 00001159 ?CheckForErrors@AReactiveWorldObject@@UAEXXZ
+         57   38 0000137F ?CheckForErrors@UHandler@@QAEXPBG0@Z
+         58   39 000011EF ?CheckInstancePropertyMatchesDefault@AReactiveWorldObject@@QAEXPBG@Z
+         59   3A 000010F5 ?CleanupDestroyed@AReactiveWorldObject@@UAEXXZ
+         60   3B 00001429 ?CleanupRefs@UHandler@@QAEXXZ
+         61   3C 0000146F ?DetachReactions@UHandler@@QAEXXZ
+         62   3D 00001294 ?InitRWOHavokData@AReactiveWorldObject@@QAEXXZ
+         63   3E 00001244 ?InternalConstructor@ADeployedTacticalAid@@SAXPAX@Z
+         64   3F 000011F9 ?InternalConstructor@AReactiveAnimatedMesh@@SAXPAX@Z
+         65   40 00001316 ?InternalConstructor@AReactiveStaticMesh@@SAXPAX@Z
+         66   41 000010C3 ?InternalConstructor@AReactiveWorldObject@@SAXPAX@Z
+         67   42 000012A8 ?InternalConstructor@UHandler@@SAXPAX@Z
+         68   43 0000124E ?InternalConstructor@UReaction@@SAXPAX@Z
+         69   44 00001343 ?InternalConstructor@UScriptedAnimationSet@@SAXPAX@Z
+         70   45 000015A0 ?PostEditChange@AReactiveWorldObject@@UAEXXZ
+         71   46 00001564 ?PostScriptDestroyed@AReactiveWorldObject@@UAEXXZ
+         72   47 00001221 ?PredictedBoxAdjustmentHook@ADeployedTacticalAid@@UAEXAAVFBox@@@Z
+         73   48 00016770 ?PrivateStaticClass@ADeployedTacticalAid@@0VUClass@@A
+         74   49 000161F8 ?PrivateStaticClass@AReactiveAnimatedMesh@@0VUClass@@A
+         75   4A 00015C70 ?PrivateStaticClass@AReactiveStaticMesh@@0VUClass@@A
+         76   4B 00016CE8 ?PrivateStaticClass@AReactiveWorldObject@@0VUClass@@A
+         77   4C 00017828 ?PrivateStaticClass@UHandler@@0VUClass@@A
+         78   4D 00017EB8 ?PrivateStaticClass@UReaction@@0VUClass@@A
+         79   4E 000156F8 ?PrivateStaticClass@UScriptedAnimationSet@@0VUClass@@A
+         80   4F 000177E4 ?RWOSUPPORT_IsDeployed@@3VFName@@A
+         81   50 000177F0 ?RWOSUPPORT_RemoveProjectors@@3VFName@@A
+         82   51 000012EE ?RemoveProjectors@AReactiveWorldObject@@QAEXXZ
+         83   52 000011E0 ?SetStaticMesh@AReactiveWorldObject@@UAEXPAVUStaticMesh@@@Z
+         84   53 00001131 ?StaticClass@ADeployedTacticalAid@@SAPAVUClass@@XZ
+         85   54 00001055 ?StaticClass@AReactiveAnimatedMesh@@SAPAVUClass@@XZ
+         86   55 00001384 ?StaticClass@AReactiveStaticMesh@@SAPAVUClass@@XZ
+         87   56 00001267 ?StaticClass@AReactiveWorldObject@@SAPAVUClass@@XZ
+         88   57 000015C3 ?StaticClass@UHandler@@SAPAVUClass@@XZ
+         89   58 00001528 ?StaticClass@UReaction@@SAPAVUClass@@XZ
+         90   59 000015BE ?StaticClass@UScriptedAnimationSet@@SAPAVUClass@@XZ
+         91   5A 000014F6 ?Tick@AReactiveWorldObject@@UAEHMW4ELevelTick@@@Z
+         92   5B 000011DB ?eventIsDeployed@ADeployedTacticalAid@@QAEKXZ
+         93   5C 0000105A ?eventRemoveProjectors@AReactiveWorldObject@@QAEXXZ
+         94   5D 000014AB ?execDestroyRWO@AReactiveWorldObject@@QAEXAAUFFrame@@QAX@Z
+         95   5E 000014DD ?execIsDeployed@ADeployedTacticalAid@@QAEXAAUFFrame@@QAX@Z
+         96   5F 000010BE ?execRemoveProjectors@AReactiveWorldObject@@QAEXAAUFFrame@@QAX@Z
+         97   60 000013B1 ?execUnlinkScriptedAnimationSet@AReactiveAnimatedMesh@@QAEXAAUFFrame@@QAX@Z
+         98   61 0000128F ?initialiseHavokDataObject@AReactiveWorldObject@@UAEXXZ
+        100   62 000155B0 GPackage
+         99   63 00001145 _DllMain@12
+        101   64 0001725C autoclassADeployedTacticalAid
+        102   65 000161E8 autoclassAReactiveAnimatedMesh
+        103   66 000161EC autoclassAReactiveStaticMesh
+        104   67 000161E4 autoclassAReactiveWorldObject
+        105   68 00017D9C autoclassUHandler
+        106   69 0001842C autoclassUReaction
+        107   6A 000161F0 autoclassUScriptedAnimationSet
+        108   6B 000177F8 intADeployedTacticalAidexecIsDeployed
+        109   6C 000177E8 intAReactiveAnimatedMeshexecUnlinkScriptedAnimationSet
+        110   6D 00017804 intAReactiveWorldObjectexecDestroyRWO
+        111   6E 00017810 intAReactiveWorldObjectexecRemoveProjectors
+
+  Summary
+
+        4000 .data
+        3000 .idata
+        6000 .rdata
+        2000 .reloc
+        E000 .text

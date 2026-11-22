@@ -1,0 +1,318 @@
+# Strings extracted from ALAudio.dll (135168 bytes)
+# Total strings: 680, filtered: 315
+
+   Missing function '%s' for '%s' support
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEGFH
+!This program cannot be run in DOS mode.
+%s [%s]
+(FLevelSceneNode*)SceneNode
+)Before queueing.
+***WARNING: Unable to play stream %s, %u streams already in use
+..\..\content\sounds\
+..\..\localizedcontent\%s\sounds\
+..\Music\
+.\ALAudioSubsystem.cpp
+0%s is not a WAVE file?
+0-0d0v0}0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1$1(14181|1
+1&1G1V1\1f1o1u1
+1(10181H1\1p1
+1(3@3T3d3h3
+1:1D1T1]1o1|1
+2#2(222S2b2h2r2{2
+2#2)2=2N2S2Y2p2
+2(272A2I2X2a2p2
+2,242<2L2T2\2l2t2|2
+2/262<2F2R2]2v2
+3 3&3P3a3g3
+3&3/343>3_3n3t3~3
+3*3/34393G3L3Q3V3d3i3n3s3
+3*3:3J3Z3j3
+3,343<3L3T3\3l3t3|3
+3E3N3W3`3i3r3{3
+4 444H4\4p4
+4!4/44494>4L4Q4V4[4i4n4s4x4
+4"4(424;4@4J4k4z4
+4:4D4X4_4k4
+5 5&5,52585>5D5J5P5V5\5b5h5n5t5z5
+5!5&54595>5C5Q5V5[5`5n5s5x5}5
+5#575H5M5S5g5x5}5
+5(5]5i5
+5)5.545
+6 6L6T6d6x6
+6!6&6+696>6C6H6V6[6`6e6s6x6}6
+6"6(6.646:6@6F6L6R6X6^6d6j6p6v6|6
+6$6.646:6Q6Z6g6q6w6
+6(6<6H6P6|6
+6(707@7H7P7`7h7p7
+6*6/656I6Z6_6e6w6~6
+7!7&7+707>7C7H7M7[7`7e7j7x7}7
+7"7(7h7
+7$7,747<7D7L7T7\7l7t7
+7(7.7E7N7[7e7k7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8 8&8,82888>8D8J8P8V8\8b8h8n8t8z8
+8 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+8&8+80858C8H8M8R8`8e8j8o8}8
+8/8O8`8e8k8v9
+9 :%:+:^:
+9#9)9;9V9q9
+9*:;:@:F:
+9+90959:9H9M9R9W9e9j9o9t9
+9,949<9L9T9\9l9t9|9
+9N:_:d:j:
+9P:a:f:l:
+9\9m9r9x9
+:":C:T:Y:_:u<
+:$:8:L:`:l:t:
+:&:4:E:
+:(:8:E:z:
+:):/:>:C:I:U:[:
+:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+:F;w;|;
+:X;i;n;t;
+; <(<8<L<X<`<
+;(;4;P;\;x;
+;/<=<C<R<\<m<r<x<
+;U;q;{;
+<(=k=p=v=
+=$=0=8=T=\=d=l=t=|=
+=&=:=K=X=e=r=z=
+=I=U=\=
+> ?(?8?L?X?`?
+>(>->@>G>M>
+>b?p?u?{?
+? ?(?8?L?`?t?
+?(?.?7?H?L?P?T?X?
+?/?>?D?N?W?]?h?
+ALAudio: AL_INVALID_ENUM in %s
+ALAudio: AL_INVALID_NAME in %s
+ALAudio: AL_INVALID_OPERATION in %s
+ALAudio: AL_INVALID_VALUE in %s
+ALAudio: AL_OUT_OF_MEMORY in %s
+ALAudio: Unknown error in %s
+ALAudio: context creation failed.
+ALAudio: couldn't allocate sources
+ALAudio: makecurrent failed.
+ALAudio: no OpenAL devices found.
+ALAudio: subsystem initialized.
+ALAudioSubsystem - Logging Sounds: 
+AMBIENTVOLUME
+Actor->IsValid()
+AmbientVolume
+Channels
+CheckSoundHandle
+CompatibilityMode
+Creating streaming buffer.
+Device supports: %s
+DisablePitch
+DopplerFactor
+DynamicBinding
+FALAudioStats::FALAudioStats
+FALAudioStats::Init
+Failed to register sound: %s
+FillBuffer
+FillStream
+GFileManager
+GFileStream
+GPackage
+H0_0d0j0
+Index < Sources.Num()
+Init (creating sources)
+InitializingChannels
+Invalid sound data
+LOGSOUNDS
+LOGSTREAMS
+LocalizedSoundPathRoot for language '%s' is '%s'
+LowQualitySound
+MUSICVOLUME
+More than %i streams in use
+MusicVolume
+MuteAllSoundsTillNextUpdate
+NULL SOUND
+NewSoundToBeRegistered
+Occlusion
+OpenAL Audio subsystem shut down.
+OuterRadius
+PAUSESOUNDS
+PlaySound
+PlayStream Error!! File: %s was not found in directory '%s' or '%s'.
+PrecacheStreamingSounds
+Propagating sounds
+RegisterSound
+RegisterSound (creating buffer)
+RegisterSound (generating buffer)
+RegisterSound cycles for sound: %s was REALLY high: %f
+RegisteringRegularSound
+RegisteringStreamingSound
+ReverseStereo
+SOUND UPLOAD (%.2f ms): %s
+SOUNDVOLUME
+STOPSOUNDS
+STR %u: Id=%u Name=%s
+Sound Attenuation
+Sound(%i) -  
+Sound(%i) -  %s
+Sound->Data.Num()>0
+Sound: %s
+SoundEffect.Len()
+SoundVolume
+Sources(i).Actor->IsValid()
+Sources(i).Sound
+StoppedSounds
+Streaming
+StreamingSoundFudgeFactor
+T$$Ph 
+TimeBetweenHWUpdates
+TrackCycles
+UALAudioSubsystem
+UALAudioSubsystem::Destroy
+UALAudioSubsystem::Exec
+UALAudioSubsystem::FindExt
+UALAudioSubsystem::FindProc
+UALAudioSubsystem::FindProcs
+UALAudioSubsystem::FindSourceIndexForNewSound
+UALAudioSubsystem::GetNewStream
+UALAudioSubsystem::GetSoundHandle
+UALAudioSubsystem::GetVolumeModifierForSound
+UALAudioSubsystem::Init
+UALAudioSubsystem::InitializeSoundDevice
+UALAudioSubsystem::InternalStopSound
+UALAudioSubsystem::NoteDestroy
+UALAudioSubsystem::PlayMusic
+UALAudioSubsystem::PlaySound
+UALAudioSubsystem::PlaySound[A]
+UALAudioSubsystem::PlaySound[D]
+UALAudioSubsystem::PlaySound[F]
+UALAudioSubsystem::PlaySound[H]
+UALAudioSubsystem::PlaySound[J]
+UALAudioSubsystem::PlaySound[K]
+UALAudioSubsystem::PlaySound[L]
+UALAudioSubsystem::PlaySound[M]
+UALAudioSubsystem::PlaySound[N]
+UALAudioSubsystem::PlaySound[O]
+UALAudioSubsystem::PlaySound[P]
+UALAudioSubsystem::PlaySound[Q]
+UALAudioSubsystem::PlaySound[R]
+UALAudioSubsystem::PlaySound[S]
+UALAudioSubsystem::PlaySound[T]
+UALAudioSubsystem::PlaySound[U]
+UALAudioSubsystem::PlayStream
+UALAudioSubsystem::PostEditChange
+UALAudioSubsystem::PrecacheStreamingSoundEffect
+UALAudioSubsystem::RegisterSound
+UALAudioSubsystem::Serialize
+UALAudioSubsystem::SetNativeLooping
+UALAudioSubsystem::SetSoundPitch
+UALAudioSubsystem::SetSoundVolume
+UALAudioSubsystem::SetViewport
+UALAudioSubsystem::ShutdownAfterError
+UALAudioSubsystem::SoundPriority
+UALAudioSubsystem::StaticConstructor
+UALAudioSubsystem::StopAllMusic
+UALAudioSubsystem::StopMusic
+UALAudioSubsystem::StopSound
+UALAudioSubsystem::StopStream-WithFadeOutTime
+UALAudioSubsystem::StopStream_Actor
+UALAudioSubsystem::StopStream_Index
+UALAudioSubsystem::UALAudioSubsystem
+UALAudioSubsystem::UnregisterSound
+UALAudioSubsystem::Update
+UAlAudioSubsystem::StopSound-WithFadeOutTime
+UNPAUSESOUNDS
+USOUND 
+UpdateSounds
+UpdateStreamingSounds
+Use3DSound
+UseDefaultDriver
+UsePrecache
+VOICEVOLUME
+VVQVVVPR
+VoiceVolume
+VolumeModifier
+VorbisInfo
+WEAPONRADIUS
+[ALAUDIO] - Initializing ALAudio device
+[ALAUDIO] ALAudioSubsystem told to initialize twice, so exiting early!
+[ALAUDIO] Couldn't locate %s - giving up.
+[ALAUDIO] Couldn't locate %s - trying default next.
+[ALAUDIO] This machine does not support OpenAL for some reason
+_CxxThrowException
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+alBufferData
+alDeleteBuffers
+alDeleteSources
+alDisable
+alDistanceModel
+alDopplerFactor
+alDopplerVelocity
+alEnable
+alGenBuffers
+alGenSources
+alGetBoolean
+alGetBooleanv
+alGetBufferf
+alGetBufferi
+alGetDouble
+alGetDoublev
+alGetEnumValue
+alGetError
+alGetFloat
+alGetFloatv
+alGetInteger
+alGetIntegerv
+alGetListener3f
+alGetListenerf
+alGetListenerfv
+alGetListeneri
+alGetProcAddress
+alGetSourcef
+alGetSourcefv
+alGetSourcei
+alGetString
+alIsBuffer
+alIsEnabled
+alIsExtensionPresent
+alIsSource
+alIsSource( Sources(SoundIndex).Source )
+alListener3f
+alListenerf
+alListenerfv
+alListeneri
+alSource3f
+alSourcePause
+alSourcePausev
+alSourcePlay
+alSourcePlayv
+alSourceQueueBuffers
+alSourceRewind
+alSourceRewindv
+alSourceStop
+alSourceStopv
+alSourceUnqueueBuffers
+alSourcef
+alSourcefv
+alSourcei
+alcCloseDevice
+alcCreateContext
+alcDestroyContext
+alcGetContextsDevice
+alcGetCurrentContext
+alcGetError
+alcGetIntegerv
+alcGetString
+alcMakeContextCurrent
+alcOpenDevice
+alcProcessContext
+alcSuspendContext
+autoclassUALAudioSubsystem
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnObjBas.h
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnTemplate.h
+mSTREAM 
+ov_time_total

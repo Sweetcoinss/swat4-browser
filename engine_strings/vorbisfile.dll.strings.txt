@@ -1,0 +1,73 @@
+# Strings extracted from vorbisfile.dll (17408 bytes)
+# Total strings: 104, filtered: 70
+
+!This program cannot be run in DOS mode.
+1 1d1h1
+<"<(<.<4<:<@<F<L<R<X<^<d<
+>)>5>:>E>Q>]>j>p>w>
+DisableThreadLibraryCalls
+T$ 9T$(
+T$ 9T$(s7
+T$ PQR
+T$ RPQ
+V}-SU3
+\$HPQSR
+__CppXcptFilter
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+ogg_page_continued
+ogg_page_eos
+ogg_page_granulepos
+ogg_page_serialno
+ogg_stream_clear
+ogg_stream_init
+ogg_stream_packetout
+ogg_stream_packetpeek
+ogg_stream_pagein
+ogg_stream_reset_serialno
+ogg_sync_buffer
+ogg_sync_clear
+ogg_sync_init
+ogg_sync_pageseek
+ogg_sync_reset
+ogg_sync_wrote
+ov_bitrate
+ov_bitrate_instant
+ov_clear
+ov_comment
+ov_open_callbacks
+ov_pcm_seek
+ov_pcm_seek_page
+ov_pcm_tell
+ov_pcm_total
+ov_raw_seek
+ov_raw_tell
+ov_raw_total
+ov_seekable
+ov_serialnumber
+ov_streams
+ov_test_callbacks
+ov_test_open
+ov_time_seek
+ov_time_seek_page
+ov_time_tell
+ov_time_total
+vorbis_block_clear
+vorbis_block_init
+vorbis_comment_clear
+vorbis_comment_init
+vorbis_dsp_clear
+vorbis_info_blocksize
+vorbis_info_clear
+vorbis_info_init
+vorbis_packet_blocksize
+vorbis_synthesis
+vorbis_synthesis_blockin
+vorbis_synthesis_headerin
+vorbis_synthesis_init
+vorbis_synthesis_pcmout
+vorbis_synthesis_read
+vorbis_synthesis_trackonly
+}.SUV3

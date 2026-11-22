@@ -1,0 +1,2854 @@
+# Strings extracted from MFC71u.dll (1047552 bytes)
+# Total strings: 4560, filtered: 2851
+
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ &|JE(|JE(|r
+ )|XU%|
+ +|#!+|=$+|N"+|
+ +|i +|
+ /p "%1"
+ /pt "%1" "%2" "%3" "%4"
+ 3|<i)|
+ 3||g)|
+ Currency
+ Display full pages
+ FOR UPDATE 
+ FROM 
+ GROUP BY 
+ IEEEDouble
+ IEEESingle
+ JOIN 
+ LongBinary
+ Microsoft Corporation.  All rights reserved.
+ ORDER BY 
+ Short
+ UNION 
+ VALUES (
+ Visual Studio .NET
+ WHERE 
+ WHERE CURRENT OF 
+!)| U%|`V%|t
+!Restore the window to normal size
+!This program cannot be run in DOS mode.
+"1|)#1|>
+#(|6$(|L
+#(|6$(|Tz%|j0(|
+#(|;%&|
+#(|Fn-|
+#)|h&3|
+#*|n *|
+#/|}&/|
+#Unable to load mail system support.
+$&|SR(|
+$&|SR(|.&&|
+$&|SR(|6-%|
+$&|SR(|B"/|N"/|>
+$&|SR(|O
+$&|SR(|f
+$&|SR(|l
+$&|SR(|w
+$&||T(|
+$040H0L0P0T0X0\0l0p0
+$3,3A3K3U3_3i3s3}3
+$3|Po)|
+$C;_(r
+$d)|Vh
+%(|JE(|JE(|JE(|
+%1 - %2
+%1 contains an invalid path.=%1 could not be opened because there are too many open files.
+%1 has a bad format."%1 contained an unexpected object. %1 contains an incorrect schema.
+%1 in %2
+%1 was not found.
+%1: %2
+%2\CLSID
+%2\DocObject
+%2\Insertable
+%2\protocol\StdFileEditing\server
+%2\protocol\StdFileEditing\verb\0
+%3, %4
+%3|hs)|
+%9, %8
+%Insert new embedded object
+%s\DefaultIcon
+%s\ShellNew
+%s\shell\open\%s
+%s\shell\print\%s
+%s\shell\printto\%s
+%| T)|
+%| e)|
+%|$\)|
+%|$h)|
+%|0R)|
+%|8T)|
+%|8e)| e)|
+%|9F t
+%|:D%|M
+%|;F u
+%|<h)|$h)|
+%|B7.|GE(|
+%|Ce/|
+%|HP)|0P)|
+%|M3(|
+%|PT)|
+%|Pe)| e)|
+%|Xf)|
+%|Y4(|
+%|Y7(|
+%|[./|
+%|[g/|
+%|\G%|
+%|`P)|0P)|
+%|ha)|0P)|
+%|he)|
+%|n{%|
+%|p\)|\S)|
+%|tS)|\S)|
+%|xP)|0P)|
+%|xR)|
+%||c(|Oe(|
+&Font:
+&Next Page
+&One Page
+&Select font for current selection
+&Size:
+&Two Page
+&Update %1
+&|"7.|B7.|GE(|
+&|,t)|
+&|300|,X(| /.|
+&|8J(|
+&|:A&|t
+&|;H.|B7.|GE(|
+&|@Q)|
+&|DI(|GE(|'
+&|GE(|'
+&|H2(|Q
+&|W#/|v./|
+&|ZQ/|
+&|hV)|
+&|ia/|
+&|j j WW
+&|m](|
+&|m](|1
+&|m](|Rh.|
+&|nh(|
+&|p](|1
+&|zU-|pU-|fU-|\U-|RU-|
+')|P'3|L'3|
+'3|<x)|
+'3|Pv)|
+'Show or hide the toolbar
+'Unable to initialize DAO/Jet db engine.
+'|0j)|
+'|Ht&|)N1|
+'|Ln)|
+'|Lu)|
+'|Nx&|$e(|
+'|Th)|
+'|X1(|
+'|`k)|
+'|dc)|
+'|du)|
+'|j0(|
+'|k\(|
+'|lh)|Th)|
+'|xs)|
+(()|u!
+(010g0
+(1|W(1|
+(3|Py)|
+(Color)
+(Font)
+(NULL)
+(Picture - %s)
+(Unknown)
+(`)|LU)|
+(|'[(|k
+(|*w&|UO1|
+(|9h%|
+(|9h%|9h%|9h%|
+(|Ah%|
+(|Ah%|Ah%|
+(|Dv&|
+(|GE(|'
+(|N7/|9
+(|Nh%|Ah%|
+(|RE(|.
+(|Ru&|
+(|WZ(|
+(|Yw&|
+(|^S-|=O%|
+(|hS-|3O%|
+(|tv&|
+(|ul(|
+)+|o*+|Pz)|4
+)1|m)1|
+)<HEAD><TITLE>HTTP Error %d</TITLE></HEAD>;<BODY><H1>HTTP Error %d: No message available</H1></BODY>
+)Can not activate a static ActiveX object.&Failed to connect.
+)|$,)|
+)|(!)|
+)|, )|X )|
+)|1$*|
+)|9%1|
+)|?@,|
+)|CByteArray
+)|T23|
+)|\S)|
+)|\q)|
+)|`k)|
+)|pk,|Lk,|^k,|
+)|zC*|
+)|}A%|
+)|}A%|!
+*(|RR&|
+*(|dR&|
+*3|x|)|
+*|GE(|
+*|Q&+|<y)|
++(|dX)|8
++)|p+)|L+)|
++)|x*)|
++|6$(|L
++|d|)|
++|x})|
+,"3|Pk)|
+,))|:U0|
+,)|hH*)|
+,3|h~)|
+,Native:%ld,Origin:
+,SVWj 
+,SVWj 3
+-%|Y7(|
+-(|hz.|
+-)|PPQ
+-/|v(/|
+-|na/|Ul/|ia/|=a/|
+-|zS(|
+.)|053|
+.)|<53|
+.)|p53|
+.|,N(|B
+.|,N(|N
+.|@C(|
+.|H1(|
+.|H@(|
+.|O8%|)
+.|X?(|
+.|XA(|
+.|\L(|="(|y
+.|`#)|l&3|
+.|pC(|
+.|ul(|
+/-|B7.|GE(|
+/050s0
+/0|040|
+/0|z.0|
+/|'S1|
+/|+I1|
+/|, .|
+/|7F1|
+/|9l/|
+/|<81|
+/|=U1|E#0|
+/|Gr&|
+/|H .|
+/|ST1|
+/|VE1|
+/|bQ1|
+/|dk/|
+/|eB1|
+/|h r&|
+/|ko.|
+/|lV1|
+/|rS1|
+/|vI1|i
+/||i/|
+0 - None
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0$0(0,0004080<0@0D0H0L0P0T0X0h0l0|0
+0 0$0(0,0004080<0@0D0H0L0P0T0d0h0
+0 0$0(0,0004080<0@0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0$0(0,0004080<0L0P0`0d0h0l0p0t0
+0 0$0(0,00040D0H0X0]0m0
+0 0$0(0004080<0@0D0H0L0P0`0d0t0x0|0
+0 0$0(080<0L0P0T0X0`0d0h0l0p0t0
+0 0$0(0I0P0T0X0`0
+0 0$0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0(000T0\0d0
+0 0(0L0P0`0p0t0x0
+0 0-0@0H0U0h0p0}0
+0 0/070g0
+0 1E1t1
+0 1H1x1
+0"0(0.0E0P0i0r0
+0$0(0,00080p0x0
+0$0,040<0D0L0T0\0d0l0t0|0
+0$0D0\0x0
+0&0,010>0G0L0Q0W0\0b0o0w0
+0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0(0-0L0S0Y0l0w0
+0)0=0B0\0s0x0
+0+(|LX)|8
+0,0D0\0t0
+0/0B0U0h0{0
+0<0@0P0T0X0\0d0
+0<0D0L0T0\0d0l0
+0=0R0T1\1u1
+0SVWj 
+0|(i)|T
+0|6$(|L
+0|@g(|Th(|
+0|PX(|W
+0|Y7(|
+1 - Fixed Single
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1|1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1t1x1
+1 1$1(1,101@1D1T1X1\1`1d1h1l1p1x1|1
+1 1$1(1,101@1D1T1X1\1d1h1l1p1t1x1
+1 1$1(1,14181<1@1D1H1L1P1T1d1h1x1|1
+1 1$1(181<1L1P1T1X1\1b1g1
+1 1%1g1
+1 1(1014181<1D1`1h1p1x1
+1 1(10181@1H1P1X1`1h1p1
+1 1(10181@1H1P1X1`1h1p1x1
+1 1(10181Y1`1d1h1p1x1
+1 1(1@1E1X1m1
+1 1014181<1k1
+1 181P1h1
+1 1D1I1\1
+1 2%282\2a2t2
+1 2(202T2\2d2
+1 333I3
+1!1(1,1D1\1y1
+1"1)1h1
+1#2X3\3`3d3h3l3p3t3x3
+1$1(181<1@1D1H1L1P1T1`1d1h1l1p1t1x1|1
+1$1(181=1O1x1|1
+1'1:1L1_1
+1(1,1<1@1X1p1
+1(1-1@1l1y1
+1(1;1d1m1
+1(|k7(|2I(|
+1,181D1P1\1;2
+10181@1T1\1d1x1
+101H1\1x1
+121*2:2
+14181<1D1\1t1x1|1
+151G1\1i1
+1:2Z2j2o2
+1H2 4F4
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2h2l2p2t2x2|2
+2 2$2(2,2024282<2@2D2H2L2P2T2X2h2l2|2
+2 2$24282<2@2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2$24282L2X2\2
+2 2%272`2d2h2l2p2t2x2|2
+2 2(20282@2H2P2X2`2
+2 2(20282@2H2P2X2`2h2p2x2
+2 2(2L2T2\2d2l2t2|2
+2 2,202G2L2X2\2s2x2
+2 2,202H2P2u2|2
+2 2,202J2P2\2`2
+2 2<2X2t2
+2 2@2E2X2x2}2
+2 2D2L2T2\2d2l2t2|2
+2#2'2+2/23272;2?2F2
+2#3/3D354I4y4
+2(2,20242<2T2X2\2d2
+2(2,20282P2h2p2t2x2
+2(2,2<2@2D2H2L2X2\2`2d2h2l2p2t2x2|2
+2(2-2@2`2e2x2
+2(2=2P2X2|2
+2(2g2y2
+2)20292@2R3e3l3
+2,3034383<3@3D3H3L3T3X3m3}3
+2/2P2m2t2x2
+282@2H2\2d2l2t2
+2Y2f2{2
+2l3r3{3
+2|(5/|
+2|@{'|
+2|VWj\
+2|u'j 
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3$3(3,3034383<3@3D3H3L3P3T3X3h3l3|3
+3 3$3(3,3034383<3@3D3H3L3P3T3d3h3x3|3
+3 3$3(3,3034383<3@3D3H3P3T3X3\3d3h3l3p3t3x3|3
+3 3$3(3,303@3D3T3Y3k3
+3 3$3(3-3M3T3X3
+3 3$3(383<3L3P3T3\3`3d3h3l3p3
+3 3$3,3D3\3t3
+3 3(30383@3H3l3t3x3|3
+3 3-3@3H3`3e3x3
+3 3@3E3X3
+3 3A3H3L3P3q3x3|3
+3 4<4X4\4
+3 4\4}4
+3 4^4e4
+3!3(383E3L3\3i3p3
+3#303B3V3]3{3
+3$3,343<3D3L3T3\3d3l3t3|3
+3$3J3\3|3
+3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3x3|3
+3(303@3V3\3l3
+3(3@3D3L3d3|3
+3(3H3M3`3
+3(3H3x3
+3)4v4@5S5
+3,3F3L3\3w3|3
+3/|'4/|
+30353H3h3}3
+343<3D3L3T3\3d3l3t3|3
+393F3\3l3
+3=4C4J4}4
+3H3\3d3l3t3|3
+3{3K4n4
+3{4i5u5
+3| +(|
+3|$V)|
+3|$V)|R
+3|$V)|X
+3|(r(|
+3|,l(|
+3|0;(|
+3|0Q)|
+3|<,(|
+3|<^)|
+3|<x(|
+3|@*(|
+3|Lg)|4
+3|T\)|CBitmapButton
+3|T`)|
+3|Tg(|
+3|\:(|
+3|`((|
+3|ps(|
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4$4(4,4044484<4@4D4H4L4P4T4X4h4l4|4
+4 4$4(4,4044484<4@4D4T4X4h4l4p4t4x4|4
+4 4$4(4,4044484<4@4P4T4d4h4l4p4t4x4|4
+4 4$4(4044484<4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4$4,4D4\4t4
+4 4(40484@4H4P4t4|4
+4 404I4P4`4z4
+4 484D4j4p4x4
+4 484P4h4
+4 585a5
+4"4&4*4.42464:4>4C4
+4#4:4Q4
+4$4(4,4044484@4X4\4`4d4h4l4t4
+4$4)4<4a4t4|4
+4$4,444<4D4L4T4\4d4l4t4|4
+4$4D4I4\4|4
+4$545\5l5(6d6
+4%444<4B4H4`4/5
+4&404:4D4N4X4b4l4v4
+4'5Q5}5
+4()|t0;
+4(4,4044484@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4(4,4<4@4D4H4L4P4X4\4`4d4h4l4p4t4x4|4
+4(4-4@4d4i4|4
+4(40484P4X4`4x4
+4(40484\4d4l4t4
+4(4L4P4`4d4h4l4p4x4
+4(|:_+|
+4(|CR1|
+4)404<4@4
+4)484T4v4
+4)4:4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4)4@4p4
+4,404@4D4H4L4T4X4\4`4d4h4l4p4t4
+4,4D4\4t4
+4.6:6g6
+4/|L#/|
+404P4U4h4}4
+43| /)|
+455W5\5
+5 5$5(5,5054585<5@5D5H5L5P5
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5$5(5,5054585<5@5D5H5L5\5`5p5t5x5|5
+5 5$5(5,5054585<5@5D5T5X5h5m5
+5 5$5(5,5054585<5@5P5T5d5h5l5p5w5
+5 5$5(5,50545@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5$5(505H5`5
+5 5$565H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5(5@5P5h5p5x5
+5 505>5P5T5X5\5`5d5h5l5p5t5x5|5
+5 585=5P5p5u5
+5 585P5h5
+5 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+5 6$6(6,6064686<6@6D6H6X6\6`6d6h6l6p6t6x6|6
+5 6$64686<6@6D6H6P6h6
+5!5+555?5I5S5]5g5q5{5
+5"5)50575
+5$5(5H5P5X5p5x5
+5$5,545<5D5L5T5\5d5l5t5|5
+5$5,545D5T5\5d5l5t5|5
+5$6)6;6A6
+5&6C6\6
+5(5-5@5}5
+5(5@5`5|5
+5(5H5M5`5
+5(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+5(656H6P6]6p6x6
+5)575T5{5
+5)5;5@5
+5)5<5D5\5a5t5
+5)6<6a6t6
+5,5A5T5\5t5
+5,5D5\5
+5,5D5\5t5
+5,5D5\5y5
+53| 7-|
+53|)7-|
+5:6_6q6
+5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5S5p5}5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 6$6(6,6064686<6@6D6L6P6T6X6`6d6h6l6p6t6x6S7c7
+6 6$6(6,6064686<6@6P6T6d6h6p6t6x6|6
+6 6$6(6,6064686H6L6\6`6d6h6p6t6x6|6
+6 6$6(6,616V6
+6 6$6(6,686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 6$6(686<6L6P6T6X6\6`6d6h6p6t6x6|6
+6 6$646
+6 6(606D6L6T6\6d6
+6 6/686H6
+6 7(7h7p7
+6!7G7]7c7o7{7
+6$6/6b6
+6$6H6L6\6`6d6l6
+6%6/696C6M6W6b6g6q6{6
+6%707{7
+6(6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6(60686\6d6l6
+6(6<6a6t6
+6(6@6X6p6
+6(6H6x6
+6)6<6D6\6a6t6
+6)6<6\6a6t6
+6*6\6f6l6
+6,6D6L6\6
+6,6E6L6\6u6|6
+6/6G6V6
+6064686<6@6D6H6L6P6T6X6\6`6h6
+63|;7-| 63|D7-|463|M7-|H63|V7-|T63|s9-|p63|q7-|
+6:6F6n6u6
+6:6^6{6
+6Open another window for the active document
+6R6\607d7
+6j\^f93
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7p7t7
+7 7$7(7,7074787<7@7D7H7L7\7`7p7t7x7|7
+7 7$7(7,7074787<7L7P7`7e7w7
+7 7$7(7,7074787@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 7$7(7,707@7D7T7X7\7`7d7h7
+7 7$74787H7L7P7T7\7`7d7h7l7p7t7
+7 7$7<7Y7`7d7|7
+7 7(70787@7H7P7X7`7h7p7x7
+7 7(7@7E7X7m7
+7 7@7E7X7x7}7
+7 7@7U7h7p7
+7 8(8,8v8
+7"7&7*7.72767:7O7
+7#7(7x7
+7#7)7`7
+7#7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7#8/8P8_8t8
+7$7)7<7`7e7x7>8P8u8
+7$7D7I7\7|7
+7%7/797C7M7W7a7k7u7
+7'7,7<7T7\7l7
+7(7,7074787<7p7t7x7|7
+7(7@7D7L7d7|7
+7(7K7]7
+7(7P7x7
+7(|mk&|(9(|
+7,7D7\7t7
+7,7D7\7y7
+7,7G7\7r7
+7-|(73|
+7.|GE(|
+7/848M8]8
+7/8Y8y8
+707G7\8
+747X7\7d7
+7h8{8'9
+8 8$8(8
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8 8$8(8,8084888<8@8D8H8L8P8T8d8h8x8|8
+8 8$8(8,8084888<8@8D8H8X8\8l8p8t8x8
+8 8$8(8,80848<8D8L8T8\8d8l8t8|8
+8 8$8(8,81878=8D8T8a8g8l8|8
+8 8$8(8,8<8@8P8U8g8
+8 8$8(80888@8H8P8
+8 8$84888H8L8P8T8X8\8h8l8p8t8x8|8
+8 8(80888@8H8P8X8`8h8p8x8
+8 8(888O8T8d8}8
+8 8,808=8C8H8X8
+8 AMJt
+8 AMJu
+8!8(8/868=8D8K8R8Y8`8g8n8x8
+8$8(80888D8H8P8X8d8h8p8x8
+8$8)8<8\8a8t8
+8$8)8<8`8e8x8
+8%|/G.|#J.|FJ.|'
+8()|u!
+8(80888L8T8\8p8x8
+8(808H8M8`8
+8(888l8
+8(8K8l8
+8)80848L8d8|8
+8+9<9C9\9`9d9h9l9p9t9x9|9
+8,8084888@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8,8A8T8\8x8}8
+8,8D8\8t8
+83|[8-|483|d8-|L83|.8-|`83|:8-|t83|F8-|
+84888H8L8P8T8\8t8
+848<8E8/9
+888@8H8\8d8l8
+8G8X8x8}8
+8H8L8\8`8|8
+8[8_8c8g8k8o8s8w8{8
+8_GtMUVh@<(|
+8h <(|
+8r(|pQ)|
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9|9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9x9|9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9p9t9
+9 9$9(9,9094989<9@9D9H9L9P9`9d9t9x9|9
+9 9$9(9,9094989<9@9D9H9L9P9`9d9t9y9
+9 9$9(9,9094989<9@9D9H9L9\9`9p9t9x9|9
+9 9$9(9,9094989<9@9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9$9(9,9094989=9h9
+9 9$9(989<9
+9 9$9(989<9L9P9T9X9\9h9l9p9t9x9|9
+9 9$9=9H9a9n9
+9 9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9(90989@9H9P9X9`9h9p9x9
+9 9(909D9L9T9h9p9x9
+9 9(959H9P9h9}9
+9 9)9a9s9|9
+9 989M9`9h9
+9 9@9E9X9x9}9
+9#9'9+9/93979;9l9
+9$9(9,90969b9
+9$9(90989T9|9
+9$9)9<9`9e9x9
+9$9,949<9D9L9T9\9d9l9t9|9
+9$9/949>9H9R9\9f9p9z9
+9$9D9I9\9|9
+9$9H9L9\9`9d9h9p9
+9&|]:&|
+9(9,90989<9@9D9H9L9P9T9X9\9l9p9
+9(9R95:p:
+9(:<:q:
+9)909@9`9h9x9
+9)9K9`9
+9)9Z9`9p9}9
+9):<:\:a:t:
+9):s:{:
+9,9F9L9\9w9|9
+9-:9:W:l:
+9-|(:3|-9-|<:3|99-|P:3|B9-|h:3|N9-|x:3|
+9.:X:i:
+9/9~;<<L<Z<w<}<
+90999D9\9
+90:G:d:i:r:
+91:?:z:
+91:s:x:
+93:P:q:
+99:T:3;
+9::H;y;
+9;:k:v:
+9<9@9P9T9X9\9`9h9
+9=:K:p:
+9=:Z:v:
+9F\u&W
+9H(u:9
+9Q:a:`;j;
+9]:F;v;
+9^`u)jL
+9`9;:S:
+9`:g:}:
+9k9p9}9
+9n tCS3
+9n(v(W3
+9nLt)9n(u$
+9s:<;5<I<Q<
+9{Dt;9}
+9}7;} s2
+9~ u)f
+9~ uOS
+9~xu 9~|u
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+: :$:(:,:0:4:8:<:@:D:H:L:P:`:d:t:x:|:
+: :$:(:,:0:4:8:H:L:\:a:
+: :$:(:,:0:4:D:H:X:\:`:d:h:p:t:x:|:
+: :$:(:,:<:@:P:T:X:`:d:h:l:p:t:x:|:
+: :$:(:8:<:L:
+: :$:(:_:
+: :$:<:T:h:l:
+: :%:8:M:`:h:
+: :(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+: :(:@:X:|:
+: :-:@:H:U:h:p:
+: :8:\:`:p:t:x:|:
+: ;(;0;8;@;H;P;X;`;h;p;x;
+:!:&:|:
+:!;4;a;t;
+:":&:*:.:2:6:V:Z:^:b:f:j:n:r:v:z:~:
+:#;6;Q;l;};
+:$:(:,:0:4:<:X:`:h:p:x:
+:$:):<:\:a:t:
+:$:,:4:<:D:L:T:\:d:l:p:t:x:|:
+:$:,:4:H:P:X:`:h:p:x:
+:$:,:@:H:P:d:l:t:
+:$:,:P:X:`:t:
+:$:<:Q:d:l:
+:$:<:T:l:
+:$:D:d:
+:$:O:`:u:
+:$;A=_=
+:%:*:2:7:A:O:V:]:d:k:r:y:
+:%:8:@:X:m:
+:&;L;[;K=j=|>
+:&<J<z<
+:(:,:0:4:<:T:X:\:`:h:
+:(:-:@:d:i:|:
+:(;?;U;c;n;s;y;
+:*;/;9;c;u;
+:+:<:N:
+:,:0:@:b:
+:,:0:H:`:x:|:
+:,:D:\<
+:-| ?3|Z<-|<?3|
+:-|,D3|
+:-|<;3|
+:-|<@3|':-|P@3|
+:-|H=3|f:-|`=3|?:-|x=3|];-|
+:-|X?3|
+:-|`A3|H:-|tA3|
+:-|xD3|Y?-|
+:.;G;a;
+:/:E:R:E;R;
+:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+:0:4:8:<:@:D:T:X:h:l:p:
+:0:P:U:h:
+:1:D:L:d:y:
+:1:D:i:|:
+:3|$9-|
+:3|x:-|
+:4:L:d:|:
+:6;C;U;
+:6;H;h;m;
+:7:E:L:
+:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+:9:Z:|:
+:;w$u5S
+:<;J;b;
+:<;U;e;
+:>:P:_:k:
+:?:Q:Z:
+:B;j;p;
+:D:J:e:s:x:
+:F:S:]:v:}:
+:H:\:d:
+:H;P;`;
+:J;P;Y;`;e;
+:M:g:{:
+:O:a:q:
+:Send the active document through electronic mail
+:T;X;\;`;d;h;l;p;
+:b;@<!=,=
+:h;u;y;};
+:w;+<5<G<
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;p;t;
+; ;$;(;,;1;Q;
+; ;$;(;8;<;L;P;T;X;\;`;d;h;p;t;x;|;
+; ;$;@;`;
+; ;$;D;a;h;l;
+; ;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; ;(;0;8;@;H;P;X;`;h;p;x;
+; ;(;<;D;L;`;h;p;
+; ;@;E;X;};
+; <A<V<p<
+;!;+;5;?;I;S;];g;q;{;
+;!;4;I;\;d;
+;!<'</<:<B<T<!='=/===E=
+;$;(;,;0;8;P;h;l;t;
+;$;D;I;\;
+;$;H;L;\;`;
+;$;H;L;\;`;x;
+;&;0;:;D;N;X;b;l;v;
+;';P;T;X;\;`;d;h;l;p;t;x;|;
+;'<P<T<X<\<`<d<h<l<p<t<x<|<
+;(;,;0;4;8;<;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+;(;,;0;4;8;?;D;
+;(;,;<;S;
+;(;=;P;X;e;x;
+;(<4<L<i<z=
+;(|tY;
+;);<;D;g;x;
+;);<;Q;j;
+;*|Q:*|
+;,;0;4;8;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+;-|DD3|K;-|\D3|
+;/;C;P;^;
+;/;q;7<Q<
+;/|B;/|[;/|h7/|
+;/|p7/|J</|x
+;0;4;8;<;D;\;`;d;h;p;
+;3|9;-|(;3|
+;3|{=-|
+;:;D;Z;
+;F t)S
+;M r%w
+;P;s={=
+;~(tP9~,v
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+< <$<(<,<0<4<8<<<@<D<H<X<\<l<p<t<x<|<
+< <$<(<,<0<4<8<<<L<P<`<d<h<l<t<x<|<
+< <$<(<,<4<L<p<t<
+< <$<(<,<<<@<P<U<g<
+< <$<4<8<<<@<D<]<b<
+< <$<4<8<H<L<P<[<
+< <%<Q<
+< <+<v<
+< <5<H<P<
+< <6<E<d<
+< <8<<<@<D<L<d<|<
+< <E<X<|<
+< <_<x<~<
+< =$=4=8=<=@=H=`=
+< =.=G=
+<"</<b<w<
+<$<(<,<0<@<D<h<l<|<
+<$<(<8<<<@<d<
+<$</<4<><M<R<Z<_<g<l<t<y<
+<$<8<@<H<\<d<l<
+<$<\<p<x<
+<%<.<:<
+<(<0<8<L<T<\<p<x<
+<(=K=\=
+<*3|P{)|
+<+<:<><B<F<J<N<R<V<>>
+<,<4<A<T<\<i<|<
+<,<D<\<t<
+<-|(>3|
+</<@<`<u<
+<0<D<L<T<\<d<l<t<
+<0=5=^=c=}=
+<3| =-|
+<3|)=-|
+<4<X<\<h<t<
+<7=>=n=}=
+<8<<<L<U<\=e=s=
+<:<]<b<|<
+<@<E<X<x<}<
+<BODY><H1>SERVER ERROR</H1>The server encountered an internal error or misconfiguration and was unable to complete your request.</BODY>
+<l(|4X)|
+<r)|`k)|
+<unknown verb>
+<~)|$~)|
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=x=|=
+= =$=(=,=0=4=8=<=@=D=H=L=P=`=d=t=x=|=
+= =$=(=,=4=L=p=t=
+= =0=4=D=H=L=T=`=g=|=
+= >->@>H>m>
+=#=(=-=2===y=
+=$=(=,=0=4=8=<=@=H=`=x=
+=$=,=4=<=D=L=T=\=d=l=t=|=
+=$=I=\=|=
+=%|Y7(|
+=(=,=<=A=S=x=|=
+=(=H=M=`=
+=(| A(|
+=(| C(|0C(|8
+=(|%7.|
+=(|%7.|*7.|*7.|77.|77.|B-.|77.|<7.|/7.|
+=(|%7.|*7.|*7.|77.|77.|B-.|77.|<7.|/7.|T(/|7
+=(|(@(|8@(| 
+=(|J\/|
+=(|PC(|`C(|8
+=(|X@(|p@(|t
+=(|c+%|%D%|)D%|
+=(|hA(|p@(|4
+=(|j0(|
+=(|j0(|j0(|~
+=(|sD/|*7.|*7.|77.|77.|B-.|77.|<7.|/7.|
+=(|x?(|"
+=)=3=w=
+=)=<=\=a=t=
+=*=/=:=?=J=O=Z=_=j=o=z=
+=*=:=t=
+=,=D=\=t=
+=,>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+=-=@=H=U=h=p=}=
+=/=P=e=s=y=>>
+=5=H=P=p=}=
+=9=n={=
+=:>p>w>}>
+=F=X=x=}=
+=h>)?D?Q?i?|?
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>x>|>
+> >$>(>,>0>4>8><>@>D>H>L>\>`>p>t>x>|>
+> >$>(>,>4>L>d>h>l>t>
+> >(>8>@>\>d>l>
+> >(>@>U>h>p>
+> >->4>D>V>
+> >4><>D>h>p>x>
+>!>%>)>->1>5>9>=>A>E>I>M>Q>U>
+>!?1?g?{?
+>!?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?
+>">&>*>.>2>6>:>>>B>F>J>N>R>V>Z>^>b>f>j>n>r>v>z>~>
+>">H>u>{>
+>#>/><>
+>$>)><>\>q>
+>$>)>a>u>
+>$>,>0>4><>@>H>P>T>X>\>`>d>l>p>x>|>
+>$>,>4><>D>L>T>\>d>l>t>|>
+>$>D>I>\>
+>(>->@>m>
+>(>H>h>
+>(?,?0?4?8?<?@?D?T?X?h?l?p?t?x?
+>(?D?X?p?
+>(?T?x?
+>(|(H(|@<(|
+>(|WPj
+>)>9>N>p>
+>)><>D>\>q>
+>)>=>c>
+>*>/>:>?>J>O>Z>_>j>p>v>
+>,?>?\?z?
+>-|dE3|}>-|xE3|
+>.>8><>@>D>H>L>\>`>p>
+>/?U?i?y?
+>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+>2>?>{>
+>4>8>H>L>P>T>X>\>`>h>
+><>E>b>{>
+? ?$?(?
+? ?$?(?,?0?4?8?<?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?d?h?x?|?
+? ?$?4?8?H?h?l?p?t?x?|?
+? ?%?8?u?
+? ?(?<?D?L?T?\?d?x?
+? ?(?K?\?
+? ?(?L?T?\?d?l?
+? ?(?Y?`?d?x?
+? AMJu
+?"?)?R?\?`?f?l?r?y?
+?#?\?`?d?h?l?p?
+?$?(?,?0?4?<?X?\?`?d?h?p?
+?$?(?8?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+?$?,?4?<?D?L?T?X?\?`?d?h?l?p?t?x?|?
+?$?,?4?<?D?L?T?\?d?l?t?|?
+?$?8?@?H?\?d?l?
+?$?D?I?\?|?
+?$?H?L?\?`?x?
+?%?0?H?Q?\?t?
+?(?-?@?h?|?
+?(?=?P?X?p?u?
+?(?@?X?\?`?d?l?
+?(?P?\?`?h?x?
+?(|H?(|
+?)?0?_?e?r?
+?)?H?`?p?
+?,?0?4?8?<?D?\?t?
+?-|(H3|
+?3|Z:-|
+?6?I?\?
+?9}lu:
+?Display program information, version number and copyright
+@(|P#)|
+@-|(I3|
+@-|\I3|
+@3|3:-|
+@w)|Lp)|4p)|
+A'|`R)|
+A(9H`u
+A-|LJ3|iB-|\J3|
+A-|pJ3|)B-|
+A3|Q:-|
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+AaBbYyZz
+AbortDoc
+AbortPrinter
+About4Quit the application; prompts to save documents
+Access to %1 was denied..An invalid file handle was associated with %1.<%1 could not be removed because it is the current directory.6%1 could not be created because the directory is full.
+AccessibleObjectFromWindow
+Activate Task List
+Activate this window
+Active Border
+Active Title Bar
+Active Title Bar Text
+AddFormW
+AddMonitorW
+AddPortW
+AddPrintProcessorW
+AddPrintProvidorW
+AddPrinterConnectionW
+AddPrinterDriverExW
+AddPrinterDriverW
+AddPrinterW
+AdjustTokenPrivileges
+AdjustWindowRectEx
+AdvancedDocumentPropertiesW
+Afx:%p:%x
+Afx:%p:%x:%p:%p:%p
+AfxControlBar70u
+AfxFrameOrView70u
+AfxMDIFrame70u
+AfxOldWndProc423
+AfxOleControl70u
+AfxWnd70u
+All Files (*.*)
+All Picture Types|*.bmp;*.cur;*.dib;*.emf;*.ico;*.wmf|Bitmaps (*.bmp;*.dib)|*.bmp;*.dib|Icons/Cursors (*.ico;*.cur)|*.ico;*.cur|Metafiles (*.wmf;*.emf)|*.wmf;*.emf|All files (*.*)|*.*||
+AllocateAndInitializeSid
+An unknown error has occurred.$An invalid argument was encountered.
+Apartment
+Appearance
+AppendMenuW
+Application Workspace
+Arrange Icons/Arrange windows so they overlap
+Automation
+B.|t:.|77.|77.|B-.|77.|<7.|/7.|
+BackColor
+Bad file mode
+Bad file name
+Bad file name or number
+Bad record length
+Bad record number
+BeginDeferWindowPos
+BeginPaint
+Bold Italic
+BorderStyle
+BringWindowToTop
+Browse Pictures
+Button Face
+Button Highlight
+Button Shadow
+Button Text
+C'|P5(|J
+C/-|G/-|
+C09{(u
+C3|o:-|
+CAnimateCtrl
+CArchiveException
+CAsyncMonikerFile
+CAsyncSocket
+CCachedDataPathProperty
+CCheckListBox
+CClientDC
+CCmdTarget
+CColorDialog
+CComboBox
+CComboBoxEx
+CControlBar
+CCriticalSection
+CCtrlView
+CDBException
+CDHtmlDialog
+CDWordArray
+CDaoDatabase
+CDaoException
+CDaoQueryDef
+CDaoRecordView
+CDaoRecordset
+CDaoTableDef
+CDaoWorkspace
+CDataPathProperty
+CDatabase
+CDateTimeCtrl
+CDialogBar
+CDocItem
+CDocManager
+CDocObjectServer
+CDocTemplate
+CDockBar
+CDockState
+CDocument
+CDragListBox
+CDynLinkLibrary
+CEditView
+CException
+CFileDialog
+CFileException
+CFileFind
+CFindReplaceDialog
+CFontDialog
+CFormView
+CFrameWnd
+CFtpConnection
+CFtpFileFind
+CGdiObject
+CGopherConnection
+CGopherFile
+CGopherFileFind
+CHeaderCtrl
+CHotKeyCtrl
+CHtmlEditView
+CHtmlView
+CHttpConnection
+CHttpFile
+CIPAddressCtrl
+CImageList
+CInternetConnection
+CInternetException
+CInternetFile
+CInternetSession
+CInvalidArgException
+CLSIDFromProgID
+CLSIDFromString
+CLSID\%1
+CLSID\%1\AuxUserType\2
+CLSID\%1\AuxUserType\3
+CLSID\%1\DefaultExtension
+CLSID\%1\DefaultIcon
+CLSID\%1\DocObject
+CLSID\%1\InProcServer32
+CLSID\%1\InprocHandler32
+CLSID\%1\Insertable
+CLSID\%1\LocalServer32
+CLSID\%1\MiscStatus
+CLSID\%1\Printable
+CLSID\%1\ProgID
+CLSID\%1\Verb\0
+CLSID\%1\Verb\1
+CLSID\%s
+CLSID\%s\%s
+CLSID\%s\DocObject
+CLSID\{ADB880A6-D8FF-11CF-9377-00AA003B7A11}\InprocServer32
+CLinkCtrl
+CListBox
+CListCtrl
+CListView
+CLongBinary
+CMDIChildWnd
+CMDIFrameWnd
+CMapPtrToPtr
+CMapPtrToWord
+CMapStringToOb
+CMapStringToPtr
+CMapStringToString
+CMapWordToOb
+CMapWordToPtr
+CMemFile
+CMemoryException
+CMetaFileDC
+CMiniDockFrameWnd
+CMiniFrameWnd
+CMonikerFile
+CMonthCalCtrl
+CMultiDocTemplate
+CNotSupportedException
+COMBOBOX
+CObArray
+COleBusyDialog
+COleChangeIconDialog
+COleChangeSourceDialog
+COleClientItem
+COleControl
+COleControlModule
+COleConvertDialog
+COleDBRecordView
+COleDialog
+COleDispatchException
+COleDocIPFrameWnd
+COleDocObjectItem
+COleDocument
+COleException
+COleIPFrameWnd
+COleInsertDialog
+COleLinkingDoc
+COleLinksDialog
+COleObjectFactory
+COlePasteSpecialDialog
+COlePropertiesDialog
+COlePropertyPage
+COleResizeBar
+COleServerDoc
+COleServerItem
+COleStreamFile
+COleUpdateDialog
+CPageSetupDialog
+CPaintDC
+CPalette
+CPreviewDC
+CPreviewView
+CPrintDialog
+CPrintDialogEx
+CProgressCtrl
+CPropertyPage
+CPropertySheet
+CPtrArray
+CPtrList
+CReBarCtrl
+CRecordView
+CRecordset
+CResourceException
+CRichEditCntrItem
+CRichEditCtrl
+CRichEditDoc
+CRichEditView
+CScrollBar
+CScrollView
+CSemaphore
+CSharedFile
+CSingleDocTemplate
+CSliderCtrl
+CSocketFile
+CSpinButtonCtrl
+CSplitterWnd
+CStatusBar
+CStatusBarCtrl
+CStdioFile
+CStringArray
+CStringList
+CSyncObject
+CTabCtrl
+CToolBar
+CToolBarCtrl
+CToolTipCtrl
+CTreeCtrl
+CTreeView
+CUIntArray
+CUserException
+CWinThread
+CWindowDC
+CWindowlessDC
+CWordArray
+C\+Cd+E
+CallNextHookEx
+CallWindowProcW
+Cancel Preview
+Cannot find this file.
+Cascade Windows5Arrange windows as non-overlapping tiles
+Change Icon
+Change the window position
+Change the window size
+CharNextW
+CharToOemA
+CharUpperW
+CheckDlgButton
+CheckMenuItem
+CheckRadioButton
+CheckTokenMembership
+ChooseColorA
+ChooseColorW
+ChooseFontA
+ChooseFontW
+ClientToScreen
+ClipCursor
+Close the active document
+CloseHandle
+CloseMetaFile
+ClosePrinter
+CloseThemeData
+CoAllowSetForegroundWindow
+CoCancelCall
+CoCreateFreeThreadedMarshaler
+CoCreateGuid
+CoCreateInstance
+CoDisableCallCancellation
+CoDisconnectObject
+CoEnableCallCancellation
+CoFileTimeNow
+CoFreeUnusedLibraries
+CoGetClassObject
+CoGetInterfaceAndReleaseStream
+CoGetMalloc
+CoImpersonateClient
+CoInitialize
+CoInitializeEx
+CoInitializeSecurity
+CoInternetCombineUrl
+CoInternetCreateSecurityManager
+CoInternetGetSecurityUrl
+CoInternetGetSession
+CoInternetParseUrl
+CoInternetQueryInfo
+CoLockObjectExternal
+CoMarshalInterThreadInterfaceInStream
+CoMarshalInterface
+CoRegisterClassObject
+CoRegisterMessageFilter
+CoReleaseMarshalData
+CoResumeClassObjects
+CoRevertToSelf
+CoRevokeClassObject
+CoSetProxyBlanket
+CoSuspendClassObjects
+CoSwitchCallContext
+CoTaskMemAlloc
+CoTaskMemFree
+CoTaskMemRealloc
+CoTreatAsClass
+CoUninitialize
+CoUnmarshalInterface
+CoWaitForMultipleHandles
+Color Property Page
+CombineRgn
+ComboBox
+ComboBoxEx32
+CommDlgExtendedError
+CommitUrlCacheEntryA
+CommitUrlCacheEntryW
+CompanyName
+ConfigurePortW
+ConnectToPrinterDlg
+Contents
+Continue running script?
+Control Panel\Desktop\ResourceLocale
+Convert Object*Change icon of selected object
+ConvertDefaultLocale
+Copy1Cut the selection and put it on the Clipboard
+CopyAcceleratorTableW
+CopyFileW
+CopyMetaFileW
+CopyRect
+Could not start print job.
+Could not update client.;Failed to register. ActiveX features may not work properly.?Failed to update the system registry.
+CountClipboardFormats
+Create a new document
+CreateAsyncBindCtx
+CreateAsyncBindCtxEx
+CreateBindCtx
+CreateBitmap
+CreateClassMoniker
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreateDCW
+CreateDIBPatternBrushPt
+CreateDataAdviseHolder
+CreateDataCache
+CreateDialogIndirectParamW
+CreateEllipticRgn
+CreateEventW
+CreateFileMoniker
+CreateFileW
+CreateFontIndirectW
+CreateFontW
+CreateFormatEnumerator
+CreateGenericComposite
+CreateHatchBrush
+CreateILockBytesOnHGlobal
+CreateItemMoniker
+CreateMenu
+CreateMetaFileW
+CreateMutexW
+CreateOleAdviseHolder
+CreatePatternBrush
+CreatePen
+CreatePopupMenu
+CreatePropertySheetPageA
+CreatePropertySheetPageW
+CreateRectRgn
+CreateRectRgnIndirect
+CreateSemaphoreW
+CreateSolidBrush
+CreateStdAccessibleObject
+CreateStreamOnHGlobal
+CreateURLMoniker
+CreateUrlCacheContainerA
+CreateUrlCacheEntryW
+CreateWindowExW
+CryptAcquireContextW
+CryptCreateHash
+CryptDestroyHash
+CryptDestroyKey
+CryptExportKey
+CryptGetHashParam
+CryptHashData
+CryptReleaseContext
+D'|P5(|
+DE'|C6(|Y\%|
+DELETE FROM 
+DHtmlDialogDestroy
+DS)|,S)|
+D_)|HY)|
+Data truncated.
+DefFrameProcW
+DefMDIChildProcW
+DefWindowProcW
+DefaultIcon
+DeferWindowPos
+DeleteCriticalSection
+DeleteDC
+DeleteFileW
+DeleteFormW
+DeleteMenu
+DeleteMetaFile
+DeleteMonitorW
+DeleteObject
+DeletePortW
+DeletePrintProcessorW
+DeletePrintProvidorW
+DeletePrinter
+DeletePrinterConnectionW
+DeletePrinterDataExW
+DeletePrinterDataW
+DeletePrinterDriverExW
+DeletePrinterDriverW
+DeletePrinterKeyW
+DeleteUrlCacheContainerA
+DeleteUrlCacheEntryA
+DeleteUrlCacheEntryW
+DeregisterEventSource
+DestroyCursor
+DestroyIcon
+DestroyMenu
+DestroyPropertySheetPage
+DestroyWindow
+Device I/O error
+Device unavailable
+Disabled Text
+Discard all changes to %1?VFailed to create object.  Make sure the application is entered in the system registry.
+Disk full
+Disk full while accessing %1..An attempt was made to access %1 past its end.
+Disk not ready
+Dispatch exception: %1
+DispatchMessageW
+Division by zero
+DllGetClassObject
+DllGetVersion
+DoDragDrop
+DocObject
+DocShortcut
+Document :
+DocumentPropertiesA
+DocumentPropertiesW
+DragAcceptFiles
+DragDelay
+DragFinish
+DragMinDist
+DragQueryFileA
+DragQueryFileW
+DragScrollDelay
+DragScrollInset
+DragScrollInterval
+DrawEdge
+DrawFocusRect
+DrawIcon
+DrawMenuBar
+DrawTextExW
+DrawTextW
+DrawThemeBackground
+Dt)|,t)|
+DuplicateHandle
+Dw=P()|
+E 9]$u
+E SVW3
+E$h|$/|
+E&xit && Return to %1
+E3|)>-|
+E3|q?-| E3|"?-|8E3|e>-|PE3|
+E3|}?-|
+Edit Links4Convert selected object between types
+Edit linked objects
+Embed Source
+Embedded Object
+Embedding
+Embedding %lu
+EnableMenuItem
+EnableWindow
+EndDeferWindowPos
+EndDialog
+EndDocPrinter
+EndPagePrinter
+EndPaint
+Enlarge the window to full size"Switch to the next document window&Switch to the previous document window9Close the active window and prompts to save the documents
+EnterCriticalSection
+EnumChildWindows
+EnumDisplayDevicesW
+EnumDisplayMonitors
+EnumFontFamiliesExW
+EnumFormsW
+EnumJobsW
+EnumMetaFile
+EnumMonitorsW
+EnumPortsW
+EnumPrintProcessorDatatypesW
+EnumPrintProcessorsW
+EnumPrinterDataExW
+EnumPrinterDataW
+EnumPrinterDriversW
+EnumPrinterKeyW
+EnumPrintersW
+EnumResourceLanguagesW
+EqualRect
+Erase All3Copy the selection and put it on the Clipboard
+Erase everything
+Erase the selection
+Error retrieving record.RA required ODBC entry point was not found.  Make sure ODBC is installed correctly.
+ExcludeClipRect
+ExitProcess
+ExtCreatePen
+ExtDeviceMode
+ExtSelectClipRgn
+ExtTextOutW
+ExtractAssociatedIconExW
+ExtractIconA
+ExtractIconExA
+ExtractIconExW
+ExtractIconW
+F 9pl^u
+F$+N +F
+F(9p`u
+F(;F$uA
+F(@;F,v
+F(@@;F,
+F,+F(_;E
+F-@Wu(S
+F-| N3|UI-|<N3|
+F/|~b0|
+F3|M?-|4F3|.?-|LF3|:?-|\F3|
+F< Wt)3
+F<m0(|u-jD
+Failed to launch help.
+Failed to open document.
+Failed to save document.
+FaultInIEFeature
+Fh?(|4
+File already exists
+File already open
+File not found
+FileDescription
+FileName
+FileNameW
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+FileVersion
+FillRect
+Find the specified text
+FindClose
+FindClosePrinterChangeNotification
+FindCloseUrlCache
+FindExecutableA
+FindExecutableW
+FindFirstFileW
+FindFirstUrlCacheEntryA
+FindFirstUrlCacheEntryW
+FindMimeFromData
+FindNextFileW
+FindNextUrlCacheEntryA
+FindNextUrlCacheEntryW
+FindResourceExW
+FindResourceW
+FindTextA
+FindTextW
+FindWindowW
+First Record Move to final record
+Floating
+FlushFileBuffers
+FlushPrinter
+Font Property Page
+Font St&yle:
+FontBold
+FontItalic
+FontName
+FontSize
+FontStrikethru
+FontUnderline
+ForeColor
+FormatMessageA
+FormatMessageW
+FreeLibrary
+FreePropVariantArray
+FreeResource
+FreeUrlCacheSpaceW
+FtpCommandA
+FtpCommandW
+FtpCreateDirectoryA
+FtpCreateDirectoryW
+FtpDeleteFileA
+FtpDeleteFileW
+FtpFindFirstFileA
+FtpFindFirstFileW
+FtpGetCurrentDirectoryA
+FtpGetCurrentDirectoryW
+FtpGetFileA
+FtpGetFileW
+FtpOpenFileA
+FtpOpenFileW
+FtpPutFileA
+FtpPutFileW
+FtpRemoveDirectoryA
+FtpRemoveDirectoryW
+FtpRenameFileA
+FtpRenameFileW
+FtpSetCurrentDirectoryA
+FtpSetCurrentDirectoryW
+F|9~ t
+G-| O3|
+G-|\Q3|QH-|pQ3|]H-|
+G3|M>-|(G3|+A-|8G3|
+GetActiveWindow
+GetAsyncKeyState
+GetBkColor
+GetBkMode
+GetCapture
+GetCharWidthW
+GetClassFile
+GetClassInfoExW
+GetClassInfoW
+GetClassLongW
+GetClassNameW
+GetClientRect
+GetClipBox
+GetClipRgn
+GetCurrentDirectoryW
+GetCurrentPositionEx
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThread
+GetCurrentThreadId
+GetCursorPos
+GetDesktopWindow
+GetDeviceCaps
+GetDialogBaseUnits
+GetDiskFreeSpaceW
+GetDlgCtrlID
+GetDlgItem
+GetDlgItemInt
+GetDlgItemTextW
+GetEnvironmentVariableA
+GetEnvironmentVariableW
+GetFileAttributesW
+GetFileSecurityA
+GetFileSecurityW
+GetFileSize
+GetFileTime
+GetFileTitleA
+GetFileTitleW
+GetFocus
+GetForegroundWindow
+GetFormW
+GetFullPathNameW
+GetHGlobalFromILockBytes
+GetHGlobalFromStream
+GetKeyNameTextW
+GetKeyState
+GetLastActivePopup
+GetLastError
+GetLayout
+GetLocaleInfoA
+GetLocaleInfoW
+GetMapMode
+GetMarkOfTheWeb
+GetMenuCheckMarkDimensions
+GetMenuItemCount
+GetMenuItemID
+GetMenuItemInfoW
+GetMenuState
+GetMenuStringW
+GetMessagePos
+GetMessageTime
+GetMessageW
+GetModuleFileNameW
+GetModuleHandleA
+GetModuleHandleW
+GetMonitorInfoA
+GetMonitorInfoW
+GetNearestColor
+GetNextDlgGroupItem
+GetNextDlgTabItem
+GetObjectType
+GetObjectW
+GetOpenFileNameA
+GetOpenFileNameW
+GetParent
+GetPixel
+GetPolyFillMode
+GetPrintProcessorDirectoryW
+GetPrinterDataExW
+GetPrinterDataW
+GetPrinterDriverDirectoryW
+GetPrinterDriverW
+GetPrinterW
+GetPrivateProfileIntW
+GetPrivateProfileStringW
+GetProcAddress
+GetProfileIntW
+GetPropW
+GetRgnBox
+GetRoleTextW
+GetRunningObjectTable
+GetSaveFileNameA
+GetSaveFileNameW
+GetScrollInfo
+GetScrollPos
+GetScrollRange
+GetShortPathNameW
+GetSoftwareUpdateInfo
+GetStockObject
+GetStretchBltMode
+GetStringTypeExW
+GetSubMenu
+GetSysColor
+GetSysColorBrush
+GetSystemDefaultUILanguage
+GetSystemMenu
+GetSystemMetrics
+GetSystemTime
+GetSystemTimeAsFileTime
+GetTabbedTextExtentA
+GetTabbedTextExtentW
+GetTempFileNameW
+GetTempPathW
+GetTextAlign
+GetTextColor
+GetTextExtentPoint32A
+GetTextExtentPoint32W
+GetTextFaceW
+GetTextMetricsW
+GetThemePartSize
+GetThreadLocale
+GetTickCount
+GetTokenInformation
+GetTopWindow
+GetUrlCacheEntryInfoA
+GetUrlCacheEntryInfoExA
+GetUrlCacheEntryInfoExW
+GetUrlCacheEntryInfoW
+GetUserDefaultLCID
+GetUserDefaultUILanguage
+GetUserNameW
+GetVersion
+GetVersionExA
+GetVersionExW
+GetViewportExtEx
+GetViewportOrgEx
+GetVolumeInformationW
+GetWindow
+GetWindowDC
+GetWindowExtEx
+GetWindowLongW
+GetWindowOrgEx
+GetWindowPlacement
+GetWindowRect
+GetWindowTextLengthW
+GetWindowTextW
+GetWindowThreadProcessId
+GlobalAddAtomW
+GlobalAlloc
+GlobalDeleteAtom
+GlobalFindAtomW
+GlobalFlags
+GlobalFree
+GlobalGetAtomNameW
+GlobalHandle
+GlobalLock
+GlobalReAlloc
+GlobalSize
+GlobalUnlock
+GopherCreateLocatorA
+GopherCreateLocatorW
+GopherFindFirstFileA
+GopherFindFirstFileW
+GopherGetAttributeA
+GopherGetAttributeW
+GopherOpenFileA
+GopherOpenFileW
+GrayStringW
+H-|(S3|
+H-|0R3|(I-|@R3|
+H3|{@-|
+HHtgHtJHt3Ht
+HTTP/1.0
+HVtAHtXHuU
+Help Index
+Help Topics/Display instructions about how to use help
+Help-Display help for current task or command
+Help;Display help for clicked on buttons, menus and windows
+Highlight
+Highlighted Text
+HlinkNavigateString
+HtXHt1Hu
+Ht\HHt2
+HttHtYHtnHtkHHt7Ht
+HttpAddRequestHeadersA
+HttpAddRequestHeadersW
+HttpEndRequestA
+HttpEndRequestW
+HttpOpenRequestA
+HttpOpenRequestW
+HttpQueryInfoA
+HttpQueryInfoW
+HttpSendRequestA
+HttpSendRequestExA
+HttpSendRequestExW
+HttpSendRequestW
+HtzHtMHt
+I-| M3|3F-|8M3|?F-|PM3|
+I-|tR3|/H-|
+I3|(@-|
+I3|:@-|
+INSERT INTO 
+IT;O t
+Illegal function call
+ImageList_Add
+ImageList_Create
+ImageList_Destroy
+ImageList_Draw
+ImageList_DrawIndirect
+ImageList_Duplicate
+ImageList_GetIcon
+ImageList_GetIconSize
+ImageList_GetImageInfo
+ImageList_LoadImageA
+ImageList_LoadImageW
+ImageList_Merge
+ImageList_Read
+ImageList_Remove
+ImageList_ReplaceIcon
+ImageList_SetBkColor
+ImageList_SetOverlayImage
+ImageList_Write
+InProcServer32
+InSendMessage
+Inactive Border
+Inactive Title Bar
+Inactive Title Bar Text
+InflateRect
+InitCommonControlsEx
+InitializeCriticalSection
+InprocServer
+InprocServer32
+Insert Clipboard contents
+InsertMenuItemW
+InsertMenuW
+Insertable
+Interface\
+InterlockedDecrement
+InterlockedExchange
+InterlockedIncrement
+Internal application error.
+InternalName
+InternetCanonicalizeUrlA
+InternetCanonicalizeUrlW
+InternetClearAllPerSiteCookieDecisions
+InternetCloseHandle
+InternetConfirmZoneCrossingW
+InternetConnectA
+InternetConnectW
+InternetCrackUrlA
+InternetCrackUrlW
+InternetCreateUrlW
+InternetEnumPerSiteCookieDecisionW
+InternetErrorDlg
+InternetFindNextFileA
+InternetFindNextFileW
+InternetFortezzaCommand
+InternetGetConnectedState
+InternetGetConnectedStateExA
+InternetGetCookieA
+InternetGetCookieW
+InternetGetLastResponseInfoA
+InternetGetLastResponseInfoW
+InternetGetPerSiteCookieDecisionW
+InternetGoOnlineW
+InternetInitializeAutoProxyDll
+InternetOpenA
+InternetOpenUrlA
+InternetOpenUrlW
+InternetOpenW
+InternetQueryDataAvailable
+InternetQueryFortezzaStatus
+InternetQueryOptionA
+InternetQueryOptionW
+InternetReadFile
+InternetSetCookieA
+InternetSetCookieW
+InternetSetFilePointer
+InternetSetOptionA
+InternetSetOptionExA
+InternetSetOptionExW
+InternetSetOptionW
+InternetSetPerSiteCookieDecisionW
+InternetSetStatusCallback
+InternetSetStatusCallbackA
+InternetSetStatusCallbackW
+InternetShowSecurityInfoByURLW
+InternetTimeToSystemTimeW
+InternetWriteFile
+IntersectClipRect
+IntersectRect
+Invalid Currency.
+Invalid DateTime
+Invalid array index"Property cannot be set at run time
+Invalid clipboard format
+Invalid file format
+Invalid filename.
+Invalid pattern string
+Invalid picture
+Invalid property value
+Invalid use of null
+InvalidateRect
+InvalidateRgn
+IsAccelerator
+IsAsyncMoniker
+IsClipboardFormatAvailable
+IsDBCSLeadByte
+IsDialogMessageW
+IsDlgButtonChecked
+IsIconic
+IsRectEmpty
+IsTextUnicode
+IsValidURL
+IsWindow
+IsWindowEnabled
+IsWindowVisible
+IsZoomed
+ItYIt)
+J%|`H(|
+J(|Gr&|
+J(|\0(|
+J3|\E-|
+J3|yB-|(J3|
+KERNEL32
+KillTimer
+L%|uW(|
+L+|<{)|
+L^)|SVW3
+Last Record
+Lc)|\S)|
+LeaveCriticalSection
+LegalCopyright
+Link Source
+Link Source Descriptor
+Link may be broken.'Unable to process command, server busy.#Failed to perform server operation.6The file is not supported by a Document Object server.A%1
+Linked %s
+List Help topics
+LoadAcceleratorsW
+LoadBitmapW
+LoadCursorW
+LoadIconW
+LoadLibraryA
+LoadLibraryW
+LoadMenuW
+LoadResource
+LocalAlloc
+LocalFileTimeToFileTime
+LocalFree
+LocalLock
+LocalReAlloc
+LocalUnlock
+LockFile
+LockResource
+LockWindowUpdate
+LookupPrivilegeValueA
+LookupPrivilegeValueW
+LresultFromObject
+Lucida Sans Unicode
+Lx(|(f)|
+M-| T3|
+M-|\T3|
+M3|}F-|
+MAPISendMail
+MFCDLL Shared Library - Retail Version
+MRUDockBottomPos
+MRUDockID
+MRUDockLeftPos
+MRUDockRightPos
+MRUDockTopPos
+MRUFloatStyle
+MRUFloatXPos
+MRUFloatYPos
+MRUWidth
+MS Sans Serif
+MS Shell Dlg
+MS UI Gothic
+MSH_SCROLL_LINES_MSG
+MSH_WHEELSUPPORT_MSG
+MSWHEEL_ROLLMSG
+Magellan MSWHEEL
+Mail system DLL is invalid.!Send Mail failed to send message.
+MapDialogRect
+MapVirtualKeyW
+MapWindowPoints
+Menu Bar
+Menu Text
+MessageBeep
+MessageBoxW
+Metafile
+Microsoft
+Microsoft Corporation
+MiscStatus
+MiscStatus\1
+MkParseDisplayName
+ModifyMenuW
+MonitorFromPoint
+MonitorFromRect
+MonitorFromWindow
+Move to next record
+MoveFileW
+MoveToEx
+MoveWindow
+MsgWaitForMultipleObjects
+MultiByteToWideChar
+Multiple rows were updated.$Operation failed, no current record.8No rows were affected by the update or delete operation.
+N&|B7.|GE(|
+N/|#H/|
+New Object
+New Window7Arrange icons at the bottom of the window
+Next Pane5Switch back to the previous window pane
+Next Record'Move to previous record
+No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+No error occurred.-An unknown error occurred while accessing %1.
+NoBackButton
+NoDrives
+NoEntireNetwork
+NoNetConnectDisconnect
+NoPlacesBar
+NoRecentDocsHistory
+NotifyWinEvent
+NullFile
+O 9Htu
+O$h0<(|
+O(|xm)|\S)|
+Object Descriptor
+ObjectLink
+ObtainUserAgentString
+Od9A uC
+OemToCharA
+OffsetClipRgn
+OffsetRect
+OffsetRgn
+OffsetViewportOrgEx
+OffsetWindowOrgEx
+Ole1Class
+OleCreate
+OleCreateFromData
+OleCreateFromFile
+OleCreateLinkFromData
+OleCreateLinkToFile
+OleCreateMenuDescriptor
+OleCreateStaticFromData
+OleDestroyMenuDescriptor
+OleDuplicateData
+OleFlushClipboard
+OleGetClipboard
+OleGetIconOfClass
+OleInitialize
+OleIsCurrentClipboard
+OleIsRunning
+OleLoadFromStream
+OleLockRunning
+OleQueryCreateFromData
+OleQueryLinkFromData
+OleRegEnumVerbs
+OleRegGetMiscStatus
+OleRegGetUserType
+OleSaveToStream
+OleSetClipboard
+OleSetContainedObject
+OleSetMenuDescriptor
+OleTranslateAccelerator
+OleUIAddVerbMenuW
+OleUIBusyW
+OleUIChangeIconW
+OleUIChangeSourceW
+OleUIConvertW
+OleUIEditLinksW
+OleUIInsertObjectW
+OleUIObjectPropertiesW
+OleUIPasteSpecialW
+OleUIUpdateLinksW
+OleUninitialize
+Open an existing document
+Open the selected item
+Open this document
+Open this document(Switch to the next window pane
+OpenPrinterA
+OpenPrinterW
+OpenProcessToken
+OpenThemeData
+OpenThreadToken
+OriginalFilename
+Out of memory
+Out of memory.
+Out of stack space
+Out of string space
+Output.prn1Printer Files (*.prn)|*.prn|All Files (*.*)|*.*||
+Overflow
+OwnerLink
+P'|8b)|
+P(|6$(|L
+P)| a)|
+P)|4u)|
+P)||u)|
+P,hh,)|
+P-|4Y3|.Q-|@Y3|FQ-|PY3|:Q-|\Y3|-R-|lY3|
+P@9}htv9}
+PARAMETERS 
+Page %u
+Page :
+Page Setup3Change the printer and printing options
+PageSetupDlgA
+PageSetupDlgW
+Pages %u-%u
+Paste Link4Insert Clipboard contents with options
+Paste Special
+Paste=Insert Clipboard contents and a link to its source
+Path not found
+Path/File access error
+PathFindExtensionW
+PathFindFileNameW
+PathIsUNCW
+PathRemoveExtensionW
+PathStripToRootW
+Pb)|8b)|
+PeekMessageW
+Permission denied
+Ph z,|
+Ph(()|
+Ph@=(|Vj
+Ph@=(|W
+PhP=(|
+Phh))|h
+Ph|()|
+Picture (Metafile)
+Picture Property Page
+Pictures
+PlPhL")|
+PlayMetaFile
+PlayMetaFileRecord
+Please enter a GUID.
+Please enter a currency.
+Please enter a date.
+Please enter a number.*Please enter an integer between %1 and %2.(Please enter a number between %1 and %2.(Please enter no more than %1 characters.
+Please enter a time.
+Please enter an integer.
+Please select a button.*Please enter an integer between 0 and 255. Please enter a positive integer. Please enter a date and/or time.
+Please try using REGEDIT.!Failed to convert ActiveX object.#Unable to read write-only property.#Unable to write read-only property.QActiveX objects cannot be saved while exiting Windows!
+Please verify that the correct path and file name are given.
+PolyBezierTo
+PolyDraw
+PolylineTo
+Port :
+PostMessageW
+PostQuitMessage
+PostThreadMessageW
+Pre&v Page
+Preview:
+PreviewPages
+Previous Pane
+Previous Record
+Print Preview
+Print Setup
+Print the active document
+Print to File
+PrintDlgA
+PrintDlgExA
+PrintDlgExW
+PrintDlgW
+Printer :
+Printer error.Cannot create temporary file necessary to save
+Printing
+PrivacySetZonePreferenceW
+ProductName
+ProductVersion
+ProgIDFromCLSID
+PropVariantClear
+PropVariantCopy
+Property &Name:
+Property is read-only2Must specify array index when using property array&Property cannot be set on this control#Property cannot be read at run time
+Property is write-only
+Property not found
+PropertySheetA
+PropertySheetW
+PtInRect
+PtVisible
+Q(9J`ut
+Q(SSSSSP
+Q(VVVVVP
+Q(WWWWWP
+Q)|'z-|Ky-|Qy-|Vy-|
+Q)|pQ)|
+Q/|YR/|
+QDVVVVVP
+QLWWWWWP
+QQVhp@(|
+QSVWh(
+QVh`=(|
+Q\-|^\-|k\-|3\-|
+Qh <(|W
+Qh =(|
+Qh0-)|P
+Qh0-)|W
+Qh0=(|S
+QhH?(|W
+Qhp@(|
+QueryPerformanceCounter
+QueryServiceStatus
+R(SSSSSP
+R-| X3|
+R-|XZ3|}Q-|pZ3|
+R0SSSSSP
+RPSSSSSP
+RaiseException
+Rd9~ u
+ReBarWindow32
+ReadClassStg
+ReadClassStm
+ReadFile
+ReadFmtUserTypeStg
+ReadPrinter
+ReadUrlCacheEntryStream
+Recent File List
+RectVisible
+Rectangle
+RedrawWindow
+Reduce the window to an icon
+RegCloseKey
+RegCreateKeyA
+RegCreateKeyExA
+RegCreateKeyExW
+RegCreateKeyW
+RegDeleteKeyA
+RegDeleteKeyW
+RegDeleteValueA
+RegDeleteValueW
+RegEnumKeyA
+RegEnumKeyExW
+RegEnumKeyW
+RegEnumValueW
+RegNotifyChangeKeyValue
+RegOpenKeyA
+RegOpenKeyExA
+RegOpenKeyExW
+RegOpenKeyW
+RegQueryInfoKeyW
+RegQueryValueA
+RegQueryValueExA
+RegQueryValueExW
+RegQueryValueW
+RegSetValueA
+RegSetValueExA
+RegSetValueExW
+RegSetValueW
+Register
+RegisterBindStatusCallback
+RegisterClassW
+RegisterClipboardFormatW
+RegisterDragDrop
+RegisterEventSourceW
+RegisterFormatEnumerator
+RegisterMediaTypeClass
+RegisterUrlCacheNotification
+RegisterWindowMessageW
+Regserver
+ReleaseBindInfo
+ReleaseCapture
+ReleaseDC
+ReleaseMutex
+ReleaseSemaphore
+ReleaseStgMedium
+RemoveMenu
+RemovePropW
+Repeat the last action
+Repeat1Replace specific text with different text
+Replace%Select the entire document
+ReplaceFileW
+ReplaceTextA
+ReplaceTextW
+Replacement text too long
+ReportEventW
+ResetPrinterW
+RestoreDC
+RestrictRun
+ResumeThread
+RetrieveUrlCacheEntryStreamW
+ReuseDDElParam
+RevertToSelf
+RevokeBindStatusCallback
+RevokeDragDrop
+RevokeFormatEnumerator
+Rh -)|P
+Rh <(|P
+Rh =(|P
+Rh@-)|P
+Rh@-)|Q
+Rh@<(|P
+RhP<(|
+Rh`=(|P
+Rhp<(|P
+Rhp@(|P
+Rhp@(|j
+Rich Text Format
+RichEdit Text and Objects
+RichEdit20W
+S)|\S)|
+S<BODY><H1>NOT FOUND</H1><P>The requested URL was not found on this server.</BODY>
+SCROLLBAR
+SELECT 
+SHAppBarMessage
+SHBindToParent
+SHBrowseForFolderA
+SHBrowseForFolderW
+SHChangeNotify
+SHFileOperationA
+SHFileOperationW
+SHGetDataFromIDListA
+SHGetDataFromIDListW
+SHGetDesktopFolder
+SHGetFileInfoA
+SHGetFileInfoW
+SHGetFolderPathA
+SHGetFolderPathW
+SHGetInstanceExplorer
+SHGetMalloc
+SHGetPathFromIDListA
+SHGetPathFromIDListW
+SHGetSpecialFolderLocation
+SHGetSpecialFolderPathW
+SHLoadInProc
+SHPathPrepareForWriteW
+SVWhp@(|
+SVWj(3
+Save As
+Save As&Change the printing options
+Save Copy As'Close print preview mode
+Save changes to %1? Failed to create empty document.
+Save the active document
+Save0Save the active document with a new name
+ScaleViewportExtEx
+ScaleWindowExtEx
+ScheduleJob
+ScreenCX
+ScreenCY
+ScreenToClient
+Scroll Bars
+ScrollWindow
+ScrollWindowEx
+Search text not found
+SearchPathW
+Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+Select All
+SelectClipPath
+SelectClipRgn
+SelectObject
+SelectPalette
+Send Mail
+SendDlgItemMessageA
+SendDlgItemMessageW
+SendMessageW
+SendNotifyMessageW
+SetAbortProc
+SetActiveWindow
+SetArcDirection
+SetBkColor
+SetBkMode
+SetBrushOrgEx
+SetCapture
+SetColorAdjustment
+SetConvertStg
+SetCursor
+SetCursorPos
+SetDlgItemInt
+SetDlgItemTextW
+SetEndOfFile
+SetErrorMode
+SetEvent
+SetFileAttributesW
+SetFilePointer
+SetFileSecurityA
+SetFileSecurityW
+SetFileTime
+SetFocus
+SetForegroundWindow
+SetFormW
+SetLastError
+SetLayout
+SetMapMode
+SetMapperFlags
+SetMenuItemBitmaps
+SetParent
+SetPolyFillMode
+SetPortW
+SetPrinterDataExW
+SetPrinterDataW
+SetPrinterW
+SetPropW
+SetRectEmpty
+SetRectRgn
+SetScrollInfo
+SetScrollPos
+SetScrollRange
+SetSoftwareUpdateAdvertisementState
+SetStretchBltMode
+SetTextAlign
+SetTextCharacterExtra
+SetTextColor
+SetTextJustification
+SetThreadPriority
+SetThreadToken
+SetTimer
+SetUrlCacheEntryGroupW
+SetUrlCacheEntryInfoW
+SetViewportExtEx
+SetViewportOrgEx
+SetWindowContextHelpId
+SetWindowExtEx
+SetWindowLongW
+SetWindowOrgEx
+SetWindowPlacement
+SetWindowPos
+SetWindowRgn
+SetWindowTextW
+SetWindowsHookExW
+Settings
+Sh@}/|W
+ShellAboutA
+ShellAboutW
+ShellExecuteA
+ShellExecuteExA
+ShellExecuteExW
+ShellExecuteW
+ShowOwnedPopups
+ShowScrollBar
+ShowWindow
+SizeofResource
+Socket Notification Sink
+Software\
+Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+Software\Microsoft\Windows\CurrentVersion\Policies\Network
+SpoolerInit
+StartDocPrinterW
+StartDocW
+StartPage
+StartPagePrinter
+State:
+State:01004
+State:01S01
+State:S1010
+State:S1C00
+StgCreateDocfile
+StgCreateDocfileOnILockBytes
+StgIsStorageFile
+StgOpenStorage
+StgOpenStorageEx
+StgOpenStorageOnILockBytes
+StretchDIBits
+StringFileInfo
+StringFromCLSID
+StringFromGUID2
+SuspendThread
+SysAnimate32
+SysDateTimePick32
+SysHeader32
+SysIPAddress32
+SysListView32
+SysMonthCal32
+SysTabControl32
+SysTreeView32
+System &Color:
+SystemParametersInfoA
+SystemParametersInfoW
+SystemTimeToFileTime
+T'3|lw)|
+T)|9GL
+T-|vT-|lT-|bT-|XT-|NT-|DT-|:T-|0T-|&T-|
+TABLE 
+TRANSFORM 
+TYPELIB\%s
+TabbedTextOutW
+TextOutW
+The document may already be open.$Failed to launch server application.
+The file is too large to open.
+ThisProcedureMustNotExistInKernel32
+ThreadingModel
+Tile Windows(Split the active window into panes
+Tile Windows5Arrange windows as non-overlapping tiles
+TlsAlloc
+TlsGetValue
+TlsSetValue
+Toggle StatusBar
+Toggle ToolBar,Show or hide the status bar
+Too many files
+ToolbarWindow32
+ToolboxBitmap32
+TrackPopupMenu
+TrackPopupMenuEx
+TranslateAcceleratorW
+TranslateMDISysAccel
+TranslateMessage
+Translation
+U%|LV%| U%|`V%|t
+U)||U)|dU)|LU)|4U)|
+U-| U-|*U-|
+U0|*U0|:_0|
+UPDATE 
+URLDownloadToCacheFileW
+URLDownloadToFileW
+URLOpenBlockingStreamW
+Unable to register document.
+Undo the last action
+Undo&Redo the previously undone action
+Unexpected file format.V%1
+UnhookWindowsHookEx
+UnionRect
+Unknown Type7Rich Text (RTF)
+UnlockFile
+UnlockUrlCacheEntryStream
+UnpackDDElParam
+UnrealizeObject
+Unregister
+UnregisterClassW
+Unregserver
+Untitled
+Update %1 before proceeding?
+Update or Delete failed.-Dynamic cursors not supported by ODBC driver."Invalid field name or field index.(Bookmarks not supported for ODBC driver.#Bookmarks not enabled on recordset.
+UpdateWindow
+Updating ActiveX objects
+UrlMkGetSessionOption
+UrlMkSetSessionOption
+UrlUnescapeW
+V'|(W)|
+V)|hV)|
+V3|}O-|
+VS_VERSION_INFO
+VVVVPVVVj
+ValidateRect
+VarFileInfo
+Vh <(|P
+Vh0<(|P
+Vh`=(|
+Vh`=(|P
+VirtualProtect
+W'|dW)|
+W(|/<%|
+WWWj j 
+WaitForMultipleObjects
+WaitForPrinterChange
+WaitForSingleObject
+WaitMessage
+Wh4,)|
+WideCharToMultiByte
+WinHelpW
+Window Background
+Window Frame
+Window Text
+WindowFromDC
+WindowFromPoint
+Wj(_Wj
+WriteClassStg
+WriteClassStm
+WriteFile
+WriteFmtUserTypeStg
+WritePrinter
+WritePrivateProfileStringW
+X-| X-|'X-|.X-|<X-|CX-|
+XtCHHt0Ht Ht
+YYu3hH?(|
+Z-|)Z-|
+Z-|xZ-|qZ-|jZ-|cZ-|\Z-|UZ-|NZ-|
+Z3|HP-|(Z3|TP-|8Z3|`P-|HZ3|
+Zoom &In
+Zoom &Out
+[-|#\-|
+[-|/[-|
+[open("
+[open("%1")]
+[print("
+[print("%1")]
+[printto("
+[printto("%1","%2","%3","%4")]
+\)|hV)|
+\)|p\)|\S)|
+\-|x\-|>]-|^]-|n]-|~]-|
+\0o0~0
+\g)|4g)|
+]&|j\&|
+](|6$(|L
+](|g6/|L
+^(+^ U
+^(_^][
+^)|CMultiPageDHtmlDialog
+^)|\S)|
+^)|h^)|
+^PShp@(|j
+_&|\^&|8m&|
+_)|LU)|
+_)|t_)|\_)|
+_CxxThrowException
+_ExtentX
+_ExtentY
+_StockProps
+_Version
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+__doserrno
+__p___argc
+__p___wargv
+__security_error_handler
+_adjust_fdiv
+_beginthreadex
+_endthreadex
+_except_handler3
+_get_osfhandle
+_initterm
+_ismbcspace
+_localtime64
+_mbscoll
+_mbscspn
+_mbsicmp
+_mbsicoll
+_mbspbrk
+_mbsrchr
+_mktime64
+_open_osfhandle
+_purecall
+_resetstkoflw
+_snwprintf
+_vscprintf
+_vscwprintf
+_wcsicmp
+_wcsicoll
+_wcsnicmp
+_wfullpath
+_wsplitpath
+`#(|VS
+`#(|VW
+`)|x`)|
+a bitmap
+a device independent bitmap
+a picture5Device Independent Bitmap
+a)|0P)|
+a)|hV)|
+a0|/u0|
+about:blank
+accChild
+accChildCount
+accDefaultAction
+accDescription
+accDoDefaultAction
+accFocus
+accHelpTopic
+accHitTest
+accKeyboardShortcut
+accLocation
+accNavigate
+accParent
+accSelect
+accSelection
+accState
+accValue
+an unnamed file
+b)|hV)|
+clearerr
+combobox
+comboboxex32
+commctrl_DragListMsg
+commdlg_ColorOK
+commdlg_FileNameOK
+commdlg_FindReplace
+commdlg_LBSelChangedNotify
+commdlg_SetRGBColor
+commdlg_ShareViolation
+commdlg_help
+complete
+d)|CWinApp
+d)|\S)|
+d,)|SW
+d/|!e/|
+d/|5h/|bd/|
+d/|gj/|&e/|
+d<BODY><H1>AUTH REQUIRED</H1><P>Browser not authentication-capable or authentication failed.</BODY>
+d\)|<\)|\S)|
+e)|,t)|
+e)|XQ)|
+f)|\S)|
+f9~0~ 
+file://
+freeaddrinfo
+ftp://
+g'|8a)|
+g)|\S)|
+g)|dg)|
+getaddrinfo
+getnameinfo
+h =(|Q
+h"L(|j
+h$Z/|P
+h%|/h%|8V-|BV-|LV-|[k%|VV-|fV-|pV-|zV-|
+h(|hmN'|W
+h*3|x{)|CDocObjectServerItem
+h,/%|P
+h@))|h
+h@))|j
+hF'|hT)|
+hLY/|P
+hP-)|P
+h`-)|P
+h`<(|S
+hd))|h
+hd,)|V
+hd,)|W
+hd/-|d
+hh*)|P
+hh?(|h>
+http://
+h|X/|P
+h|Z/|P
+i'|Pa)|8a)|
+i)|di)|Li)|
+i*|Oh*|)h*|{h*|
+i<BODY><H1>FORBIDDEN</H1><P>Your client does not have permission to get this URL from the server.</BODY>
+i<BODY><H1>NOT IMPLEMENTED</H1>The server is unable to perform the method <b>%s</b> at this time.</BODY>
+iswdigit
+iswspace
+j)|`j)|Hj)|Li)|
+j)|he0|Je0|Ye0|
+j0|_F/|x$0|
+k&|(9(|
+k)|Hm)|
+k*|mk*|tk*|{k*|Ck*|<k*|Ck*|Xk*|fk*| DateTime
+l!3| j)|
+l%|xk)|LU)|
+l(|aX.|O
+l)|Hm)|
+l)|`m)|Hm)|
+l+3|(})|
+l:(|HR)|
+l<BODY><H1>BAD REQUEST</H1><P>Your client sent a request that this server didn't understand.<br>Request: %s
+lstrcatW
+lstrcmpA
+lstrcmpW
+lstrcmpiA
+lstrcmpiW
+lstrcpyA
+lstrcpyW
+lstrcpynW
+lstrlenA
+lstrlenW
+m'||c)|
+m)|4n)|
+m/|Gn/|ia/|ia/|
+m/|ia/|ia/|ia/|
+mbmabptebkjcdlgtjmskjwtsdhjbmkmwtrak
+mdiclient
+msctls_hotkey32
+msctls_progress32
+msctls_statusbar32
+msctls_trackbar32
+msctls_updown32
+n)|$$3|
+n)|tn)|
+n,|6$(|L
+o)|xo)|`o)|
+oleinplaceborderwidth
+p&|@f)|
+p(|-m(|
+p(|-m(|D
+p)||p)|Lp)|4p)|
+pNoFileMru
+pl'|(c)|
+q)|Li)|
+q)|\q)|
+r/|n_/|
+res://%s/%d
+res://%s/%s
+s)|lh)|Th)|
+s+|\s+|
+software
+swprintf
+t h <(|
+t"9^ u
+t#hp@(|W
+t$Wh3v(|
+t$WhRU(|
+t$WhYu/|
+t$WhvU(|
+t'Wh^N/|
+t'Whfb(|
+t)9^,t
+t)|CHtmlEditDoc
+t)|tt)|\t)|
+t-9>u)
+t09^ t+S
+t3h@<(|
+t5h <(|
+tF9{<t
+tI9^du)jL
+tKNt=Nt/Nt!Nt
+tMhHA(|
+tVh\4%|
+tXHt)H
+text with font and paragraph formatting,Unformatted Text
+text without any formatting
+tf9w taS
+tjf95\[3|u(hL
+tooltips_class32
+txHtSHt_HtMHtJHHt)Ht
+tz)|${)|
+t}HtmHHtSHtBHt*Ht
+u)|$v)|
+u)|du)|
+u-|6$(|Tz%|j0(|
+u6h@<(|
+uA9~ t<9~0u7h
+uISSSjfV
+uK9{(t?
+v WWWWSWh
+v)|`R)|
+v)|lv)|\S)|
+v-|)v-|)v-|)v-|)v-|
+v/|)o/|
+vsprintf
+vswprintf
+w(|XQ)|
+w)|`j)|Hj)|Li)|
+w-|/v-|Xv-|x])|
+wsprintfW
+x(|pf)|
+x)|LU)|
+x)|tx)|\x)|
+xY'||W)|
+y'| l)|
+y)|"*+|
+y)|8z)| z)|
+y)|py)|LU)|
+z)|di)|Li)|
+z)|h*3|
+{%08X-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}
+{%08lX-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}
+{)|L|)|4|)|
+{)|Th)|
+{)|`{)|
+{+|/{+|n{+|
+{CALL 
+|%|}|%|
+|)3|dz)|
+|)|`})|H})|
+|-|i{-|
+|c'|L])|
+|i)|L!3|
+|l)|dl)|Ll)|
+})|lh)|Th)|
+}+|N}+|
+}+|h~+|
+~(+~ PhL
+~)|4T0| T0|

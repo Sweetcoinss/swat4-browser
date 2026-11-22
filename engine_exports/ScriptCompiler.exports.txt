@@ -1,0 +1,82 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\ScriptCompiler.dll
+
+File Type: DLL
+
+  Section contains the following exports for ScriptCompiler.dll
+
+    00000000 characteristics
+    421675B4 time date stamp Fri Feb 18 23:09:40 2005
+        0.00 version
+           1 ordinal base
+          56 number of functions
+          56 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001550 ??0FScriptMake@@QAE@ABV0@@Z
+          2    1 00002720 ??0FScriptMake@@QAE@PAVFFeedbackContext@@@Z
+          3    2 00007850 ??0UClassExporterH@@QAE@ABV0@@Z
+          4    3 000077E0 ??0UClassExporterH@@QAE@XZ
+          5    4 00004C90 ??0UClassFactoryUC@@QAE@ABV0@@Z
+          6    5 00007930 ??0UClassFactoryUC@@QAE@XZ
+          7    6 00010620 ??0UEditInfo@@QAE@ABV0@@Z
+          8    7 000105C0 ??0UEditInfo@@QAE@XZ
+          9    8 00002820 ??1FScriptMake@@QAE@XZ
+         10    9 00007780 ??1UClassExporterH@@UAE@XZ
+         11    A 00004C20 ??1UClassFactoryUC@@UAE@XZ
+         12    B 00010550 ??1UEditInfo@@UAE@XZ
+         13    C 000052C0 ??2UClassExporterH@@SAPAXIPAVUObject@@VFName@@K@Z
+         14    D 00004C10 ??2UClassExporterH@@SAPAXIPAW4EInternal@@@Z
+         15    E 00004BE0 ??2UClassFactoryUC@@SAPAXIPAVUObject@@VFName@@K@Z
+         16    F 00004C10 ??2UClassFactoryUC@@SAPAXIPAW4EInternal@@@Z
+         17   10 0000B410 ??2UEditInfo@@SAPAXIPAVUObject@@VFName@@K@Z
+         18   11 00004C10 ??2UEditInfo@@SAPAXIPAW4EInternal@@@Z
+         19   12 00001590 ??4FScriptMake@@QAEAAV0@ABV0@@Z
+         20   13 00005CA0 ??4UClassExporterH@@QAEAAV0@ABV0@@Z
+         21   14 00004CC0 ??4UClassFactoryUC@@QAEAAV0@ABV0@@Z
+         22   15 0000E9B0 ??4UEditInfo@@QAEAAV0@ABV0@@Z
+         23   16 000239D0 ??_7FScriptMake@@6B@
+         24   17 00026650 ??_7UClassExporterH@@6B@
+         25   18 000250B0 ??_7UClassFactoryUC@@6B@
+         26   19 000294F8 ??_7UEditInfo@@6B@
+         27   1A 00002B50 ?CheckScripts@FScriptMake@@SAHPAVFFeedbackContext@@PAVUClass@@AAVFOutputDevice@@@Z
+         28   1B 00001960 ?CompileScript@FScriptMake@@AAEHPAVUClass@@PAVUPackage@@@Z
+         29   1C 00001FF0 ?CompileScriptArray@FScriptMake@@AAEHAAV?$TArray@PAVUClass@@@@PAVUClass@@PAVUPackage@@@Z
+         30   1D 00005F50 ?ExportText@UClassExporterH@@UAEHPAVUObject@@PBGAAVFOutputDevice@@PAVFFeedbackContext@@@Z
+         31   1E 00007DC0 ?FactoryCreateText@UClassFactoryUC@@UAEPAVUObject@@PAVULevel@@PAVUClass@@PAV2@VFName@@K2PBGAAPBG4PAVFFeedbackContext@@@Z
+         32   1F 00001200 ?GetContext@FScriptMake@@EAE?AVFString@@XZ
+         33   20 00005D00 ?InitChildMap@UClassExporterH@@QAEXXZ
+         34   21 00007920 ?InternalConstructor@UClassExporterH@@SAXPAX@Z
+         35   22 00004C80 ?InternalConstructor@UClassFactoryUC@@SAXPAX@Z
+         36   23 00016210 ?InternalConstructor@UEditInfo@@SAXPAX@Z
+         37   24 00002850 ?MakeScripts@FScriptMake@@QAEHPAVUClass@@HHHPAVUPackage@@@Z
+         38   25 00007BF0 ?ParseInterfaceList@UClassFactoryUC@@AAEXW4eClassType@1@PBGPAV?$TArray@VFName@@@@1@Z
+         39   26 000015C0 ?ParseScript@FScriptMake@@AAEHPAVUClass@@HPAVUPackage@@@Z
+         40   27 00001FA0 ?ParseScriptArray@FScriptMake@@AAEHAAV?$TArray@PAVUClass@@@@PAVUClass@@HPAVUPackage@@@Z
+         41   28 0003B530 ?PrivateStaticClass@UClassExporterH@@0VUClass@@A
+         42   29 0003BAA8 ?PrivateStaticClass@UClassFactoryUC@@0VUClass@@A
+         43   2A 0003C600 ?PrivateStaticClass@UEditInfo@@0VUClass@@A
+         44   2B 00001000 ?PropertiesImportScript@FScriptMake@@AAEHPAVUClass@@PAVUPackage@@@Z
+         45   2C 000024F0 ?PropertiesImportScriptArray@FScriptMake@@AAEHAAV?$TArray@PAVUClass@@@@PAVUClass@@PAVUPackage@@@Z
+         46   2D 000052B0 ?StaticClass@UClassExporterH@@SAPAVUClass@@XZ
+         47   2E 00004BD0 ?StaticClass@UClassFactoryUC@@SAPAVUClass@@XZ
+         48   2F 0000B400 ?StaticClass@UEditInfo@@SAPAVUClass@@XZ
+         49   30 000054F0 ?StaticConstructor@UClassExporterH@@QAEXXZ
+         50   31 000079F0 ?StaticConstructor@UClassFactoryUC@@QAEXXZ
+         52   32 0003B050 GPackage
+         51   33 00004BB0 _DllMain@12
+         53   34 0003BAA4 autoclassUClassExporterH
+         54   35 0003C01C autoclassUClassFactoryUC
+         55   36 0003CB74 autoclassUEditInfo
+         56   37 0003C594 autoclassUMakeCommandlet
+
+  Summary
+
+        2000 .data
+       18000 .rdata
+        5000 .reloc
+       22000 .text

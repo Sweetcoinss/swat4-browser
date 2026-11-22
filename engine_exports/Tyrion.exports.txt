@@ -1,0 +1,235 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\Tyrion.dll
+
+File Type: DLL
+
+  Section contains the following exports for Tyrion.dll
+
+    00000000 characteristics
+    421677B0 time date stamp Fri Feb 18 23:18:08 2005
+        0.00 version
+           1 ordinal base
+         209 number of functions
+         209 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001B20 ??0AAI_Controller@@QAE@ABV0@@Z
+          2    1 000012D0 ??0AAI_Controller@@QAE@XZ
+          3    2 00001760 ??0UAI_Action@@IAE@XZ
+          4    3 00002EB0 ??0UAI_Action@@QAE@ABV0@@Z
+          5    4 00001860 ??0UAI_CharacterAction@@IAE@XZ
+          6    5 00002F40 ??0UAI_CharacterAction@@QAE@ABV0@@Z
+          7    6 00002660 ??0UAI_CharacterGoal@@IAE@XZ
+          8    7 000026C0 ??0UAI_CharacterGoal@@QAE@ABV0@@Z
+          9    8 00002360 ??0UAI_Goal@@QAE@ABV0@@Z
+         10    9 00002310 ??0UAI_Goal@@QAE@XZ
+         11    A 00001950 ??0UAI_MovementAction@@IAE@XZ
+         12    B 00002F80 ??0UAI_MovementAction@@QAE@ABV0@@Z
+         13    C 000030F0 ??0UAI_Resource@@QAE@ABV0@@Z
+         14    D 00003060 ??0UAI_Resource@@QAE@XZ
+         15    E 00002060 ??0UAI_RunnableAction@@QAE@ABV0@@Z
+         16    F 000015C0 ??0UAI_RunnableAction@@QAE@XZ
+         17   10 00002DC0 ??0UAI_Sensor@@QAE@ABV0@@Z
+         18   11 00002D70 ??0UAI_Sensor@@QAE@XZ
+         19   12 00001C40 ??0UAI_SensorData@@IAE@XZ
+         20   13 00001C60 ??0UAI_SensorData@@QAE@ABV0@@Z
+         21   14 00001DD0 ??0UAI_SensorWithBounds@@IAE@XZ
+         22   15 00001DF0 ??0UAI_SensorWithBounds@@QAE@ABV0@@Z
+         23   16 00003260 ??0UAI_SquadResource@@IAE@XZ
+         24   17 00003280 ??0UAI_SquadResource@@QAE@ABV0@@Z
+         25   18 00001A40 ??0UAI_WeaponAction@@IAE@XZ
+         26   19 00002FA0 ??0UAI_WeaponAction@@QAE@ABV0@@Z
+         27   1A 000013D0 ??0UActionBase@@IAE@XZ
+         28   1B 00001F50 ??0UActionBase@@QAE@ABV0@@Z
+         29   1C 00001270 ??1AAI_Controller@@UAE@XZ
+         30   1D 00001700 ??1UAI_Action@@UAE@XZ
+         31   1E 00001810 ??1UAI_CharacterAction@@UAE@XZ
+         32   1F 00002610 ??1UAI_CharacterGoal@@UAE@XZ
+         33   20 000022B0 ??1UAI_Goal@@UAE@XZ
+         34   21 00001900 ??1UAI_MovementAction@@UAE@XZ
+         35   22 00002FC0 ??1UAI_Resource@@UAE@XZ
+         36   23 00001570 ??1UAI_RunnableAction@@UAE@XZ
+         37   24 00002D10 ??1UAI_Sensor@@UAE@XZ
+         38   25 00001BE0 ??1UAI_SensorData@@UAE@XZ
+         39   26 00001D70 ??1UAI_SensorWithBounds@@UAE@XZ
+         40   27 00003210 ??1UAI_SquadResource@@UAE@XZ
+         41   28 000019F0 ??1UAI_WeaponAction@@UAE@XZ
+         42   29 00001370 ??1UActionBase@@UAE@XZ
+         43   2A 00001AF0 ??2AAI_Controller@@SAPAXIPAVUObject@@VFName@@K@Z
+         44   2B 00001260 ??2AAI_Controller@@SAPAXIPAW4EInternal@@@Z
+         45   2C 00002170 ??2UAI_Action@@SAPAXIPAVUObject@@VFName@@K@Z
+         46   2D 00001260 ??2UAI_Action@@SAPAXIPAW4EInternal@@@Z
+         47   2E 000021A0 ??2UAI_CharacterAction@@SAPAXIPAVUObject@@VFName@@K@Z
+         48   2F 00001260 ??2UAI_CharacterAction@@SAPAXIPAW4EInternal@@@Z
+         49   30 000025E0 ??2UAI_CharacterGoal@@SAPAXIPAVUObject@@VFName@@K@Z
+         50   31 00001260 ??2UAI_CharacterGoal@@SAPAXIPAW4EInternal@@@Z
+         51   32 00002280 ??2UAI_Goal@@SAPAXIPAVUObject@@VFName@@K@Z
+         52   33 00001260 ??2UAI_Goal@@SAPAXIPAW4EInternal@@@Z
+         53   34 000021D0 ??2UAI_MovementAction@@SAPAXIPAVUObject@@VFName@@K@Z
+         54   35 00001260 ??2UAI_MovementAction@@SAPAXIPAW4EInternal@@@Z
+         55   36 000028E0 ??2UAI_Resource@@SAPAXIPAVUObject@@VFName@@K@Z
+         56   37 00001260 ??2UAI_Resource@@SAPAXIPAW4EInternal@@@Z
+         57   38 00002030 ??2UAI_RunnableAction@@SAPAXIPAVUObject@@VFName@@K@Z
+         58   39 00001260 ??2UAI_RunnableAction@@SAPAXIPAW4EInternal@@@Z
+         59   3A 00001B70 ??2UAI_Sensor@@SAPAXIPAVUObject@@VFName@@K@Z
+         60   3B 00001260 ??2UAI_Sensor@@SAPAXIPAW4EInternal@@@Z
+         61   3C 00001BB0 ??2UAI_SensorData@@SAPAXIPAVUObject@@VFName@@K@Z
+         62   3D 00001260 ??2UAI_SensorData@@SAPAXIPAW4EInternal@@@Z
+         63   3E 00001D40 ??2UAI_SensorWithBounds@@SAPAXIPAVUObject@@VFName@@K@Z
+         64   3F 00001260 ??2UAI_SensorWithBounds@@SAPAXIPAW4EInternal@@@Z
+         65   40 00002960 ??2UAI_SquadResource@@SAPAXIPAVUObject@@VFName@@K@Z
+         66   41 00001260 ??2UAI_SquadResource@@SAPAXIPAW4EInternal@@@Z
+         67   42 00002200 ??2UAI_WeaponAction@@SAPAXIPAVUObject@@VFName@@K@Z
+         68   43 00001260 ??2UAI_WeaponAction@@SAPAXIPAW4EInternal@@@Z
+         69   44 00001F20 ??2UActionBase@@SAPAXIPAVUObject@@VFName@@K@Z
+         70   45 00001260 ??2UActionBase@@SAPAXIPAW4EInternal@@@Z
+         71   46 00001B40 ??4AAI_Controller@@QAEAAV0@ABV0@@Z
+         72   47 00002C20 ??4UAI_Action@@QAEAAV0@ABV0@@Z
+         73   48 00002BB0 ??4UAI_CharacterAction@@QAEAAV0@ABV0@@Z
+         74   49 000026E0 ??4UAI_CharacterGoal@@QAEAAV0@ABV0@@Z
+         75   4A 00002480 ??4UAI_Goal@@QAEAAV0@ABV0@@Z
+         76   4B 00002C20 ??4UAI_MovementAction@@QAEAAV0@ABV0@@Z
+         77   4C 00002C70 ??4UAI_Resource@@QAEAAV0@ABV0@@Z
+         78   4D 00002090 ??4UAI_RunnableAction@@QAEAAV0@ABV0@@Z
+         79   4E 00002B60 ??4UAI_Sensor@@QAEAAV0@ABV0@@Z
+         80   4F 00001CA0 ??4UAI_SensorData@@QAEAAV0@ABV0@@Z
+         81   50 00001E20 ??4UAI_SensorWithBounds@@QAEAAV0@ABV0@@Z
+         82   51 00002CE0 ??4UAI_SquadResource@@QAEAAV0@ABV0@@Z
+         83   52 00002C20 ??4UAI_WeaponAction@@QAEAAV0@ABV0@@Z
+         84   53 00001FC0 ??4UActionBase@@QAEAAV0@ABV0@@Z
+         85   54 000074C8 ??_7AAI_Controller@@6B@
+         86   55 000078B8 ??_7UAI_Action@@6B@
+         87   56 00007930 ??_7UAI_CharacterAction@@6B@
+         88   57 00007C78 ??_7UAI_CharacterGoal@@6B@
+         89   58 00007C00 ??_7UAI_Goal@@6B@
+         90   59 000079D0 ??_7UAI_MovementAction@@6B@
+         91   5A 00007D68 ??_7UAI_Resource@@6B@
+         92   5B 000077D0 ??_7UAI_RunnableAction@@6B@
+         93   5C 00007CF0 ??_7UAI_Sensor@@6B@
+         94   5D 00007B10 ??_7UAI_SensorData@@6B@
+         95   5E 00007B88 ??_7UAI_SensorWithBounds@@6B@
+         96   5F 00007DE8 ??_7UAI_SquadResource@@6B@
+         97   60 00007A70 ??_7UAI_WeaponAction@@6B@
+         98   61 000076E8 ??_7UActionBase@@6B@
+         99   62 00001100 ?CanHearSound@AAI_Controller@@UAEHPAVAActor@@PAVUSound@@VFVector@@MMHHMVFName@@@Z
+        100   63 00003990 ?CleanupDestroyed@UAI_Resource@@UAEXXZ
+        101   64 00005480 ?CleanupDestroyed@UAI_Sensor@@UAEXXZ
+        102   65 000034A0 ?Destroy@UAI_Goal@@UAEXXZ
+        103   66 000014B0 ?InternalConstructor@AAI_Controller@@SAXPAX@Z
+        104   67 00003330 ?InternalConstructor@UAI_Action@@SAXPAX@Z
+        105   68 000018E0 ?InternalConstructor@UAI_CharacterAction@@SAXPAX@Z
+        106   69 000029D0 ?InternalConstructor@UAI_CharacterGoal@@SAXPAX@Z
+        107   6A 000029C0 ?InternalConstructor@UAI_Goal@@SAXPAX@Z
+        108   6B 000019D0 ?InternalConstructor@UAI_MovementAction@@SAXPAX@Z
+        109   6C 00003340 ?InternalConstructor@UAI_Resource@@SAXPAX@Z
+        110   6D 000029B0 ?InternalConstructor@UAI_RunnableAction@@SAXPAX@Z
+        111   6E 00003320 ?InternalConstructor@UAI_Sensor@@SAXPAX@Z
+        112   6F 00002990 ?InternalConstructor@UAI_SensorData@@SAXPAX@Z
+        113   70 000029A0 ?InternalConstructor@UAI_SensorWithBounds@@SAXPAX@Z
+        114   71 00003350 ?InternalConstructor@UAI_SquadResource@@SAXPAX@Z
+        115   72 00001AC0 ?InternalConstructor@UAI_WeaponAction@@SAXPAX@Z
+        116   73 000014C0 ?InternalConstructor@UActionBase@@SAXPAX@Z
+        117   74 000014D0 ?OnHearSound@AAI_Controller@@UAEHPAVAActor@@PAVUSound@@VFVector@@2MHMHVFName@@@Z
+        118   75 0000F138 ?PrivateStaticClass@AAI_Controller@@0VUClass@@A
+        119   76 00011288 ?PrivateStaticClass@UAI_Action@@0VUClass@@A
+        120   77 0000FC28 ?PrivateStaticClass@UAI_CharacterAction@@0VUClass@@A
+        121   78 00011D78 ?PrivateStaticClass@UAI_CharacterGoal@@0VUClass@@A
+        122   79 00011800 ?PrivateStaticClass@UAI_Goal@@0VUClass@@A
+        123   7A 000101A0 ?PrivateStaticClass@UAI_MovementAction@@0VUClass@@A
+        124   7B 000122F0 ?PrivateStaticClass@UAI_Resource@@0VUClass@@A
+        125   7C 00012DE0 ?PrivateStaticClass@UAI_RunnableAction@@0VUClass@@A
+        126   7D 00013358 ?PrivateStaticClass@UAI_Sensor@@0VUClass@@A
+        127   7E 000138D0 ?PrivateStaticClass@UAI_SensorData@@0VUClass@@A
+        128   7F 00010C98 ?PrivateStaticClass@UAI_SensorWithBounds@@0VUClass@@A
+        129   80 00012868 ?PrivateStaticClass@UAI_SquadResource@@0VUClass@@A
+        130   81 00010718 ?PrivateStaticClass@UAI_WeaponAction@@0VUClass@@A
+        131   82 0000F6B0 ?PrivateStaticClass@UActionBase@@0VUClass@@A
+        132   83 000050C0 ?ProcessGoals@UAI_Resource@@QAEXM@Z
+        133   84 00001000 ?ProcessState@AAI_Controller@@UAEXM@Z
+        134   85 00003FF0 ?ProcessState@UAI_Resource@@UAEXM@Z
+        135   86 00005390 ?ProcessState@UAI_RunnableAction@@UAEXM@Z
+        136   87 00001250 ?StaticClass@AAI_Controller@@SAPAVUClass@@XZ
+        137   88 00001640 ?StaticClass@UAI_Action@@SAPAVUClass@@XZ
+        138   89 00001650 ?StaticClass@UAI_CharacterAction@@SAPAVUClass@@XZ
+        139   8A 000025D0 ?StaticClass@UAI_CharacterGoal@@SAPAVUClass@@XZ
+        140   8B 00002270 ?StaticClass@UAI_Goal@@SAPAVUClass@@XZ
+        141   8C 000018F0 ?StaticClass@UAI_MovementAction@@SAPAVUClass@@XZ
+        142   8D 000028D0 ?StaticClass@UAI_Resource@@SAPAVUClass@@XZ
+        143   8E 00002020 ?StaticClass@UAI_RunnableAction@@SAPAVUClass@@XZ
+        144   8F 00001B60 ?StaticClass@UAI_Sensor@@SAPAVUClass@@XZ
+        145   90 00001BA0 ?StaticClass@UAI_SensorData@@SAPAVUClass@@XZ
+        146   91 00001D30 ?StaticClass@UAI_SensorWithBounds@@SAPAVUClass@@XZ
+        147   92 00002950 ?StaticClass@UAI_SquadResource@@SAPAVUClass@@XZ
+        148   93 000019E0 ?StaticClass@UAI_WeaponAction@@SAPAVUClass@@XZ
+        149   94 00001360 ?StaticClass@UActionBase@@SAPAVUClass@@XZ
+        150   95 00011214 ?TYRION_OnHearSound@@3VFName@@A
+        151   96 00011218 ?TYRION_Pawn@@3VFName@@A
+        152   97 0001121C ?TYRION_ShallowCopyAction@@3VFName@@A
+        153   98 00011220 ?TYRION_doesParentHaveResource@@3VFName@@A
+        154   99 00011224 ?TYRION_hasActiveMembers@@3VFName@@A
+        155   9A 00011228 ?TYRION_initAction@@3VFName@@A
+        156   9B 0001122C ?TYRION_instantFail@@3VFName@@A
+        157   9C 00011230 ?TYRION_instantSucceed@@3VFName@@A
+        158   9D 00011234 ?TYRION_multipleActionsCheck@@3VFName@@A
+        159   9E 00011238 ?TYRION_priorityFn@@3VFName@@A
+        160   9F 0001123C ?TYRION_resourceCheck@@3VFName@@A
+        161   A0 00011240 ?TYRION_runAction@@3VFName@@A
+        162   A1 00011244 ?TYRION_selectionHeuristic@@3VFName@@A
+        163   A2 00001080 ?Tick@AAI_Controller@@UAEHMW4ELevelTick@@@Z
+        164   A3 000052F0 ?Tick@UAI_Resource@@UAEXM@Z
+        165   A4 00004890 ?chooseAction@UAI_Resource@@QAEPAVUAI_Action@@PAVUAI_Goal@@@Z
+        166   A5 00003DB0 ?deleteRemovedActions@UAI_Resource@@AAEXXZ
+        167   A6 00001450 ?eventOnHearSound@AAI_Controller@@QAEXPAVAActor@@VFVector@@VFName@@@Z
+        168   A7 00002760 ?eventPawn@UAI_Resource@@QAEPAVAPawn@@XZ
+        169   A8 00002880 ?eventShallowCopyAction@UAI_Resource@@QAEPAVUAI_Action@@PAV2@@Z
+        170   A9 000027A0 ?eventdoesParentHaveResource@UAI_Resource@@QAEKPAVUAI_Action@@@Z
+        171   AA 00002910 ?eventhasActiveMembers@UAI_SquadResource@@QAEKXZ
+        172   AB 00002100 ?eventinitAction@UAI_Action@@QAEXPAVUAI_Resource@@PAVUAI_Goal@@@Z
+        173   AC 00001EB0 ?eventinstantFail@UActionBase@@QAEXEK@Z
+        174   AD 00002140 ?eventinstantSucceed@UAI_Action@@QAEXXZ
+        175   AE 000027F0 ?eventmultipleActionsCheck@UAI_Resource@@QAEKPAVUAI_Action@@@Z
+        176   AF 00002230 ?eventpriorityFn@UAI_Goal@@QAEHXZ
+        177   B0 00002840 ?eventresourceCheck@UAI_Resource@@QAEXPAVUAI_Goal@@PAVUAI_Action@@@Z
+        178   B1 00001EF0 ?eventrunAction@UActionBase@@QAEXXZ
+        179   B2 000020B0 ?eventselectionHeuristic@UAI_Action@@QAEMPAVUAI_Goal@@@Z
+        180   B3 00004EB0 ?execchooseAction@UAI_Resource@@QAEXAAUFFrame@@QAX@Z
+        181   B4 00003660 ?execcopyParametersFrom@UAI_Goal@@QAEXAAUFFrame@@QAX@Z
+        182   B5 00003E60 ?execdeleteRemovedActions@UAI_Resource@@QAEXAAUFFrame@@QAX@Z
+        183   B6 00004790 ?execfindGoalByName@UAI_Resource@@QAEXAAUFFrame@@QAX@Z
+        184   B7 000044D0 ?execsetActionParametersInternal@UAI_Resource@@QAEXAAUFFrame@@QAX@Z
+        185   B8 00004190 ?findGoalByName@UAI_Resource@@QAEPAVUAI_Goal@@VFString@@@Z
+        186   B9 000038E0 ?getTyrionParentClass@UAI_Resource@@QAEPAVUClass@@PAV2@@Z
+        187   BA 00003C00 ?logGoalAchievementStatus@UAI_Resource@@AAEXPAVUAI_Goal@@PBVUAI_Action@@@Z
+        188   BB 00004290 ?setActionParametersInternal@UAI_Resource@@AAEHPAVUObject@@0@Z
+        190   BC 0000F100 GPackage
+        189   BD 00003360 _DllMain@12
+        191   BE 0000F6AC autoclassAAI_Controller
+        192   BF 000117FC autoclassUAI_Action
+        193   C0 0001019C autoclassUAI_CharacterAction
+        194   C1 000122EC autoclassUAI_CharacterGoal
+        195   C2 00011D74 autoclassUAI_Goal
+        196   C3 00010714 autoclassUAI_MovementAction
+        197   C4 00012864 autoclassUAI_Resource
+        198   C5 00013354 autoclassUAI_RunnableAction
+        199   C6 000138CC autoclassUAI_Sensor
+        200   C7 00013E44 autoclassUAI_SensorData
+        201   C8 0001120C autoclassUAI_SensorWithBounds
+        202   C9 00012DDC autoclassUAI_SquadResource
+        203   CA 00010C8C autoclassUAI_WeaponAction
+        204   CB 0000FC24 autoclassUActionBase
+        205   CC 00011248 intUAI_GoalexeccopyParametersFrom
+        206   CD 0001126C intUAI_ResourceexecchooseAction
+        207   CE 00011278 intUAI_ResourceexecdeleteRemovedActions
+        208   CF 00011260 intUAI_ResourceexecfindGoalByName
+        209   D0 00011254 intUAI_ResourceexecsetActionParametersInternal
+
+  Summary
+
+        5000 .data
+        8000 .rdata
+        2000 .reloc
+        6000 .text

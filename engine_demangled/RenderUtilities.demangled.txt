@@ -1,0 +1,1 @@
+long nv::nvDXTcompress(unsigned char *,unsigned long,unsigned long,unsigned long,struct CompressionOptions *,unsigned long,long (*)(void *,int,unsigned long))

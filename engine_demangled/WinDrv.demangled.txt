@@ -1,0 +1,85 @@
+UWindowsClient::UWindowsClient(class UWindowsClient const &)
+UWindowsClient::UWindowsClient(void)
+UWindowsViewport::UWindowsViewport(class UWindowsViewport const &)
+UWindowsViewport::UWindowsViewport(void)
+WWindowsViewportWindow::WWindowsViewportWindow(class WWindowsViewportWindow const &)
+WWindowsViewportWindow::WWindowsViewportWindow(class UWindowsViewport *)
+WWindowsViewportWindow::WWindowsViewportWindow(void)
+virtual UWindowsClient::~UWindowsClient(void)
+virtual UWindowsViewport::~UWindowsViewport(void)
+virtual WWindowsViewportWindow::~WWindowsViewportWindow(void)
+static void * UWindowsClient::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UWindowsClient::operator new(unsigned int,enum EInternal *)
+static void * UWindowsViewport::operator new(unsigned int,class UObject *,class FName,unsigned long)
+static void * UWindowsViewport::operator new(unsigned int,enum EInternal *)
+class UWindowsClient & UWindowsClient::operator=(class UWindowsClient const &)
+class UWindowsViewport & UWindowsViewport::operator=(class UWindowsViewport const &)
+class WWindowsViewportWindow & WWindowsViewportWindow::operator=(class WWindowsViewportWindow const &)
+const UWindowsClient::`vftable'{for `FNotifyHook'}
+const UWindowsClient::`vftable'{for `UClient'}
+const UWindowsViewport::`vftable'{for `FExec'}
+const UWindowsViewport::`vftable'{for `FOutputDevice'}
+const UWindowsViewport::`vftable'{for `UObject'}
+const WWindowsViewportWindow::`vftable'
+int UWindowsViewport::CauseInputEvent(int,enum EInputAction,float)
+virtual void UWindowsViewport::CloseWindow(void)
+virtual void UWindowsClient::Destroy(void)
+virtual void UWindowsViewport::Destroy(void)
+static struct IDirectInput8W * UWindowsViewport::DirectInput8
+void DirectInputError(class FString,long,int)
+virtual void UWindowsClient::EnableViewportWindows(unsigned long,int)
+void UWindowsViewport::EndFullscreen(void)
+static int UWindowsViewport::EnumAxesCallback(struct DIDEVICEOBJECTINSTANCEW const *,void *)
+static int UWindowsViewport::EnumJoysticksCallback(struct DIDEVICEINSTANCEW const *,void *)
+virtual int UWindowsClient::Exec(unsigned short const *,class FOutputDevice &)
+virtual int UWindowsViewport::Exec(unsigned short const *,class FOutputDevice &)
+virtual void UWindowsViewport::FlushInput(void)
+virtual class UViewport * UWindowsClient::GetLastCurrent(void)
+virtual unsigned short * UWindowsViewport::GetLocalizedKeyName(enum EInputKey)
+class UWindowsClient * UWindowsViewport::GetOuterUWindowsClient(void)
+virtual unsigned short const * WWindowsViewportWindow::GetPackageName(void)
+unsigned long UWindowsViewport::GetViewportButtonFlags(unsigned long)
+virtual void * UWindowsViewport::GetWindow(void)
+virtual void WWindowsViewportWindow::GetWindowClassName(unsigned short *)
+void UWindowsViewport::HandleDIMouseInputEvent(unsigned long,unsigned long)
+long UWindowsViewport::HandleWin32InputMessage(unsigned int,unsigned int,long)
+virtual void UWindowsClient::Init(class UEngine *)
+static void UWindowsClient::InternalConstructor(void *)
+static void UWindowsViewport::InternalConstructor(void *)
+virtual int UWindowsViewport::IsFullscreen(void)
+virtual int UWindowsViewport::IsWindowCurrentFocus(void)
+static struct IDirectInputDevice8W * UWindowsViewport::Joystick
+static struct DIDEVCAPS UWindowsViewport::JoystickCaps
+virtual int UWindowsViewport::Lock(unsigned char *,int *)
+virtual void UWindowsClient::MakeCurrent(class UViewport *)
+static struct IDirectInputDevice8W * UWindowsViewport::Mouse
+virtual class UViewport * UWindowsClient::NewViewport(class FName)
+virtual void UWindowsClient::NotifyDestroy(void *)
+virtual void UWindowsViewport::OpenWindow(unsigned long,int,int,int,int,int)
+virtual void UWindowsClient::PostEditChange(void)
+static class UClass UWindowsClient::PrivateStaticClass
+static class UClass UWindowsViewport::PrivateStaticClass
+virtual void UWindowsViewport::Repaint(int)
+virtual int UWindowsViewport::ResizeViewport(unsigned long,int,int,int)
+virtual void UWindowsViewport::SetModeCursor(void)
+virtual void UWindowsViewport::SetMouseCapture(int,int,int)
+void UWindowsViewport::SetTopness(void)
+int UWindowsViewport::ShouldPauseWhenLostFocus(void)
+virtual void UWindowsClient::ShowViewportWindows(unsigned long,int)
+virtual void UWindowsClient::ShutdownAfterError(void)
+virtual void UWindowsViewport::ShutdownAfterError(void)
+static class UClass * UWindowsClient::StaticClass(void)
+static class UClass * UWindowsViewport::StaticClass(void)
+void UWindowsClient::StaticConstructor(void)
+virtual void UWindowsClient::Tick(void)
+void UWindowsViewport::ToggleFullscreen(void)
+virtual void UWindowsViewport::TryRenderDevice(unsigned short const *,int,int,int)
+virtual void UWindowsViewport::Unlock(void)
+virtual void UWindowsViewport::UpdateInput(int,float)
+virtual void UWindowsViewport::UpdateWindowFrame(void)
+long UWindowsViewport::ViewportWndProc(unsigned int,unsigned int,long)
+virtual long WWindowsViewportWindow::WndProc(unsigned int,unsigned int,long)
+GPackage
+_DllMain@12
+autoclassUWindowsClient
+autoclassUWindowsViewport

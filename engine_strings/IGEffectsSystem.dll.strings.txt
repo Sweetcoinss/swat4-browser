@@ -1,0 +1,112 @@
+# Strings extracted from IGEffectsSystem.dll (69632 bytes)
+# Total strings: 482, filtered: 109
+
+  System was not passed a Target when the %s EffectEvent was triggered.
+  The EventResponse named %s in the %s specifies a TargetClassName (%s) but the Effects
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNPOQRSTUVWXYZ[\]^_
+!This program cannot be run in DOS mode.
+%s      PLAYING: Spec='%s' Source='%s' Target='%s' Material='%s' OverrideLocation=(%g %g %g) OverrideRotation=(%d %d %d) Observer= 0x%X = '%s'
+%s      STOPPING: Spec='%s' Source='%s'
+%s    -> Qualified!
+%s  InvalidSourceClass %s
+%s  TemporaryContexts override
+%s  Testing %s
+%s created.
+%sClass: %s PossibleResponses: %d
+.\IGEffectsSystem.cpp
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0(040:0A0H0v0
+0(060;0W0`0e0
+1 181D1\1h1
+1"1&141:1G1b1p1u1
+2(242L2X2p2|2
+2:2K2P2V2
+3!4)404@4U4i4t4
+3"3(3.343:3@3F3L3R3X3^3d3j3p3v3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4(595>5D5
+5 5&5,52585>5D5J5P5V5\5b5h5n5t5z5
+5 5(50585@5H5h5p5x5
+6"6(6.646:6@6F6L6R6b6i6
+7$7,747<7D7L7T7\7d7l7t7
+7$8/868=8D8Q8V8\8
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8$8,848<8D8L8T8\8d8l8t8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9):S:x:}:
+9A:e:k:
+: :$:(:,:0:4:8:
+:#;V;z;
+:$:/:Q:t:
+:F:U:^:g:l:
+; ;,;0;<;@;L;P;
+;/;R;u;
+=$=,=<=P=\=d=
+?"?,?:?M?V?i?
+?(?P?U?[?p?
+AEffectsSubsystem
+AEffectsSubsystem::HasContext
+AEffectsSubsystem::Init
+AEffectsSubsystem::execAddEffectSpecification
+AEffectsSubsystem::execAddEventResponse
+AEffectsSubsystem::execEffectEventTriggered
+AEffectsSubsystem::execEffectEventTriggered() Configuration File Error:
+AEffectsSubsystem::execFindEffectSpecification
+AEffectsSubsystem::execInit
+AEffectsSubsystem::execPackageEffectSpecification
+AEffectsSubsystem::execPackageEventResponse
+ConfigPackageBeingBuilt
+D$ ;D$H
+ERROR: NULL Source passed to TriggerEffectEvent for Event=%s to Subsystem=%s
+EffectsSystem Configuration: %s is out of date or missing.  Building it from %s.
+EffectsSystem Configuration: %s is up-to-date.
+Event=%s Source=%s Target=%s TargetMaterial=%s
+FlushQueuedEvents
+GPackage
+GetSpecification
+H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+HashMapHash
+IGEffectsSystem
+Missing EffectsSystem configuration file: %s
+NewSubsystem != NULL
+OnEffectSpawned
+PlayEffectSpecification
+StopEffectSpecification
+SubsystemClass != NULL
+Testing Contexts
+TriggerEffectEvent: Event=%s Source=%s Subsystem=%s
+UAnimNotify_EffectEvent
+UAnimNotify_EffectEvent::execNotify
+UEffectSpecification
+UEffectsSystem
+UEventResponse
+WARNING!! [tcohen] The EffectsSystem failed to Preload the Class %s
+WARNING: AEffectsSubsystem::execAddEventResponse() Found that the EventResponse named %s is duplicated in the %s.
+Warning: Unexpected PassAsTag value for %s on %s.
+[EFFECTS SYSTEM] The %s is packaging its effects configuration.
+[EFFECTS SYSTEM] The %s's configuration package is up-to-date.
+_CxxThrowException
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+autoclassAEffectsSubsystem
+autoclassUAnimNotify_EffectEvent
+autoclassUEffectSpecification
+autoclassUEffectsSystem
+autoclassUEventResponse
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnTemplate.h
+intAEffectsSubsystemexecAddEffectSpecification
+intAEffectsSubsystemexecAddEventResponse
+intAEffectsSubsystemexecBeginLoadingSubsystemConfig
+intAEffectsSubsystemexecEffectEventTriggered
+intAEffectsSubsystemexecEndLoadingSubsystemConfig
+intAEffectsSubsystemexecFindEffectSpecification
+intAEffectsSubsystemexecPackageEffectSpecification
+intAEffectsSubsystemexecPackageEventResponse
+intUAnimNotify_EffectEventexecNotify
+intUEffectsSystemexecInit
+t%s [%s]
+this=%s owner_param=%s

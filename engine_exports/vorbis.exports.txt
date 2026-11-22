@@ -1,0 +1,61 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\vorbis.dll
+
+File Type: DLL
+
+  Section contains the following exports for vorbis.dll
+
+    00000000 characteristics
+    3EF1385D time date stamp Thu Jun 19 04:13:17 2003
+        0.00 version
+           1 ordinal base
+          35 number of functions
+          35 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0001D0F4 _floor_P
+          2    1 0001D108 _mapping_P
+          3    2 0001D0FC _residue_P
+          4    3 0001D0F0 _time_P
+          5    4 0000D0C0 _vi_psy_copy
+          6    5 00010E70 residue_free_info
+          7    6 00001000 vorbis_analysis
+          8    7 00003190 vorbis_analysis_blockout
+          9    8 00002E60 vorbis_analysis_buffer
+         10    9 000092B0 vorbis_analysis_headerout
+         11    A 00002C50 vorbis_analysis_init
+         12    B 00003040 vorbis_analysis_wrote
+         13    C 00001700 vorbis_bitrate_addblock
+         14    D 00002720 vorbis_bitrate_flushpacket
+         15    E 00002910 vorbis_block_clear
+         16    F 000027D0 vorbis_block_init
+         17   10 000082B0 vorbis_comment_add
+         18   11 00008350 vorbis_comment_add_tag
+         19   12 000085A0 vorbis_comment_clear
+         20   13 00008290 vorbis_comment_init
+         21   14 00008450 vorbis_comment_query
+         22   15 00008510 vorbis_comment_query_count
+         23   16 00009220 vorbis_commentheader_out
+         24   17 00002CA0 vorbis_dsp_clear
+         25   18 00008610 vorbis_info_blocksize
+         26   19 00008670 vorbis_info_clear
+         27   1A 00008630 vorbis_info_init
+         28   1B 00019740 vorbis_packet_blocksize
+         29   1C 00019510 vorbis_synthesis
+         30   1D 000034C0 vorbis_synthesis_blockin
+         31   1E 00008CB0 vorbis_synthesis_headerin
+         32   1F 00003490 vorbis_synthesis_init
+         33   20 00003AE0 vorbis_synthesis_pcmout
+         34   21 00003B40 vorbis_synthesis_read
+         35   22 00019670 vorbis_synthesis_trackonly
+
+  Summary
+
+        3000 .data
+        1000 .rdata
+        1000 .reloc
+       19000 .text

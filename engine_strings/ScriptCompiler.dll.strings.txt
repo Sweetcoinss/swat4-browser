@@ -1,0 +1,878 @@
+# Strings extracted from ScriptCompiler.dll (266240 bytes)
+# Total strings: 1865, filtered: 875
+
+        %s(FindFunctionChecked(%s_%s),&Parms);
+        %s_%s_Parms Parms;
+        %s_event%s_Parms Parms;
+   #include
+   %s=Parms.%s;
+   DECLARE_CLASS(%s,
+   DECLARE_FUNCTION(exec%s);
+   Dependancy unparsed: %s
+   MakeAll: %s
+   NO_DEFAULT_CONSTRUCTOR(%s)
+   Parms.%s=%s;
+   Parms.%s=0;
+   ProcessDelegate(%s_%s,&__%s__Delegate,&Parms);
+   ProcessDelegate(%s_%s,&__%s__Delegate,NULL);
+   ProcessEvent(FindFunctionChecked(%s_%s),NULL);
+   Uncompiled due to dependency on %s: %s
+   Uncompiled: %s
+   appMemcpy(&%s,&Parms.%s,sizeof(%s));
+   appMemcpy(&Parms.%s,&%s,sizeof(Parms.%s));
+   return Parms.%s;
+  C++ class
+  DO NOT modify
+  This is automatically
+  if(IsProbing(NAME_%s)) {
+ !"#$%&'()*+,-./01324567
+ %-24s=%i,
+ (was expecting %s)
+ : public
+!(Class->ClassFlags & CLASS_Compiled)
+!(Class->ClassFlags & CLASS_NeedsDefProps)
+!This program cannot be run in DOS mode.
+"0'0V0\0
+"struct %s_event%s_Parms"
+#Error directive encountered
+#define %s: Missing value
+#define %s_API DLL_IMPORT
+#define AUTOGENERATE_FUNCTION(cls,idx,name)
+#define AUTOGENERATE_NAME(name) extern %s_API
+#define UCONST_%s %s
+#endif // VERIFY_CLASS_SIZES
+#if SUPPORTS_PRAGMA_PACK
+#ifdef VERIFY_CLASS_SIZES
+#ifndef %s_API
+#ifndef NAMES_ONLY
+#pragma pack
+#pragma pack (push,%i)
+#undef AUTOGENERATE_FUNCTION
+#undef AUTOGENERATE_NAME
+%s '%s': Bad or missing array size
+%s '%s': Illegal array size %i
+%s '%s': Missing ']'
+%s - %s
+%s [%s]
+%s cannot have a return type
+%s is an array; expecting ']'
+%s is declared in "%s"
+%s is not allowed before the Class definition
+%s is not allowed here
+%s must be within %s, not %s
+%s must have %i parameters
+%s's superclass must be %s, not %s
+%s(%i)
+%s(1) : defaultproperties
+%s: '%s' already defined
+%s: Can't override a 'final' function
+%s: Delegate assignment failed: %s
+%s: Encountered illegal token '%s'
+%s: Forward declared class '%s': is never implemented
+%s: Missing '"' in string default properties : %s
+%s: Missing ')' in default properties subscript: %s
+%s: Missing '=' in default properties assignment: %s
+%s: Missing ']'
+%s: Missing '{' after cpptext.
+%s: Missing class name
+%s: Missing constant integer
+%s: Missing return value
+%s: Missing string size
+%s: Missing variable type
+%s: Out of bound array default property (%i/%i)
+%s: Undeclared class '%s'
+%s: Unexpected '%s'; cannot have two identifiers in a row.
+%s: Unexpected ')'; doesn't match previous '('
+%s: Unexpected symbol '%s', expected ||, &&, !, (, and ) allowed
+%s: Unknown property in defaults: %s
+%s: Variable is too large (%i bytes, 255 max)
+%s: expecting %s, got %s
+%s_API FArchive& operator<<(FArchive& Ar,%s& My%s)
+%senum %s
+%senum %s;
+'#Exec': missing command line
+'#define %s': %s already defined
+'#define %s': Value '%s' is not constant
+'#define': Missing name of thing to define
+'#if': Encountered undefined identifier '%s', treating it as a value of 0
+'%s' : unreferenced local variable
+'%s' can't be compiled: Parent class '%s' has errors
+'%s' conflicts with '%s'
+'%s' keyword found in wrong location; %s classes must be declared in the form "%s %s %s %s <optional modifiers like 'native', 'dependsOn', etc>;"
+'%s' mismatches delegate '%s'
+'%s' not allowed in %s
+'%s' obscures '%s' defined in base class.
+'%s': Bad command or expression
+'%s': Bad context expression
+'%s': Bad expression or unknown variable
+'%s': Expression has no effect
+'%s': Missing class member type after '.'
+'%s': too many parameters
+'=': Left value is not a variable
+'Else If'
+'Extends' not allowed here: state '%s' overrides version in parent class
+'ForEach': An iterator expression is required
+'Ignores': '%s' is not a function
+'Ignores': Missing probe function name
+'Import': Unrecognized class '%s'
+'Replication' is not allowed here
+'Super(classname)': class '%s' does not expand '%s'
+'class limitor'
+'class': Limitor '%s' is not a class name
+'class': Missing class limitor
+'editcombotype-flagged variable'
+'editdisplay-flagged variable'
+'extends': Parent state '%s' not found
+'import enum': Missing "from" after "import enum %s" statement
+'import enum': Missing import scope (expected '<ParentScope>' or <'ParentScope.ParentName'>)
+'import enum': Unknown scope '%s' (perhaps it has not yet been compiled?)
+'import enum': class '%s' has not yet been parsed; to fix, add 'dependsOn(%s)' to definition for class '%s'
+'import enum': enum '%s' not found in scope '%s'
+'import' is only allowed at class scope
+'import': Missing 'class', 'enum', 'struct', or 'package'
+'import': Missing class, package, enum, or struct name to import
+'insert(...)'
+'new': %s objects must reside in %s objects, not %s objects
+'noexport': Only valid for native classes
+'remove(...)'
+'struct' member variable
+'struct': Can't find parent struct class '%s'
+'struct': Can't find parent struct class '%s.%s'
+'struct': Expecting 'Var', got '%s'
+'struct': Missing parent struct after 'Extends'
+'struct': Missing parent struct type after '%s.'
+'super(classname)'
+'within': within %s is not a generalization of superclass within '%s'
+(%s, Pass %i, Line %i)
+(*ItC)->GetSuperClass()==Class
+(INT)Nest->iCodeChain+(INT)sizeof(_WORD)<=TopNode->Script.Num()
+(TopFunction->FunctionFlags & FUNC_Defined)==0
+)FScriptCompiler::GetRawToken
+.\FScriptMake.cpp
+.\ImportProperties.cpp
+.\Preprocessor.cpp
+.\UClassExporterH.cpp
+/*===========================================================================
+// "event"
+// (cpptext)
+// Class
+// Constant %s is declared in "%s"
+// Enum %s is declared in "%s"
+// Struct %s
+/050>0
+/0L0\0a0f0l0
+0 000@0x0|0
+0 141>1F1L1
+0!0&03080E0J0W0\0i0n0{0
+0"0(02090I0U0[0f0x0
+0#0)0>0`0n0{0
+0$0,040<0T0\0d0|0
+0'00090?0G0N0V0t0}0
+0(00080@0H0P0X0`0h0p0x0
+0)0.0]0g0
+0:2?2T2k2q2y2~2
+0>0C0I0v0{0
+0FScriptCompiler::EmitChainUpdate
+0W0\0r0w0
+1 1$1(1,1
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 161c1
+1$1,1<1P1\1d1
+1'2R2w2I3{3
+1(10181D1d1l1|1
+1(181D1H1T1X1d1h1
+1)1.141D1H1L1P1T1X1\1`1d1h1l1u1
+1.1L1Q1a1n1{1
+151\1q1v1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2#202D2I2Z2h2r2}2
+2$2,2D2L2T2\2d2l2t2|2
+2$242<2D2T2\2d2t2|2
+2%2,2{2
+2%2.2>2L2^2f2m2}2
+2(2,2024282<2@2D2H2S2
+2(2@2H2P2\2t2
+2)222>2
+2)3/353i3
+2*3/353h3p3
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 303e3
+3$3)3:3F3L3b3s3
+3$3)3Y3z3
+3$3,343<3D3T3\3l3
+3(3<3A3^3
+3)3C3L3\3l3
+3Q3l3}3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4
+4 515;5I5S5a5k5y5
+4"5(515P5p5
+4$4,444<4D4L4T4\4d4l4t4|4
+4$4,4<4P4\4d4t4|4
+4$5+52575B5I5N5S5X5d5u5{5
+4(5B5X5
+454:4U4^4g4p4y4
+4:4e4x4
+5 5$5(5,505
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5
+5 5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5(50585@5H5P5X5d5|5
+5!5E5V5}5
+5$5,545<5D5L5T5\5d5l5t5|5
+5%5.575P5j5t5}5
+5*5:5S5o5}5
+5+5:5I5X5a5g5{5
+575H5N5g5x5}5
+595B5R5`5k5{5
+5:5C5j5s5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 7(787L7X7`7x7
+6"626L6\6h6x6
+6$6,646<6D6L6T6\6d6l6t6|6
+6$616:6@6F6L6U6\6{6
+6$6>6C6I6e6t6}6
+6$7,787J7g7x7}7
+6'6B6L6\6w6
+6(60686H6P6X6h6p6x6
+6)7I7O7_7e7n7|7
+6-6>6D6J6P6V6\6b6h6n6t6z6
+6B6\6q6
+6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 7@7p7x7
+7"7(7.747:7@7F7L7R7X7^7d7j7p7v7|7
+7"7(7y7
+7(70787H7P7X7h7p7x7
+7)767C7b7p7{7
+7/8?8D8I8O8
+7H7P7\7n7x7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8 8,848T8\8l8
+8!8g8x8}8
+8%818:8C8O8[8d8m8y8
+8(80888H8\8h8p8
+8(868V8l8
+8(8<8P8d8x8
+8(8k8z8
+8J9U9\9b9
+8S8u8{8
+9 9$9(9,9094989<9@9D9H9L9
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9&9,92989>9D9J9P9V9\9b9h9n9t9z9
+9 90989H9\9h9p9
+9(:.:B:I:O:v:
+9)9/9@9F9r9
+9.:?:D:J:a:
+9/9@9G9u9z9
+9/9a9n9
+91:O:g:
+959F9O9X9i9r9{9
+97:S:o:}:
+9\:|:T<Z<v<|<
+9b9s9x9~9R:
+9~(u\W
+: :$:(:,:0:4:
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+: :%:+:
+: :0:D:P:X:p:x:
+: :8:@:P:X:h:|:
+: public %s
+:!:':8:X:h:|:
+:":(:.:4:::@:F:L:R:X:^:d:j:p:v:|:
+:":+:;:O:g:s:
+:":Q:~:
+:#:(:-:3:J:[:{:
+:#;M;j;
+:%:1:B:S:Z:|:
+:&:G:\:d:n:
+:':-:A:Q:a:q:
+:):0:P:^:j:z:
+:+:3:9:S:Y:
+:.:>:O:]:h:n:
+:.:?:E:j:{:
+:0:<:D:D;L;T;d;l;t;
+:0:<:T:`:x:
+:0;6;Z;z;
+:2:M:k:
+:8:A:N:U:
+:Q:l:q:
+:T;];s;
+:\:u:{:
+:f;m;s;
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+; <&<}<
+;!;/;:;E;e;m;s;
+;(;0;@;T;`;h;
+;(;@;L;l;t;|;
+;(;C;W;a;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<
+< <&<,<2<8<K<
+< <(<0<8<@<H<X<`<p<
+<$<4<<<D<T<\<d<t<|<
+<$<8<D<L<\<h<
+<(<4<<<L<X<p<|<
+<.<4<H<N<V<\<c<
+<< My%s.%s
+<< My%s.%s[%d]
+<A=w=}=
+<G/u3j 
+<optional 'extends OTHER_INTERFACE_1, OTHER_INTERFACE_2, ...'>
+<optional 'extends SUPERCLASS'>
+<optional 'implements INTERFACE_1, INTERFACE_2, ...'> 
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=
+= =0=D=P=X=h=t=
+=#=)=8=
+=$=2=:=@=g=
+=$>5>:>@>f>
+=(=4=L=X=p=|=
+=*=/=4=:=u=~=
+=/=9=\=x=
+=0=<=D=\=d=l=t=
+=:>?>^>c>
+===========================================================================*/
+>">3>:>J>W>d>
+>#>/>?>d>k>u>z>
+>$>,>4><>D>L>T>\>d>l>t>|>
+>0><>D>\>l>t>
+>]>b>x>}>
+? ?(?6?=?L?S?
+? ?(?8?@?H?X?`?h?x?
+? ?*?L?W?]?e?
+? ?,?D?P?h?
+?$?0?5?@?L?X?e?k?r?{?
+?%?.?C?S?\?l?u?
+?&?:???S?X?j?z?
+?4?:?H?N?V?
+?4?]?m?r?w?}?
+?:?h?n?
+@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+@interface functions
+AUTOGENERATE_FUNCTION(%s,%i,exec%s);
+AUTOGENERATE_NAME(%s)
+After an optional parameters, all other parmeters must be optional
+Al;Ah}
+Allocate: Missing 'Object Context' as special first paramter
+AllowDownload
+AlwaysExec
+Array dimensions of arguments do not match
+Array mismatch in %s
+Array of 
+Array/maps within maps not supported
+ArrayCount argument is not an array
+Arrays aren't allowed in this context
+Arrays within arrays not supported
+Assigning %s to %s
+AudioSubsystem
+Autogenerating C++ header: %s
+B < EX_FirstNative
+BEGIN OBJECT: Can't create subobject as Class %s hasn't been compiled yet.
+BREAKFOR
+BREAKFOREACH
+BREAKLOOP
+BREAKSWITCH
+Backslash
+Bad %s definition
+Bad class definition '%s'/'%s'/%i/%i
+Bad class name '%s'
+Bad or missing expression after '%s'
+Bad or missing expression in %s
+Bad or missing expression in %s%s
+Bad or missing expression in parenthesis
+Bad precedence value
+Bad variable or function '%s' in replication definition
+BestOperLink
+Bool arrays are not allowed
+Booleans may not be out parameters
+CLASS_NAME
+CONTINUEFOR
+CONTINUEFOREACH
+CONTINUELOOP
+Call to '%s': Bad '%s' or missing ')'
+Call to '%s': Bad expression or missing ')'
+Call to '%s': bad or missing parameter %i
+Call to '%s': missing or bad parameter %i
+Call to '%s': type mismatch in parameter %i, expected %s
+Can only assign individual elements, not arrays
+Can only import classes
+Can only use 'global' with concrete objects
+Can only use 'global' with self
+Can only use 'super' with self
+Can only use 'super(classname)' with self
+Can't access private function '%s' in '%s'
+Can't access private function '%s' in '%s' (%s::%s is not in scope)
+Can't access private variable '%s' in '%s'
+Can't access protected function '%s' in '%s'
+Can't access protected function '%s' in '%s' (not in scope)
+Can't assign Const variables
+Can't call instance functions from within static functions
+Can't convert '%s' to '%s'
+Can't find %s '%s'
+Can't find files in directory %s
+Can't find superclass %s
+Can't import classes from files of type '%s'
+Can't switch on arrays
+Can't use 'super': no superclass
+Can't write package %s
+Cannot overload function '%s'
+Cannot use operator '%s' with types '%s%s' and '%s%s'
+Cannot use operator '%s' with types '%s' and '%s': %s.
+Cast from '%s' to '%s' is unnecessary
+Cast from '%s' to '%s' will always fail
+Cast of %s to %s failed
+CheckParsed
+Class %s attempting to implement non-interface class: %s
+Class %s cannot extend itself '%s'
+Class %s is out of date
+Class %s is uncompiled
+Class %s is unparsed
+Class %s's dependency %s is out of date
+Class %s's parent is out of date
+Class 'localized' keyword is no longer required
+Class must be named %s, not %s
+Class names shouldn't end in a digit
+Class->Dependencies(0).Class==Class
+Class->EnumImports(i)->IsValid()
+Class->GetFlags()&RF_Public
+Class->GetFlags()&RF_Standalone
+Class->GetPropertiesSize()==Class->Defaults.Num()
+Class->GetSuperClass()->ClassWithin
+Class->IsChildOf(T::StaticClass())
+Class: %s extends %s
+Class: %s, Cannot have a dependancy on subclass %s
+Class: %s, Has unknown dependancy on %s
+CleanupCompile
+CleanupParse
+ClientOptional
+CloseBrace
+CloseBracket
+CloseParen
+Code space for %s overflowed by %i bytes
+CompileError
+CompilePackage
+CompileScripts
+Compiling
+Complement
+Concrete class '%s' does not implement interface function '%s::%s'
+Concrete class '%s' has unimplemented interface functions
+Concrete class '%s' implements interface function '%s::%s', but signature differs
+Conforming: %s
+Const mismatch in Out variable %s
+Context expression
+ConvexVolume
+Could not resolve call to overloaded function '%s'. Supplied arg list (%s) does not match any of the following overloads: %s
+Declaration
+DefaultProperties
+Delegate
+DoScripts
+DoubleQuote
+Duplicate enumeration tag %s
+Duplicate function '%s'
+Duplicate label '%s'
+Duplicate state '%s'
+E h<h"
+E,Vh(l"
+EBad first pass NestType %i
+ERROR: Unresolvable mutual dependencies encountered while importing default properties for the following classes:
+EditPackages
+Editable 'struct' member variable
+Encountered illegal token '%s'
+End of script encountered inside comment
+End of script encountered inside preprocessor statement
+EndBracket
+EnumField
+Enumeration must contain at least one enumerator
+Enums can only be declared in class or struct scope
+Error (%s.uc): 'implements' keyword must be followed by at least one interface name on the same line
+Error in %s, Line %i: %s
+Error in constant
+Exceeded maximum of 255 enumerators
+Expected '#endif'
+Expecting a variable, not a constant
+ExportPackage
+Expression
+FName %s_##name;
+FPropertyBase::FPropertyBase
+FScriptCompiler::CheckAllow
+FScriptCompiler::CheckInScope
+FScriptCompiler::CompileAffector
+FScriptCompiler::CompileCommand
+FScriptCompiler::CompileConst
+FScriptCompiler::CompileDeclaration
+FScriptCompiler::CompileDefine
+FScriptCompiler::CompileDynamicCast
+FScriptCompiler::CompileEnum
+FScriptCompiler::CompileExpr
+FScriptCompiler::CompileFieldExpr
+FScriptCompiler::CompileScript
+FScriptCompiler::CompileSecondPass
+FScriptCompiler::CompileStatement
+FScriptCompiler::CompileStatements
+FScriptCompiler::CompileStruct
+FScriptCompiler::ConversionCost
+FScriptCompiler::EmitAddressToChainLater
+FScriptCompiler::EmitAddressToFixupLater
+FScriptCompiler::EmitConstant
+FScriptCompiler::EmitLet
+FScriptCompiler::EmitOuterContext
+FScriptCompiler::EmitSize
+FScriptCompiler::EmitStackNodeFunction
+FScriptCompiler::FindField
+FScriptCompiler::GetConstFloat
+FScriptCompiler::GetIdentifier
+FScriptCompiler::GetQualifiedClass
+FScriptCompiler::GetSymbol
+FScriptCompiler::GetToken
+FScriptCompiler::GetVarNameAndDim
+FScriptCompiler::GetVarType
+FScriptCompiler::MatchIdentifier
+FScriptCompiler::MatchSymbol
+FScriptCompiler::PeekSymbol
+FScriptCompiler::PopNest
+FScriptCompiler::PostParse
+FScriptCompiler::ProcessCompilerDirective
+FScriptCompiler::PushNest
+FScriptCompiler::RequireSizeOfParm
+FScriptCompiler::SkipStatements
+Failed factoring: %s
+Failed to copy %s to %s
+Failed to export: %s
+Failed to find directory: %s
+Failed to importing defaults for %s, will attempt re-import later.
+FindField
+FirstPass
+FirstPassCleanup
+FluidSurfacePrimitive
+Following '%s'
+ForceExec
+Function
+Function '%s' already has a replication definition
+Function '%s' is defined in base class '%s'
+Function '%s' is not static
+Function '%s' specifiers differ from original
+Function '%s': Can't resolve overload (%i matches)
+Function parameter
+Function return type
+Function/Operator
+GPackage
+Global Scope
+Goto is not allowed here
+Goto: Missing label
+HashMapHash
+HideCategories: Expected category name
+INTERFACE_NAME
+ITERATOREFP
+Identifer length exceeds maximum of %i
+Identifier exceeds maximum of %i characters
+Illegal character in name
+Illegal function flag in %s
+Illegal type modifiers in variable
+ImportProperties
+Imported: %s
+Importing Defaults for %s
+InIdentifier
+IndexBuffer
+InitCompiler
+InitFirstPass
+InitMessage
+InitNesting
+InitReplication
+InitSecondPass
+Instance variables are only allowed at class scope (use 'local'?)
+Interface %s attempting to extend non-interface class: %s
+Interfaces can not be directly instantiated
+Interfaces cannot contain defaultproperties
+Interfaces cannot contain function implementations
+Interfaces cannot contain member variables
+Interfaces cannot contain replication definitions
+Interfaces cannot contain states
+Internal EmitConstant token type error %i
+Internal compiler error - FScriptCompiler::ValidateInterfaceFlags: disallowedFlagsNum/disallowedFlagNamesNum array size mismatch
+Internal consistency error on 'Return'
+Internal error in PushNest, type %i
+Internal fixup error %i
+Internal nest inconsistency
+Internal preprocessor error, should never be able to read symbol '%s' while in state %d
+Internal preprocessor error, should never reach this statement (state=%d)
+Invalid label '%s'
+Invalid label name '%s'
+Invalid property or function call on a dynamic array
+It->PropertyFlags & CPF_OptionalParm
+L$ _^]
+L'%s': Cannot ignore final functions
+L0R0Z0k0q0
+LATENTNEWSTACK
+Label '%s' not found in this block of code
+Labels are not allowed here
+Latent functions cannot have out parameters
+Latent return value
+LevelBase
+LoadEditPackages
+Local variables are only allowed in functions
+M h k"
+M h4k"
+MakeDelegateProperty
+MakeScript
+Maximum nesting limit exceeded
+MeshAnimation
+MeshInstance
+Missing %s name
+Missing '%s' in %s
+Missing '(' and precedence after 'Operator'
+Missing '(' for function '%s' in '%s'
+Missing ')' after editable category
+Missing ')' after internal id
+Missing ')' after operator precedence
+Missing ')' in range
+Missing ')' in rotation
+Missing ')' in type conversion
+Missing ')' in vector
+Missing ',' in range
+Missing ',' in rotation
+Missing ',' in vector
+Missing ';'
+Missing ';' before '%s'
+Missing 'Class' definition
+Missing 'Reliable' or 'Unreliable'
+Missing 'State'
+Missing 'function'
+Missing Max component of range
+Missing Min component of range
+Missing Pitch component of rotation
+Missing Roll component of rotation
+Missing X component of vector
+Missing Y component of vector
+Missing Yaw component of rotation
+Missing Z component of vector
+Missing class name
+Missing compiler directive after '#'
+Missing constant name
+Missing enum tag after '%s'
+Missing enumeration name
+Missing filename
+Missing native id
+Missing parent state name
+Missing precedence value
+Missing single quote after %s name
+Missing state name
+Missing struct name
+Missing variable name
+Missing variable name in replication definition
+Multiply
+NEWSTACK
+NOCONFORM
+Name length exceeds maximum of %i
+Native class %s size mismatch (script %i, C++ %i)
+Native classes cannot expand non-native classes
+Native final functions may not be replicated
+Native functions may only be declared, not defined
+NetConnection
+NetDriver
+No constructor defined in class '%s'
+No need to cast '%s' to itself
+Node->iNative >= EX_FirstNative
+Not yet implemented
+Number length exceeds maximum of %i 
+Numbered native functions must be final
+ObjectReference
+Only native functions may use 'Iterator'
+Only parameter 2 of native operators may be 'Skip'
+OpenBrace
+OpenBracket
+OpenPackage
+OpenParen
+OperReturn
+Operator '%s': Can't resolve overload (%i matches of quality %i)
+Operator must have a return value
+Operator parameters may not have modifiers
+Operators must be declared as 'Final'
+Overloaded operator differs in precedence
+P4T4X4\4`4d4h4l4p4t4x4|4
+P6T6X6\6`6d6h6l6p6t6x6|6
+PREVSTACK
+PendingLevel
+Preprocessor consistency check failed: Resulting file size (%d) different to original (%d)
+Primitive
+ProcessEvent
+ProcessFunction
+ProcessedText
+Property
+QPh A"
+Question
+RETURNNOTHING
+RecursiveTagNames
+Redefinition of %s %s differs only by return type
+Redefinition of '%s %s' differs from original
+Reference to deprecated property '%s'
+RenderDevice
+RenderResource
+Replication
+Replication condition
+Replication definition
+Replication statement
+Retry.CodeTop <= TopNode->Script.Num()
+ReturnValue
+Rotation
+SILENTBUILD
+SIMPLEIF
+STANDALONE
+SWPh X"
+SWh y 
+SavePackage
+Saving %s...
+Script not found for class %s.  Marking as Transient
+Script vs. class name mismatch (%s/%s)
+ScriptCompiler
+ScriptText
+SecondPass
+Semicolon
+ServerSideOnly
+ShowCategories: Expected category name
+SingleQuote
+SkeletalMesh
+Specified type modifiers not allowed here
+States are not supported in classes that aren't 'Threaded'
+Static and local variables may not be transient or native
+Static functions cannot exist in a state
+StaticMesh
+StaticMeshInstance
+String constant exceeds maximum of %i characters
+String sizes are now obsolete; all strings are dynamically sized
+SubObject
+Subtract
+Success: Compiled %i line(s), %i statement(s).
+Success: Everything is up to date
+Superclass %s of class %s is transient
+Superclass %s of class %s not found (if superclass is in a different package, did you fully specify it with "extends <OtherPackage>.%s" ?)
+SystemConform
+TerrainPrimitive
+TerrainSector
+The loop syntax is do...until, not do...while
+TopNode->Script.Num()==Retry.CodeTop
+TryCompile
+Type mismatch in %s: expected %s, got %s
+Type mismatch in Out variable %s
+Type on left is incompatible
+Type on right is incompatible
+Type!=CPT_None || !Identity
+U hHk"
+UClassExporterH
+UClassExporterH::ExportText
+UClassExporterH::StaticConstructor
+UClassFactoryUC
+UClassFactoryUC::FactoryCreateText
+UClassFactoryUC::StaticConstructor
+UEditInfo
+UEditorEngine::CheckScripts
+UEditorEngine::MakeScripts
+UEditorEngine::SafeExec
+UMakeCommandlet
+UMakeCommandlet::Main
+UUQUWRSP
+Undeclared identifier '%s' in %s%s
+Unexpected '#endif'
+Unexpected '%s'
+Unexpected '%s' at global scope
+Unexpected '%s'; cannot have two identifiers in a row.
+Unexpected ')'; doesn't match previous '('
+Unexpected '*/' outside of comment
+Unexpected '}' at class scope
+Unexpected '}' at global scope
+Unexpected end of %s in '%s' block
+Unexpected end of code in %s
+Unexpected end of file at end of %s
+Unexpected end of script in '%s' block
+Unexpected non-interface class: '%s'
+Unexpected non-interface class: '%s', in '%s' interface hierarchy
+Unexpected symbol '%s', only ||, &&, !, (, and ) allowed
+Unknown #exec command
+Unknown %s '%s' in '%s'
+Unknown member '%s' in struct '%s'
+Unknown property type %i
+Unknown property type %s
+Unknown property type '%s'
+Unrecognized class '%s' in package '%s'
+Unrecognized compiler directive '%s'
+Unrecognized member '%s' in class '%s'
+Unrecognized or missing factory class %s
+Unrecognized type '%s'
+Unrecognized type '%s' within '%s'
+Unrecognized variable '%s' name in replication definition
+Unterminated string constant
+Updated Header File: %s
+Updated native class '%s'
+Use [] for arrays, not ()
+VERIFY_CLASS_SIZE_NODIE(%s)
+Variable '%s' already has a replication definition
+Variable declaration
+VertexBuffer
+VertexStreamBase
+Viewport
+WARNING: Ignoring preprocessor directive '%s' found in DefaultProperties for %s -- Preprocessor does not work in DefaultProperties.
+WPh0:"
+WWQWWVPh
+You can only access default values of variables here
+You can't access the default value of static and local variables
+\$,9\$4
+\Perforce\Branches\Swat4\Staging\Source\Unreal\Editor\Src\UnScrCom.cpp
+_CxxThrowException
+__CppXcptFilter
+__CxxFrameHandler
+__dllonexit
+_adjust_fdiv
+_except_handler3
+_initterm
+array index
+autoclassUClassExporterH
+autoclassUClassFactoryUC
+autoclassUEditInfo
+autoclassUMakeCommandlet
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnObjBas.h
+c:\perforce\branches\swat4\staging\source\unreal\core\inc\UnTemplate.h
+c:\perforce\branches\swat4\staging\source\unreal\editor\src\../src/UnScrCom.h
+class %s_API
+class: missing 'Extends %s'
+concrete
+config: Missing configuration name
+const %s: Missing value
+const %s: Value is not constant
+const: '%s' already defined
+conversion to '%s': Bad, missing, or unknown source value starting with '%s'
+corresponding .uc files
+defaultproperties
+definitions
+delegate
+delegate%s(
+dependsOn
+dependsOn: Missing dependent name
+dependson(
+eFScriptCompiler::GetConstInt
+eexpression
+enum: '%s' already defined here
+event%s(
+exported from UnrealScript.
+function
+function whose parameters correspond to
+generated by the tools.
+implements
+in "%s"
+interface
+interface definitions
+is declared
+latent function call
+lineinfo
+n'new': Invalid class
+operator
+optional 
+package 
+parameter list
+postoperator
+preoperator
+public:
+redundant data: %s
+struct %s_%s_Parms
+struct %s_API %s
+struct %s_event%s_Parms
+struct: '%s' already defined here
+t$8Pht{"
+this manually! Edit
+uc;Unreal class definitions
+|$(9|$<

@@ -1,0 +1,122 @@
+Microsoft (R) COFF/PE Dumper Version 14.29.30159.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\RDP.runnervmbpeip\Downloads\SWAT 4 Portable\Content\System\IGEffectsSystem.dll
+
+File Type: DLL
+
+  Section contains the following exports for IGEffectsSystem.dll
+
+    00000000 characteristics
+    42167870 time date stamp Fri Feb 18 23:21:20 2005
+        0.00 version
+           1 ordinal base
+          96 number of functions
+          96 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00005120 ??0AEffectsSubsystem@@QAE@ABV0@@Z
+          2    1 00005050 ??0AEffectsSubsystem@@QAE@XZ
+          3    2 00001030 ??0FSpecificationStruct@@QAE@XZ
+          4    3 00001200 ??0UAnimNotify_EffectEvent@@IAE@XZ
+          5    4 00001220 ??0UAnimNotify_EffectEvent@@QAE@ABV0@@Z
+          6    5 00001430 ??0UEffectSpecification@@IAE@XZ
+          7    6 00001450 ??0UEffectSpecification@@QAE@ABV0@@Z
+          8    7 00004D50 ??0UEffectsSystem@@QAE@ABV0@@Z
+          9    8 00004CF0 ??0UEffectsSystem@@QAE@XZ
+         10    9 00004A60 ??0UEventResponse@@IAE@XZ
+         11    A 00004A80 ??0UEventResponse@@QAE@ABV0@@Z
+         12    B 00004F90 ??1AEffectsSubsystem@@UAE@XZ
+         13    C 00001180 ??1UAnimNotify_EffectEvent@@UAE@XZ
+         14    D 000013D0 ??1UEffectSpecification@@UAE@XZ
+         15    E 00004BC0 ??1UEffectsSystem@@UAE@XZ
+         16    F 000049D0 ??1UEventResponse@@UAE@XZ
+         17   10 000010F0 ??2AEffectsSubsystem@@SAPAXIPAVUObject@@VFName@@K@Z
+         18   11 00001120 ??2AEffectsSubsystem@@SAPAXIPAW4EInternal@@@Z
+         19   12 00001150 ??2UAnimNotify_EffectEvent@@SAPAXIPAVUObject@@VFName@@K@Z
+         20   13 00001120 ??2UAnimNotify_EffectEvent@@SAPAXIPAW4EInternal@@@Z
+         21   14 000013A0 ??2UEffectSpecification@@SAPAXIPAVUObject@@VFName@@K@Z
+         22   15 00001120 ??2UEffectSpecification@@SAPAXIPAW4EInternal@@@Z
+         23   16 00001660 ??2UEffectsSystem@@SAPAXIPAVUObject@@VFName@@K@Z
+         24   17 00001120 ??2UEffectsSystem@@SAPAXIPAW4EInternal@@@Z
+         25   18 000015F0 ??2UEventResponse@@SAPAXIPAVUObject@@VFName@@K@Z
+         26   19 00001120 ??2UEventResponse@@SAPAXIPAW4EInternal@@@Z
+         27   1A 00004840 ??4AEffectsSubsystem@@QAEAAV0@ABV0@@Z
+         28   1B 00001040 ??4FSpecificationStruct@@QAEAAU0@ABU0@@Z
+         29   1C 000012B0 ??4UAnimNotify_EffectEvent@@QAEAAV0@ABV0@@Z
+         30   1D 000014D0 ??4UEffectSpecification@@QAEAAV0@ABV0@@Z
+         31   1E 00003630 ??4UEffectsSystem@@QAEAAV0@ABV0@@Z
+         32   1F 00003580 ??4UEventResponse@@QAEAAV0@ABV0@@Z
+         33   20 00008838 ??_7AEffectsSubsystem@@6B@
+         34   21 000073C8 ??_7UAnimNotify_EffectEvent@@6B@
+         35   22 00007440 ??_7UEffectSpecification@@6B@
+         36   23 000087C0 ??_7UEffectsSystem@@6B@
+         37   24 00008748 ??_7UEventResponse@@6B@
+         38   25 00001B00 ?CreateEffectsConfigPackageIfNecessary@AEffectsSubsystem@@QAEXXZ
+         39   26 00001CA0 ?GetNumAlternateContexts@AEffectsSubsystem@@UAEHXZ
+         40   27 00001C70 ?GetNumContexts@AEffectsSubsystem@@QAEHPAVAActor@@@Z
+         41   28 000021D0 ?HasContext@AEffectsSubsystem@@UAEHPAVAActor@@VFName@@@Z
+         42   29 0000FCD4 ?IGEFFECTSSYSTEM_FlushQueuedEvents@@3VFName@@A
+         43   2A 0000E66C ?IGEFFECTSSYSTEM_GetSpecification@@3VFName@@A
+         44   2B 0000E674 ?IGEFFECTSSYSTEM_OnEffectSpawned@@3VFName@@A
+         45   2C 0000E670 ?IGEFFECTSSYSTEM_PlayEffectSpecification@@3VFName@@A
+         46   2D 0000EC34 ?IGEFFECTSSYSTEM_StopEffectSpecification@@3VFName@@A
+         47   2E 00001E00 ?Init@UEffectsSystem@@UAEXPAVAActor@@@Z
+         48   2F 00005300 ?InternalConstructor@AEffectsSubsystem@@SAXPAX@Z
+         49   30 00001DE0 ?InternalConstructor@UAnimNotify_EffectEvent@@SAXPAX@Z
+         50   31 00001DF0 ?InternalConstructor@UEffectSpecification@@SAXPAX@Z
+         51   32 000052F0 ?InternalConstructor@UEffectsSystem@@SAXPAX@Z
+         52   33 000052E0 ?InternalConstructor@UEventResponse@@SAXPAX@Z
+         53   34 00001130 ?PrecacheEffectSpecification@AEffectsSubsystem@@UAEXPAVUEffectSpecification@@@Z
+         54   35 0000F760 ?PrivateStaticClass@AEffectsSubsystem@@0VUClass@@A
+         55   36 0000F1C8 ?PrivateStaticClass@UAnimNotify_EffectEvent@@0VUClass@@A
+         56   37 0000E0F8 ?PrivateStaticClass@UEffectSpecification@@0VUClass@@A
+         57   38 0000E678 ?PrivateStaticClass@UEffectsSystem@@0VUClass@@A
+         58   39 0000EC48 ?PrivateStaticClass@UEventResponse@@0VUClass@@A
+         59   3A 00004F50 ?Serialize@AEffectsSubsystem@@UAEXAAVFArchive@@@Z
+         60   3B 000010E0 ?StaticClass@AEffectsSubsystem@@SAPAVUClass@@XZ
+         61   3C 00001140 ?StaticClass@UAnimNotify_EffectEvent@@SAPAVUClass@@XZ
+         62   3D 00001390 ?StaticClass@UEffectSpecification@@SAPAVUClass@@XZ
+         63   3E 00001650 ?StaticClass@UEffectsSystem@@SAPAVUClass@@XZ
+         64   3F 000015E0 ?StaticClass@UEventResponse@@SAPAVUClass@@XZ
+         65   40 00001620 ?eventFlushQueuedEvents@UEffectsSystem@@QAEXXZ
+         66   41 000015A0 ?eventGetSpecification@UEventResponse@@QAEPAVUEffectSpecification@@XZ
+         67   42 00001060 ?eventOnEffectSpawned@AEffectsSubsystem@@QAEXPAVAActor@@@Z
+         68   43 00001D40 ?eventPlayEffectSpecification@AEffectsSubsystem@@QAEPAVAActor@@PAVUEffectSpecification@@PAV2@1PAVUMaterial@@VFVector@@VFRotator@@PAVIIEffectObserver@@@Z
+         69   44 000010A0 ?eventStopEffectSpecification@AEffectsSubsystem@@QAEXPAVUEffectSpecification@@PAVAActor@@@Z
+         70   45 000038D0 ?execAddEffectSpecification@AEffectsSubsystem@@QAEXAAUFFrame@@QAX@Z
+         71   46 00003750 ?execAddEventResponse@AEffectsSubsystem@@QAEXAAUFFrame@@QAX@Z
+         72   47 000020E0 ?execBeginLoadingSubsystemConfig@AEffectsSubsystem@@QAEXAAUFFrame@@QAX@Z
+         73   48 000039E0 ?execEffectEventTriggered@AEffectsSubsystem@@QAEXAAUFFrame@@QAX@Z
+         74   49 00001800 ?execEndLoadingSubsystemConfig@AEffectsSubsystem@@QAEXAAUFFrame@@QAX@Z
+         75   4A 00002F20 ?execFindEffectSpecification@AEffectsSubsystem@@QAEXAAUFFrame@@QAX@Z
+         76   4B 00001730 ?execInit@UEffectsSystem@@QAEXAAUFFrame@@QAX@Z
+         77   4C 000022D0 ?execNotify@UAnimNotify_EffectEvent@@QAEXAAUFFrame@@QAX@Z
+         78   4D 000019F0 ?execPackageEffectSpecification@AEffectsSubsystem@@QAEXAAUFFrame@@QAX@Z
+         79   4E 000018E0 ?execPackageEventResponse@AEffectsSubsystem@@QAEXAAUFFrame@@QAX@Z
+         81   4F 0000E090 GPackage
+         80   50 00001690 _DllMain@12
+         82   51 0000EC28 autoclassAEffectsSubsystem
+         83   52 0000EC24 autoclassUAnimNotify_EffectEvent
+         84   53 0000F758 autoclassUEffectSpecification
+         85   54 0000EC40 autoclassUEffectsSystem
+         86   55 0000EC38 autoclassUEventResponse
+         87   56 0000F1BC intAEffectsSubsystemexecAddEffectSpecification
+         88   57 0000EC2C intAEffectsSubsystemexecAddEventResponse
+         89   58 0000F750 intAEffectsSubsystemexecBeginLoadingSubsystemConfig
+         90   59 0000F73C intAEffectsSubsystemexecEffectEventTriggered
+         91   5A 0000F744 intAEffectsSubsystemexecEndLoadingSubsystemConfig
+         92   5B 0000EC10 intAEffectsSubsystemexecFindEffectSpecification
+         93   5C 0000EBF8 intAEffectsSubsystemexecPackageEffectSpecification
+         94   5D 0000EC1C intAEffectsSubsystemexecPackageEventResponse
+         95   5E 0000EBF0 intUAnimNotify_EffectEventexecNotify
+         96   5F 0000EC04 intUEffectsSystemexecInit
+
+  Summary
+
+        2000 .data
+        7000 .rdata
+        2000 .reloc
+        6000 .text
